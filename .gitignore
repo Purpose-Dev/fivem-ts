@@ -3,6 +3,7 @@ logs
 .vscode
 dist
 node_modules
+test-results
 
 *.iml
 pnpm-lock.yaml
