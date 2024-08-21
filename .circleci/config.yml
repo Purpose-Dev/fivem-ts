@@ -37,9 +37,6 @@ jobs:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
       - run:
-          name: Install Dependencies
-          command: npm ci
-      - run:
           name: Run Tests
           command: npm test
       - run:
@@ -54,9 +51,6 @@ jobs:
           keys:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
-      - run:
-          name: Install Dependencies
-          command: npm ci
       - run:
           name: Build
           command: npm run build
