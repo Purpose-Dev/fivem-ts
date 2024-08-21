@@ -36,11 +36,14 @@ jobs:
           keys:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
-      - store_test_results:
-          path: ./test-results
       - run:
           name: Run Tests
           command: npm test
+          environment:
+            JEST_JUNIT_OUTPUT_DIR: ./test-results/
+            JEST_JUNIT_ADD_FILE_ATTRIBUTE: "true"
+      - store_test_results:
+          path: ./test-results/
       - run:
           name: Lint
           command: npm run lint
@@ -71,3 +74,6 @@ workflows:
       - build:
           requires:
             - test
+          filters:
+            branches:
+              only: main
