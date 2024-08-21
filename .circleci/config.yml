@@ -47,6 +47,8 @@ jobs:
             JEST_JUNIT_ADD_FILE_ATTRIBUTE: "true"
       - store_test_results:
           path: ~/repo/test-results/
+      - store_artifacts:
+          path: ~/repo/test-results/
       - run:
           name: Lint
           command: npm run lint
@@ -62,6 +64,8 @@ jobs:
       - run:
           name: Build
           command: npm run build
+      - store_artifacts:
+          path: ~/repo/build/
 
 workflows:
   version: 2
