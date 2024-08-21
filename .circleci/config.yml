@@ -39,6 +39,8 @@ jobs:
       - run:
           name: Run Tests
           command: npm test
+      - store_test_results:
+          path: test-results
       - run:
           name: Lint
           command: npm run lint
