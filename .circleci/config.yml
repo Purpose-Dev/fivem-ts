@@ -7,6 +7,24 @@ executors:
     working_directory: ~/repo
 
 jobs:
+  create_and_cache_artifact:
+    executor: node-executor
+    steps:
+      - checkout
+      - run:
+          name: Create Artifacts
+          command: |
+            mkdir -p ~/repo/artifacts
+            echo "my artifact file" > ~/repo/artifacts/artifact-1.txt
+            echo "my second artifact file" > ~/repo/artifacts/artifact-2.txt
+      - save_cache:
+          paths:
+            - ~/repo/artifacts
+          key: artifact-cache-{{ checksum "package.json" }}
+      - store_artifacts:
+          path: ~/repo/artifacts
+          destination: artifacts
+
   checkout:
     executor: node-executor
     steps:
@@ -45,10 +63,12 @@ jobs:
           environment:
             JEST_JUNIT_OUTPUT_DIR: ~/repo/test-results/
             JEST_JUNIT_ADD_FILE_ATTRIBUTE: "true"
-      - store_test_results:
-          path: ~/repo/test-results/
+      - run:
+          name: List Test Results Directory
+          command: ls -la ~/repo/test-results/
       - store_artifacts:
           path: ~/repo/test-results/
+          destination: test-results
       - run:
           name: Lint
           command: npm run lint
@@ -62,16 +82,23 @@ jobs:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
       - run:
+          name: Create Build Directory
+          command: mkdir -p ~/repo/build
+      - run:
           name: Build
           command: npm run build
       - store_artifacts:
           path: ~/repo/build/
+          destination: build-artifacts
 
 workflows:
   version: 2
   test_and_build:
     jobs:
-      - checkout
+      - create_and_cache_artifact
+      - checkout:
+          requires:
+            - create_and_cache_artifact
       - install:
           requires:
             - checkout
@@ -84,3 +111,4 @@ workflows:
           filters:
             branches:
               only: main
+
