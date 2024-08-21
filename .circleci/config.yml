@@ -37,6 +37,9 @@ jobs:
             - v1-dependencies-{{ checksum "package.json" }}
             - v1-dependencies-
       - run:
+          name: Create Test Results Directory
+          command: mkdir -p ~/repo/test-results
+      - run:
           name: Run Tests
           command: npm test
           environment:
