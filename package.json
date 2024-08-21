@@ -1,0 +1,50 @@
+{
+  "name": "fivem-ts",
+  "version": "1.0.0",
+  "author": "Riyane <Purpose-Dev>",
+  "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "fivem",
+    "typescript",
+    "javascript",
+    "wrapper",
+    "citizenfx"
+  ],
+  "files": [
+    "lib/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.index.json",
+    "docs": "pnpm run typedoc --options typedoc.json",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "eslint",
+    "postversion": "git push && git push --tags",
+    "prepare": "pnpm run build",
+    "prepublishOnly": "pnpm run lint",
+    "preversion": "pnpm run lint",
+    "typedoc": "typedoc",
+    "version": "pnpm run format && git add -A src"
+  },
+  "devDependencies": {
+    "@citizenfx/client": "2.0.9538-1",
+    "@citizenfx/server": "2.0.9538-1",
+    "@types/node": "^22.5.0",
+    "@typescript-eslint/eslint-plugin": "^8.2.0",
+    "@typescript-eslint/parser": "^8.2.0",
+    "eslint": "^9.9.0",
+    "eslint-config-prettier": "^9.1.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3",
+    "ts-jest": "^29.2.4",
+    "typedoc": "^0.26.6",
+    "typedoc-plugin-markdown": "^4.2.5",
+    "typescript": "^5.5.4"
+  }
+}
