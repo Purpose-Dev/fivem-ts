@@ -40,10 +40,10 @@ jobs:
           name: Run Tests
           command: npm test
           environment:
-            JEST_JUNIT_OUTPUT_DIR: ./test-results/
+            JEST_JUNIT_OUTPUT_DIR: ~/repo/test-results/
             JEST_JUNIT_ADD_FILE_ATTRIBUTE: "true"
       - store_test_results:
-          path: ./test-results/
+          path: ~/repo/test-results/
       - run:
           name: Lint
           command: npm run lint
