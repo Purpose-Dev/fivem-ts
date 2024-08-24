@@ -1,6 +1,5 @@
 import { FMath } from '../../shared';
 
-
 /**
  * Represents a color with red, green, blue, and alpha (opacity) components.
  */
