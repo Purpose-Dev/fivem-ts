@@ -23,4 +23,5 @@ export { MarkerTypes } from './MarkerTypes';
 export { NotificationType } from './NotificationType';
 export { ParachuteLandingType, PedParachuteState } from './Parachute';
 export { RadioStation } from './RadioStation';
+export { Relationship } from './Relationship';
 export { VehicleDrivingFlags } from './VehicleDrivingFlags';
