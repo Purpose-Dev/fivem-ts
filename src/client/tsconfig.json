@@ -3,21 +3,6 @@
     "compilerOptions": {
         "outDir": "./dist/client",
         "types": ["@citizenfx/client"],
-        "paths": {
-            "@shared": ["../shared/index.ts"],
-
-            "@enums/*": ["./enums/*"],
-            "@enums": ["./enums/index.ts"],
-
-            "@events/*": ["./events/*"],
-            "@events": ["./events/index.ts"],
-
-            "@types/*": ["./types/*"],
-            "@types": ["./types/index.ts"],
-
-            "@utils/*": ["./utils/*"],
-            "@utils": ["./utils/index.ts"]
-        }
     },
 
     "include": ["./**/*.ts", "../shared/**/*.ts"]
