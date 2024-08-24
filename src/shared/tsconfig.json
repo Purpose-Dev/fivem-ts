@@ -1,0 +1,18 @@
+{
+    "extends": "../../tsconfig.base.json",
+    "compilerOptions": {
+        "outDir": "./dist/shared",
+        "paths": {
+            "@enums/*": ["./enums/*"],
+            "@enums": ["./enums/index.ts"],
+
+            "@hashes/*": ["./hashes/*"],
+            "@hashes": ["./hashes/index.ts"],
+
+            "@utils/*": ["./utils/*"],
+            "@utils": ["./utils/index.ts"]
+        }
+    },
+
+    "include": ["./**/*.ts"]
+}

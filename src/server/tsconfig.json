@@ -1,0 +1,18 @@
+{
+    "extends": "../../tsconfig.base.json",
+    "compilerOptions": {
+        "outDir": "./dist/server",
+        "types": ["@citizenfx/server"],
+        "paths": {
+            "@shared": ["../shared/index.ts"],
+
+            "@events/*": ["./events/*"],
+            "@events": ["./events/index.ts"],
+
+            "@utils/*": ["./utils/*"],
+            "@utils": ["./utils/index.ts"]
+        }
+    },
+
+    "include": ["./**/*.ts", "../shared/**/*.ts"]
+}
