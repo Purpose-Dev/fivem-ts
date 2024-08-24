@@ -53,17 +53,27 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with: 
+          node-version: 20
+      
+      - name: Install Dependencies
+        run: npm install
+      
+      - name: Build project
+        run: npm run build
 
-      - name: Create .zip archive
+      - name: Create .zip archive of dist directory
         run: |
-          git archive --format=zip -o release-${{ needs.check-version.outputs.package_version }}.zip HEAD
           mkdir -p release-assets
-          mv release-${{ needs.check-version.outputs.package_version }}.zip release-assets/
+          zip -r release-assets/release-${{ needs.check-version.outputs.package_version }}.zip dist
 
-      - name: Create .tar.gz archive
+      - name: Create .tar.gz archive of dist directory
         run: |
-          git archive --format=tar.gz -o release-${{ needs.check-version.outputs.package_version }}.tar.gz HEAD
-          mv release-${{ needs.check-version.outputs.package_version }}.tar.gz release-assets/
+          mkdir -p release-assets
+          tar -czf release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz dist
 
       - name: Create GitHub Release
         id: create_release
