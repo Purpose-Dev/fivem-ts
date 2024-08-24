@@ -8,6 +8,8 @@ on:
 jobs:
   check-version:
     runs-on: ubuntu-latest
+    outputs:
+      should_release: ${{ steps.version_check.outputs.should_release }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -32,16 +34,17 @@ jobs:
         id: version_check
         run: |
           if [ "${{ env.CURRENT_VERSION }}" != "${{ env.LATEST_TAG }}" ]; then
-           echo "## Version changed"
-           echo "SHOULD_RELEASE=true" >> $GITHUB_ENV
+            echo "## Version changed"
+            echo "::set-output name=should_release::true"
           else
-           echo "## No version change"
-           echo "SHOULD_RELEASE=false" >> $GITHUB_ENV
-  
+            echo "## No version change"
+            echo "::set-output name=should_release::false"
+          fi
+
   create-release:
     needs: check-version
     runs-on: ubuntu-latest
-    if: env.SHOULD_RELEASE == 'true'
+    if: needs.check-version.outputs.should_release == 'true'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -50,14 +53,14 @@ jobs:
         run: |
           git archive --format=zip -o release-${{ env.CURRENT_VERSION }}.zip HEAD
           mkdir -p release-assets
-          mv release-${{ env.CURRENT_VERSION }}.zip release-assets/ 
+          mv release-${{ env.CURRENT_VERSION }}.zip release-assets/
 
       - name: Create .tar.gz archive
         run: |
           git archive --format=tar.gz -o release-${{ env.CURRENT_VERSION }}.tar.gz HEAD
           mv release-${{ env.CURRENT_VERSION }}.tar.gz release-assets/
 
-      - name: Create Release
+      - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
         with:
@@ -65,9 +68,9 @@ jobs:
           release_name: Release v${{ env.CURRENT_VERSION }}
           body: |
             ## Changelog
-            - Automated release for version ${{ env.CURRENT_VERSION }}  
-          draft: true
-          prerelease: true
+            - Automated release for version ${{ env.CURRENT_VERSION }}
+          draft: false
+          prerelease: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
