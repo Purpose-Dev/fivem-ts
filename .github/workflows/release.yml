@@ -44,7 +44,7 @@ jobs:
   create-release:
     needs: check-version
     runs-on: ubuntu-latest
-    permissions: 
+    permissions:
       contents: write
     if: needs.check-version.outputs.should_release == 'true'
     steps:
