@@ -2,11 +2,12 @@ name: Node.js Package
 
 on:
   release:
-    types: [created]
+    types: [ created ]
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -24,7 +25,7 @@ jobs:
 
       - name: Run tests
         run: npm test
-
+  
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
@@ -41,7 +42,13 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Prepare build
+        run: npm run prepare
+
       - name: Publish package to npm
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
+
+      - name: Post-build message
+        run: echo "-- build completed successfully"
