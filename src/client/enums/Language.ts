@@ -1,0 +1,15 @@
+export enum Language {
+    American,
+    French,
+    German,
+    Italian,
+    Spanish,
+    Brazilian,
+    Polish,
+    Russian,
+    Korean,
+    ChineseTrad,
+    Japanese,
+    Mexican,
+    ChineseSimp,
+}
