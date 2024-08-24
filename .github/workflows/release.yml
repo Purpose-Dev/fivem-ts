@@ -9,6 +9,7 @@ jobs:
   check-version:
     runs-on: ubuntu-latest
     outputs:
+      package_version: ${{ steps.version_check.outputs.package_version }}
       should_release: ${{ steps.version_check.outputs.should_release }}
     steps:
       - name: Checkout code
@@ -36,9 +37,11 @@ jobs:
           if [ "${{ env.CURRENT_VERSION }}" != "${{ env.LATEST_TAG }}" ]; then
             echo "## Version changed"
             echo "::set-output name=should_release::true"
+            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
           else
             echo "## No version change"
             echo "::set-output name=should_release::false"
+            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
           fi
 
   create-release:
@@ -53,24 +56,24 @@ jobs:
 
       - name: Create .zip archive
         run: |
-          git archive --format=zip -o release-${{ env.CURRENT_VERSION }}.zip HEAD
+          git archive --format=zip -o release-${{ needs.check-version.outputs.package_version }}.zip HEAD
           mkdir -p release-assets
-          mv release-${{ env.CURRENT_VERSION }}.zip release-assets/
+          mv release-${{ needs.check-version.outputs.package_version }}.zip release-assets/
 
       - name: Create .tar.gz archive
         run: |
-          git archive --format=tar.gz -o release-${{ env.CURRENT_VERSION }}.tar.gz HEAD
-          mv release-${{ env.CURRENT_VERSION }}.tar.gz release-assets/
+          git archive --format=tar.gz -o release-${{ needs.check-version.outputs.package_version }}.tar.gz HEAD
+          mv release-${{ needs.check-version.outputs.package_version }}.tar.gz release-assets/
 
       - name: Create GitHub Release
         id: create_release
         uses: actions/create-release@v1
         with:
-          tag_name: v${{ env.CURRENT_VERSION }}
-          release_name: Release v${{ env.CURRENT_VERSION }}
+          tag_name: v${{ needs.check-version.outputs.package_version }}
+          release_name: Release v${{ needs.check-version.outputs.package_version }}
           body: |
             ## Changelog
-            - Automated release for version ${{ env.CURRENT_VERSION }}
+            - Automated release for version ${{ needs.check-version.outputs.package_version }}
           draft: false
           prerelease: false
         env:
@@ -80,14 +83,19 @@ jobs:
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: release-assets/release-${{ env.CURRENT_VERSION }}.zip
-          asset_name: release-${{ env.CURRENT_VERSION }}.zip
+          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
+          asset_name: release-${{ needs.check-version.outputs.package_version }}.zip
           asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload .tar.gz archive
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: release-assets/release-${{ env.CURRENT_VERSION }}.tar.gz
-          asset_name: release-${{ env.CURRENT_VERSION }}.tar.gz
+          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz
+          asset_name: release-${{ needs.check-version.outputs.package_version }}.tar.gz
           asset_content_type: application/gzip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
