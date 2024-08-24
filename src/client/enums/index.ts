@@ -1,6 +1,9 @@
 export { Alignment } from './Alignment';
 export { AudioFlag } from './AudioFlag';
 export { BadgeStyle } from './BadgeStyle';
+export { BlipColors } from './BlipColors';
+export { BlipDisplay } from './BlipDisplay';
+export { BlipScale } from './BlipScale';
 export { HelmetType } from './HelmetType';
 export { HudColors } from './HudColors';
 export { LoadingSpinnerType } from './LoadingSpinnerType';
