@@ -12,5 +12,5 @@
     "excludeProtected": true,
     "includeVersion": true,
     "entryPointStrategy": "expand",
-    "tsconfig": "tsconfig.base.json"
+    "tsconfig": "tsconfig.index.json"
 }

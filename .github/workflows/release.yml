@@ -110,33 +110,30 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
   build:
-    needs: create-release
+    needs: check-version
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: needs.check-version.outputs.should_release == 'true'
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Check tag matches version pattern
+      - name: Check tag validity
         id: check_tag
         run: |
           echo "Tag: ${{ github.ref }}"
           if [[ "${{ github.ref }}" =~ ^refs/tags/v[0-9]+\.[0-9]+\.[0-9]+$ ]] &&
               [[ ! "${{ github.ref }}" =~ SNAPSHOT ]] &&
               [[ ! "${{ github.ref }}" =~ EXPERIMENTAL ]]; then
-            echo "Tag matches version pattern and is not SNAPSHOT or EXPERIMENTAL"
             echo "match=true" >> $GITHUB_ENV
           else
-            echo "Tag does not match or is excluded"
             echo "match=false" >> $GITHUB_ENV
           fi
 
       - name: Exit job if tag is not valid
         if: env.match == 'false'
         run: |
-          echo "Exiting job because the tag is not valid."
+          echo "Tag is not valid."
           exit 1
-        continue-on-error: true
 
       - name: Setup Node.js
         if: env.match == 'true'
@@ -155,9 +152,10 @@ jobs:
       - name: Run tests
         if: env.match == 'true'
         run: npm test
-  
+
   publish-npm:
-    needs: build
+    needs: check-version
+    if: needs.check-version.outputs.should_release == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -182,4 +180,5 @@ jobs:
 
       - name: Post-build message
         run: echo "-- build completed successfully"
+        
         
