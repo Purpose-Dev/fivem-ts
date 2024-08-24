@@ -45,6 +45,15 @@ export class Vector3 implements Vec3 {
     }
 
     /**
+     * Gets a normalized version of this vector.
+     *
+     * @returns A new Vector3 object with the same direction as this vector but with a length of 1.
+     */
+    get normalize(): Vector3 {
+        return Vector3.normalize(this);
+    }
+
+    /**
      * Clones the current Vector3 object into a new Vector3 object.
      *
      * @returns A new Vector3 object with the same x, y, and z values.
@@ -72,15 +81,6 @@ export class Vector3 implements Vec3 {
      */
     public distance(v: Vec3): number {
         return Math.sqrt(this.distanceSquared(v));
-    }
-
-    /**
-     * Gets a normalized version of this vector.
-     *
-     * @returns A new Vector3 object with the same direction as this vector but with a length of 1.
-     */
-    public get normalize(): Vector3 {
-        return Vector3.normalize(this);
     }
 
     /**
