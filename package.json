@@ -43,8 +43,6 @@
         "version": "npm run format && git add -A src"
     },
     "devDependencies": {
-        "@citizenfx/client": "2.0.9538-1",
-        "@citizenfx/server": "2.0.9538-1",
         "@types/jest": "^29.5.12",
         "@types/node": "^22.5.0",
         "@typescript-eslint/eslint-plugin": "^8.2.0",
@@ -56,7 +54,11 @@
         "prettier": "^3.3.3",
         "ts-jest": "^29.2.5",
         "typedoc": "^0.26.6",
-        "typedoc-plugin-markdown": "^4.2.5",
+        "typedoc-plugin-markdown": "^4.2.6",
         "typescript": "^5.5.4"
+    },
+    "dependencies": {
+        "@citizenfx/client": "2.0.9538-1",
+        "@citizenfx/server": "2.0.9538-1"
     }
 }
