@@ -136,6 +136,7 @@ export enum WeaponsHash {
     FireExtinguisher = 101631238,
     HazardCan = -1168940174,
     FertilizerCan = 406929569,
+    NightVision = -1491061156,
 
     /* Unknown */
     HackingDevice = 485882440,
