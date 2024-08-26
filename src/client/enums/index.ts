@@ -17,6 +17,7 @@ export { ExplosionType } from './ExplosionType';
 export { Font } from './Font';
 export { ForceType } from './ForceType';
 export { Gender } from './Gender';
+export { HandlingKeys } from './HandlingKeys';
 export { HelmetType } from './HelmetType';
 export { HudColors } from './HudColors';
 export { InputMode } from './InputMode';
