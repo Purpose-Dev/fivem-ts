@@ -1,5 +1,5 @@
 export interface IClientEvent {
-    CEventName: (entities: number[], eventEntity: number, data: any[]) => void;
+    CEventName: (entities: number[], eventEntity: number, data: unknown[]) => void;
     entityDamaged: (victim: number, culprit: number, weapon: number, baseDamage: number) => void;
     gameEventTriggered: (name: string, data: number[]) => void;
     mumbleConnected: (address: string, reconnecting: boolean) => void;
@@ -15,8 +15,8 @@ export interface IClientEvent {
         z: number,
         model: number,
         overrideCalls: {
-            setModel: any;
-            setPosition: any;
+            setModel: unknown;
+            setPosition: unknown;
         },
     ) => void;
 }
