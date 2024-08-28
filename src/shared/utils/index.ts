@@ -1,3 +1,11 @@
+export {
+    DateTime,
+    DateTimeDay,
+    DateTimeHour,
+    DateTimeMinute,
+    DateTimeMonth,
+    DateTimeSecond,
+} from './DateTime';
 export { FMath } from './FMath';
 export { FString } from './FString';
 export { isDuplicityVersion } from './isDuplicityVersion';
