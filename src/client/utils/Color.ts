@@ -1,4 +1,4 @@
-import { FMath } from '../../shared';
+import { clamp } from '../../shared';
 
 /**
  * Represents a color with red, green, blue, and alpha (opacity) components.
@@ -225,8 +225,8 @@ export class Color {
         const min = Math.min(r, g, b);
         const delta = max - min;
 
-        let h: number, s: number, l: number;
-        l = (max + min) / 2;
+        let h: number, s: number;
+        const l: number = (max + min) / 2;
 
         if (delta === 0) {
             h = s = 0;
@@ -265,9 +265,9 @@ export class Color {
      */
     public adjustBrightness(factor: number) {
         return new Color(
-            FMath.clamp(this.r * factor, 0, 255),
-            FMath.clamp(this.g * factor, 0, 255),
-            FMath.clamp(this.b * factor, 0, 255),
+            clamp(this.r * factor, 0, 255),
+            clamp(this.g * factor, 0, 255),
+            clamp(this.b * factor, 0, 255),
             255,
         );
     }
@@ -297,13 +297,13 @@ export class Color {
      * @returns A new `Color` instance representing the blended color.
      */
     public blend(other: Color, ratio: number): Color {
-        const clampedRatio: number = FMath.clamp(ratio, 0, 1);
+        const clampedRatio: number = clamp(ratio, 0, 1);
 
         return new Color(
-            FMath.clamp(this.r * (1 - clampedRatio) + other.r * clampedRatio, 0, 255),
-            FMath.clamp(this.g * (1 - clampedRatio) + other.g * clampedRatio, 0, 255),
-            FMath.clamp(this.b * (1 - clampedRatio) + other.b * clampedRatio, 0, 255),
-            FMath.clamp(this.a * (1 - clampedRatio) + other.a * clampedRatio, 0, 255),
+            clamp(this.r * (1 - clampedRatio) + other.r * clampedRatio, 0, 255),
+            clamp(this.g * (1 - clampedRatio) + other.g * clampedRatio, 0, 255),
+            clamp(this.b * (1 - clampedRatio) + other.b * clampedRatio, 0, 255),
+            clamp(this.a * (1 - clampedRatio) + other.a * clampedRatio, 0, 255),
         );
     }
 
@@ -398,8 +398,8 @@ export class Color {
      */
     public static fromHsl(h: number, s: number, l: number, a = 255): Color {
         h = h % 360;
-        s = FMath.clamp(s, 0, 100) / 100;
-        l = FMath.clamp(l, 0, 100) / 100;
+        s = clamp(s, 0, 100) / 100;
+        l = clamp(l, 0, 100) / 100;
 
         const c = (1 - Math.abs(2 * l - 1)) * s;
         const x = c * (1 - Math.abs(((h / 60) % 2) - 1));
@@ -433,9 +433,9 @@ export class Color {
         }
 
         return new Color(
-            FMath.clamp((r + m) * 255, 0, 255),
-            FMath.clamp((g + m) * 255, 0, 255),
-            FMath.clamp((b + m) * 255, 0, 255),
+            clamp((r + m) * 255, 0, 255),
+            clamp((g + m) * 255, 0, 255),
+            clamp((b + m) * 255, 0, 255),
             a,
         );
     }

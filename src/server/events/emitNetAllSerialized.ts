@@ -1,5 +1,6 @@
 import { Buffer } from 'buffer';
-import { serializeToBuffer, serializeToJSON } from '../utils';
+import { serializeToBuffer } from '../utils';
+import { serializeToJSON } from '../../shared';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export function emitNetAllSerialized(eventName: string, useBuffer: boolean, ...args: any[]): void {

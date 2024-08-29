@@ -22,7 +22,7 @@ describe('Client Event Names', () => {
                 result = 'CEventName';
                 break;
             default:
-                result = '';
+                result = 'Not implemented';
                 break;
         }
         expect(result).toBe('CEventName');

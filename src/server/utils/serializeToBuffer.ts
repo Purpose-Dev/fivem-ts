@@ -1,5 +1,5 @@
 import { Buffer } from 'buffer';
-import { serializeToJSON } from './';
+import { serializeToJSON } from '../../shared';
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export function serializeToBuffer(data: any): Buffer {

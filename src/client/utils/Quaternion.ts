@@ -209,9 +209,9 @@ export class Quaternion {
         const yaw = Math.atan2(siny_cosp, cosy_cosp);
 
         return {
-            roll: roll,
-            pitch: pitch,
-            yaw: yaw,
+            roll,
+            pitch,
+            yaw,
         };
     }
 
