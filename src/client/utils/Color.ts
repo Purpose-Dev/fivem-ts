@@ -201,7 +201,7 @@ export class Color {
      * @returns A string in the format `#rrggbb`.
      */
     public toHex(): string {
-        return `#${this.componentToHex(this.r)}${this.componentToHex(this.g)}${this.componentToHex(this.b)}`;
+        return `#${Color.componentToHex(this.r)}${Color.componentToHex(this.g)}${Color.componentToHex(this.b)}`;
     }
 
     /**
@@ -209,7 +209,7 @@ export class Color {
      * @returns A string in the format `#aarrggbb`.
      */
     public toArgbHex(): string {
-        return `#${this.componentToHex(this.a)}${this.componentToHex(this.r)}${this.componentToHex(this.g)}${this.componentToHex(this.b)}`;
+        return `#${Color.componentToHex(this.a)}${Color.componentToHex(this.r)}${Color.componentToHex(this.g)}${Color.componentToHex(this.b)}`;
     }
 
     /**
@@ -242,6 +242,9 @@ export class Color {
                     break;
                 case b:
                     h = (r - g) / delta + 4;
+                    break;
+                default:
+                    h = 0;
                     break;
             }
             h /= 6;
@@ -312,16 +315,15 @@ export class Color {
         return new Color(255 - this.r, 255 - this.g, 255 - this.b, this.a);
     }
 
+    // Static Methods
     /**
      * Converts a color component to a hexadecimal string.
      * @param c - The color component (0-255).
      * @returns A two-character hexadecimal string representing the color component.
      */
-    private componentToHex(c: number): string {
+    private static componentToHex(c: number): string {
         return c.toString(16).padStart(2, '0');
     }
-
-    // Static Methods
 
     /**
      * Creates a new `Color` instance from ARGB values.

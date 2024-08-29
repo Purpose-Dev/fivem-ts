@@ -21,6 +21,9 @@ describe('Client Event Names', () => {
             case EventNames.CEventName:
                 result = 'CEventName';
                 break;
+            default:
+                result = '';
+                break;
         }
         expect(result).toBe('CEventName');
     });

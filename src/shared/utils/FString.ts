@@ -46,11 +46,7 @@ export class FString {
      * console.log(result); // "This is a..."
      * ```
      */
-    public static truncateString(
-        input: string,
-        maxLength: number,
-        useEllipsis = false,
-    ): string {
+    public static truncateString(input: string, maxLength: number, useEllipsis = false): string {
         if (input.length <= maxLength) {
             return input;
         }
