@@ -1,0 +1,1 @@
+export { AceAllowed } from './AceAllowed';
