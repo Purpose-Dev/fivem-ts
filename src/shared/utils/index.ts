@@ -32,3 +32,4 @@ export {
 export { isDuplicityVersion } from './isDuplicityVersion';
 export { serializeToJSON } from './serializeToJSON';
 export { NumerableVector3, Vec3, Vector3 } from './Vector3';
+export { waitFor } from './waitFor';
