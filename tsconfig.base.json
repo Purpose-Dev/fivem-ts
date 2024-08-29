@@ -6,7 +6,8 @@
         "declaration": true,
         "declarationMap": false,
         "esModuleInterop": true,
-        "skipLibCheck": true
+        "skipLibCheck": true,
+        "removeComments": true
     },
     "exclude": ["node_modules", "**/__tests__/**"]
 }
