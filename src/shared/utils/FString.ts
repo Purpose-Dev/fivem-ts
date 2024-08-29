@@ -28,7 +28,7 @@ export class FString {
      * console.log(result); // "Hello World"
      * ```
      */
-    public static arrayToString(inputArray: string[], separator: string = ''): string {
+    public static arrayToString(inputArray: string[], separator = ''): string {
         return inputArray.join(separator);
     }
 
@@ -49,7 +49,7 @@ export class FString {
     public static truncateString(
         input: string,
         maxLength: number,
-        useEllipsis: boolean = false,
+        useEllipsis = false,
     ): string {
         if (input.length <= maxLength) {
             return input;
@@ -72,7 +72,7 @@ export class FString {
      * console.log(result); // "Hello*****"
      * ```
      */
-    public static padString(input: string, targetLength: number, padChar: string = ' '): string {
+    public static padString(input: string, targetLength: number, padChar = ' '): string {
         if (input.length >= targetLength) {
             return input;
         }

@@ -404,23 +404,23 @@ export class Color {
         const m = l - c / 2;
 
         let r: number, g: number, b: number;
-        if (0 <= h && h < 60) {
+        if (h >= 0 && h < 60) {
             r = c;
             g = x;
             b = 0;
-        } else if (60 <= h && h < 120) {
+        } else if (h >= 60 && h < 120) {
             r = x;
             g = c;
             b = 0;
-        } else if (120 <= h && h < 180) {
+        } else if (h >= 120 && h < 180) {
             r = 0;
             g = c;
             b = x;
-        } else if (180 <= h && h < 240) {
+        } else if (h >= 180 && h < 240) {
             r = 0;
             g = x;
             b = c;
-        } else if (240 <= h && h < 300) {
+        } else if (h >= 240 && h < 300) {
             r = x;
             g = 0;
             b = c;

@@ -71,7 +71,7 @@ export class Quaternion {
      * @param tolerance - The tolerance within which the two quaternions are considered equal. Default is 1e-6.
      * @returns True if the quaternions are equal within the given tolerance, false otherwise.
      */
-    public equals(other: Quaternion, tolerance: number = 1e-6): boolean {
+    public equals(other: Quaternion, tolerance = 1e-6): boolean {
         return (
             Math.abs(this.x - other.x) < tolerance &&
             Math.abs(this.y - other.y) < tolerance &&
