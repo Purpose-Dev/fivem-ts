@@ -51,7 +51,7 @@ export async function waitFor<T>(
     const start: number = GetGameTimer();
     let id: number;
 
-    return new Promise<T>((resolve, reject: (reason?: any) => void): void => {
+    return new Promise<T>((resolve, reject: (reason?: unknown) => void): void => {
         id = setTick(async () => {
             const elapsed: number = GetGameTimer() - start;
 
