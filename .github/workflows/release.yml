@@ -36,20 +36,22 @@ jobs:
         run: |
           if [ "${{ env.CURRENT_VERSION }}" != "${{ env.LATEST_TAG }}" ]; then
             echo "## Version changed"
-            echo "::set-output name=should_release::true"
-            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
+            echo "should_release=true" >> $GITHUB_ENV
           else
             echo "## No version change"
-            echo "::set-output name=should_release::false"
-            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
+            echo "should_release=false" >> $GITHUB_ENV
           fi
+          echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
+        outputs:
+          should_release: ${{ env.should_release }}
+          package_version: ${{ env.CURRENT_VERSION }}
 
   create-release:
     needs: check-version
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: needs.check-version.outputs.should_release == 'true'
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -59,20 +61,15 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install Dependencies
-        run: npm install
+      - name: Install dependencies and build
+        run: |
+          npm install
+          npm run build
 
-      - name: Build project
-        run: npm run build
-
-      - name: Create .zip archive of dist directory
+      - name: Prepare release assets
         run: |
           mkdir -p release-assets
           zip -r release-assets/release-${{ needs.check-version.outputs.package_version }}.zip dist
-
-      - name: Create .tar.gz archive of dist directory
-        run: |
-          mkdir -p release-assets
           tar -czf release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz dist
 
       - name: Create GitHub Release
@@ -89,30 +86,26 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload .zip archive
+      - name: Upload release assets
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
-          asset_name: release-${{ needs.check-version.outputs.package_version }}.zip
-          asset_content_type: application/zip
+          asset_path: |
+            release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
+            release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz
+          asset_name: |
+            release-${{ needs.check-version.outputs.package_version }}.zip
+            release-${{ needs.check-version.outputs.package_version }}.tar.gz
+          asset_content_type: |
+            application/zip
+            application/gzip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload .tar.gz archive
-        uses: actions/upload-release-asset@v1
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz
-          asset_name: release-${{ needs.check-version.outputs.package_version }}.tar.gz
-          asset_content_type: application/gzip
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
   build:
     needs: check-version
     runs-on: ubuntu-latest
-    if: needs.check-version.outputs.should_release == 'true'
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -125,15 +118,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Check Lint
-        run: npm run lint
-
-      - name: Run tests
-        run: npm test
+      - name: Lint and Test
+        run: |
+          npm run lint
+          npm test
 
   publish-npm:
     needs: check-version
-    if: needs.check-version.outputs.should_release == 'true'
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -148,15 +140,12 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Prepare build
-        run: npm run prepare
-
-      - name: Publish package to npm
-        run: npm publish
+      - name: Prepare and Publish package
+        run: |
+          npm run prepare
+          npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
 
       - name: Post-build message
         run: echo "-- build completed successfully"
-        
-        
