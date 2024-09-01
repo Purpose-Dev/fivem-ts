@@ -1,17 +1,18 @@
-<h1 align="center">fivem-ts</h1>
+<h1 style="text-align: center;">fivem-ts</h1>
 
-<p align="center">
-  <i>🔥 A Javascript/Typescript wrapper for the FiveM natives 🎮</i>
-  <br>
-  <br>
+<p style="text-align: center; font-style: italic;">
+  <i>🔥 A JavaScript/TypeScript wrapper for the FiveM natives 🎮</i>
+</p>
+
+<p style="text-align: center;">
   <a href="https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat" alt="License: MIT">
   </a>
   <a href="https://www.npmjs.com/package/fivem-ts">
     <img src="https://img.shields.io/npm/v/fivem-ts?style=flat" alt="npm version">
   </a>
-   <a href="https://www.npmjs.com/package/fivem-ts">
-    <img src="https://img.shields.io/npm/dm/fivem-ts?style=flat">
+  <a href="https://www.npmjs.com/package/fivem-ts">
+    <img src="https://img.shields.io/npm/dm/fivem-ts?style=flat" alt="npm downloads">
   </a>
   <a href="https://github.com/Purpose-Dev/fivem-ts/commits/main">
     <img src="https://img.shields.io/github/last-commit/Purpose-Dev/fivem-ts.svg?style=flat" alt="Last commit">
@@ -21,50 +22,74 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="">Documentation (Todo)</a>
-  -
-  <a href="https://discord.gg/TUAFYUqHHk">Discord</a>
+<p style="text-align: center;">
+  <a href="#">Documentation (Coming Soon)</a> -
+  <a href="https://discord.gg/TUAFYUqHHk">Join our Discord</a>
 </p>
 
-Functionality of this wrapper is **based on the FiveM C# wrapper** - [link](https://github.com/citizenfx/fivem/tree/master/code/client/clrcore/External). It's a feature-rich set of helper classes, objects, and functions to help you develop your project faster.
-This initially forked from Fivem-js by d0p3t [link](https://github.com/d0p3t/fivem-js) but is not updated. Thanks for your idea and your contribution d0p3t <3.
+<p style="text-align: center;">
+  This wrapper is <strong>based on the FiveM C# wrapper</strong> - 
+  <a href="https://github.com/citizenfx/fivem/tree/master/code/client/clrcore/External">link</a>.
+  <br><br>
+  It offers a comprehensive set of helper classes, objects, and functions designed to accelerate your project development.
+  <br><br>
+  Originally forked from Fivem-js by d0p3t (<a href="https://github.com/d0p3t/fivem-js">link</a>), 
+  this project has since evolved. A big thank you to d0p3t for the initial inspiration and contributions! ❤️
+</p>
 
-## Features
+<h2>Features</h2>
 
-- Two dependencies [@citizenfx/client](https://www.npmjs.com/package/@citizenfx/client), [@citizenfx/server](https://www.npmjs.com/package/@citizenfx/server) and [reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
-- Abstracts common used FiveM practices
-- Entity management through class objects (i.e. `Vehicle` and `Ped` entities)
-- UI elements such as `scaleforms` and loading `prompts`
-- Audio, Blips, Cameras and more...
-- Groups Managements (todo...)
-- Buckets Management (todo...)
-- IoC (Inversion of Control) supports with TS Decorators
+<ul>
+  <li><strong>Dependencies</strong>:
+    <ul>
+      <li><a href="https://www.npmjs.com/package/@citizenfx/client">@citizenfx/client</a></li>
+      <li><a href="https://www.npmjs.com/package/@citizenfx/server">@citizenfx/server</a></li>
+      <li><a href="https://www.npmjs.com/package/reflect-metadata">reflect-metadata</a></li>
+    </ul>
+  </li>
+  <li><strong>Abstraction of common FiveM practices</strong>: Simplifies development tasks.</li>
+  <li><strong>Entity management</strong>: Includes class objects for <code>Vehicle</code>, <code>Ped</code>, and more.</li>
+  <li><strong>UI Elements</strong>: Supports <code>scaleforms</code>, loading <code>prompts</code>, and other UI components.</li>
+  <li><strong>Additional Functionality</strong>: Handles Audio, Blips, Cameras, and more.</li>
+  <li><strong>Upcoming Features</strong>:
+    <ul>
+      <li>Groups Management</li>
+      <li>Buckets Management</li>
+    </ul>
+  </li>
+  <li><strong>WIP</strong>:
+    <ul>
+      <li><strong>IoC (Inversion of Control)</strong>: Full support with TypeScript Decorators.</li>
+    </ul>
+  </li>
+</ul>
 
-In other words, whatever the FiveM C# wrapper can do, this package can as well and more!
+<p>In essence, this package encompasses all the capabilities of the FiveM C# wrapper and offers even more!</p>
 
-## Download & Install
+<h2>Download & Install</h2>
 
-- with npm : `npm install fivem-ts`
-- with pnpm : `pnpm add fivem-ts`
-- with yarn : `yarn add fivem-ts`
+<ul>
+  <li><strong>With npm</strong>: <code>npm install fivem-ts</code></li>
+  <li><strong>With pnpm</strong>: <code>pnpm add fivem-ts</code></li>
+  <li><strong>With yarn</strong>: <code>yarn add fivem-ts</code></li>
+</ul>
 
-https://www.npmjs.com/package/fivem-ts
+<p><a href="https://www.npmjs.com/package/fivem-ts">View on npm registry</a></p>
 
-## Simple Usage
+<h2>Usage</h2>
 
-See [here](https://github.com/Purpose-Dev/fivem-ts/tree/main/examples) for example projects. (**TODO**)
+<p>Explore <a href="https://github.com/Purpose-Dev/fivem-ts/tree/main/examples">example projects</a> to get started. (<strong>Coming Soon</strong>)</p>
 
-## Community Chat
+<h2>Community</h2>
 
-You can join our public help Discord [here](https://discord.gg/TUAFYUqHHk)
+<p>Connect with us on our <a href="https://discord.gg/TUAFYUqHHk">public Discord server</a> for help and discussions.</p>
 
-## Contributing
+<h2>Contributing</h2>
 
-You are more than welcome to contribute to this project by submitting a pull request and creating issues.
+<p>We welcome contributions! You can assist by submitting pull requests or reporting issues.</p>
 
-Please check out [CONTRIBUTING.md](./CONTRIBUTING.md) for our contributing guidelines.
+<p>For contribution guidelines, please refer to <a href="./CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
 
-## License
+<h2>License</h2>
 
-MIT (Custom soon). See [LICENSE](https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE)
+<p>MIT (Custom license details coming soon). See the <a href="https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE">LICENSE</a> file for more information.</p>
