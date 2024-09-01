@@ -1,4 +1,4 @@
-export enum EventNames {
+export enum ServerEventNames {
     EntityCreated = 'entityCreated',
     EntityCreating = 'entityCreating',
     EntityRemoved = 'entityRemoved',

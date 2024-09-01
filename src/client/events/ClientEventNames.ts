@@ -1,4 +1,4 @@
-export enum EventNames {
+export enum ClientEventNames {
     CEventName = 'CEventName',
     EntityDamaged = 'entityDamaged',
     GameEventTriggered = 'gameEventTriggered',
