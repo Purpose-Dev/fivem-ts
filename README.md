@@ -8,14 +8,17 @@
   <a href="https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat" alt="License: MIT">
   </a>
+  <a href="https://app.deepsource.com/gh/Purpose-Dev/fivem-ts/" target="_blank">
+    <img alt="DeepSource" title="DeepSource" src="https://app.deepsource.com/gh/Purpose-Dev/fivem-ts.svg/?label=code+coverage&show_trend=true&token=2hNgZBbR-38Suxh234Im3_ck"/>
+  </a>
+  <a href="https://github.com/Purpose-Dev/fivem-ts/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Purpose-Dev/fivem-ts.svg?style=flat" alt="Last commit">
+  </a>
   <a href="https://www.npmjs.com/package/fivem-ts">
     <img src="https://img.shields.io/npm/v/fivem-ts?style=flat" alt="npm version">
   </a>
   <a href="https://www.npmjs.com/package/fivem-ts">
     <img src="https://img.shields.io/npm/dm/fivem-ts?style=flat" alt="npm downloads">
-  </a>
-  <a href="https://github.com/Purpose-Dev/fivem-ts/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Purpose-Dev/fivem-ts.svg?style=flat" alt="Last commit">
   </a>
   <a href="https://discord.gg/TUAFYUqHHk">
     <img src="https://img.shields.io/discord/1273215892238372895?label=Discord" alt="Discord">
