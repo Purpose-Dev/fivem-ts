@@ -1,24 +1,24 @@
-import { EventNames } from '../EventNames';
+import { ClientEventNames } from '../ClientEventNames';
 
 describe('Client Event Names', () => {
     it('should contain all specified event names', () => {
-        expect(EventNames.CEventName).toBe('CEventName');
-        expect(EventNames.EntityDamaged).toBe('entityDamaged');
-        expect(EventNames.GameEventTriggered).toBe('gameEventTriggered');
-        expect(EventNames.MumbleConnected).toBe('mumbleConnected');
-        expect(EventNames.MumbleDisconnected).toBe('mumbleDisconnected');
-        expect(EventNames.OnClientResourceStart).toBe('onClientResourceStart');
-        expect(EventNames.OnClientResourceStop).toBe('onClientResourceStop');
-        expect(EventNames.OnResourceStart).toBe('onResourceStart');
-        expect(EventNames.OnResourceStarting).toBe('onResourceStarting');
-        expect(EventNames.OnResourceStop).toBe('onResourceStop');
-        expect(EventNames.PopulationPedCreating).toBe('populationPedCreating');
+        expect(ClientEventNames.CEventName).toBe('CEventName');
+        expect(ClientEventNames.EntityDamaged).toBe('entityDamaged');
+        expect(ClientEventNames.GameEventTriggered).toBe('gameEventTriggered');
+        expect(ClientEventNames.MumbleConnected).toBe('mumbleConnected');
+        expect(ClientEventNames.MumbleDisconnected).toBe('mumbleDisconnected');
+        expect(ClientEventNames.OnClientResourceStart).toBe('onClientResourceStart');
+        expect(ClientEventNames.OnClientResourceStop).toBe('onClientResourceStop');
+        expect(ClientEventNames.OnResourceStart).toBe('onResourceStart');
+        expect(ClientEventNames.OnResourceStarting).toBe('onResourceStarting');
+        expect(ClientEventNames.OnResourceStop).toBe('onResourceStop');
+        expect(ClientEventNames.PopulationPedCreating).toBe('populationPedCreating');
     });
 
     it('should execute correct case for each event name', () => {
         let result = '';
-        switch (EventNames.CEventName) {
-            case EventNames.CEventName:
+        switch (ClientEventNames.CEventName) {
+            case ClientEventNames.CEventName:
                 result = 'CEventName';
                 break;
             default:
@@ -29,7 +29,7 @@ describe('Client Event Names', () => {
     });
 
     it('should serialize enum to JSON', () => {
-        const jsonEnum = JSON.stringify(EventNames);
+        const jsonEnum = JSON.stringify(ClientEventNames);
         expect(jsonEnum).toBe(
             '{"CEventName":"CEventName","EntityDamaged":"entityDamaged","GameEventTriggered":"gameEventTriggered","MumbleConnected":"mumbleConnected","MumbleDisconnected":"mumbleDisconnected","OnClientResourceStart":"onClientResourceStart","OnClientResourceStop":"onClientResourceStop","OnResourceStart":"onResourceStart","OnResourceStarting":"onResourceStarting","OnResourceStop":"onResourceStop","PopulationPedCreating":"populationPedCreating"}',
         );
@@ -39,6 +39,6 @@ describe('Client Event Names', () => {
         const jsonEnum =
             '{"CEventName":"CEventName","EntityDamaged":"entityDamaged","GameEventTriggered":"gameEventTriggered","MumbleConnected":"mumbleConnected","MumbleDisconnected":"mumbleDisconnected","OnClientResourceStart":"onClientResourceStart","OnClientResourceStop":"onClientResourceStop","OnResourceStart":"onResourceStart","OnResourceStarting":"onResourceStarting","OnResourceStop":"onResourceStop","PopulationPedCreating":"populationPedCreating"}';
         const restoredEnum = JSON.parse(jsonEnum);
-        expect(restoredEnum).toEqual(EventNames);
+        expect(restoredEnum).toEqual(ClientEventNames);
     });
 });
