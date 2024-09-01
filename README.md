@@ -32,13 +32,14 @@ This initially forked from Fivem-js by d0p3t [link](https://github.com/d0p3t/fiv
 
 ## Features
 
-- Two dependencies [@citizenfx/client](https://www.npmjs.com/package/@citizenfx/client) & [@citizenfx/server](https://www.npmjs.com/package/@citizenfx/server)
+- Two dependencies [@citizenfx/client](https://www.npmjs.com/package/@citizenfx/client), [@citizenfx/server](https://www.npmjs.com/package/@citizenfx/server) and [reflect-metadata](https://www.npmjs.com/package/reflect-metadata)
 - Abstracts common used FiveM practices
 - Entity management through class objects (i.e. `Vehicle` and `Ped` entities)
 - UI elements such as `scaleforms` and loading `prompts`
 - Audio, Blips, Cameras and more...
 - Groups Managements (todo...)
 - Buckets Management (todo...)
+- IoC (Inversion of Control) supports with TS Decorators
 
 In other words, whatever the FiveM C# wrapper can do, this package can as well and more!
 
@@ -66,4 +67,4 @@ Please check out [CONTRIBUTING.md](./CONTRIBUTING.md) for our contributing guide
 
 ## License
 
-MIT. See [LICENSE](https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE)
+MIT (Custom soon). See [LICENSE](https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE)
