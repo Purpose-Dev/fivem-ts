@@ -1,3 +1,4 @@
+export * from './decorators';
 export * from './enums';
 export * from './hashes';
 export * from './types';

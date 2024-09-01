@@ -1,3 +1,3 @@
-export * as FivemClient from './client';
-export * as FivemServer from './server';
-export * as FivemShared from './shared';
+export * from './client';
+export * from './server';
+export * from './shared';
