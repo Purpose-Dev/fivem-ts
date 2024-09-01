@@ -2,7 +2,7 @@
     "extends": "../../tsconfig.base.json",
     "compilerOptions": {
         "outDir": "./dist/shared",
-        "types": ["@citizenfx/client", "@citizenfx/server"]
+        "types": ["@citizenfx/client", "@citizenfx/server", "@types/node"]
     },
 
     "include": ["./**/*.ts"]

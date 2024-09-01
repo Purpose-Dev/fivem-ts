@@ -7,7 +7,9 @@
         "declarationMap": false,
         "esModuleInterop": true,
         "skipLibCheck": true,
-        "removeComments": true
+        "removeComments": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
     },
     "exclude": ["node_modules", "**/__tests__/**"]
 }
