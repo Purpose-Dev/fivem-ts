@@ -4,7 +4,7 @@ logs
 dist
 node_modules
 test-results
-.docs
+docs
 *.iml
 pnpm-lock.yaml
 package-lock.json
