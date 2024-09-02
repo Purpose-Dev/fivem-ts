@@ -166,7 +166,7 @@ export class DIContainer {
                 try {
                     const parsedData = JSON.parse(data);
                     handler({ ...request, body: parsedData }, response);
-                } catch (error) {
+                } catch (_error) {
                     response.writeHead(400, { 'Content-Type': 'application/json' });
                     response.send(JSON.stringify({ error: 'Invalid JSON' }));
                 }
