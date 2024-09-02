@@ -69,10 +69,10 @@ export function Scoped(scope: Scope) {
                 container.registerTransient(constructor);
                 break;
             case Scope.Request:
-
+                container.registerRequestScoped(constructor);
                 break;
             case Scope.Session:
-
+                container.registerSessionScoped(constructor);
                 break;
             default:
                 throw new Error(`Unsupported scope: ${scope}`);
