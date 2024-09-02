@@ -11,7 +11,11 @@ export function Controller(basePath: string): ClassDecorator {
         const routes = Reflect.getMetadata('routes', constructor) || [];
         routes.forEach((route: any) => {
             const { method, path, handlerName } = route;
-            container.registerRoute(method, `${basePath}${path}`, constructor.prototype[handlerName]);
+            container.registerRoute(
+                method,
+                `${basePath}${path}`,
+                constructor.prototype[handlerName],
+            );
         });
     };
 }
