@@ -1,4 +1,5 @@
 import 'reflect-metadata';
+import { HttpRequest, HttpResponse } from '../web';
 
 /**
  * A simple Dependency Injection (DI) container for managing dependency injection.
@@ -25,6 +26,7 @@ import 'reflect-metadata';
 export class DIContainer {
     private instances: Map<Function, any> = new Map();
     private scopedInstances: Map<string, Map<Function, any>> = new Map();
+    private routes: Map<string, Function> = new Map();
 
     /**
      * Clears the request-scoped instances.
@@ -138,6 +140,49 @@ export class DIContainer {
     }
 
     /**
+     * Registers a route in the container. This route will handle HTTP requests that match the method and path provided.
+     *
+     * @param method - The HTTP method (GET, POST, etc.).
+     * @param path - The path of the route.
+     * @param handler - The function that handles the route.
+     */
+    public registerRoute(method: string, path: string, handler: Function): void {
+        const routeKey = `${method.toUpperCase()}:${path}`;
+        this.routes.set(routeKey, handler);
+    }
+
+    /**
+     * Handles an HTTP request by matching it against the registered routes.
+     *
+     * @param request - The HTTP request object.
+     * @param response - The HTTP response object.
+     */
+    public handleHttpRequest(request: HttpRequest, response: HttpResponse): void {
+        const routeKey = `${request.method.toUpperCase()}:${request.path}`;
+        const handler = this.routes.get(routeKey);
+
+        if (handler) {
+            request.setDataHandler(data => {
+                try {
+                    const parsedData = JSON.parse(data);
+                    handler({ ...request, body: parsedData }, response);
+                } catch (error) {
+                    response.writeHead(400, { 'Content-Type': 'application/json' });
+                    response.send(JSON.stringify({ error: 'Invalid JSON' }));
+                }
+            });
+
+            request.setCancelHandler(() => {
+                response.writeHead(500, { 'Content-Type': 'application/json' });
+                response.send(JSON.stringify({ error: 'Request cancelled' }));
+            });
+        } else {
+            response.writeHead(404, { 'Content-Type': 'application/json' });
+            response.send(JSON.stringify({ error: 'Not found' }));
+        }
+    }
+
+    /**
      * Resolves an instance of the specified class.
      *
      * This method creates an instance of the class and injects its dependencies.
@@ -175,6 +220,10 @@ export class DIContainer {
 
         if (sessionId && this.scopedInstances.get(sessionId)?.has(constructor)) {
             return this.getScopedInstance(constructor, sessionId);
+        }
+
+        if (Reflect.hasMetadata('controller:basePath', constructor)) {
+            return this.createInstance(constructor);
         }
 
         throw new Error(`No provider found for ${constructor.name}. Make sure it's registered.`);
