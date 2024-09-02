@@ -87,7 +87,7 @@
 
 <h2>Community</h2>
 
-<p>Connect with us on our <a href="https://discord.gg/TUAFYUqHHk">public Discord server</a> for help and discussions.</p>
+<p>Connect with us on our <a href="https://discord.gg/Rah7Bt4TeJ">public Discord server</a> for help and discussions.</p>
 
 <h2>Contributing</h2>
 
