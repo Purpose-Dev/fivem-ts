@@ -44,7 +44,7 @@
     },
     "devDependencies": {
         "@types/jest": "^29.5.12",
-        "@types/node": "^22.5.1",
+        "@types/node": "^22.5.2",
         "@typescript-eslint/eslint-plugin": "^8.3.0",
         "@typescript-eslint/parser": "^8.3.0",
         "eslint": "^9.9.1",
@@ -60,6 +60,7 @@
     "dependencies": {
         "@citizenfx/client": "2.0.9655-1",
         "@citizenfx/server": "2.0.9655-1",
+        "fastify": "^4.28.1",
         "reflect-metadata": "^0.2.2"
     }
 }
