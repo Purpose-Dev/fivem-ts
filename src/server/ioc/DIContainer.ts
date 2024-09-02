@@ -154,7 +154,11 @@ export class DIContainer {
      * const myService = container.resolve(MyService);
      * ```
      */
-    public resolve<T>(constructor: new (...args: any[]) => T, request?: any, sessionId?: string): T {
+    public resolve<T>(
+        constructor: new (...args: any[]) => T,
+        request?: any,
+        sessionId?: string,
+    ): T {
         if (this.instances.has(constructor)) {
             const instance: any = this.instances.get(constructor);
 
