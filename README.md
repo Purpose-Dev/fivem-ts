@@ -47,6 +47,7 @@
     <ul>
       <li><a href="https://www.npmjs.com/package/@citizenfx/client">@citizenfx/client</a></li>
       <li><a href="https://www.npmjs.com/package/@citizenfx/server">@citizenfx/server</a></li>
+      <li><a href="https://www.npmjs.com/package/fastify">fastify</a></li>
       <li><a href="https://www.npmjs.com/package/reflect-metadata">reflect-metadata</a></li>
     </ul>
   </li>
