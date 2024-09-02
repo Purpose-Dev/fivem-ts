@@ -26,7 +26,7 @@
 </p>
 
 <p style="text-align: center;">
-  <a href="#">Documentation (Coming Soon)</a> -
+  <a href="https://purpose-dev.github.io/">Documentation</a> -
   <a href="https://discord.gg/TUAFYUqHHk">Join our Discord</a>
 </p>
 
