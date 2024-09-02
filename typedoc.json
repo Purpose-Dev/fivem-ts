@@ -4,7 +4,7 @@
     "out": "docs",
     "name": "fivem-ts - Documentation",
     "theme": "default",
-    "plugin": ["typedoc-plugin-markdown"],
+    "plugin": ["./node_modules/typedoc-plugin-markdown"],
     "readme": "none",
     "excludeInternal": true,
     "excludeExternals": true,
