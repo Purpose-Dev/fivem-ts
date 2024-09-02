@@ -47,7 +47,7 @@
     <ul>
       <li><a href="https://www.npmjs.com/package/@citizenfx/client">@citizenfx/client</a></li>
       <li><a href="https://www.npmjs.com/package/@citizenfx/server">@citizenfx/server</a></li>
-      <li><a href="https://www.npmjs.com/package/fastify">fastify</a></li>
+      <li><a href="https://www.npmjs.com/package/cross-fetch">cross-fetch</a></li>
       <li><a href="https://www.npmjs.com/package/reflect-metadata">reflect-metadata</a></li>
     </ul>
   </li>
@@ -64,6 +64,7 @@
   <li><strong>WIP</strong>:
     <ul>
       <li><strong>IoC (Inversion of Control)</strong>: Full support with TypeScript Decorators.</li>
+      <li><strong>Web Wrapper</strong>Support for make request and HttpHandlers in resources</li>
     </ul>
   </li>
 </ul>
