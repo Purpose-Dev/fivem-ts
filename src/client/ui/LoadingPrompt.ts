@@ -17,13 +17,13 @@ import { LoadingSpinnerType } from '../enums';
  * }, 10000);
  * ```
  */
-export abstract class LoadingPrompt {
+export namespace LoadingPrompt {
     /**
      * Checks whether the loading prompt is currently being displayed.
      *
      * @returns `true` if the loading prompt is active, `false` otherwise.
      */
-    public static get IsActive(): boolean {
+    export function getIsActive(): boolean {
         return IsLoadingPromptBeingDisplayed();
     }
 
@@ -34,7 +34,7 @@ export abstract class LoadingPrompt {
      * @param loadingText - The text to display in the loading prompt. If not provided, no text will be displayed.
      * @param spinnerType - The type of spinner to display. If not provided, a default spinner is used.
      */
-    public static show(loadingText?: string, spinnerType?: LoadingSpinnerType): void {
+    export function show(loadingText?: string, spinnerType?: LoadingSpinnerType): void {
         if (this.IsActive) {
             this.hide();
         }
@@ -54,8 +54,8 @@ export abstract class LoadingPrompt {
     /**
      * Hides the loading prompt if it is currently being displayed.
      */
-    public static hide(): void {
-        if (this.IsActive) {
+    export function hide(): void {
+        if (getIsActive()) {
             RemoveLoadingPrompt();
         }
     }
