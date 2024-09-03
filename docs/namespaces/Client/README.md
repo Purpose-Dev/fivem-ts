@@ -10,6 +10,7 @@
 
 ### Namespaces
 
+- [Audio](namespaces/Audio/README.md)
 - [Effects](namespaces/Effects/README.md)
 - [Fading](namespaces/Fading/README.md)
 - [Hud](namespaces/Hud/README.md)
