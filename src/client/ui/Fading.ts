@@ -47,7 +47,7 @@ export namespace Fading {
      * @returns A promise that resolves when the fade-in is complete.
      */
     export async function fadeIn(duration: number): Promise<void> {
-        return new Promise((resolve: (value: (PromiseLike<void> | void)) => void): void => {
+        return new Promise((resolve: (value: PromiseLike<void> | void) => void): void => {
             DoScreenFadeIn(duration);
 
             const interval: CitizenTimer = setInterval((): void => {
@@ -67,7 +67,7 @@ export namespace Fading {
      * @returns A promise that resolves when the fade-out is complete.
      */
     export async function fadeOut(duration: number): Promise<void> {
-        return new Promise((resolve: (value: (PromiseLike<void> | void)) => void): void => {
+        return new Promise((resolve: (value: PromiseLike<void> | void) => void): void => {
             DoScreenFadeOut(duration);
 
             const interval: CitizenTimer = setInterval((): void => {
