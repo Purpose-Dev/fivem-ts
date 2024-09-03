@@ -74,6 +74,7 @@
 - [Color](classes/Color.md)
 - [Container](classes/Container.md)
 - [GameplayCamera](classes/GameplayCamera.md)
+- [Notification](classes/Notification.md)
 - [Point](classes/Point.md)
 - [PointF](classes/PointF.md)
 - [Quaternion](classes/Quaternion.md)
