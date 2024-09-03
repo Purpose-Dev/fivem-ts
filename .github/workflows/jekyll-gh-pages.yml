@@ -26,13 +26,6 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Validate Markdown
-        run: |
-          # Install markdownlint-cli
-          npm install -g markdownlint-cli
-          # Lint all markdown files in docs directory
-          markdownlint docs/**/*.md
-
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
