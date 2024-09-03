@@ -48,10 +48,10 @@ export abstract class Fading {
      * @returns A promise that resolves when the fade-in is complete.
      */
     public static async fadeIn(duration: number): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             DoScreenFadeIn(duration);
 
-            const interval: CitizenTimer = setInterval(async () => {
+            const interval: CitizenTimer = setInterval(() => {
                 if (this.IsFadedIn) {
                     clearInterval(interval);
                     resolve();
@@ -68,10 +68,10 @@ export abstract class Fading {
      * @returns A promise that resolves when the fade-out is complete.
      */
     public static fadeOut(duration: number): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             DoScreenFadeOut(duration);
 
-            const interval: CitizenTimer = setInterval(async () => {
+            const interval: CitizenTimer = setInterval(() => {
                 if (this.IsFadedOut) {
                     clearInterval(interval);
                     resolve();
