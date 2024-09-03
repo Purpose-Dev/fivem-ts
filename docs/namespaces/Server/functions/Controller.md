@@ -1,0 +1,25 @@
+[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+
+***
+
+[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / Controller
+
+# Function: Controller()
+
+> **Controller**(`basePath`): `ClassDecorator`
+
+Decorator to mark a class as a controller.
+
+## Parameters
+
+• **basePath**: `string`
+
+The base path for the controller's routes.
+
+## Returns
+
+`ClassDecorator`
+
+## Defined in
+
+[server/web/Controller.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/Controller.ts#L9)
