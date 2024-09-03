@@ -1,3 +1,4 @@
+export { Audio } from './Audio';
 export { Checkpoint } from './Checkpoint';
 export { GameplayCamera } from './GameplayCamera';
 export { RelationshipGroup } from './RelationshipGroup';
