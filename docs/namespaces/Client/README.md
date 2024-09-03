@@ -15,6 +15,7 @@
 - [Fading](namespaces/Fading/README.md)
 - [Hud](namespaces/Hud/README.md)
 - [LoadingPrompt](namespaces/LoadingPrompt/README.md)
+- [Screen](namespaces/Screen/README.md)
 
 ### Enumerations
 
