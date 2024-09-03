@@ -46,7 +46,7 @@ export namespace Fading {
      * @param duration - The duration (in milliseconds) over which to fade in the screen.
      * @returns A promise that resolves when the fade-in is complete.
      */
-    export async function fadeIn(duration: number): Promise<void> {
+    export function fadeIn(duration: number): Promise<void> {
         return new Promise((resolve: (value: PromiseLike<void> | void) => void): void => {
             DoScreenFadeIn(duration);
 
@@ -66,7 +66,7 @@ export namespace Fading {
      * @param duration - The duration (in milliseconds) over which to fade out the screen.
      * @returns A promise that resolves when the fade-out is complete.
      */
-    export async function fadeOut(duration: number): Promise<void> {
+    export function fadeOut(duration: number): Promise<void> {
         return new Promise((resolve: (value: PromiseLike<void> | void) => void): void => {
             DoScreenFadeOut(duration);
 
