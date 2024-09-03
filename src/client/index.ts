@@ -6,4 +6,5 @@ export * from './enums';
 export * from './events';
 export * from './hashes';
 export * from './types';
+export * from './ui';
 export * from './utils';
