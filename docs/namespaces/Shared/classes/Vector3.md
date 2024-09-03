@@ -41,7 +41,7 @@ The z-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L32)
+[shared/utils/Vector3.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L32)
 
 ## Properties
 
@@ -57,7 +57,7 @@ The x-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L33)
+[shared/utils/Vector3.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L33)
 
 ***
 
@@ -73,7 +73,7 @@ The y-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L34)
+[shared/utils/Vector3.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L34)
 
 ***
 
@@ -89,7 +89,7 @@ The z-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L35)
+[shared/utils/Vector3.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L35)
 
 ## Accessors
 
@@ -107,7 +107,7 @@ The length of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L43)
+[shared/utils/Vector3.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L43)
 
 ***
 
@@ -125,7 +125,7 @@ A new Vector3 object with the same direction as this vector but with a length of
 
 #### Defined in
 
-[shared/utils/Vector3.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L52)
+[shared/utils/Vector3.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L52)
 
 ## Methods
 
@@ -149,7 +149,7 @@ A new Vector3 representing the result of the addition.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L112)
+[shared/utils/Vector3.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L112)
 
 ***
 
@@ -167,7 +167,7 @@ A new Vector3 object with the same x, y, and z values.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L61)
+[shared/utils/Vector3.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L61)
 
 ***
 
@@ -191,7 +191,7 @@ A new Vector3 representing the cross product of the two vectors.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L92)
+[shared/utils/Vector3.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L92)
 
 ***
 
@@ -215,7 +215,7 @@ The distance between the two vectors.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L82)
+[shared/utils/Vector3.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L82)
 
 ***
 
@@ -239,7 +239,7 @@ Euclidean magnitude with another vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L71)
+[shared/utils/Vector3.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L71)
 
 ***
 
@@ -263,7 +263,7 @@ A new Vector3 representing the result of the division.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L142)
+[shared/utils/Vector3.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L142)
 
 ***
 
@@ -287,7 +287,7 @@ The dot product of the two vectors.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L102)
+[shared/utils/Vector3.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L102)
 
 ***
 
@@ -311,7 +311,7 @@ A new Vector3 representing the result of the multiplication.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L132)
+[shared/utils/Vector3.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L132)
 
 ***
 
@@ -333,7 +333,7 @@ The vector to replace with.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L151)
+[shared/utils/Vector3.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L151)
 
 ***
 
@@ -357,7 +357,7 @@ A new Vector3 representing the result of the subtraction.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L122)
+[shared/utils/Vector3.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L122)
 
 ***
 
@@ -385,7 +385,7 @@ A new Vector3 representing the result of the addition.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L189)
+[shared/utils/Vector3.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L189)
 
 ***
 
@@ -409,7 +409,7 @@ A new Vector3 instance identical to the input vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L178)
+[shared/utils/Vector3.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L178)
 
 ***
 
@@ -433,7 +433,7 @@ A new Vector3 instance.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L164)
+[shared/utils/Vector3.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L164)
 
 ***
 
@@ -461,7 +461,7 @@ A new Vector3 representing the cross product of the two vectors.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L260)
+[shared/utils/Vector3.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L260)
 
 ***
 
@@ -489,7 +489,7 @@ A new Vector3 representing the result of the division.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L234)
+[shared/utils/Vector3.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L234)
 
 ***
 
@@ -517,7 +517,7 @@ The dot product of the two vectors.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L249)
+[shared/utils/Vector3.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L249)
 
 ***
 
@@ -545,7 +545,7 @@ A new Vector3 representing the result of the multiplication.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L219)
+[shared/utils/Vector3.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L219)
 
 ***
 
@@ -569,7 +569,7 @@ A new Vector3 representing the normalized vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L273)
+[shared/utils/Vector3.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L273)
 
 ***
 
@@ -597,4 +597,4 @@ A new Vector3 representing the result of the subtraction.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L204)
+[shared/utils/Vector3.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L204)

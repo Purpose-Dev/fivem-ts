@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L2)
+[server/web/HttpRequest.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L6)
+[server/web/HttpRequest.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L6)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L3)
+[server/web/HttpRequest.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L3)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L4)
+[server/web/HttpRequest.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L4)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L5)
+[server/web/HttpRequest.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L5)
 
 ## Methods
 
@@ -72,7 +72,7 @@
 
 #### Defined in
 
-[server/web/HttpRequest.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L9)
+[server/web/HttpRequest.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L9)
 
 ***
 
@@ -92,7 +92,7 @@
 
 ##### Defined in
 
-[server/web/HttpRequest.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L7)
+[server/web/HttpRequest.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L7)
 
 #### setDataHandler(handler, binary)
 
@@ -110,4 +110,4 @@
 
 ##### Defined in
 
-[server/web/HttpRequest.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/HttpRequest.ts#L8)
+[server/web/HttpRequest.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/HttpRequest.ts#L8)

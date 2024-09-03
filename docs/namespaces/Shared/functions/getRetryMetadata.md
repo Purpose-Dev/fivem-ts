@@ -6,7 +6,7 @@
 
 # Function: getRetryMetadata()
 
-> **getRetryMetadata**(`target`, `propertyKey`): [`Maybe`](../type-aliases/Maybe.md)\<`RetryValue`\>
+> **getRetryMetadata**(`target`, `propertyKey`): [`Maybe`](../type-aliases/Maybe.md)\<[`RetryValue`](../type-aliases/RetryValue.md)\>
 
 ## Parameters
 
@@ -16,8 +16,8 @@
 
 ## Returns
 
-[`Maybe`](../type-aliases/Maybe.md)\<`RetryValue`\>
+[`Maybe`](../type-aliases/Maybe.md)\<[`RetryValue`](../type-aliases/RetryValue.md)\>
 
 ## Defined in
 
-[shared/decorators/core/Retry.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/decorators/core/Retry.ts#L43)
+[shared/decorators/core/Retry.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/core/Retry.ts#L40)

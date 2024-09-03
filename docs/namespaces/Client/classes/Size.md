@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/utils/Size.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Size.ts#L5)
+[client/utils/Size.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Size.ts#L5)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/utils/Size.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Size.ts#L3)
+[client/utils/Size.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Size.ts#L3)
 
 ***
 
@@ -44,4 +44,4 @@
 
 #### Defined in
 
-[client/utils/Size.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Size.ts#L2)
+[client/utils/Size.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Size.ts#L2)

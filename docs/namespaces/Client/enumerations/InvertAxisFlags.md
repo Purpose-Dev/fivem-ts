@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/InvertAxis.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/InvertAxis.ts#L6)
+[client/enums/InvertAxis.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/InvertAxis.ts#L6)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/InvertAxis.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/InvertAxis.ts#L7)
+[client/enums/InvertAxis.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/InvertAxis.ts#L7)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/InvertAxis.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/InvertAxis.ts#L8)
+[client/enums/InvertAxis.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/InvertAxis.ts#L8)
 
 ***
 
@@ -44,4 +44,4 @@
 
 #### Defined in
 
-[client/enums/InvertAxis.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/InvertAxis.ts#L9)
+[client/enums/InvertAxis.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/InvertAxis.ts#L9)

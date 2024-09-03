@@ -39,4 +39,4 @@ console.log(result); // "Hello*****"
 
 ## Defined in
 
-[shared/utils/FString.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FString.ts#L70)
+[shared/utils/FString.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FString.ts#L70)

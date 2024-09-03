@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L8)
+[shared/enums/VehicleLockState.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L8)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L7)
+[shared/enums/VehicleLockState.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L7)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L4)
+[shared/enums/VehicleLockState.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L9)
+[shared/enums/VehicleLockState.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L9)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L12)
+[shared/enums/VehicleLockState.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L12)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L6)
+[shared/enums/VehicleLockState.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L6)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L10)
+[shared/enums/VehicleLockState.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L10)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L11)
+[shared/enums/VehicleLockState.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L11)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L5)
+[shared/enums/VehicleLockState.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L5)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L2)
+[shared/enums/VehicleLockState.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L2)
 
 ***
 
@@ -114,4 +114,4 @@
 
 #### Defined in
 
-[shared/enums/VehicleLockState.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/VehicleLockState.ts#L3)
+[shared/enums/VehicleLockState.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehicleLockState.ts#L3)

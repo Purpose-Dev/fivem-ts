@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L16)
+[client/enums/VehicleClass.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L16)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L22)
+[client/enums/VehicleClass.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L22)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L2)
+[client/enums/VehicleClass.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L2)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L5)
+[client/enums/VehicleClass.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L15)
+[client/enums/VehicleClass.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L15)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L20)
+[client/enums/VehicleClass.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L20)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L17)
+[client/enums/VehicleClass.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L17)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L12)
+[client/enums/VehicleClass.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L12)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L21)
+[client/enums/VehicleClass.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L21)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L10)
+[client/enums/VehicleClass.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L10)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L6)
+[client/enums/VehicleClass.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L6)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L11)
+[client/enums/VehicleClass.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L11)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L24)
+[client/enums/VehicleClass.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L24)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L18)
+[client/enums/VehicleClass.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L18)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L4)
+[client/enums/VehicleClass.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L4)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L3)
+[client/enums/VehicleClass.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L3)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L19)
+[client/enums/VehicleClass.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L19)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L8)
+[client/enums/VehicleClass.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L8)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L7)
+[client/enums/VehicleClass.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L7)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L9)
+[client/enums/VehicleClass.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L9)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L23)
+[client/enums/VehicleClass.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L23)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L13)
+[client/enums/VehicleClass.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L13)
 
 ***
 
@@ -234,4 +234,4 @@
 
 #### Defined in
 
-[client/enums/VehicleClass.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleClass.ts#L14)
+[client/enums/VehicleClass.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L14)

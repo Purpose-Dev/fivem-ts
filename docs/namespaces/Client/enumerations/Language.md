@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L2)
+[client/enums/Language.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L7)
+[client/enums/Language.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L7)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L14)
+[client/enums/Language.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L14)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L11)
+[client/enums/Language.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L11)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L3)
+[client/enums/Language.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L3)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L4)
+[client/enums/Language.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L4)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L5)
+[client/enums/Language.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L5)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L12)
+[client/enums/Language.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L12)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L10)
+[client/enums/Language.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L10)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L13)
+[client/enums/Language.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L13)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L8)
+[client/enums/Language.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L8)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/Language.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L9)
+[client/enums/Language.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L9)
 
 ***
 
@@ -134,4 +134,4 @@
 
 #### Defined in
 
-[client/enums/Language.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Language.ts#L6)
+[client/enums/Language.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Language.ts#L6)

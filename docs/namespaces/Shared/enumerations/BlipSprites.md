@@ -30,7 +30,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L337)
+[shared/enums/BlipSprites.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L337)
 
 ***
 
@@ -40,7 +40,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:775](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L775)
+[shared/enums/BlipSprites.ts:775](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L775)
 
 ***
 
@@ -50,7 +50,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:790](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L790)
+[shared/enums/BlipSprites.ts:790](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L790)
 
 ***
 
@@ -60,7 +60,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:776](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L776)
+[shared/enums/BlipSprites.ts:776](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L776)
 
 ***
 
@@ -70,7 +70,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:788](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L788)
+[shared/enums/BlipSprites.ts:788](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L788)
 
 ***
 
@@ -80,7 +80,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:547](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L547)
+[shared/enums/BlipSprites.ts:547](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L547)
 
 ***
 
@@ -90,7 +90,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:546](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L546)
+[shared/enums/BlipSprites.ts:546](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L546)
 
 ***
 
@@ -100,7 +100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:548](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L548)
+[shared/enums/BlipSprites.ts:548](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L548)
 
 ***
 
@@ -110,7 +110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:549](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L549)
+[shared/enums/BlipSprites.ts:549](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L549)
 
 ***
 
@@ -120,7 +120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L39)
+[shared/enums/BlipSprites.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L39)
 
 ***
 
@@ -130,7 +130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:427](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L427)
+[shared/enums/BlipSprites.ts:427](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L427)
 
 ***
 
@@ -140,7 +140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:454](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L454)
+[shared/enums/BlipSprites.ts:454](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L454)
 
 ***
 
@@ -150,7 +150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:455](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L455)
+[shared/enums/BlipSprites.ts:455](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L455)
 
 ***
 
@@ -160,7 +160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:456](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L456)
+[shared/enums/BlipSprites.ts:456](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L456)
 
 ***
 
@@ -170,7 +170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:452](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L452)
+[shared/enums/BlipSprites.ts:452](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L452)
 
 ***
 
@@ -180,7 +180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:453](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L453)
+[shared/enums/BlipSprites.ts:453](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L453)
 
 ***
 
@@ -190,7 +190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:501](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L501)
+[shared/enums/BlipSprites.ts:501](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L501)
 
 ***
 
@@ -200,7 +200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:621](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L621)
+[shared/enums/BlipSprites.ts:621](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L621)
 
 ***
 
@@ -210,7 +210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L614)
+[shared/enums/BlipSprites.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L614)
 
 ***
 
@@ -220,7 +220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:762](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L762)
+[shared/enums/BlipSprites.ts:762](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L762)
 
 ***
 
@@ -230,7 +230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:774](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L774)
+[shared/enums/BlipSprites.ts:774](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L774)
 
 ***
 
@@ -240,7 +240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L207)
+[shared/enums/BlipSprites.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L207)
 
 ***
 
@@ -250,7 +250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L327)
+[shared/enums/BlipSprites.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L327)
 
 ***
 
@@ -260,7 +260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L82)
+[shared/enums/BlipSprites.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L82)
 
 ***
 
@@ -270,7 +270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L120)
+[shared/enums/BlipSprites.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L120)
 
 ***
 
@@ -280,7 +280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L206)
+[shared/enums/BlipSprites.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L206)
 
 ***
 
@@ -290,7 +290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:606](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L606)
+[shared/enums/BlipSprites.ts:606](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L606)
 
 ***
 
@@ -300,7 +300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:676](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L676)
+[shared/enums/BlipSprites.ts:676](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L676)
 
 ***
 
@@ -310,7 +310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L24)
+[shared/enums/BlipSprites.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L24)
 
 ***
 
@@ -320,7 +320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:418](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L418)
+[shared/enums/BlipSprites.ts:418](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L418)
 
 ***
 
@@ -330,7 +330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:594](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L594)
+[shared/enums/BlipSprites.ts:594](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L594)
 
 ***
 
@@ -340,7 +340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:595](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L595)
+[shared/enums/BlipSprites.ts:595](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L595)
 
 ***
 
@@ -350,7 +350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:596](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L596)
+[shared/enums/BlipSprites.ts:596](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L596)
 
 ***
 
@@ -360,7 +360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:597](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L597)
+[shared/enums/BlipSprites.ts:597](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L597)
 
 ***
 
@@ -370,7 +370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:598](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L598)
+[shared/enums/BlipSprites.ts:598](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L598)
 
 ***
 
@@ -380,7 +380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:599](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L599)
+[shared/enums/BlipSprites.ts:599](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L599)
 
 ***
 
@@ -390,7 +390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:600](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L600)
+[shared/enums/BlipSprites.ts:600](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L600)
 
 ***
 
@@ -400,7 +400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:601](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L601)
+[shared/enums/BlipSprites.ts:601](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L601)
 
 ***
 
@@ -410,7 +410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:578](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L578)
+[shared/enums/BlipSprites.ts:578](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L578)
 
 ***
 
@@ -420,7 +420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:582](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L582)
+[shared/enums/BlipSprites.ts:582](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L582)
 
 ***
 
@@ -430,7 +430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:583](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L583)
+[shared/enums/BlipSprites.ts:583](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L583)
 
 ***
 
@@ -440,7 +440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:602](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L602)
+[shared/enums/BlipSprites.ts:602](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L602)
 
 ***
 
@@ -450,7 +450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:603](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L603)
+[shared/enums/BlipSprites.ts:603](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L603)
 
 ***
 
@@ -460,7 +460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:577](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L577)
+[shared/enums/BlipSprites.ts:577](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L577)
 
 ***
 
@@ -470,7 +470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:604](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L604)
+[shared/enums/BlipSprites.ts:604](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L604)
 
 ***
 
@@ -480,7 +480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:590](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L590)
+[shared/enums/BlipSprites.ts:590](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L590)
 
 ***
 
@@ -490,7 +490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:592](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L592)
+[shared/enums/BlipSprites.ts:592](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L592)
 
 ***
 
@@ -500,7 +500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:584](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L584)
+[shared/enums/BlipSprites.ts:584](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L584)
 
 ***
 
@@ -510,7 +510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:585](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L585)
+[shared/enums/BlipSprites.ts:585](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L585)
 
 ***
 
@@ -520,7 +520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:589](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L589)
+[shared/enums/BlipSprites.ts:589](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L589)
 
 ***
 
@@ -530,7 +530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:588](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L588)
+[shared/enums/BlipSprites.ts:588](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L588)
 
 ***
 
@@ -540,7 +540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:593](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L593)
+[shared/enums/BlipSprites.ts:593](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L593)
 
 ***
 
@@ -550,7 +550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:586](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L586)
+[shared/enums/BlipSprites.ts:586](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L586)
 
 ***
 
@@ -560,7 +560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:587](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L587)
+[shared/enums/BlipSprites.ts:587](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L587)
 
 ***
 
@@ -570,7 +570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:591](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L591)
+[shared/enums/BlipSprites.ts:591](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L591)
 
 ***
 
@@ -580,7 +580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L581)
+[shared/enums/BlipSprites.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L581)
 
 ***
 
@@ -590,7 +590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:579](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L579)
+[shared/enums/BlipSprites.ts:579](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L579)
 
 ***
 
@@ -600,7 +600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:605](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L605)
+[shared/enums/BlipSprites.ts:605](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L605)
 
 ***
 
@@ -610,7 +610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L248)
+[shared/enums/BlipSprites.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L248)
 
 ***
 
@@ -620,7 +620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L69)
+[shared/enums/BlipSprites.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L69)
 
 ***
 
@@ -630,7 +630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L129)
+[shared/enums/BlipSprites.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L129)
 
 ***
 
@@ -640,7 +640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L193)
+[shared/enums/BlipSprites.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L193)
 
 ***
 
@@ -650,7 +650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L58)
+[shared/enums/BlipSprites.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L58)
 
 ***
 
@@ -660,7 +660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:393](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L393)
+[shared/enums/BlipSprites.ts:393](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L393)
 
 ***
 
@@ -670,7 +670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:715](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L715)
+[shared/enums/BlipSprites.ts:715](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L715)
 
 ***
 
@@ -680,7 +680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L229)
+[shared/enums/BlipSprites.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L229)
 
 ***
 
@@ -690,7 +690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L83)
+[shared/enums/BlipSprites.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L83)
 
 ***
 
@@ -700,7 +700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L65)
+[shared/enums/BlipSprites.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L65)
 
 ***
 
@@ -710,7 +710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L318)
+[shared/enums/BlipSprites.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L318)
 
 ***
 
@@ -720,7 +720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L84)
+[shared/enums/BlipSprites.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L84)
 
 ***
 
@@ -730,7 +730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L85)
+[shared/enums/BlipSprites.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L85)
 
 ***
 
@@ -740,7 +740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:566](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L566)
+[shared/enums/BlipSprites.ts:566](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L566)
 
 ***
 
@@ -750,7 +750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:551](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L551)
+[shared/enums/BlipSprites.ts:551](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L551)
 
 ***
 
@@ -760,7 +760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:564](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L564)
+[shared/enums/BlipSprites.ts:564](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L564)
 
 ***
 
@@ -770,7 +770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:550](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L550)
+[shared/enums/BlipSprites.ts:550](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L550)
 
 ***
 
@@ -780,7 +780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:563](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L563)
+[shared/enums/BlipSprites.ts:563](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L563)
 
 ***
 
@@ -790,7 +790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L554)
+[shared/enums/BlipSprites.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L554)
 
 ***
 
@@ -800,7 +800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:553](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L553)
+[shared/enums/BlipSprites.ts:553](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L553)
 
 ***
 
@@ -810,7 +810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:556](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L556)
+[shared/enums/BlipSprites.ts:556](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L556)
 
 ***
 
@@ -820,7 +820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:555](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L555)
+[shared/enums/BlipSprites.ts:555](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L555)
 
 ***
 
@@ -830,7 +830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:567](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L567)
+[shared/enums/BlipSprites.ts:567](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L567)
 
 ***
 
@@ -840,7 +840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:562](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L562)
+[shared/enums/BlipSprites.ts:562](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L562)
 
 ***
 
@@ -850,7 +850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:552](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L552)
+[shared/enums/BlipSprites.ts:552](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L552)
 
 ***
 
@@ -860,7 +860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:568](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L568)
+[shared/enums/BlipSprites.ts:568](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L568)
 
 ***
 
@@ -870,7 +870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:569](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L569)
+[shared/enums/BlipSprites.ts:569](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L569)
 
 ***
 
@@ -880,7 +880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:570](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L570)
+[shared/enums/BlipSprites.ts:570](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L570)
 
 ***
 
@@ -890,7 +890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:571](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L571)
+[shared/enums/BlipSprites.ts:571](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L571)
 
 ***
 
@@ -900,7 +900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:572](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L572)
+[shared/enums/BlipSprites.ts:572](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L572)
 
 ***
 
@@ -910,7 +910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:573](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L573)
+[shared/enums/BlipSprites.ts:573](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L573)
 
 ***
 
@@ -920,7 +920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:576](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L576)
+[shared/enums/BlipSprites.ts:576](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L576)
 
 ***
 
@@ -930,7 +930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:378](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L378)
+[shared/enums/BlipSprites.ts:378](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L378)
 
 ***
 
@@ -940,7 +940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L397)
+[shared/enums/BlipSprites.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L397)
 
 ***
 
@@ -950,7 +950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:382](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L382)
+[shared/enums/BlipSprites.ts:382](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L382)
 
 ***
 
@@ -960,7 +960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:795](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L795)
+[shared/enums/BlipSprites.ts:795](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L795)
 
 ***
 
@@ -970,7 +970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:796](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L796)
+[shared/enums/BlipSprites.ts:796](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L796)
 
 ***
 
@@ -980,7 +980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:763](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L763)
+[shared/enums/BlipSprites.ts:763](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L763)
 
 ***
 
@@ -990,7 +990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:429](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L429)
+[shared/enums/BlipSprites.ts:429](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L429)
 
 ***
 
@@ -1000,7 +1000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:428](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L428)
+[shared/enums/BlipSprites.ts:428](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L428)
 
 ***
 
@@ -1010,7 +1010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:431](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L431)
+[shared/enums/BlipSprites.ts:431](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L431)
 
 ***
 
@@ -1020,7 +1020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:430](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L430)
+[shared/enums/BlipSprites.ts:430](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L430)
 
 ***
 
@@ -1030,7 +1030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L86)
+[shared/enums/BlipSprites.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L86)
 
 ***
 
@@ -1040,7 +1040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L338)
+[shared/enums/BlipSprites.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L338)
 
 ***
 
@@ -1050,7 +1050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:574](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L574)
+[shared/enums/BlipSprites.ts:574](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L574)
 
 ***
 
@@ -1060,7 +1060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L346)
+[shared/enums/BlipSprites.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L346)
 
 ***
 
@@ -1070,7 +1070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L303)
+[shared/enums/BlipSprites.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L303)
 
 ***
 
@@ -1080,7 +1080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:697](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L697)
+[shared/enums/BlipSprites.ts:697](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L697)
 
 ***
 
@@ -1090,7 +1090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L45)
+[shared/enums/BlipSprites.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L45)
 
 ***
 
@@ -1100,7 +1100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L291)
+[shared/enums/BlipSprites.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L291)
 
 ***
 
@@ -1110,7 +1110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:725](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L725)
+[shared/enums/BlipSprites.ts:725](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L725)
 
 ***
 
@@ -1120,7 +1120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L240)
+[shared/enums/BlipSprites.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L240)
 
 ***
 
@@ -1130,7 +1130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L354)
+[shared/enums/BlipSprites.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L354)
 
 ***
 
@@ -1140,7 +1140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:761](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L761)
+[shared/enums/BlipSprites.ts:761](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L761)
 
 ***
 
@@ -1150,7 +1150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:671](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L671)
+[shared/enums/BlipSprites.ts:671](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L671)
 
 ***
 
@@ -1160,7 +1160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:672](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L672)
+[shared/enums/BlipSprites.ts:672](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L672)
 
 ***
 
@@ -1170,7 +1170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L260)
+[shared/enums/BlipSprites.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L260)
 
 ***
 
@@ -1180,7 +1180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:449](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L449)
+[shared/enums/BlipSprites.ts:449](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L449)
 
 ***
 
@@ -1190,7 +1190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L311)
+[shared/enums/BlipSprites.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L311)
 
 ***
 
@@ -1200,7 +1200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L312)
+[shared/enums/BlipSprites.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L312)
 
 ***
 
@@ -1210,7 +1210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L87)
+[shared/enums/BlipSprites.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L87)
 
 ***
 
@@ -1220,7 +1220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L38)
+[shared/enums/BlipSprites.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L38)
 
 ***
 
@@ -1230,7 +1230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L158)
+[shared/enums/BlipSprites.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L158)
 
 ***
 
@@ -1240,7 +1240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:680](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L680)
+[shared/enums/BlipSprites.ts:680](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L680)
 
 ***
 
@@ -1250,7 +1250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L164)
+[shared/enums/BlipSprites.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L164)
 
 ***
 
@@ -1260,7 +1260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L165)
+[shared/enums/BlipSprites.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L165)
 
 ***
 
@@ -1270,7 +1270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L166)
+[shared/enums/BlipSprites.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L166)
 
 ***
 
@@ -1280,7 +1280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:438](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L438)
+[shared/enums/BlipSprites.ts:438](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L438)
 
 ***
 
@@ -1290,7 +1290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:447](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L447)
+[shared/enums/BlipSprites.ts:447](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L447)
 
 ***
 
@@ -1300,7 +1300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:439](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L439)
+[shared/enums/BlipSprites.ts:439](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L439)
 
 ***
 
@@ -1310,7 +1310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:440](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L440)
+[shared/enums/BlipSprites.ts:440](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L440)
 
 ***
 
@@ -1320,7 +1320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L441)
+[shared/enums/BlipSprites.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L441)
 
 ***
 
@@ -1330,7 +1330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:442](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L442)
+[shared/enums/BlipSprites.ts:442](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L442)
 
 ***
 
@@ -1340,7 +1340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:443](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L443)
+[shared/enums/BlipSprites.ts:443](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L443)
 
 ***
 
@@ -1350,7 +1350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:444](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L444)
+[shared/enums/BlipSprites.ts:444](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L444)
 
 ***
 
@@ -1360,7 +1360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:445](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L445)
+[shared/enums/BlipSprites.ts:445](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L445)
 
 ***
 
@@ -1370,7 +1370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:446](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L446)
+[shared/enums/BlipSprites.ts:446](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L446)
 
 ***
 
@@ -1380,7 +1380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L344)
+[shared/enums/BlipSprites.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L344)
 
 ***
 
@@ -1390,7 +1390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L347)
+[shared/enums/BlipSprites.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L347)
 
 ***
 
@@ -1400,7 +1400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L350)
+[shared/enums/BlipSprites.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L350)
 
 ***
 
@@ -1410,7 +1410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L349)
+[shared/enums/BlipSprites.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L349)
 
 ***
 
@@ -1420,7 +1420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L355)
+[shared/enums/BlipSprites.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L355)
 
 ***
 
@@ -1430,7 +1430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L356)
+[shared/enums/BlipSprites.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L356)
 
 ***
 
@@ -1440,7 +1440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:713](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L713)
+[shared/enums/BlipSprites.ts:713](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L713)
 
 ***
 
@@ -1450,7 +1450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:723](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L723)
+[shared/enums/BlipSprites.ts:723](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L723)
 
 ***
 
@@ -1460,7 +1460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L66)
+[shared/enums/BlipSprites.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L66)
 
 ***
 
@@ -1470,7 +1470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:719](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L719)
+[shared/enums/BlipSprites.ts:719](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L719)
 
 ***
 
@@ -1480,7 +1480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:720](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L720)
+[shared/enums/BlipSprites.ts:720](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L720)
 
 ***
 
@@ -1490,7 +1490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:767](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L767)
+[shared/enums/BlipSprites.ts:767](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L767)
 
 ***
 
@@ -1500,7 +1500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:768](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L768)
+[shared/enums/BlipSprites.ts:768](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L768)
 
 ***
 
@@ -1510,7 +1510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:714](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L714)
+[shared/enums/BlipSprites.ts:714](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L714)
 
 ***
 
@@ -1520,7 +1520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L88)
+[shared/enums/BlipSprites.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L88)
 
 ***
 
@@ -1530,7 +1530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L417)
+[shared/enums/BlipSprites.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L417)
 
 ***
 
@@ -1540,7 +1540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L215)
+[shared/enums/BlipSprites.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L215)
 
 ***
 
@@ -1550,7 +1550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L213)
+[shared/enums/BlipSprites.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L213)
 
 ***
 
@@ -1560,7 +1560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L209)
+[shared/enums/BlipSprites.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L209)
 
 ***
 
@@ -1570,7 +1570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L214)
+[shared/enums/BlipSprites.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L214)
 
 ***
 
@@ -1580,7 +1580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L615)
+[shared/enums/BlipSprites.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L615)
 
 ***
 
@@ -1590,7 +1590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:619](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L619)
+[shared/enums/BlipSprites.ts:619](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L619)
 
 ***
 
@@ -1600,7 +1600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:618](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L618)
+[shared/enums/BlipSprites.ts:618](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L618)
 
 ***
 
@@ -1610,7 +1610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:620](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L620)
+[shared/enums/BlipSprites.ts:620](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L620)
 
 ***
 
@@ -1620,7 +1620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:814](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L814)
+[shared/enums/BlipSprites.ts:814](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L814)
 
 ***
 
@@ -1630,7 +1630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L616)
+[shared/enums/BlipSprites.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L616)
 
 ***
 
@@ -1640,7 +1640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:617](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L617)
+[shared/enums/BlipSprites.ts:617](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L617)
 
 ***
 
@@ -1650,7 +1650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:794](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L794)
+[shared/enums/BlipSprites.ts:794](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L794)
 
 ***
 
@@ -1660,7 +1660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:772](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L772)
+[shared/enums/BlipSprites.ts:772](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L772)
 
 ***
 
@@ -1670,7 +1670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:565](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L565)
+[shared/enums/BlipSprites.ts:565](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L565)
 
 ***
 
@@ -1680,7 +1680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:810](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L810)
+[shared/enums/BlipSprites.ts:810](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L810)
 
 ***
 
@@ -1690,7 +1690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L131)
+[shared/enums/BlipSprites.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L131)
 
 ***
 
@@ -1700,7 +1700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L25)
+[shared/enums/BlipSprites.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L25)
 
 ***
 
@@ -1710,7 +1710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L159)
+[shared/enums/BlipSprites.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L159)
 
 ***
 
@@ -1720,7 +1720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L361)
+[shared/enums/BlipSprites.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L361)
 
 ***
 
@@ -1730,7 +1730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:729](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L729)
+[shared/enums/BlipSprites.ts:729](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L729)
 
 ***
 
@@ -1740,7 +1740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L79)
+[shared/enums/BlipSprites.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L79)
 
 ***
 
@@ -1750,7 +1750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L262)
+[shared/enums/BlipSprites.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L262)
 
 ***
 
@@ -1760,7 +1760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L210)
+[shared/enums/BlipSprites.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L210)
 
 ***
 
@@ -1770,7 +1770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L117)
+[shared/enums/BlipSprites.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L117)
 
 ***
 
@@ -1780,7 +1780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L321)
+[shared/enums/BlipSprites.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L321)
 
 ***
 
@@ -1790,7 +1790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L67)
+[shared/enums/BlipSprites.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L67)
 
 ***
 
@@ -1800,7 +1800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:773](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L773)
+[shared/enums/BlipSprites.ts:773](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L773)
 
 ***
 
@@ -1810,7 +1810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L89)
+[shared/enums/BlipSprites.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L89)
 
 ***
 
@@ -1820,7 +1820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L607)
+[shared/enums/BlipSprites.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L607)
 
 ***
 
@@ -1830,7 +1830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:771](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L771)
+[shared/enums/BlipSprites.ts:771](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L771)
 
 ***
 
@@ -1840,7 +1840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L304)
+[shared/enums/BlipSprites.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L304)
 
 ***
 
@@ -1850,7 +1850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:706](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L706)
+[shared/enums/BlipSprites.ts:706](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L706)
 
 ***
 
@@ -1860,7 +1860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:798](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L798)
+[shared/enums/BlipSprites.ts:798](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L798)
 
 ***
 
@@ -1870,7 +1870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:737](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L737)
+[shared/enums/BlipSprites.ts:737](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L737)
 
 ***
 
@@ -1880,7 +1880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:414](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L414)
+[shared/enums/BlipSprites.ts:414](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L414)
 
 ***
 
@@ -1890,7 +1890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:703](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L703)
+[shared/enums/BlipSprites.ts:703](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L703)
 
 ***
 
@@ -1900,7 +1900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L608)
+[shared/enums/BlipSprites.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L608)
 
 ***
 
@@ -1910,7 +1910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L52)
+[shared/enums/BlipSprites.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L52)
 
 ***
 
@@ -1920,7 +1920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L53)
+[shared/enums/BlipSprites.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L53)
 
 ***
 
@@ -1930,7 +1930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:383](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L383)
+[shared/enums/BlipSprites.ts:383](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L383)
 
 ***
 
@@ -1940,7 +1940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:384](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L384)
+[shared/enums/BlipSprites.ts:384](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L384)
 
 ***
 
@@ -1950,7 +1950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:385](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L385)
+[shared/enums/BlipSprites.ts:385](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L385)
 
 ***
 
@@ -1960,7 +1960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:386](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L386)
+[shared/enums/BlipSprites.ts:386](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L386)
 
 ***
 
@@ -1970,7 +1970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:387](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L387)
+[shared/enums/BlipSprites.ts:387](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L387)
 
 ***
 
@@ -1980,7 +1980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:388](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L388)
+[shared/enums/BlipSprites.ts:388](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L388)
 
 ***
 
@@ -1990,7 +1990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:389](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L389)
+[shared/enums/BlipSprites.ts:389](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L389)
 
 ***
 
@@ -2000,7 +2000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:390](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L390)
+[shared/enums/BlipSprites.ts:390](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L390)
 
 ***
 
@@ -2010,7 +2010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:666](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L666)
+[shared/enums/BlipSprites.ts:666](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L666)
 
 ***
 
@@ -2020,7 +2020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:667](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L667)
+[shared/enums/BlipSprites.ts:667](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L667)
 
 ***
 
@@ -2030,7 +2030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:668](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L668)
+[shared/enums/BlipSprites.ts:668](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L668)
 
 ***
 
@@ -2040,7 +2040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:669](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L669)
+[shared/enums/BlipSprites.ts:669](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L669)
 
 ***
 
@@ -2050,7 +2050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L243)
+[shared/enums/BlipSprites.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L243)
 
 ***
 
@@ -2060,7 +2060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L328)
+[shared/enums/BlipSprites.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L328)
 
 ***
 
@@ -2070,7 +2070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L335)
+[shared/enums/BlipSprites.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L335)
 
 ***
 
@@ -2080,7 +2080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L336)
+[shared/enums/BlipSprites.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L336)
 
 ***
 
@@ -2090,7 +2090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L48)
+[shared/enums/BlipSprites.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L48)
 
 ***
 
@@ -2100,7 +2100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L227)
+[shared/enums/BlipSprites.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L227)
 
 ***
 
@@ -2110,7 +2110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L226)
+[shared/enums/BlipSprites.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L226)
 
 ***
 
@@ -2120,7 +2120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L228)
+[shared/enums/BlipSprites.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L228)
 
 ***
 
@@ -2130,7 +2130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L116)
+[shared/enums/BlipSprites.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L116)
 
 ***
 
@@ -2140,7 +2140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L49)
+[shared/enums/BlipSprites.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L49)
 
 ***
 
@@ -2150,7 +2150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L50)
+[shared/enums/BlipSprites.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L50)
 
 ***
 
@@ -2160,7 +2160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L51)
+[shared/enums/BlipSprites.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L51)
 
 ***
 
@@ -2170,7 +2170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L121)
+[shared/enums/BlipSprites.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L121)
 
 ***
 
@@ -2180,7 +2180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L54)
+[shared/enums/BlipSprites.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L54)
 
 ***
 
@@ -2190,7 +2190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:736](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L736)
+[shared/enums/BlipSprites.ts:736](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L736)
 
 ***
 
@@ -2200,7 +2200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L191)
+[shared/enums/BlipSprites.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L191)
 
 ***
 
@@ -2210,7 +2210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L222)
+[shared/enums/BlipSprites.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L222)
 
 ***
 
@@ -2220,7 +2220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L192)
+[shared/enums/BlipSprites.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L192)
 
 ***
 
@@ -2230,7 +2230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L760)
+[shared/enums/BlipSprites.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L760)
 
 ***
 
@@ -2240,7 +2240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L90)
+[shared/enums/BlipSprites.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L90)
 
 ***
 
@@ -2250,7 +2250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:777](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L777)
+[shared/enums/BlipSprites.ts:777](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L777)
 
 ***
 
@@ -2260,7 +2260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L211)
+[shared/enums/BlipSprites.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L211)
 
 ***
 
@@ -2270,7 +2270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:376](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L376)
+[shared/enums/BlipSprites.ts:376](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L376)
 
 ***
 
@@ -2280,7 +2280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:778](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L778)
+[shared/enums/BlipSprites.ts:778](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L778)
 
 ***
 
@@ -2290,7 +2290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L247)
+[shared/enums/BlipSprites.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L247)
 
 ***
 
@@ -2300,7 +2300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:759](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L759)
+[shared/enums/BlipSprites.ts:759](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L759)
 
 ***
 
@@ -2310,7 +2310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L292)
+[shared/enums/BlipSprites.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L292)
 
 ***
 
@@ -2320,7 +2320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L341)
+[shared/enums/BlipSprites.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L341)
 
 ***
 
@@ -2330,7 +2330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:690](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L690)
+[shared/enums/BlipSprites.ts:690](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L690)
 
 ***
 
@@ -2340,7 +2340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L293)
+[shared/enums/BlipSprites.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L293)
 
 ***
 
@@ -2350,7 +2350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L308)
+[shared/enums/BlipSprites.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L308)
 
 ***
 
@@ -2360,7 +2360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:716](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L716)
+[shared/enums/BlipSprites.ts:716](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L716)
 
 ***
 
@@ -2370,7 +2370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L91)
+[shared/enums/BlipSprites.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L91)
 
 ***
 
@@ -2380,7 +2380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L319)
+[shared/enums/BlipSprites.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L319)
 
 ***
 
@@ -2390,7 +2390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:779](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L779)
+[shared/enums/BlipSprites.ts:779](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L779)
 
 ***
 
@@ -2400,7 +2400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L74)
+[shared/enums/BlipSprites.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L74)
 
 ***
 
@@ -2410,7 +2410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L256)
+[shared/enums/BlipSprites.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L256)
 
 ***
 
@@ -2420,7 +2420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L184)
+[shared/enums/BlipSprites.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L184)
 
 ***
 
@@ -2430,7 +2430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L185)
+[shared/enums/BlipSprites.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L185)
 
 ***
 
@@ -2440,7 +2440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L186)
+[shared/enums/BlipSprites.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L186)
 
 ***
 
@@ -2450,7 +2450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:677](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L677)
+[shared/enums/BlipSprites.ts:677](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L677)
 
 ***
 
@@ -2460,7 +2460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:450](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L450)
+[shared/enums/BlipSprites.ts:450](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L450)
 
 ***
 
@@ -2470,7 +2470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:786](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L786)
+[shared/enums/BlipSprites.ts:786](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L786)
 
 ***
 
@@ -2480,7 +2480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:380](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L380)
+[shared/enums/BlipSprites.ts:380](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L380)
 
 ***
 
@@ -2490,7 +2490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:379](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L379)
+[shared/enums/BlipSprites.ts:379](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L379)
 
 ***
 
@@ -2500,7 +2500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L59)
+[shared/enums/BlipSprites.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L59)
 
 ***
 
@@ -2510,7 +2510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L290)
+[shared/enums/BlipSprites.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L290)
 
 ***
 
@@ -2520,7 +2520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L170)
+[shared/enums/BlipSprites.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L170)
 
 ***
 
@@ -2530,7 +2530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:464](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L464)
+[shared/enums/BlipSprites.ts:464](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L464)
 
 ***
 
@@ -2540,7 +2540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:465](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L465)
+[shared/enums/BlipSprites.ts:465](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L465)
 
 ***
 
@@ -2550,7 +2550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:466](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L466)
+[shared/enums/BlipSprites.ts:466](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L466)
 
 ***
 
@@ -2560,7 +2560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:467](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L467)
+[shared/enums/BlipSprites.ts:467](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L467)
 
 ***
 
@@ -2570,7 +2570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:468](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L468)
+[shared/enums/BlipSprites.ts:468](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L468)
 
 ***
 
@@ -2580,7 +2580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:469](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L469)
+[shared/enums/BlipSprites.ts:469](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L469)
 
 ***
 
@@ -2590,7 +2590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:470](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L470)
+[shared/enums/BlipSprites.ts:470](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L470)
 
 ***
 
@@ -2600,7 +2600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L758)
+[shared/enums/BlipSprites.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L758)
 
 ***
 
@@ -2610,7 +2610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L730)
+[shared/enums/BlipSprites.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L730)
 
 ***
 
@@ -2620,7 +2620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L81)
+[shared/enums/BlipSprites.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L81)
 
 ***
 
@@ -2630,7 +2630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L203)
+[shared/enums/BlipSprites.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L203)
 
 ***
 
@@ -2640,7 +2640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L342)
+[shared/enums/BlipSprites.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L342)
 
 ***
 
@@ -2650,7 +2650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L92)
+[shared/enums/BlipSprites.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L92)
 
 ***
 
@@ -2660,7 +2660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L93)
+[shared/enums/BlipSprites.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L93)
 
 ***
 
@@ -2670,7 +2670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:745](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L745)
+[shared/enums/BlipSprites.ts:745](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L745)
 
 ***
 
@@ -2680,7 +2680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L94)
+[shared/enums/BlipSprites.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L94)
 
 ***
 
@@ -2690,7 +2690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L95)
+[shared/enums/BlipSprites.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L95)
 
 ***
 
@@ -2700,7 +2700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L171)
+[shared/enums/BlipSprites.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L171)
 
 ***
 
@@ -2710,7 +2710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:392](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L392)
+[shared/enums/BlipSprites.ts:392](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L392)
 
 ***
 
@@ -2720,7 +2720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L258)
+[shared/enums/BlipSprites.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L258)
 
 ***
 
@@ -2730,7 +2730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:769](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L769)
+[shared/enums/BlipSprites.ts:769](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L769)
 
 ***
 
@@ -2740,7 +2740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L80)
+[shared/enums/BlipSprites.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L80)
 
 ***
 
@@ -2750,7 +2750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:694](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L694)
+[shared/enums/BlipSprites.ts:694](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L694)
 
 ***
 
@@ -2760,7 +2760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L176)
+[shared/enums/BlipSprites.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L176)
 
 ***
 
@@ -2770,7 +2770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L177)
+[shared/enums/BlipSprites.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L177)
 
 ***
 
@@ -2780,7 +2780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L178)
+[shared/enums/BlipSprites.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L178)
 
 ***
 
@@ -2790,7 +2790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L78)
+[shared/enums/BlipSprites.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L78)
 
 ***
 
@@ -2800,7 +2800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L175)
+[shared/enums/BlipSprites.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L175)
 
 ***
 
@@ -2810,7 +2810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L174)
+[shared/enums/BlipSprites.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L174)
 
 ***
 
@@ -2820,7 +2820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L217)
+[shared/enums/BlipSprites.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L217)
 
 ***
 
@@ -2830,7 +2830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L235)
+[shared/enums/BlipSprites.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L235)
 
 ***
 
@@ -2840,7 +2840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L234)
+[shared/enums/BlipSprites.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L234)
 
 ***
 
@@ -2850,7 +2850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L233)
+[shared/enums/BlipSprites.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L233)
 
 ***
 
@@ -2860,7 +2860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L239)
+[shared/enums/BlipSprites.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L239)
 
 ***
 
@@ -2870,7 +2870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L238)
+[shared/enums/BlipSprites.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L238)
 
 ***
 
@@ -2880,7 +2880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L237)
+[shared/enums/BlipSprites.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L237)
 
 ***
 
@@ -2890,7 +2890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L236)
+[shared/enums/BlipSprites.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L236)
 
 ***
 
@@ -2900,7 +2900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L288)
+[shared/enums/BlipSprites.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L288)
 
 ***
 
@@ -2910,7 +2910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L285)
+[shared/enums/BlipSprites.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L285)
 
 ***
 
@@ -2920,7 +2920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L114)
+[shared/enums/BlipSprites.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L114)
 
 ***
 
@@ -2930,7 +2930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L152)
+[shared/enums/BlipSprites.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L152)
 
 ***
 
@@ -2940,7 +2940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L112)
+[shared/enums/BlipSprites.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L112)
 
 ***
 
@@ -2950,7 +2950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L187)
+[shared/enums/BlipSprites.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L187)
 
 ***
 
@@ -2960,7 +2960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L147)
+[shared/enums/BlipSprites.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L147)
 
 ***
 
@@ -2970,7 +2970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L205)
+[shared/enums/BlipSprites.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L205)
 
 ***
 
@@ -2980,7 +2980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L113)
+[shared/enums/BlipSprites.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L113)
 
 ***
 
@@ -2990,7 +2990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L151)
+[shared/enums/BlipSprites.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L151)
 
 ***
 
@@ -3000,7 +3000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L179)
+[shared/enums/BlipSprites.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L179)
 
 ***
 
@@ -3010,7 +3010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L180)
+[shared/enums/BlipSprites.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L180)
 
 ***
 
@@ -3020,7 +3020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L181)
+[shared/enums/BlipSprites.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L181)
 
 ***
 
@@ -3030,7 +3030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L182)
+[shared/enums/BlipSprites.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L182)
 
 ***
 
@@ -3040,7 +3040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L294)
+[shared/enums/BlipSprites.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L294)
 
 ***
 
@@ -3050,7 +3050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L306)
+[shared/enums/BlipSprites.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L306)
 
 ***
 
@@ -3060,7 +3060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L255)
+[shared/enums/BlipSprites.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L255)
 
 ***
 
@@ -3070,7 +3070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L286)
+[shared/enums/BlipSprites.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L286)
 
 ***
 
@@ -3080,7 +3080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:674](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L674)
+[shared/enums/BlipSprites.ts:674](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L674)
 
 ***
 
@@ -3090,7 +3090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L263)
+[shared/enums/BlipSprites.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L263)
 
 ***
 
@@ -3100,7 +3100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L96)
+[shared/enums/BlipSprites.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L96)
 
 ***
 
@@ -3110,7 +3110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L295)
+[shared/enums/BlipSprites.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L295)
 
 ***
 
@@ -3120,7 +3120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:500](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L500)
+[shared/enums/BlipSprites.ts:500](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L500)
 
 ***
 
@@ -3130,7 +3130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:502](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L502)
+[shared/enums/BlipSprites.ts:502](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L502)
 
 ***
 
@@ -3140,7 +3140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:503](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L503)
+[shared/enums/BlipSprites.ts:503](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L503)
 
 ***
 
@@ -3150,7 +3150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:494](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L494)
+[shared/enums/BlipSprites.ts:494](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L494)
 
 ***
 
@@ -3160,7 +3160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:495](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L495)
+[shared/enums/BlipSprites.ts:495](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L495)
 
 ***
 
@@ -3170,7 +3170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:496](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L496)
+[shared/enums/BlipSprites.ts:496](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L496)
 
 ***
 
@@ -3180,7 +3180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:497](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L497)
+[shared/enums/BlipSprites.ts:497](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L497)
 
 ***
 
@@ -3190,7 +3190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:498](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L498)
+[shared/enums/BlipSprites.ts:498](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L498)
 
 ***
 
@@ -3200,7 +3200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:499](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L499)
+[shared/enums/BlipSprites.ts:499](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L499)
 
 ***
 
@@ -3210,7 +3210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L757)
+[shared/enums/BlipSprites.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L757)
 
 ***
 
@@ -3220,7 +3220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L332)
+[shared/enums/BlipSprites.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L332)
 
 ***
 
@@ -3230,7 +3230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L329)
+[shared/enums/BlipSprites.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L329)
 
 ***
 
@@ -3240,7 +3240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L330)
+[shared/enums/BlipSprites.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L330)
 
 ***
 
@@ -3250,7 +3250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L331)
+[shared/enums/BlipSprites.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L331)
 
 ***
 
@@ -3260,7 +3260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L97)
+[shared/enums/BlipSprites.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L97)
 
 ***
 
@@ -3270,7 +3270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:780](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L780)
+[shared/enums/BlipSprites.ts:780](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L780)
 
 ***
 
@@ -3280,7 +3280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L183)
+[shared/enums/BlipSprites.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L183)
 
 ***
 
@@ -3290,7 +3290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:811](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L811)
+[shared/enums/BlipSprites.ts:811](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L811)
 
 ***
 
@@ -3300,7 +3300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L160)
+[shared/enums/BlipSprites.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L160)
 
 ***
 
@@ -3310,7 +3310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L161)
+[shared/enums/BlipSprites.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L161)
 
 ***
 
@@ -3320,7 +3320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L162)
+[shared/enums/BlipSprites.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L162)
 
 ***
 
@@ -3330,7 +3330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L163)
+[shared/enums/BlipSprites.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L163)
 
 ***
 
@@ -3340,7 +3340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L296)
+[shared/enums/BlipSprites.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L296)
 
 ***
 
@@ -3350,7 +3350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L309)
+[shared/enums/BlipSprites.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L309)
 
 ***
 
@@ -3360,7 +3360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L55)
+[shared/enums/BlipSprites.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L55)
 
 ***
 
@@ -3370,7 +3370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:732](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L732)
+[shared/enums/BlipSprites.ts:732](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L732)
 
 ***
 
@@ -3380,7 +3380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:740](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L740)
+[shared/enums/BlipSprites.ts:740](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L740)
 
 ***
 
@@ -3390,7 +3390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:733](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L733)
+[shared/enums/BlipSprites.ts:733](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L733)
 
 ***
 
@@ -3400,7 +3400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:741](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L741)
+[shared/enums/BlipSprites.ts:741](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L741)
 
 ***
 
@@ -3410,7 +3410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:734](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L734)
+[shared/enums/BlipSprites.ts:734](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L734)
 
 ***
 
@@ -3420,7 +3420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:739](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L739)
+[shared/enums/BlipSprites.ts:739](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L739)
 
 ***
 
@@ -3430,7 +3430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L300)
+[shared/enums/BlipSprites.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L300)
 
 ***
 
@@ -3440,7 +3440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L60)
+[shared/enums/BlipSprites.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L60)
 
 ***
 
@@ -3450,7 +3450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L297)
+[shared/enums/BlipSprites.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L297)
 
 ***
 
@@ -3460,7 +3460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L307)
+[shared/enums/BlipSprites.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L307)
 
 ***
 
@@ -3470,7 +3470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L19)
+[shared/enums/BlipSprites.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L19)
 
 ***
 
@@ -3480,7 +3480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L32)
+[shared/enums/BlipSprites.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L32)
 
 ***
 
@@ -3490,7 +3490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L216)
+[shared/enums/BlipSprites.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L216)
 
 ***
 
@@ -3500,7 +3500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L242)
+[shared/enums/BlipSprites.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L242)
 
 ***
 
@@ -3510,7 +3510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L57)
+[shared/enums/BlipSprites.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L57)
 
 ***
 
@@ -3520,7 +3520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:372](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L372)
+[shared/enums/BlipSprites.ts:372](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L372)
 
 ***
 
@@ -3530,7 +3530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L394)
+[shared/enums/BlipSprites.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L394)
 
 ***
 
@@ -3540,7 +3540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L123)
+[shared/enums/BlipSprites.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L123)
 
 ***
 
@@ -3550,7 +3550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L64)
+[shared/enums/BlipSprites.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L64)
 
 ***
 
@@ -3560,7 +3560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L301)
+[shared/enums/BlipSprites.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L301)
 
 ***
 
@@ -3570,7 +3570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L343)
+[shared/enums/BlipSprites.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L343)
 
 ***
 
@@ -3580,7 +3580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L98)
+[shared/enums/BlipSprites.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L98)
 
 ***
 
@@ -3590,7 +3590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:701](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L701)
+[shared/enums/BlipSprites.ts:701](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L701)
 
 ***
 
@@ -3600,7 +3600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:702](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L702)
+[shared/enums/BlipSprites.ts:702](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L702)
 
 ***
 
@@ -3610,7 +3610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L298)
+[shared/enums/BlipSprites.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L298)
 
 ***
 
@@ -3620,7 +3620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L73)
+[shared/enums/BlipSprites.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L73)
 
 ***
 
@@ -3630,7 +3630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L322)
+[shared/enums/BlipSprites.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L322)
 
 ***
 
@@ -3640,7 +3640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:756](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L756)
+[shared/enums/BlipSprites.ts:756](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L756)
 
 ***
 
@@ -3650,7 +3650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:479](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L479)
+[shared/enums/BlipSprites.ts:479](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L479)
 
 ***
 
@@ -3660,7 +3660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:765](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L765)
+[shared/enums/BlipSprites.ts:765](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L765)
 
 ***
 
@@ -3670,7 +3670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:463](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L463)
+[shared/enums/BlipSprites.ts:463](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L463)
 
 ***
 
@@ -3680,7 +3680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:684](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L684)
+[shared/enums/BlipSprites.ts:684](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L684)
 
 ***
 
@@ -3690,7 +3690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:683](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L683)
+[shared/enums/BlipSprites.ts:683](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L683)
 
 ***
 
@@ -3700,7 +3700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:699](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L699)
+[shared/enums/BlipSprites.ts:699](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L699)
 
 ***
 
@@ -3710,7 +3710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:708](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L708)
+[shared/enums/BlipSprites.ts:708](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L708)
 
 ***
 
@@ -3720,7 +3720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:374](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L374)
+[shared/enums/BlipSprites.ts:374](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L374)
 
 ***
 
@@ -3730,7 +3730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L610)
+[shared/enums/BlipSprites.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L610)
 
 ***
 
@@ -3740,7 +3740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:611](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L611)
+[shared/enums/BlipSprites.ts:611](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L611)
 
 ***
 
@@ -3750,7 +3750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L77)
+[shared/enums/BlipSprites.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L77)
 
 ***
 
@@ -3760,7 +3760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:457](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L457)
+[shared/enums/BlipSprites.ts:457](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L457)
 
 ***
 
@@ -3770,7 +3770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L345)
+[shared/enums/BlipSprites.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L345)
 
 ***
 
@@ -3780,7 +3780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L70)
+[shared/enums/BlipSprites.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L70)
 
 ***
 
@@ -3790,7 +3790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L20)
+[shared/enums/BlipSprites.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L20)
 
 ***
 
@@ -3800,7 +3800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L353)
+[shared/enums/BlipSprites.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L353)
 
 ***
 
@@ -3810,7 +3810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:660](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L660)
+[shared/enums/BlipSprites.ts:660](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L660)
 
 ***
 
@@ -3820,7 +3820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L21)
+[shared/enums/BlipSprites.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L21)
 
 ***
 
@@ -3830,7 +3830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L33)
+[shared/enums/BlipSprites.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L33)
 
 ***
 
@@ -3840,7 +3840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:809](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L809)
+[shared/enums/BlipSprites.ts:809](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L809)
 
 ***
 
@@ -3850,7 +3850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:766](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L766)
+[shared/enums/BlipSprites.ts:766](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L766)
 
 ***
 
@@ -3860,7 +3860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L289)
+[shared/enums/BlipSprites.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L289)
 
 ***
 
@@ -3870,7 +3870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:320](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L320)
+[shared/enums/BlipSprites.ts:320](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L320)
 
 ***
 
@@ -3880,7 +3880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L299)
+[shared/enums/BlipSprites.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L299)
 
 ***
 
@@ -3890,7 +3890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L71)
+[shared/enums/BlipSprites.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L71)
 
 ***
 
@@ -3900,7 +3900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L99)
+[shared/enums/BlipSprites.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L99)
 
 ***
 
@@ -3910,7 +3910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L109)
+[shared/enums/BlipSprites.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L109)
 
 ***
 
@@ -3920,7 +3920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:685](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L685)
+[shared/enums/BlipSprites.ts:685](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L685)
 
 ***
 
@@ -3930,7 +3930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:686](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L686)
+[shared/enums/BlipSprites.ts:686](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L686)
 
 ***
 
@@ -3940,7 +3940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L682)
+[shared/enums/BlipSprites.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L682)
 
 ***
 
@@ -3950,7 +3950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L259)
+[shared/enums/BlipSprites.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L259)
 
 ***
 
@@ -3960,7 +3960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L323)
+[shared/enums/BlipSprites.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L323)
 
 ***
 
@@ -3970,7 +3970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L231)
+[shared/enums/BlipSprites.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L231)
 
 ***
 
@@ -3980,7 +3980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L249)
+[shared/enums/BlipSprites.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L249)
 
 ***
 
@@ -3990,7 +3990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L232)
+[shared/enums/BlipSprites.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L232)
 
 ***
 
@@ -4000,7 +4000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L220)
+[shared/enums/BlipSprites.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L220)
 
 ***
 
@@ -4010,7 +4010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L221)
+[shared/enums/BlipSprites.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L221)
 
 ***
 
@@ -4020,7 +4020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L218)
+[shared/enums/BlipSprites.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L218)
 
 ***
 
@@ -4030,7 +4030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L219)
+[shared/enums/BlipSprites.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L219)
 
 ***
 
@@ -4040,7 +4040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L264)
+[shared/enums/BlipSprites.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L264)
 
 ***
 
@@ -4050,7 +4050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L265)
+[shared/enums/BlipSprites.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L265)
 
 ***
 
@@ -4060,7 +4060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L266)
+[shared/enums/BlipSprites.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L266)
 
 ***
 
@@ -4070,7 +4070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L269)
+[shared/enums/BlipSprites.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L269)
 
 ***
 
@@ -4080,7 +4080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L270)
+[shared/enums/BlipSprites.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L270)
 
 ***
 
@@ -4090,7 +4090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L267)
+[shared/enums/BlipSprites.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L267)
 
 ***
 
@@ -4100,7 +4100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L268)
+[shared/enums/BlipSprites.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L268)
 
 ***
 
@@ -4110,7 +4110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L271)
+[shared/enums/BlipSprites.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L271)
 
 ***
 
@@ -4120,7 +4120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L272)
+[shared/enums/BlipSprites.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L272)
 
 ***
 
@@ -4130,7 +4130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L273)
+[shared/enums/BlipSprites.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L273)
 
 ***
 
@@ -4140,7 +4140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L276)
+[shared/enums/BlipSprites.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L276)
 
 ***
 
@@ -4150,7 +4150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L277)
+[shared/enums/BlipSprites.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L277)
 
 ***
 
@@ -4160,7 +4160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L274)
+[shared/enums/BlipSprites.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L274)
 
 ***
 
@@ -4170,7 +4170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L275)
+[shared/enums/BlipSprites.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L275)
 
 ***
 
@@ -4180,7 +4180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L278)
+[shared/enums/BlipSprites.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L278)
 
 ***
 
@@ -4190,7 +4190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L279)
+[shared/enums/BlipSprites.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L279)
 
 ***
 
@@ -4200,7 +4200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L280)
+[shared/enums/BlipSprites.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L280)
 
 ***
 
@@ -4210,7 +4210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L283)
+[shared/enums/BlipSprites.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L283)
 
 ***
 
@@ -4220,7 +4220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L284)
+[shared/enums/BlipSprites.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L284)
 
 ***
 
@@ -4230,7 +4230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L281)
+[shared/enums/BlipSprites.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L281)
 
 ***
 
@@ -4240,7 +4240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L282)
+[shared/enums/BlipSprites.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L282)
 
 ***
 
@@ -4250,7 +4250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L202)
+[shared/enums/BlipSprites.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L202)
 
 ***
 
@@ -4260,7 +4260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L726)
+[shared/enums/BlipSprites.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L726)
 
 ***
 
@@ -4270,7 +4270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L36)
+[shared/enums/BlipSprites.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L36)
 
 ***
 
@@ -4280,7 +4280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L348)
+[shared/enums/BlipSprites.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L348)
 
 ***
 
@@ -4290,7 +4290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L130)
+[shared/enums/BlipSprites.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L130)
 
 ***
 
@@ -4300,7 +4300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L37)
+[shared/enums/BlipSprites.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L37)
 
 ***
 
@@ -4310,7 +4310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:364](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L364)
+[shared/enums/BlipSprites.ts:364](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L364)
 
 ***
 
@@ -4320,7 +4320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:381](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L381)
+[shared/enums/BlipSprites.ts:381](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L381)
 
 ***
 
@@ -4330,7 +4330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L143)
+[shared/enums/BlipSprites.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L143)
 
 ***
 
@@ -4340,7 +4340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:792](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L792)
+[shared/enums/BlipSprites.ts:792](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L792)
 
 ***
 
@@ -4350,7 +4350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:755](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L755)
+[shared/enums/BlipSprites.ts:755](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L755)
 
 ***
 
@@ -4360,7 +4360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L118)
+[shared/enums/BlipSprites.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L118)
 
 ***
 
@@ -4370,7 +4370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L333)
+[shared/enums/BlipSprites.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L333)
 
 ***
 
@@ -4380,7 +4380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L334)
+[shared/enums/BlipSprites.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L334)
 
 ***
 
@@ -4390,7 +4390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:522](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L522)
+[shared/enums/BlipSprites.ts:522](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L522)
 
 ***
 
@@ -4400,7 +4400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:526](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L526)
+[shared/enums/BlipSprites.ts:526](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L526)
 
 ***
 
@@ -4410,7 +4410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:540](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L540)
+[shared/enums/BlipSprites.ts:540](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L540)
 
 ***
 
@@ -4420,7 +4420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:523](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L523)
+[shared/enums/BlipSprites.ts:523](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L523)
 
 ***
 
@@ -4430,7 +4430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:529](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L529)
+[shared/enums/BlipSprites.ts:529](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L529)
 
 ***
 
@@ -4440,7 +4440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L543)
+[shared/enums/BlipSprites.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L543)
 
 ***
 
@@ -4450,7 +4450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:544](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L544)
+[shared/enums/BlipSprites.ts:544](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L544)
 
 ***
 
@@ -4460,7 +4460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:530](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L530)
+[shared/enums/BlipSprites.ts:530](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L530)
 
 ***
 
@@ -4470,7 +4470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:545](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L545)
+[shared/enums/BlipSprites.ts:545](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L545)
 
 ***
 
@@ -4480,7 +4480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:524](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L524)
+[shared/enums/BlipSprites.ts:524](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L524)
 
 ***
 
@@ -4490,7 +4490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:527](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L527)
+[shared/enums/BlipSprites.ts:527](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L527)
 
 ***
 
@@ -4500,7 +4500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:541](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L541)
+[shared/enums/BlipSprites.ts:541](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L541)
 
 ***
 
@@ -4510,7 +4510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:528](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L528)
+[shared/enums/BlipSprites.ts:528](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L528)
 
 ***
 
@@ -4520,7 +4520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:542](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L542)
+[shared/enums/BlipSprites.ts:542](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L542)
 
 ***
 
@@ -4530,7 +4530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:525](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L525)
+[shared/enums/BlipSprites.ts:525](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L525)
 
 ***
 
@@ -4540,7 +4540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:531](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L531)
+[shared/enums/BlipSprites.ts:531](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L531)
 
 ***
 
@@ -4550,7 +4550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:532](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L532)
+[shared/enums/BlipSprites.ts:532](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L532)
 
 ***
 
@@ -4560,7 +4560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:533](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L533)
+[shared/enums/BlipSprites.ts:533](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L533)
 
 ***
 
@@ -4570,7 +4570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:534](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L534)
+[shared/enums/BlipSprites.ts:534](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L534)
 
 ***
 
@@ -4580,7 +4580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:535](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L535)
+[shared/enums/BlipSprites.ts:535](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L535)
 
 ***
 
@@ -4590,7 +4590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:536](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L536)
+[shared/enums/BlipSprites.ts:536](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L536)
 
 ***
 
@@ -4600,7 +4600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:537](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L537)
+[shared/enums/BlipSprites.ts:537](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L537)
 
 ***
 
@@ -4610,7 +4610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:538](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L538)
+[shared/enums/BlipSprites.ts:538](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L538)
 
 ***
 
@@ -4620,7 +4620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:539](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L539)
+[shared/enums/BlipSprites.ts:539](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L539)
 
 ***
 
@@ -4630,7 +4630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L100)
+[shared/enums/BlipSprites.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L100)
 
 ***
 
@@ -4640,7 +4640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L26)
+[shared/enums/BlipSprites.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L26)
 
 ***
 
@@ -4650,7 +4650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L125)
+[shared/enums/BlipSprites.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L125)
 
 ***
 
@@ -4660,7 +4660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L126)
+[shared/enums/BlipSprites.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L126)
 
 ***
 
@@ -4670,7 +4670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L127)
+[shared/enums/BlipSprites.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L127)
 
 ***
 
@@ -4680,7 +4680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L128)
+[shared/enums/BlipSprites.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L128)
 
 ***
 
@@ -4690,7 +4690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L111)
+[shared/enums/BlipSprites.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L111)
 
 ***
 
@@ -4700,7 +4700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:411](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L411)
+[shared/enums/BlipSprites.ts:411](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L411)
 
 ***
 
@@ -4710,7 +4710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:412](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L412)
+[shared/enums/BlipSprites.ts:412](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L412)
 
 ***
 
@@ -4720,7 +4720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:787](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L787)
+[shared/enums/BlipSprites.ts:787](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L787)
 
 ***
 
@@ -4730,7 +4730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L324)
+[shared/enums/BlipSprites.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L324)
 
 ***
 
@@ -4740,7 +4740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L208)
+[shared/enums/BlipSprites.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L208)
 
 ***
 
@@ -4750,7 +4750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L223)
+[shared/enums/BlipSprites.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L223)
 
 ***
 
@@ -4760,7 +4760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L224)
+[shared/enums/BlipSprites.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L224)
 
 ***
 
@@ -4770,7 +4770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L225)
+[shared/enums/BlipSprites.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L225)
 
 ***
 
@@ -4780,7 +4780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:575](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L575)
+[shared/enums/BlipSprites.ts:575](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L575)
 
 ***
 
@@ -4790,7 +4790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:738](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L738)
+[shared/enums/BlipSprites.ts:738](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L738)
 
 ***
 
@@ -4800,7 +4800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:800](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L800)
+[shared/enums/BlipSprites.ts:800](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L800)
 
 ***
 
@@ -4810,7 +4810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:799](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L799)
+[shared/enums/BlipSprites.ts:799](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L799)
 
 ***
 
@@ -4820,7 +4820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:437](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L437)
+[shared/enums/BlipSprites.ts:437](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L437)
 
 ***
 
@@ -4830,7 +4830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L201)
+[shared/enums/BlipSprites.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L201)
 
 ***
 
@@ -4840,7 +4840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:712](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L712)
+[shared/enums/BlipSprites.ts:712](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L712)
 
 ***
 
@@ -4850,7 +4850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L326)
+[shared/enums/BlipSprites.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L326)
 
 ***
 
@@ -4860,7 +4860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L314)
+[shared/enums/BlipSprites.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L314)
 
 ***
 
@@ -4870,7 +4870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L145)
+[shared/enums/BlipSprites.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L145)
 
 ***
 
@@ -4880,7 +4880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:700](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L700)
+[shared/enums/BlipSprites.ts:700](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L700)
 
 ***
 
@@ -4890,7 +4890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:754](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L754)
+[shared/enums/BlipSprites.ts:754](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L754)
 
 ***
 
@@ -4900,7 +4900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:691](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L691)
+[shared/enums/BlipSprites.ts:691](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L691)
 
 ***
 
@@ -4910,7 +4910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:753](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L753)
+[shared/enums/BlipSprites.ts:753](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L753)
 
 ***
 
@@ -4920,7 +4920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:752](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L752)
+[shared/enums/BlipSprites.ts:752](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L752)
 
 ***
 
@@ -4930,7 +4930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:791](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L791)
+[shared/enums/BlipSprites.ts:791](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L791)
 
 ***
 
@@ -4940,7 +4940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:751](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L751)
+[shared/enums/BlipSprites.ts:751](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L751)
 
 ***
 
@@ -4950,7 +4950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:377](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L377)
+[shared/enums/BlipSprites.ts:377](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L377)
 
 ***
 
@@ -4960,7 +4960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:419](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L419)
+[shared/enums/BlipSprites.ts:419](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L419)
 
 ***
 
@@ -4970,7 +4970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:423](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L423)
+[shared/enums/BlipSprites.ts:423](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L423)
 
 ***
 
@@ -4980,7 +4980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L399)
+[shared/enums/BlipSprites.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L399)
 
 ***
 
@@ -4990,7 +4990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:422](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L422)
+[shared/enums/BlipSprites.ts:422](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L422)
 
 ***
 
@@ -5000,7 +5000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:458](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L458)
+[shared/enums/BlipSprites.ts:458](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L458)
 
 ***
 
@@ -5010,7 +5010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:421](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L421)
+[shared/enums/BlipSprites.ts:421](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L421)
 
 ***
 
@@ -5020,7 +5020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:559](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L559)
+[shared/enums/BlipSprites.ts:559](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L559)
 
 ***
 
@@ -5030,7 +5030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:558](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L558)
+[shared/enums/BlipSprites.ts:558](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L558)
 
 ***
 
@@ -5040,7 +5040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:561](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L561)
+[shared/enums/BlipSprites.ts:561](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L561)
 
 ***
 
@@ -5050,7 +5050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:560](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L560)
+[shared/enums/BlipSprites.ts:560](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L560)
 
 ***
 
@@ -5060,7 +5060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:557](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L557)
+[shared/enums/BlipSprites.ts:557](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L557)
 
 ***
 
@@ -5070,7 +5070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:420](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L420)
+[shared/enums/BlipSprites.ts:420](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L420)
 
 ***
 
@@ -5080,7 +5080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:408](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L408)
+[shared/enums/BlipSprites.ts:408](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L408)
 
 ***
 
@@ -5090,7 +5090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:484](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L484)
+[shared/enums/BlipSprites.ts:484](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L484)
 
 ***
 
@@ -5100,7 +5100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:451](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L451)
+[shared/enums/BlipSprites.ts:451](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L451)
 
 ***
 
@@ -5110,7 +5110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:485](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L485)
+[shared/enums/BlipSprites.ts:485](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L485)
 
 ***
 
@@ -5120,7 +5120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:486](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L486)
+[shared/enums/BlipSprites.ts:486](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L486)
 
 ***
 
@@ -5130,7 +5130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:401](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L401)
+[shared/enums/BlipSprites.ts:401](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L401)
 
 ***
 
@@ -5140,7 +5140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:480](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L480)
+[shared/enums/BlipSprites.ts:480](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L480)
 
 ***
 
@@ -5150,7 +5150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:483](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L483)
+[shared/enums/BlipSprites.ts:483](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L483)
 
 ***
 
@@ -5160,7 +5160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:402](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L402)
+[shared/enums/BlipSprites.ts:402](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L402)
 
 ***
 
@@ -5170,7 +5170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L403)
+[shared/enums/BlipSprites.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L403)
 
 ***
 
@@ -5180,7 +5180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:404](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L404)
+[shared/enums/BlipSprites.ts:404](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L404)
 
 ***
 
@@ -5190,7 +5190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:488](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L488)
+[shared/enums/BlipSprites.ts:488](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L488)
 
 ***
 
@@ -5200,7 +5200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:489](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L489)
+[shared/enums/BlipSprites.ts:489](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L489)
 
 ***
 
@@ -5210,7 +5210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:490](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L490)
+[shared/enums/BlipSprites.ts:490](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L490)
 
 ***
 
@@ -5220,7 +5220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L491)
+[shared/enums/BlipSprites.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L491)
 
 ***
 
@@ -5230,7 +5230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:487](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L487)
+[shared/enums/BlipSprites.ts:487](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L487)
 
 ***
 
@@ -5240,7 +5240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:405](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L405)
+[shared/enums/BlipSprites.ts:405](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L405)
 
 ***
 
@@ -5250,7 +5250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:400](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L400)
+[shared/enums/BlipSprites.ts:400](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L400)
 
 ***
 
@@ -5260,7 +5260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L310)
+[shared/enums/BlipSprites.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L310)
 
 ***
 
@@ -5270,7 +5270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:742](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L742)
+[shared/enums/BlipSprites.ts:742](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L742)
 
 ***
 
@@ -5280,7 +5280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:743](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L743)
+[shared/enums/BlipSprites.ts:743](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L743)
 
 ***
 
@@ -5290,7 +5290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:744](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L744)
+[shared/enums/BlipSprites.ts:744](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L744)
 
 ***
 
@@ -5300,7 +5300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L244)
+[shared/enums/BlipSprites.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L244)
 
 ***
 
@@ -5310,7 +5310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L47)
+[shared/enums/BlipSprites.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L47)
 
 ***
 
@@ -5320,7 +5320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:815](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L815)
+[shared/enums/BlipSprites.ts:815](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L815)
 
 ***
 
@@ -5330,7 +5330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:363](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L363)
+[shared/enums/BlipSprites.ts:363](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L363)
 
 ***
 
@@ -5340,7 +5340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L362)
+[shared/enums/BlipSprites.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L362)
 
 ***
 
@@ -5350,7 +5350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L358)
+[shared/enums/BlipSprites.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L358)
 
 ***
 
@@ -5360,7 +5360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L360)
+[shared/enums/BlipSprites.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L360)
 
 ***
 
@@ -5370,7 +5370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L375)
+[shared/enums/BlipSprites.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L375)
 
 ***
 
@@ -5380,7 +5380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L359)
+[shared/enums/BlipSprites.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L359)
 
 ***
 
@@ -5390,7 +5390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L194)
+[shared/enums/BlipSprites.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L194)
 
 ***
 
@@ -5400,7 +5400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L195)
+[shared/enums/BlipSprites.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L195)
 
 ***
 
@@ -5410,7 +5410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L196)
+[shared/enums/BlipSprites.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L196)
 
 ***
 
@@ -5420,7 +5420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L197)
+[shared/enums/BlipSprites.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L197)
 
 ***
 
@@ -5430,7 +5430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L198)
+[shared/enums/BlipSprites.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L198)
 
 ***
 
@@ -5440,7 +5440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L144)
+[shared/enums/BlipSprites.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L144)
 
 ***
 
@@ -5450,7 +5450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L42)
+[shared/enums/BlipSprites.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L42)
 
 ***
 
@@ -5460,7 +5460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L43)
+[shared/enums/BlipSprites.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L43)
 
 ***
 
@@ -5470,7 +5470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L44)
+[shared/enums/BlipSprites.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L44)
 
 ***
 
@@ -5480,7 +5480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L34)
+[shared/enums/BlipSprites.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L34)
 
 ***
 
@@ -5490,7 +5490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L22)
+[shared/enums/BlipSprites.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L22)
 
 ***
 
@@ -5500,7 +5500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L35)
+[shared/enums/BlipSprites.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L35)
 
 ***
 
@@ -5510,7 +5510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L56)
+[shared/enums/BlipSprites.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L56)
 
 ***
 
@@ -5520,7 +5520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L119)
+[shared/enums/BlipSprites.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L119)
 
 ***
 
@@ -5530,7 +5530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:462](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L462)
+[shared/enums/BlipSprites.ts:462](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L462)
 
 ***
 
@@ -5540,7 +5540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L124)
+[shared/enums/BlipSprites.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L124)
 
 ***
 
@@ -5550,7 +5550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:705](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L705)
+[shared/enums/BlipSprites.ts:705](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L705)
 
 ***
 
@@ -5560,7 +5560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:717](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L717)
+[shared/enums/BlipSprites.ts:717](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L717)
 
 ***
 
@@ -5570,7 +5570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:433](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L433)
+[shared/enums/BlipSprites.ts:433](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L433)
 
 ***
 
@@ -5580,7 +5580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:434](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L434)
+[shared/enums/BlipSprites.ts:434](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L434)
 
 ***
 
@@ -5590,7 +5590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:435](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L435)
+[shared/enums/BlipSprites.ts:435](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L435)
 
 ***
 
@@ -5600,7 +5600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:436](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L436)
+[shared/enums/BlipSprites.ts:436](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L436)
 
 ***
 
@@ -5610,7 +5610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:432](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L432)
+[shared/enums/BlipSprites.ts:432](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L432)
 
 ***
 
@@ -5620,7 +5620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L204)
+[shared/enums/BlipSprites.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L204)
 
 ***
 
@@ -5630,7 +5630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:493](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L493)
+[shared/enums/BlipSprites.ts:493](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L493)
 
 ***
 
@@ -5640,7 +5640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L287)
+[shared/enums/BlipSprites.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L287)
 
 ***
 
@@ -5650,7 +5650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L150)
+[shared/enums/BlipSprites.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L150)
 
 ***
 
@@ -5660,7 +5660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L155)
+[shared/enums/BlipSprites.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L155)
 
 ***
 
@@ -5670,7 +5670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L156)
+[shared/enums/BlipSprites.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L156)
 
 ***
 
@@ -5680,7 +5680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L157)
+[shared/enums/BlipSprites.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L157)
 
 ***
 
@@ -5690,7 +5690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:722](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L722)
+[shared/enums/BlipSprites.ts:722](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L722)
 
 ***
 
@@ -5700,7 +5700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:448](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L448)
+[shared/enums/BlipSprites.ts:448](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L448)
 
 ***
 
@@ -5710,7 +5710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L246)
+[shared/enums/BlipSprites.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L246)
 
 ***
 
@@ -5720,7 +5720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L251)
+[shared/enums/BlipSprites.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L251)
 
 ***
 
@@ -5730,7 +5730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L313)
+[shared/enums/BlipSprites.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L313)
 
 ***
 
@@ -5740,7 +5740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:812](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L812)
+[shared/enums/BlipSprites.ts:812](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L812)
 
 ***
 
@@ -5750,7 +5750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:813](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L813)
+[shared/enums/BlipSprites.ts:813](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L813)
 
 ***
 
@@ -5760,7 +5760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L316)
+[shared/enums/BlipSprites.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L316)
 
 ***
 
@@ -5770,7 +5770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L252)
+[shared/enums/BlipSprites.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L252)
 
 ***
 
@@ -5780,7 +5780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:662](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L662)
+[shared/enums/BlipSprites.ts:662](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L662)
 
 ***
 
@@ -5790,7 +5790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:728](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L728)
+[shared/enums/BlipSprites.ts:728](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L728)
 
 ***
 
@@ -5800,7 +5800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L253)
+[shared/enums/BlipSprites.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L253)
 
 ***
 
@@ -5810,7 +5810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:371](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L371)
+[shared/enums/BlipSprites.ts:371](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L371)
 
 ***
 
@@ -5820,7 +5820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:507](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L507)
+[shared/enums/BlipSprites.ts:507](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L507)
 
 ***
 
@@ -5830,7 +5830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:580](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L580)
+[shared/enums/BlipSprites.ts:580](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L580)
 
 ***
 
@@ -5840,7 +5840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L40)
+[shared/enums/BlipSprites.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L40)
 
 ***
 
@@ -5850,7 +5850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L28)
+[shared/enums/BlipSprites.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L28)
 
 ***
 
@@ -5860,7 +5860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L29)
+[shared/enums/BlipSprites.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L29)
 
 ***
 
@@ -5870,7 +5870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:797](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L797)
+[shared/enums/BlipSprites.ts:797](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L797)
 
 ***
 
@@ -5880,7 +5880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L75)
+[shared/enums/BlipSprites.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L75)
 
 ***
 
@@ -5890,7 +5890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L61)
+[shared/enums/BlipSprites.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L61)
 
 ***
 
@@ -5900,7 +5900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L101)
+[shared/enums/BlipSprites.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L101)
 
 ***
 
@@ -5910,7 +5910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L102)
+[shared/enums/BlipSprites.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L102)
 
 ***
 
@@ -5920,7 +5920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:663](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L663)
+[shared/enums/BlipSprites.ts:663](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L663)
 
 ***
 
@@ -5930,7 +5930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:698](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L698)
+[shared/enums/BlipSprites.ts:698](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L698)
 
 ***
 
@@ -5940,7 +5940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:707](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L707)
+[shared/enums/BlipSprites.ts:707](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L707)
 
 ***
 
@@ -5950,7 +5950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L678)
+[shared/enums/BlipSprites.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L678)
 
 ***
 
@@ -5960,7 +5960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L609)
+[shared/enums/BlipSprites.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L609)
 
 ***
 
@@ -5970,7 +5970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:461](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L461)
+[shared/enums/BlipSprites.ts:461](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L461)
 
 ***
 
@@ -5980,7 +5980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L339)
+[shared/enums/BlipSprites.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L339)
 
 ***
 
@@ -5990,7 +5990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:692](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L692)
+[shared/enums/BlipSprites.ts:692](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L692)
 
 ***
 
@@ -6000,7 +6000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:804](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L804)
+[shared/enums/BlipSprites.ts:804](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L804)
 
 ***
 
@@ -6010,7 +6010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:805](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L805)
+[shared/enums/BlipSprites.ts:805](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L805)
 
 ***
 
@@ -6020,7 +6020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L305)
+[shared/enums/BlipSprites.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L305)
 
 ***
 
@@ -6030,7 +6030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:675](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L675)
+[shared/enums/BlipSprites.ts:675](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L675)
 
 ***
 
@@ -6040,7 +6040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L658)
+[shared/enums/BlipSprites.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L658)
 
 ***
 
@@ -6050,7 +6050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:659](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L659)
+[shared/enums/BlipSprites.ts:659](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L659)
 
 ***
 
@@ -6060,7 +6060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:622](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L622)
+[shared/enums/BlipSprites.ts:622](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L622)
 
 ***
 
@@ -6070,7 +6070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:631](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L631)
+[shared/enums/BlipSprites.ts:631](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L631)
 
 ***
 
@@ -6080,7 +6080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:632](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L632)
+[shared/enums/BlipSprites.ts:632](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L632)
 
 ***
 
@@ -6090,7 +6090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:633](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L633)
+[shared/enums/BlipSprites.ts:633](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L633)
 
 ***
 
@@ -6100,7 +6100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:634](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L634)
+[shared/enums/BlipSprites.ts:634](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L634)
 
 ***
 
@@ -6110,7 +6110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:635](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L635)
+[shared/enums/BlipSprites.ts:635](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L635)
 
 ***
 
@@ -6120,7 +6120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:636](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L636)
+[shared/enums/BlipSprites.ts:636](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L636)
 
 ***
 
@@ -6130,7 +6130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:637](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L637)
+[shared/enums/BlipSprites.ts:637](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L637)
 
 ***
 
@@ -6140,7 +6140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:638](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L638)
+[shared/enums/BlipSprites.ts:638](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L638)
 
 ***
 
@@ -6150,7 +6150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:639](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L639)
+[shared/enums/BlipSprites.ts:639](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L639)
 
 ***
 
@@ -6160,7 +6160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:640](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L640)
+[shared/enums/BlipSprites.ts:640](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L640)
 
 ***
 
@@ -6170,7 +6170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:623](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L623)
+[shared/enums/BlipSprites.ts:623](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L623)
 
 ***
 
@@ -6180,7 +6180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:641](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L641)
+[shared/enums/BlipSprites.ts:641](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L641)
 
 ***
 
@@ -6190,7 +6190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:642](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L642)
+[shared/enums/BlipSprites.ts:642](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L642)
 
 ***
 
@@ -6200,7 +6200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:643](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L643)
+[shared/enums/BlipSprites.ts:643](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L643)
 
 ***
 
@@ -6210,7 +6210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:644](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L644)
+[shared/enums/BlipSprites.ts:644](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L644)
 
 ***
 
@@ -6220,7 +6220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:645](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L645)
+[shared/enums/BlipSprites.ts:645](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L645)
 
 ***
 
@@ -6230,7 +6230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:646](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L646)
+[shared/enums/BlipSprites.ts:646](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L646)
 
 ***
 
@@ -6240,7 +6240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:647](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L647)
+[shared/enums/BlipSprites.ts:647](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L647)
 
 ***
 
@@ -6250,7 +6250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:648](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L648)
+[shared/enums/BlipSprites.ts:648](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L648)
 
 ***
 
@@ -6260,7 +6260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:649](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L649)
+[shared/enums/BlipSprites.ts:649](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L649)
 
 ***
 
@@ -6270,7 +6270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:650](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L650)
+[shared/enums/BlipSprites.ts:650](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L650)
 
 ***
 
@@ -6280,7 +6280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:624](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L624)
+[shared/enums/BlipSprites.ts:624](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L624)
 
 ***
 
@@ -6290,7 +6290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:651](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L651)
+[shared/enums/BlipSprites.ts:651](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L651)
 
 ***
 
@@ -6300,7 +6300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:652](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L652)
+[shared/enums/BlipSprites.ts:652](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L652)
 
 ***
 
@@ -6310,7 +6310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:653](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L653)
+[shared/enums/BlipSprites.ts:653](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L653)
 
 ***
 
@@ -6320,7 +6320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:654](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L654)
+[shared/enums/BlipSprites.ts:654](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L654)
 
 ***
 
@@ -6330,7 +6330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:655](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L655)
+[shared/enums/BlipSprites.ts:655](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L655)
 
 ***
 
@@ -6340,7 +6340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:656](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L656)
+[shared/enums/BlipSprites.ts:656](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L656)
 
 ***
 
@@ -6350,7 +6350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:657](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L657)
+[shared/enums/BlipSprites.ts:657](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L657)
 
 ***
 
@@ -6360,7 +6360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L625)
+[shared/enums/BlipSprites.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L625)
 
 ***
 
@@ -6370,7 +6370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:626](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L626)
+[shared/enums/BlipSprites.ts:626](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L626)
 
 ***
 
@@ -6380,7 +6380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:627](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L627)
+[shared/enums/BlipSprites.ts:627](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L627)
 
 ***
 
@@ -6390,7 +6390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:628](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L628)
+[shared/enums/BlipSprites.ts:628](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L628)
 
 ***
 
@@ -6400,7 +6400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:629](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L629)
+[shared/enums/BlipSprites.ts:629](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L629)
 
 ***
 
@@ -6410,7 +6410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:630](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L630)
+[shared/enums/BlipSprites.ts:630](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L630)
 
 ***
 
@@ -6420,7 +6420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L352)
+[shared/enums/BlipSprites.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L352)
 
 ***
 
@@ -6430,7 +6430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:612](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L612)
+[shared/enums/BlipSprites.ts:612](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L612)
 
 ***
 
@@ -6440,7 +6440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L103)
+[shared/enums/BlipSprites.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L103)
 
 ***
 
@@ -6450,7 +6450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:750](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L750)
+[shared/enums/BlipSprites.ts:750](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L750)
 
 ***
 
@@ -6460,7 +6460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L41)
+[shared/enums/BlipSprites.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L41)
 
 ***
 
@@ -6470,7 +6470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:803](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L803)
+[shared/enums/BlipSprites.ts:803](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L803)
 
 ***
 
@@ -6480,7 +6480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:665](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L665)
+[shared/enums/BlipSprites.ts:665](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L665)
 
 ***
 
@@ -6490,7 +6490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:407](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L407)
+[shared/enums/BlipSprites.ts:407](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L407)
 
 ***
 
@@ -6500,7 +6500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:689](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L689)
+[shared/enums/BlipSprites.ts:689](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L689)
 
 ***
 
@@ -6510,7 +6510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:749](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L749)
+[shared/enums/BlipSprites.ts:749](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L749)
 
 ***
 
@@ -6520,7 +6520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L62)
+[shared/enums/BlipSprites.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L62)
 
 ***
 
@@ -6530,7 +6530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:724](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L724)
+[shared/enums/BlipSprites.ts:724](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L724)
 
 ***
 
@@ -6540,7 +6540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:793](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L793)
+[shared/enums/BlipSprites.ts:793](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L793)
 
 ***
 
@@ -6550,7 +6550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L188)
+[shared/enums/BlipSprites.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L188)
 
 ***
 
@@ -6560,7 +6560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L189)
+[shared/enums/BlipSprites.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L189)
 
 ***
 
@@ -6570,7 +6570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L190)
+[shared/enums/BlipSprites.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L190)
 
 ***
 
@@ -6580,7 +6580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L687)
+[shared/enums/BlipSprites.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L687)
 
 ***
 
@@ -6590,7 +6590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L613)
+[shared/enums/BlipSprites.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L613)
 
 ***
 
@@ -6600,7 +6600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L104)
+[shared/enums/BlipSprites.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L104)
 
 ***
 
@@ -6610,7 +6610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L250)
+[shared/enums/BlipSprites.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L250)
 
 ***
 
@@ -6620,7 +6620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L169)
+[shared/enums/BlipSprites.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L169)
 
 ***
 
@@ -6630,7 +6630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L395)
+[shared/enums/BlipSprites.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L395)
 
 ***
 
@@ -6640,7 +6640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:802](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L802)
+[shared/enums/BlipSprites.ts:802](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L802)
 
 ***
 
@@ -6650,7 +6650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L230)
+[shared/enums/BlipSprites.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L230)
 
 ***
 
@@ -6660,7 +6660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:764](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L764)
+[shared/enums/BlipSprites.ts:764](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L764)
 
 ***
 
@@ -6670,7 +6670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:735](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L735)
+[shared/enums/BlipSprites.ts:735](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L735)
 
 ***
 
@@ -6680,7 +6680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:504](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L504)
+[shared/enums/BlipSprites.ts:504](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L504)
 
 ***
 
@@ -6690,7 +6690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:505](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L505)
+[shared/enums/BlipSprites.ts:505](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L505)
 
 ***
 
@@ -6700,7 +6700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:508](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L508)
+[shared/enums/BlipSprites.ts:508](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L508)
 
 ***
 
@@ -6710,7 +6710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:517](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L517)
+[shared/enums/BlipSprites.ts:517](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L517)
 
 ***
 
@@ -6720,7 +6720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:518](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L518)
+[shared/enums/BlipSprites.ts:518](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L518)
 
 ***
 
@@ -6730,7 +6730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:519](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L519)
+[shared/enums/BlipSprites.ts:519](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L519)
 
 ***
 
@@ -6740,7 +6740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:520](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L520)
+[shared/enums/BlipSprites.ts:520](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L520)
 
 ***
 
@@ -6750,7 +6750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:521](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L521)
+[shared/enums/BlipSprites.ts:521](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L521)
 
 ***
 
@@ -6760,7 +6760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L509)
+[shared/enums/BlipSprites.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L509)
 
 ***
 
@@ -6770,7 +6770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:510](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L510)
+[shared/enums/BlipSprites.ts:510](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L510)
 
 ***
 
@@ -6780,7 +6780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:511](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L511)
+[shared/enums/BlipSprites.ts:511](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L511)
 
 ***
 
@@ -6790,7 +6790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:512](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L512)
+[shared/enums/BlipSprites.ts:512](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L512)
 
 ***
 
@@ -6800,7 +6800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:513](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L513)
+[shared/enums/BlipSprites.ts:513](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L513)
 
 ***
 
@@ -6810,7 +6810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:514](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L514)
+[shared/enums/BlipSprites.ts:514](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L514)
 
 ***
 
@@ -6820,7 +6820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:515](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L515)
+[shared/enums/BlipSprites.ts:515](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L515)
 
 ***
 
@@ -6830,7 +6830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:516](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L516)
+[shared/enums/BlipSprites.ts:516](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L516)
 
 ***
 
@@ -6840,7 +6840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L46)
+[shared/enums/BlipSprites.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L46)
 
 ***
 
@@ -6850,7 +6850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L115)
+[shared/enums/BlipSprites.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L115)
 
 ***
 
@@ -6860,7 +6860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:670](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L670)
+[shared/enums/BlipSprites.ts:670](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L670)
 
 ***
 
@@ -6870,7 +6870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L105)
+[shared/enums/BlipSprites.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L105)
 
 ***
 
@@ -6880,7 +6880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L302)
+[shared/enums/BlipSprites.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L302)
 
 ***
 
@@ -6890,7 +6890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L257)
+[shared/enums/BlipSprites.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L257)
 
 ***
 
@@ -6900,7 +6900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:459](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L459)
+[shared/enums/BlipSprites.ts:459](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L459)
 
 ***
 
@@ -6910,7 +6910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:693](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L693)
+[shared/enums/BlipSprites.ts:693](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L693)
 
 ***
 
@@ -6920,7 +6920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:679](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L679)
+[shared/enums/BlipSprites.ts:679](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L679)
 
 ***
 
@@ -6930,7 +6930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:781](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L781)
+[shared/enums/BlipSprites.ts:781](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L781)
 
 ***
 
@@ -6940,7 +6940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:481](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L481)
+[shared/enums/BlipSprites.ts:481](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L481)
 
 ***
 
@@ -6950,7 +6950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L200)
+[shared/enums/BlipSprites.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L200)
 
 ***
 
@@ -6960,7 +6960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:801](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L801)
+[shared/enums/BlipSprites.ts:801](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L801)
 
 ***
 
@@ -6970,7 +6970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:721](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L721)
+[shared/enums/BlipSprites.ts:721](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L721)
 
 ***
 
@@ -6980,7 +6980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L106)
+[shared/enums/BlipSprites.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L106)
 
 ***
 
@@ -6990,7 +6990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:424](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L424)
+[shared/enums/BlipSprites.ts:424](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L424)
 
 ***
 
@@ -7000,7 +7000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:426](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L426)
+[shared/enums/BlipSprites.ts:426](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L426)
 
 ***
 
@@ -7010,7 +7010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L245)
+[shared/enums/BlipSprites.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L245)
 
 ***
 
@@ -7020,7 +7020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:696](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L696)
+[shared/enums/BlipSprites.ts:696](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L696)
 
 ***
 
@@ -7030,7 +7030,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:709](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L709)
+[shared/enums/BlipSprites.ts:709](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L709)
 
 ***
 
@@ -7040,7 +7040,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:711](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L711)
+[shared/enums/BlipSprites.ts:711](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L711)
 
 ***
 
@@ -7050,7 +7050,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:710](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L710)
+[shared/enums/BlipSprites.ts:710](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L710)
 
 ***
 
@@ -7060,7 +7060,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L261)
+[shared/enums/BlipSprites.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L261)
 
 ***
 
@@ -7070,7 +7070,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:492](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L492)
+[shared/enums/BlipSprites.ts:492](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L492)
 
 ***
 
@@ -7080,7 +7080,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:748](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L748)
+[shared/enums/BlipSprites.ts:748](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L748)
 
 ***
 
@@ -7090,7 +7090,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:664](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L664)
+[shared/enums/BlipSprites.ts:664](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L664)
 
 ***
 
@@ -7100,7 +7100,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L357)
+[shared/enums/BlipSprites.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L357)
 
 ***
 
@@ -7110,7 +7110,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:471](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L471)
+[shared/enums/BlipSprites.ts:471](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L471)
 
 ***
 
@@ -7120,7 +7120,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:472](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L472)
+[shared/enums/BlipSprites.ts:472](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L472)
 
 ***
 
@@ -7130,7 +7130,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:473](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L473)
+[shared/enums/BlipSprites.ts:473](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L473)
 
 ***
 
@@ -7140,7 +7140,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:474](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L474)
+[shared/enums/BlipSprites.ts:474](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L474)
 
 ***
 
@@ -7150,7 +7150,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:475](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L475)
+[shared/enums/BlipSprites.ts:475](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L475)
 
 ***
 
@@ -7160,7 +7160,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:476](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L476)
+[shared/enums/BlipSprites.ts:476](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L476)
 
 ***
 
@@ -7170,7 +7170,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:477](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L477)
+[shared/enums/BlipSprites.ts:477](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L477)
 
 ***
 
@@ -7180,7 +7180,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:478](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L478)
+[shared/enums/BlipSprites.ts:478](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L478)
 
 ***
 
@@ -7190,7 +7190,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L68)
+[shared/enums/BlipSprites.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L68)
 
 ***
 
@@ -7200,7 +7200,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L168)
+[shared/enums/BlipSprites.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L168)
 
 ***
 
@@ -7210,7 +7210,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L315)
+[shared/enums/BlipSprites.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L315)
 
 ***
 
@@ -7220,7 +7220,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:365](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L365)
+[shared/enums/BlipSprites.ts:365](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L365)
 
 ***
 
@@ -7230,7 +7230,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:366](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L366)
+[shared/enums/BlipSprites.ts:366](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L366)
 
 ***
 
@@ -7240,7 +7240,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:367](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L367)
+[shared/enums/BlipSprites.ts:367](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L367)
 
 ***
 
@@ -7250,7 +7250,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:368](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L368)
+[shared/enums/BlipSprites.ts:368](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L368)
 
 ***
 
@@ -7260,7 +7260,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:369](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L369)
+[shared/enums/BlipSprites.ts:369](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L369)
 
 ***
 
@@ -7270,7 +7270,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:370](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L370)
+[shared/enums/BlipSprites.ts:370](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L370)
 
 ***
 
@@ -7280,7 +7280,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L107)
+[shared/enums/BlipSprites.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L107)
 
 ***
 
@@ -7290,7 +7290,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L212)
+[shared/enums/BlipSprites.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L212)
 
 ***
 
@@ -7300,7 +7300,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:718](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L718)
+[shared/enums/BlipSprites.ts:718](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L718)
 
 ***
 
@@ -7310,7 +7310,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L340)
+[shared/enums/BlipSprites.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L340)
 
 ***
 
@@ -7320,7 +7320,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:506](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L506)
+[shared/enums/BlipSprites.ts:506](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L506)
 
 ***
 
@@ -7330,7 +7330,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L325)
+[shared/enums/BlipSprites.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L325)
 
 ***
 
@@ -7340,7 +7340,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L254)
+[shared/enums/BlipSprites.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L254)
 
 ***
 
@@ -7350,7 +7350,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L63)
+[shared/enums/BlipSprites.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L63)
 
 ***
 
@@ -7360,7 +7360,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:782](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L782)
+[shared/enums/BlipSprites.ts:782](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L782)
 
 ***
 
@@ -7370,7 +7370,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:415](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L415)
+[shared/enums/BlipSprites.ts:415](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L415)
 
 ***
 
@@ -7380,7 +7380,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:727](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L727)
+[shared/enums/BlipSprites.ts:727](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L727)
 
 ***
 
@@ -7390,7 +7390,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:731](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L731)
+[shared/enums/BlipSprites.ts:731](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L731)
 
 ***
 
@@ -7400,7 +7400,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:818](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L818)
+[shared/enums/BlipSprites.ts:818](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L818)
 
 ***
 
@@ -7410,7 +7410,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:819](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L819)
+[shared/enums/BlipSprites.ts:819](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L819)
 
 ***
 
@@ -7420,7 +7420,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L72)
+[shared/enums/BlipSprites.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L72)
 
 ***
 
@@ -7430,7 +7430,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L108)
+[shared/enums/BlipSprites.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L108)
 
 ***
 
@@ -7440,7 +7440,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L172)
+[shared/enums/BlipSprites.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L172)
 
 ***
 
@@ -7450,7 +7450,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L173)
+[shared/enums/BlipSprites.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L173)
 
 ***
 
@@ -7460,7 +7460,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L110)
+[shared/enums/BlipSprites.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L110)
 
 ***
 
@@ -7470,7 +7470,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L153)
+[shared/enums/BlipSprites.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L153)
 
 ***
 
@@ -7480,7 +7480,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L154)
+[shared/enums/BlipSprites.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L154)
 
 ***
 
@@ -7490,7 +7490,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:482](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L482)
+[shared/enums/BlipSprites.ts:482](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L482)
 
 ***
 
@@ -7500,7 +7500,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:413](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L413)
+[shared/enums/BlipSprites.ts:413](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L413)
 
 ***
 
@@ -7510,7 +7510,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L396)
+[shared/enums/BlipSprites.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L396)
 
 ***
 
@@ -7520,7 +7520,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:688](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L688)
+[shared/enums/BlipSprites.ts:688](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L688)
 
 ***
 
@@ -7530,7 +7530,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L241)
+[shared/enums/BlipSprites.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L241)
 
 ***
 
@@ -7540,7 +7540,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:704](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L704)
+[shared/enums/BlipSprites.ts:704](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L704)
 
 ***
 
@@ -7550,7 +7550,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:373](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L373)
+[shared/enums/BlipSprites.ts:373](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L373)
 
 ***
 
@@ -7560,7 +7560,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L146)
+[shared/enums/BlipSprites.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L146)
 
 ***
 
@@ -7570,7 +7570,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:695](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L695)
+[shared/enums/BlipSprites.ts:695](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L695)
 
 ***
 
@@ -7580,7 +7580,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:789](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L789)
+[shared/enums/BlipSprites.ts:789](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L789)
 
 ***
 
@@ -7590,7 +7590,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:747](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L747)
+[shared/enums/BlipSprites.ts:747](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L747)
 
 ***
 
@@ -7600,7 +7600,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L317)
+[shared/enums/BlipSprites.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L317)
 
 ***
 
@@ -7610,7 +7610,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:746](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L746)
+[shared/enums/BlipSprites.ts:746](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L746)
 
 ***
 
@@ -7620,7 +7620,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:807](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L807)
+[shared/enums/BlipSprites.ts:807](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L807)
 
 ***
 
@@ -7630,7 +7630,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:808](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L808)
+[shared/enums/BlipSprites.ts:808](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L808)
 
 ***
 
@@ -7640,7 +7640,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L76)
+[shared/enums/BlipSprites.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L76)
 
 ***
 
@@ -7650,7 +7650,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:416](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L416)
+[shared/enums/BlipSprites.ts:416](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L416)
 
 ***
 
@@ -7660,7 +7660,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L23)
+[shared/enums/BlipSprites.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L23)
 
 ***
 
@@ -7670,7 +7670,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:409](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L409)
+[shared/enums/BlipSprites.ts:409](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L409)
 
 ***
 
@@ -7680,7 +7680,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:410](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L410)
+[shared/enums/BlipSprites.ts:410](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L410)
 
 ***
 
@@ -7690,7 +7690,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:783](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L783)
+[shared/enums/BlipSprites.ts:783](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L783)
 
 ***
 
@@ -7700,7 +7700,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:784](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L784)
+[shared/enums/BlipSprites.ts:784](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L784)
 
 ***
 
@@ -7710,7 +7710,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:460](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L460)
+[shared/enums/BlipSprites.ts:460](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L460)
 
 ***
 
@@ -7720,7 +7720,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L27)
+[shared/enums/BlipSprites.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L27)
 
 ***
 
@@ -7730,7 +7730,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:661](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L661)
+[shared/enums/BlipSprites.ts:661](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L661)
 
 ***
 
@@ -7740,7 +7740,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:770](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L770)
+[shared/enums/BlipSprites.ts:770](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L770)
 
 ***
 
@@ -7750,7 +7750,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L149)
+[shared/enums/BlipSprites.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L149)
 
 ***
 
@@ -7760,7 +7760,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L132)
+[shared/enums/BlipSprites.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L132)
 
 ***
 
@@ -7770,7 +7770,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L133)
+[shared/enums/BlipSprites.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L133)
 
 ***
 
@@ -7780,7 +7780,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:816](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L816)
+[shared/enums/BlipSprites.ts:816](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L816)
 
 ***
 
@@ -7790,7 +7790,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:785](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L785)
+[shared/enums/BlipSprites.ts:785](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L785)
 
 ***
 
@@ -7800,7 +7800,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L134)
+[shared/enums/BlipSprites.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L134)
 
 ***
 
@@ -7810,7 +7810,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L135)
+[shared/enums/BlipSprites.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L135)
 
 ***
 
@@ -7820,7 +7820,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L30)
+[shared/enums/BlipSprites.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L30)
 
 ***
 
@@ -7830,7 +7830,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L351)
+[shared/enums/BlipSprites.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L351)
 
 ***
 
@@ -7840,7 +7840,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L136)
+[shared/enums/BlipSprites.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L136)
 
 ***
 
@@ -7850,7 +7850,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:425](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L425)
+[shared/enums/BlipSprites.ts:425](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L425)
 
 ***
 
@@ -7860,7 +7860,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L31)
+[shared/enums/BlipSprites.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L31)
 
 ***
 
@@ -7870,7 +7870,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L148)
+[shared/enums/BlipSprites.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L148)
 
 ***
 
@@ -7880,7 +7880,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L137)
+[shared/enums/BlipSprites.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L137)
 
 ***
 
@@ -7890,7 +7890,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L138)
+[shared/enums/BlipSprites.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L138)
 
 ***
 
@@ -7900,7 +7900,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:406](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L406)
+[shared/enums/BlipSprites.ts:406](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L406)
 
 ***
 
@@ -7910,7 +7910,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L139)
+[shared/enums/BlipSprites.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L139)
 
 ***
 
@@ -7920,7 +7920,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L140)
+[shared/enums/BlipSprites.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L140)
 
 ***
 
@@ -7930,7 +7930,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L141)
+[shared/enums/BlipSprites.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L141)
 
 ***
 
@@ -7940,7 +7940,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L142)
+[shared/enums/BlipSprites.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L142)
 
 ***
 
@@ -7950,7 +7950,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:817](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L817)
+[shared/enums/BlipSprites.ts:817](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L817)
 
 ***
 
@@ -7960,7 +7960,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L122)
+[shared/enums/BlipSprites.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L122)
 
 ***
 
@@ -7970,7 +7970,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:681](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L681)
+[shared/enums/BlipSprites.ts:681](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L681)
 
 ***
 
@@ -7980,7 +7980,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:391](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L391)
+[shared/enums/BlipSprites.ts:391](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L391)
 
 ***
 
@@ -7990,7 +7990,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L398)
+[shared/enums/BlipSprites.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L398)
 
 ***
 
@@ -8000,7 +8000,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L167)
+[shared/enums/BlipSprites.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L167)
 
 ***
 
@@ -8010,7 +8010,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:806](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L806)
+[shared/enums/BlipSprites.ts:806](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L806)
 
 ***
 
@@ -8020,7 +8020,7 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L673)
+[shared/enums/BlipSprites.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L673)
 
 ***
 
@@ -8030,4 +8030,4 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/BlipSprites.ts#L199)
+[shared/enums/BlipSprites.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L199)

@@ -8,6 +8,13 @@
 
 ## Index
 
+### Namespaces
+
+- [Effects](namespaces/Effects/README.md)
+- [Fading](namespaces/Fading/README.md)
+- [Hud](namespaces/Hud/README.md)
+- [LoadingPrompt](namespaces/LoadingPrompt/README.md)
+
 ### Enumerations
 
 - [Alignment](enumerations/Alignment.md)
@@ -65,6 +72,7 @@
 
 - [Checkpoint](classes/Checkpoint.md)
 - [Color](classes/Color.md)
+- [Container](classes/Container.md)
 - [GameplayCamera](classes/GameplayCamera.md)
 - [Point](classes/Point.md)
 - [PointF](classes/PointF.md)
@@ -75,6 +83,7 @@
 ### Interfaces
 
 - [IClientEvent](interfaces/IClientEvent.md)
+- [IDrawable](interfaces/IDrawable.md)
 - [InvertAxis](interfaces/InvertAxis.md)
 
 ### Type Aliases

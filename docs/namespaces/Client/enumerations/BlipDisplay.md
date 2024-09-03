@@ -39,7 +39,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L28)
+[client/enums/BlipDisplay.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L28)
 
 ***
 
@@ -49,7 +49,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L29)
+[client/enums/BlipDisplay.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L29)
 
 ***
 
@@ -59,7 +59,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L35)
+[client/enums/BlipDisplay.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L35)
 
 ***
 
@@ -69,7 +69,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L30)
+[client/enums/BlipDisplay.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L30)
 
 ***
 
@@ -79,7 +79,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L34)
+[client/enums/BlipDisplay.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L34)
 
 ***
 
@@ -89,7 +89,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L36)
+[client/enums/BlipDisplay.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L36)
 
 ***
 
@@ -99,7 +99,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L38)
+[client/enums/BlipDisplay.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L38)
 
 ***
 
@@ -109,7 +109,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L31)
+[client/enums/BlipDisplay.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L31)
 
 ***
 
@@ -119,7 +119,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L32)
+[client/enums/BlipDisplay.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L32)
 
 ***
 
@@ -129,7 +129,7 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L33)
+[client/enums/BlipDisplay.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L33)
 
 ***
 
@@ -139,4 +139,4 @@ Rockstar seem to only use 0, 2, 3, 4, 5 and 8 in the decompiled scripts.
 
 #### Defined in
 
-[client/enums/BlipDisplay.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipDisplay.ts#L37)
+[client/enums/BlipDisplay.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipDisplay.ts#L37)

@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L40)
+[client/enums/MarkerTypes.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L40)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L37)
+[client/enums/MarkerTypes.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L37)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L38)
+[client/enums/MarkerTypes.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L38)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L7)
+[client/enums/MarkerTypes.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L7)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L6)
+[client/enums/MarkerTypes.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L6)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L22)
+[client/enums/MarkerTypes.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L22)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L23)
+[client/enums/MarkerTypes.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L23)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L24)
+[client/enums/MarkerTypes.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L24)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L30)
+[client/enums/MarkerTypes.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L30)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L31)
+[client/enums/MarkerTypes.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L31)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L36)
+[client/enums/MarkerTypes.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L36)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L32)
+[client/enums/MarkerTypes.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L32)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L25)
+[client/enums/MarkerTypes.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L25)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L27)
+[client/enums/MarkerTypes.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L27)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L28)
+[client/enums/MarkerTypes.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L28)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L29)
+[client/enums/MarkerTypes.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L29)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L43)
+[client/enums/MarkerTypes.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L43)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L11)
+[client/enums/MarkerTypes.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L11)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L10)
+[client/enums/MarkerTypes.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L10)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L39)
+[client/enums/MarkerTypes.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L39)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L12)
+[client/enums/MarkerTypes.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L12)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L13)
+[client/enums/MarkerTypes.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L13)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L14)
+[client/enums/MarkerTypes.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L14)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L15)
+[client/enums/MarkerTypes.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L15)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L16)
+[client/enums/MarkerTypes.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L16)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L17)
+[client/enums/MarkerTypes.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L17)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L18)
+[client/enums/MarkerTypes.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L18)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L19)
+[client/enums/MarkerTypes.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L19)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L20)
+[client/enums/MarkerTypes.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L20)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L21)
+[client/enums/MarkerTypes.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L21)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L42)
+[client/enums/MarkerTypes.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L42)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L9)
+[client/enums/MarkerTypes.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L9)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L35)
+[client/enums/MarkerTypes.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L35)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L34)
+[client/enums/MarkerTypes.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L34)
 
 ***
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L45)
+[client/enums/MarkerTypes.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L45)
 
 ***
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L26)
+[client/enums/MarkerTypes.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L26)
 
 ***
 
@@ -374,7 +374,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L44)
+[client/enums/MarkerTypes.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L44)
 
 ***
 
@@ -384,7 +384,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L4)
+[client/enums/MarkerTypes.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L4)
 
 ***
 
@@ -394,7 +394,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L5)
+[client/enums/MarkerTypes.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L5)
 
 ***
 
@@ -404,7 +404,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L41)
+[client/enums/MarkerTypes.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L41)
 
 ***
 
@@ -414,7 +414,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L2)
+[client/enums/MarkerTypes.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L2)
 
 ***
 
@@ -424,7 +424,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L3)
+[client/enums/MarkerTypes.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L3)
 
 ***
 
@@ -434,7 +434,7 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L8)
+[client/enums/MarkerTypes.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L8)
 
 ***
 
@@ -444,4 +444,4 @@
 
 #### Defined in
 
-[client/enums/MarkerTypes.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/MarkerTypes.ts#L33)
+[client/enums/MarkerTypes.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MarkerTypes.ts#L33)

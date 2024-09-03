@@ -22,4 +22,4 @@
 
 ## Defined in
 
-[shared/decorators/core/Singleton.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/decorators/core/Singleton.ts#L3)
+[shared/decorators/core/Singleton.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/core/Singleton.ts#L3)

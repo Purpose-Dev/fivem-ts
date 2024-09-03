@@ -35,4 +35,4 @@ console.log(result); // 2
 
 ## Defined in
 
-[shared/utils/FString.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FString.ts#L109)
+[shared/utils/FString.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FString.ts#L109)

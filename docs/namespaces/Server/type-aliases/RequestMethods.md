@@ -26,4 +26,4 @@ const method: RequestMethods = 'POST';
 
 ## Defined in
 
-[server/web/makeRequest.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/makeRequest.ts#L57)
+[server/web/makeRequest.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/makeRequest.ts#L57)

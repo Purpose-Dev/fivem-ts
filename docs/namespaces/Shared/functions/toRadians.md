@@ -31,4 +31,4 @@ toRadians(90); // Math.PI / 2
 
 ## Defined in
 
-[shared/utils/FMath.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L85)
+[shared/utils/FMath.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L85)

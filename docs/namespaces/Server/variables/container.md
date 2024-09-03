@@ -21,4 +21,4 @@ const myService = container.resolve(MyService);
 
 ## Defined in
 
-[server/ioc/DIContainer.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L312)
+[server/ioc/DIContainer.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L313)

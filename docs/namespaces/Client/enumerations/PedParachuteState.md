@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/Parachute.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Parachute.ts#L14)
+[client/enums/Parachute.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Parachute.ts#L14)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/Parachute.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Parachute.ts#L10)
+[client/enums/Parachute.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Parachute.ts#L10)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/Parachute.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Parachute.ts#L13)
+[client/enums/Parachute.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Parachute.ts#L13)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/Parachute.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Parachute.ts#L12)
+[client/enums/Parachute.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Parachute.ts#L12)
 
 ***
 
@@ -54,4 +54,4 @@
 
 #### Defined in
 
-[client/enums/Parachute.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Parachute.ts#L11)
+[client/enums/Parachute.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Parachute.ts#L11)

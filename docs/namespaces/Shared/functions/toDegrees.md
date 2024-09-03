@@ -31,4 +31,4 @@ toDegrees(Math.PI / 2); // 90
 
 ## Defined in
 
-[shared/utils/FMath.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L69)
+[shared/utils/FMath.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L69)

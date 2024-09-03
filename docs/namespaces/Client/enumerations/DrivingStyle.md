@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L9)
+[client/enums/DrivingStyle.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L9)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L7)
+[client/enums/DrivingStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L7)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L8)
+[client/enums/DrivingStyle.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L8)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L13)
+[client/enums/DrivingStyle.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L13)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L4)
+[client/enums/DrivingStyle.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L4)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L10)
+[client/enums/DrivingStyle.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L10)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L11)
+[client/enums/DrivingStyle.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L11)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L2)
+[client/enums/DrivingStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L2)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L3)
+[client/enums/DrivingStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L3)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L6)
+[client/enums/DrivingStyle.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L6)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L12)
+[client/enums/DrivingStyle.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L12)
 
 ***
 
@@ -124,4 +124,4 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/DrivingStyle.ts#L5)
+[client/enums/DrivingStyle.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L5)

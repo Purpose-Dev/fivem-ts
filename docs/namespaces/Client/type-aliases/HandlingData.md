@@ -214,4 +214,4 @@ This Handling Data type represents data on handling.meta file
 
 ## Defined in
 
-[client/types/HandlingData.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/types/HandlingData.ts#L6)
+[client/types/HandlingData.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/types/HandlingData.ts#L6)

@@ -16,7 +16,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L131)
+[shared/hashes/WeaponsHash.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L131)
 
 ***
 
@@ -26,7 +26,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L81)
+[shared/hashes/WeaponsHash.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L81)
 
 ***
 
@@ -36,7 +36,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L34)
+[shared/hashes/WeaponsHash.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L34)
 
 ***
 
@@ -46,7 +46,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L77)
+[shared/hashes/WeaponsHash.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L77)
 
 ***
 
@@ -56,7 +56,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L78)
+[shared/hashes/WeaponsHash.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L78)
 
 ***
 
@@ -66,7 +66,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L68)
+[shared/hashes/WeaponsHash.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L68)
 
 ***
 
@@ -76,7 +76,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L57)
+[shared/hashes/WeaponsHash.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L57)
 
 ***
 
@@ -86,7 +86,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L128)
+[shared/hashes/WeaponsHash.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L128)
 
 ***
 
@@ -96,7 +96,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L10)
+[shared/hashes/WeaponsHash.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L10)
 
 ***
 
@@ -106,7 +106,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L24)
+[shared/hashes/WeaponsHash.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L24)
 
 ***
 
@@ -116,7 +116,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L90)
+[shared/hashes/WeaponsHash.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L90)
 
 ***
 
@@ -126,7 +126,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L11)
+[shared/hashes/WeaponsHash.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L11)
 
 ***
 
@@ -136,7 +136,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L84)
+[shared/hashes/WeaponsHash.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L84)
 
 ***
 
@@ -146,7 +146,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L85)
+[shared/hashes/WeaponsHash.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L85)
 
 ***
 
@@ -156,7 +156,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L69)
+[shared/hashes/WeaponsHash.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L69)
 
 ***
 
@@ -166,7 +166,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L27)
+[shared/hashes/WeaponsHash.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L27)
 
 ***
 
@@ -176,7 +176,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L79)
+[shared/hashes/WeaponsHash.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L79)
 
 ***
 
@@ -186,7 +186,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L80)
+[shared/hashes/WeaponsHash.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L80)
 
 ***
 
@@ -196,7 +196,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L47)
+[shared/hashes/WeaponsHash.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L47)
 
 ***
 
@@ -206,7 +206,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L94)
+[shared/hashes/WeaponsHash.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L94)
 
 ***
 
@@ -216,7 +216,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L95)
+[shared/hashes/WeaponsHash.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L95)
 
 ***
 
@@ -226,7 +226,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L58)
+[shared/hashes/WeaponsHash.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L58)
 
 ***
 
@@ -236,7 +236,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L33)
+[shared/hashes/WeaponsHash.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L33)
 
 ***
 
@@ -246,7 +246,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L74)
+[shared/hashes/WeaponsHash.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L74)
 
 ***
 
@@ -256,7 +256,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L114)
+[shared/hashes/WeaponsHash.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L114)
 
 ***
 
@@ -266,7 +266,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L86)
+[shared/hashes/WeaponsHash.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L86)
 
 ***
 
@@ -276,7 +276,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L12)
+[shared/hashes/WeaponsHash.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L12)
 
 ***
 
@@ -286,7 +286,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L9)
+[shared/hashes/WeaponsHash.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L9)
 
 ***
 
@@ -296,7 +296,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L45)
+[shared/hashes/WeaponsHash.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L45)
 
 ***
 
@@ -306,7 +306,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L72)
+[shared/hashes/WeaponsHash.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L72)
 
 ***
 
@@ -316,7 +316,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L116)
+[shared/hashes/WeaponsHash.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L116)
 
 ***
 
@@ -326,7 +326,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L138)
+[shared/hashes/WeaponsHash.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L138)
 
 ***
 
@@ -336,7 +336,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L136)
+[shared/hashes/WeaponsHash.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L136)
 
 ***
 
@@ -346,7 +346,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L111)
+[shared/hashes/WeaponsHash.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L111)
 
 ***
 
@@ -356,7 +356,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L130)
+[shared/hashes/WeaponsHash.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L130)
 
 ***
 
@@ -366,7 +366,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L41)
+[shared/hashes/WeaponsHash.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L41)
 
 ***
 
@@ -376,7 +376,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L14)
+[shared/hashes/WeaponsHash.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L14)
 
 ***
 
@@ -386,7 +386,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L49)
+[shared/hashes/WeaponsHash.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L49)
 
 ***
 
@@ -396,7 +396,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L144)
+[shared/hashes/WeaponsHash.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L144)
 
 ***
 
@@ -406,7 +406,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L122)
+[shared/hashes/WeaponsHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L122)
 
 ***
 
@@ -416,7 +416,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L15)
+[shared/hashes/WeaponsHash.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L15)
 
 ***
 
@@ -426,7 +426,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L121)
+[shared/hashes/WeaponsHash.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L121)
 
 ***
 
@@ -436,7 +436,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L108)
+[shared/hashes/WeaponsHash.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L108)
 
 ***
 
@@ -446,7 +446,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L109)
+[shared/hashes/WeaponsHash.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L109)
 
 ***
 
@@ -456,7 +456,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L96)
+[shared/hashes/WeaponsHash.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L96)
 
 ***
 
@@ -466,7 +466,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L142)
+[shared/hashes/WeaponsHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L142)
 
 ***
 
@@ -476,7 +476,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L16)
+[shared/hashes/WeaponsHash.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L16)
 
 ***
 
@@ -486,7 +486,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L143)
+[shared/hashes/WeaponsHash.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L143)
 
 ***
 
@@ -496,7 +496,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L17)
+[shared/hashes/WeaponsHash.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L17)
 
 ***
 
@@ -506,7 +506,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L137)
+[shared/hashes/WeaponsHash.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L137)
 
 ***
 
@@ -516,7 +516,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L39)
+[shared/hashes/WeaponsHash.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L39)
 
 ***
 
@@ -526,7 +526,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L88)
+[shared/hashes/WeaponsHash.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L88)
 
 ***
 
@@ -536,7 +536,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L71)
+[shared/hashes/WeaponsHash.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L71)
 
 ***
 
@@ -546,7 +546,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L100)
+[shared/hashes/WeaponsHash.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L100)
 
 ***
 
@@ -556,7 +556,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L101)
+[shared/hashes/WeaponsHash.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L101)
 
 ***
 
@@ -566,7 +566,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L113)
+[shared/hashes/WeaponsHash.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L113)
 
 ***
 
@@ -576,7 +576,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L19)
+[shared/hashes/WeaponsHash.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L19)
 
 ***
 
@@ -586,7 +586,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L18)
+[shared/hashes/WeaponsHash.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L18)
 
 ***
 
@@ -596,7 +596,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L20)
+[shared/hashes/WeaponsHash.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L20)
 
 ***
 
@@ -606,7 +606,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L59)
+[shared/hashes/WeaponsHash.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L59)
 
 ***
 
@@ -616,7 +616,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L42)
+[shared/hashes/WeaponsHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L42)
 
 ***
 
@@ -626,7 +626,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L102)
+[shared/hashes/WeaponsHash.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L102)
 
 ***
 
@@ -636,7 +636,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L103)
+[shared/hashes/WeaponsHash.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L103)
 
 ***
 
@@ -646,7 +646,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L146)
+[shared/hashes/WeaponsHash.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L146)
 
 ***
 
@@ -656,7 +656,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L93)
+[shared/hashes/WeaponsHash.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L93)
 
 ***
 
@@ -666,7 +666,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L54)
+[shared/hashes/WeaponsHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L54)
 
 ***
 
@@ -676,7 +676,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L87)
+[shared/hashes/WeaponsHash.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L87)
 
 ***
 
@@ -686,7 +686,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L110)
+[shared/hashes/WeaponsHash.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L110)
 
 ***
 
@@ -696,7 +696,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L60)
+[shared/hashes/WeaponsHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L60)
 
 ***
 
@@ -706,7 +706,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L123)
+[shared/hashes/WeaponsHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L123)
 
 ***
 
@@ -716,7 +716,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L70)
+[shared/hashes/WeaponsHash.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L70)
 
 ***
 
@@ -726,7 +726,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L48)
+[shared/hashes/WeaponsHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L48)
 
 ***
 
@@ -736,7 +736,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L139)
+[shared/hashes/WeaponsHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L139)
 
 ***
 
@@ -746,7 +746,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L22)
+[shared/hashes/WeaponsHash.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L22)
 
 ***
 
@@ -756,7 +756,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L135)
+[shared/hashes/WeaponsHash.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L135)
 
 ***
 
@@ -766,7 +766,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L134)
+[shared/hashes/WeaponsHash.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L134)
 
 ***
 
@@ -776,7 +776,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L127)
+[shared/hashes/WeaponsHash.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L127)
 
 ***
 
@@ -786,7 +786,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L23)
+[shared/hashes/WeaponsHash.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L23)
 
 ***
 
@@ -796,7 +796,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L31)
+[shared/hashes/WeaponsHash.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L31)
 
 ***
 
@@ -806,7 +806,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L36)
+[shared/hashes/WeaponsHash.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L36)
 
 ***
 
@@ -816,7 +816,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L32)
+[shared/hashes/WeaponsHash.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L32)
 
 ***
 
@@ -826,7 +826,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L51)
+[shared/hashes/WeaponsHash.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L51)
 
 ***
 
@@ -836,7 +836,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L25)
+[shared/hashes/WeaponsHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L25)
 
 ***
 
@@ -846,7 +846,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L104)
+[shared/hashes/WeaponsHash.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L104)
 
 ***
 
@@ -856,7 +856,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L125)
+[shared/hashes/WeaponsHash.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L125)
 
 ***
 
@@ -866,7 +866,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L65)
+[shared/hashes/WeaponsHash.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L65)
 
 ***
 
@@ -876,7 +876,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L66)
+[shared/hashes/WeaponsHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L66)
 
 ***
 
@@ -886,7 +886,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L112)
+[shared/hashes/WeaponsHash.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L112)
 
 ***
 
@@ -896,7 +896,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L117)
+[shared/hashes/WeaponsHash.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L117)
 
 ***
 
@@ -906,7 +906,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L61)
+[shared/hashes/WeaponsHash.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L61)
 
 ***
 
@@ -916,7 +916,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L115)
+[shared/hashes/WeaponsHash.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L115)
 
 ***
 
@@ -926,7 +926,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L46)
+[shared/hashes/WeaponsHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L46)
 
 ***
 
@@ -936,7 +936,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L43)
+[shared/hashes/WeaponsHash.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L43)
 
 ***
 
@@ -946,7 +946,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L44)
+[shared/hashes/WeaponsHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L44)
 
 ***
 
@@ -956,7 +956,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L107)
+[shared/hashes/WeaponsHash.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L107)
 
 ***
 
@@ -966,7 +966,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L67)
+[shared/hashes/WeaponsHash.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L67)
 
 ***
 
@@ -976,7 +976,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L55)
+[shared/hashes/WeaponsHash.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L55)
 
 ***
 
@@ -986,7 +986,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L56)
+[shared/hashes/WeaponsHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L56)
 
 ***
 
@@ -996,7 +996,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L129)
+[shared/hashes/WeaponsHash.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L129)
 
 ***
 
@@ -1006,7 +1006,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L99)
+[shared/hashes/WeaponsHash.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L99)
 
 ***
 
@@ -1016,7 +1016,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L126)
+[shared/hashes/WeaponsHash.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L126)
 
 ***
 
@@ -1026,7 +1026,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L118)
+[shared/hashes/WeaponsHash.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L118)
 
 ***
 
@@ -1036,7 +1036,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L37)
+[shared/hashes/WeaponsHash.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L37)
 
 ***
 
@@ -1046,7 +1046,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L38)
+[shared/hashes/WeaponsHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L38)
 
 ***
 
@@ -1056,7 +1056,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L82)
+[shared/hashes/WeaponsHash.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L82)
 
 ***
 
@@ -1066,7 +1066,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L83)
+[shared/hashes/WeaponsHash.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L83)
 
 ***
 
@@ -1076,7 +1076,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L124)
+[shared/hashes/WeaponsHash.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L124)
 
 ***
 
@@ -1086,7 +1086,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L26)
+[shared/hashes/WeaponsHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L26)
 
 ***
 
@@ -1096,7 +1096,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L35)
+[shared/hashes/WeaponsHash.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L35)
 
 ***
 
@@ -1106,7 +1106,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L50)
+[shared/hashes/WeaponsHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L50)
 
 ***
 
@@ -1116,7 +1116,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L28)
+[shared/hashes/WeaponsHash.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L28)
 
 ***
 
@@ -1126,7 +1126,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L73)
+[shared/hashes/WeaponsHash.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L73)
 
 ***
 
@@ -1136,7 +1136,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L21)
+[shared/hashes/WeaponsHash.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L21)
 
 ***
 
@@ -1146,7 +1146,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L89)
+[shared/hashes/WeaponsHash.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L89)
 
 ***
 
@@ -1156,7 +1156,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L62)
+[shared/hashes/WeaponsHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L62)
 
 ***
 
@@ -1166,7 +1166,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L145)
+[shared/hashes/WeaponsHash.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L145)
 
 ***
 
@@ -1176,7 +1176,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L13)
+[shared/hashes/WeaponsHash.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L13)
 
 ***
 
@@ -1186,7 +1186,7 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L6)
+[shared/hashes/WeaponsHash.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L6)
 
 ***
 
@@ -1196,4 +1196,4 @@ Enum containing all Weapons Names to signed int
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L40)
+[shared/hashes/WeaponsHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L40)

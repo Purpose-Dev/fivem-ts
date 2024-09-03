@@ -85,4 +85,4 @@ A decorator function that registers the class with the specified scope in the DI
 
 ## Defined in
 
-[server/ioc/Scoped.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Scoped.ts#L62)
+[server/ioc/Scoped.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Scoped.ts#L62)

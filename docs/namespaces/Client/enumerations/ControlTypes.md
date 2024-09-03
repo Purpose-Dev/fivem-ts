@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/ControlTypes.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ControlTypes.ts#L3)
+[client/enums/ControlTypes.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ControlTypes.ts#L3)
 
 ***
 
@@ -24,4 +24,4 @@
 
 #### Defined in
 
-[client/enums/ControlTypes.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ControlTypes.ts#L2)
+[client/enums/ControlTypes.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ControlTypes.ts#L2)

@@ -42,7 +42,7 @@ The w (scalar) component of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L36)
+[client/utils/Quaternion.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L36)
 
 ## Properties
 
@@ -54,7 +54,7 @@ The w (scalar) component of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L40)
+[client/utils/Quaternion.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L40)
 
 ***
 
@@ -66,7 +66,7 @@ The x component of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L37)
+[client/utils/Quaternion.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L37)
 
 ***
 
@@ -78,7 +78,7 @@ The y component of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L38)
+[client/utils/Quaternion.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L38)
 
 ***
 
@@ -90,7 +90,7 @@ The z component of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L39)
+[client/utils/Quaternion.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L39)
 
 ## Accessors
 
@@ -108,7 +108,7 @@ The magnitude of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L47)
+[client/utils/Quaternion.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L47)
 
 ***
 
@@ -127,7 +127,7 @@ A new quaternion that is the normalized version of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L56)
+[client/utils/Quaternion.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L56)
 
 ## Methods
 
@@ -146,7 +146,7 @@ A new quaternion representing the conjugate of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L124)
+[client/utils/Quaternion.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L124)
 
 ***
 
@@ -171,7 +171,7 @@ The dot product of the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L149)
+[client/utils/Quaternion.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L149)
 
 ***
 
@@ -199,7 +199,7 @@ True if the quaternions are equal within the given tolerance, false otherwise.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L74)
+[client/utils/Quaternion.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L74)
 
 ***
 
@@ -218,7 +218,7 @@ A new quaternion representing the inverse of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L133)
+[client/utils/Quaternion.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L133)
 
 ***
 
@@ -243,7 +243,7 @@ A new quaternion representing the product of the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L110)
+[client/utils/Quaternion.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L110)
 
 ***
 
@@ -272,7 +272,7 @@ A new quaternion representing the interpolated quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L160)
+[client/utils/Quaternion.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L160)
 
 ***
 
@@ -290,7 +290,7 @@ An array containing the quaternion components.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L87)
+[client/utils/Quaternion.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L87)
 
 ***
 
@@ -309,7 +309,7 @@ An object containing the roll, pitch, and yaw angles in radians.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L199)
+[client/utils/Quaternion.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L199)
 
 ***
 
@@ -343,7 +343,7 @@ A JSON object with x, y, z, and w properties.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L95)
+[client/utils/Quaternion.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L95)
 
 ***
 
@@ -371,7 +371,7 @@ The angle in radians between the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L274)
+[client/utils/Quaternion.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L274)
 
 ***
 
@@ -397,7 +397,7 @@ The quaternion representing the rotation to apply.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L296)
+[client/utils/Quaternion.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L296)
 
 ***
 
@@ -421,7 +421,7 @@ A new quaternion representing the entity's rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L285)
+[client/utils/Quaternion.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L285)
 
 ***
 
@@ -445,7 +445,7 @@ A new quaternion representing the rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L225)
+[client/utils/Quaternion.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L225)
 
 ***
 
@@ -463,7 +463,7 @@ A new quaternion representing no rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L263)
+[client/utils/Quaternion.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L263)
 
 ***
 
@@ -495,4 +495,4 @@ A new quaternion that is the result of the interpolation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L249)
+[client/utils/Quaternion.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L249)

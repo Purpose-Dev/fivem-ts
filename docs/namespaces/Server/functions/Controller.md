@@ -22,4 +22,4 @@ The base path for the controller's routes.
 
 ## Defined in
 
-[server/web/Controller.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/Controller.ts#L9)
+[server/web/Controller.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/Controller.ts#L9)

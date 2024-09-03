@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L2)
+[server/events/ServerEventNames.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L3)
+[server/events/ServerEventNames.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L4)
+[server/events/ServerEventNames.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L5)
+[server/events/ServerEventNames.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L6)
+[server/events/ServerEventNames.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L6)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L7)
+[server/events/ServerEventNames.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L7)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L8)
+[server/events/ServerEventNames.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L8)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L9)
+[server/events/ServerEventNames.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L9)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L10)
+[server/events/ServerEventNames.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L10)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L11)
+[server/events/ServerEventNames.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L11)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L12)
+[server/events/ServerEventNames.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L12)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L13)
+[server/events/ServerEventNames.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L13)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L14)
+[server/events/ServerEventNames.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L14)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L15)
+[server/events/ServerEventNames.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L15)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L16)
+[server/events/ServerEventNames.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L16)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L17)
+[server/events/ServerEventNames.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L17)
 
 ***
 
@@ -174,4 +174,4 @@
 
 #### Defined in
 
-[server/events/ServerEventNames.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/events/ServerEventNames.ts#L18)
+[server/events/ServerEventNames.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/events/ServerEventNames.ts#L18)

@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/utils/Point.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Point.ts#L2)
+[client/utils/Point.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Point.ts#L2)
 
 ## Properties
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/utils/Point.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Point.ts#L3)
+[client/utils/Point.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Point.ts#L3)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/utils/Point.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Point.ts#L4)
+[client/utils/Point.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Point.ts#L4)
 
 ## Methods
 
@@ -62,4 +62,4 @@
 
 #### Defined in
 
-[client/utils/Point.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Point.ts#L7)
+[client/utils/Point.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Point.ts#L7)

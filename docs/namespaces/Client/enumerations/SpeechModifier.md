@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L26)
+[client/enums/SpeechModifier.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L26)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L27)
+[client/enums/SpeechModifier.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L27)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L28)
+[client/enums/SpeechModifier.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L28)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L31)
+[client/enums/SpeechModifier.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L31)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L32)
+[client/enums/SpeechModifier.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L32)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L29)
+[client/enums/SpeechModifier.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L29)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L30)
+[client/enums/SpeechModifier.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L30)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L3)
+[client/enums/SpeechModifier.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L3)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L4)
+[client/enums/SpeechModifier.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L4)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L5)
+[client/enums/SpeechModifier.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L5)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L6)
+[client/enums/SpeechModifier.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L6)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L18)
+[client/enums/SpeechModifier.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L18)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L17)
+[client/enums/SpeechModifier.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L17)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L7)
+[client/enums/SpeechModifier.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L7)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L8)
+[client/enums/SpeechModifier.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L8)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L9)
+[client/enums/SpeechModifier.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L9)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L10)
+[client/enums/SpeechModifier.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L10)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L14)
+[client/enums/SpeechModifier.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L14)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L33)
+[client/enums/SpeechModifier.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L33)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L34)
+[client/enums/SpeechModifier.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L34)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L35)
+[client/enums/SpeechModifier.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L35)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L11)
+[client/enums/SpeechModifier.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L11)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L12)
+[client/enums/SpeechModifier.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L12)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L13)
+[client/enums/SpeechModifier.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L13)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L16)
+[client/enums/SpeechModifier.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L16)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L19)
+[client/enums/SpeechModifier.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L19)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L24)
+[client/enums/SpeechModifier.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L24)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L23)
+[client/enums/SpeechModifier.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L23)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L25)
+[client/enums/SpeechModifier.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L25)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L20)
+[client/enums/SpeechModifier.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L20)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L21)
+[client/enums/SpeechModifier.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L21)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L22)
+[client/enums/SpeechModifier.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L22)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L15)
+[client/enums/SpeechModifier.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L15)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L36)
+[client/enums/SpeechModifier.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L36)
 
 ***
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L37)
+[client/enums/SpeechModifier.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L37)
 
 ***
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L38)
+[client/enums/SpeechModifier.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L38)
 
 ***
 
@@ -374,4 +374,4 @@
 
 #### Defined in
 
-[client/enums/SpeechModifier.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/SpeechModifier.ts#L2)
+[client/enums/SpeechModifier.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/SpeechModifier.ts#L2)

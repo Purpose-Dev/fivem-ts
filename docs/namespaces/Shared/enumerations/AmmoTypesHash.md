@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L151)
+[shared/hashes/WeaponsHash.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L151)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L152)
+[shared/hashes/WeaponsHash.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L152)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L153)
+[shared/hashes/WeaponsHash.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L153)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L154)
+[shared/hashes/WeaponsHash.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L154)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L155)
+[shared/hashes/WeaponsHash.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L155)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L156)
+[shared/hashes/WeaponsHash.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L156)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L157)
+[shared/hashes/WeaponsHash.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L157)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L158)
+[shared/hashes/WeaponsHash.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L158)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L159)
+[shared/hashes/WeaponsHash.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L159)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L160)
+[shared/hashes/WeaponsHash.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L160)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L161)
+[shared/hashes/WeaponsHash.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L161)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L162)
+[shared/hashes/WeaponsHash.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L162)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L163)
+[shared/hashes/WeaponsHash.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L163)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L164)
+[shared/hashes/WeaponsHash.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L164)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L165)
+[shared/hashes/WeaponsHash.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L165)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L166)
+[shared/hashes/WeaponsHash.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L166)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L167)
+[shared/hashes/WeaponsHash.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L167)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L168)
+[shared/hashes/WeaponsHash.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L168)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L169)
+[shared/hashes/WeaponsHash.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L169)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L170)
+[shared/hashes/WeaponsHash.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L170)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L171)
+[shared/hashes/WeaponsHash.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L171)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L172)
+[shared/hashes/WeaponsHash.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L172)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L173)
+[shared/hashes/WeaponsHash.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L173)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L174)
+[shared/hashes/WeaponsHash.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L174)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L175)
+[shared/hashes/WeaponsHash.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L175)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L176)
+[shared/hashes/WeaponsHash.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L176)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L177)
+[shared/hashes/WeaponsHash.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L177)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L178)
+[shared/hashes/WeaponsHash.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L178)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L179)
+[shared/hashes/WeaponsHash.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L179)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L180)
+[shared/hashes/WeaponsHash.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L180)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L181)
+[shared/hashes/WeaponsHash.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L181)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L182)
+[shared/hashes/WeaponsHash.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L182)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L183)
+[shared/hashes/WeaponsHash.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L183)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L184)
+[shared/hashes/WeaponsHash.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L184)
 
 ***
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L185)
+[shared/hashes/WeaponsHash.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L185)
 
 ***
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L186)
+[shared/hashes/WeaponsHash.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L186)
 
 ***
 
@@ -374,7 +374,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L187)
+[shared/hashes/WeaponsHash.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L187)
 
 ***
 
@@ -384,7 +384,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L188)
+[shared/hashes/WeaponsHash.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L188)
 
 ***
 
@@ -394,7 +394,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L189)
+[shared/hashes/WeaponsHash.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L189)
 
 ***
 
@@ -404,7 +404,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L190)
+[shared/hashes/WeaponsHash.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L190)
 
 ***
 
@@ -414,7 +414,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L191)
+[shared/hashes/WeaponsHash.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L191)
 
 ***
 
@@ -424,7 +424,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L192)
+[shared/hashes/WeaponsHash.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L192)
 
 ***
 
@@ -434,7 +434,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L193)
+[shared/hashes/WeaponsHash.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L193)
 
 ***
 
@@ -444,7 +444,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L194)
+[shared/hashes/WeaponsHash.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L194)
 
 ***
 
@@ -454,7 +454,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L195)
+[shared/hashes/WeaponsHash.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L195)
 
 ***
 
@@ -464,7 +464,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L196)
+[shared/hashes/WeaponsHash.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L196)
 
 ***
 
@@ -474,7 +474,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L197)
+[shared/hashes/WeaponsHash.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L197)
 
 ***
 
@@ -484,7 +484,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L198)
+[shared/hashes/WeaponsHash.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L198)
 
 ***
 
@@ -494,7 +494,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L199)
+[shared/hashes/WeaponsHash.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L199)
 
 ***
 
@@ -504,7 +504,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L200)
+[shared/hashes/WeaponsHash.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L200)
 
 ***
 
@@ -514,7 +514,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L201)
+[shared/hashes/WeaponsHash.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L201)
 
 ***
 
@@ -524,7 +524,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L202)
+[shared/hashes/WeaponsHash.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L202)
 
 ***
 
@@ -534,7 +534,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L203)
+[shared/hashes/WeaponsHash.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L203)
 
 ***
 
@@ -544,7 +544,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L204)
+[shared/hashes/WeaponsHash.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L204)
 
 ***
 
@@ -554,7 +554,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L205)
+[shared/hashes/WeaponsHash.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L205)
 
 ***
 
@@ -564,7 +564,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L206)
+[shared/hashes/WeaponsHash.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L206)
 
 ***
 
@@ -574,7 +574,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L208)
+[shared/hashes/WeaponsHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L208)
 
 ***
 
@@ -584,7 +584,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L207)
+[shared/hashes/WeaponsHash.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L207)
 
 ***
 
@@ -594,7 +594,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L209)
+[shared/hashes/WeaponsHash.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L209)
 
 ***
 
@@ -604,7 +604,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L210)
+[shared/hashes/WeaponsHash.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L210)
 
 ***
 
@@ -614,7 +614,7 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L211)
+[shared/hashes/WeaponsHash.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L211)
 
 ***
 
@@ -624,4 +624,4 @@
 
 #### Defined in
 
-[shared/hashes/WeaponsHash.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeaponsHash.ts#L150)
+[shared/hashes/WeaponsHash.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L150)

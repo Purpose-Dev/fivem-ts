@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L11)
+[client/Checkpoint.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L11)
 
 ## Accessors
 
@@ -36,7 +36,7 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L15)
+[client/Checkpoint.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L15)
 
 ***
 
@@ -56,7 +56,7 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L35)
+[client/Checkpoint.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L35)
 
 ***
 
@@ -76,7 +76,7 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L19)
+[client/Checkpoint.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L19)
 
 ***
 
@@ -96,7 +96,7 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L43)
+[client/Checkpoint.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L43)
 
 ***
 
@@ -116,4 +116,4 @@
 
 #### Defined in
 
-[client/Checkpoint.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/Checkpoint.ts#L27)
+[client/Checkpoint.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/Checkpoint.ts#L27)

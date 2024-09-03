@@ -16,7 +16,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L48)
+[client/enums/ExplosionType.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L48)
 
 ***
 
@@ -26,7 +26,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L52)
+[client/enums/ExplosionType.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L52)
 
 ***
 
@@ -36,7 +36,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L33)
+[client/enums/ExplosionType.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L33)
 
 ***
 
@@ -46,7 +46,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L16)
+[client/enums/ExplosionType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L16)
 
 ***
 
@@ -56,7 +56,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L41)
+[client/enums/ExplosionType.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L41)
 
 ***
 
@@ -66,7 +66,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L35)
+[client/enums/ExplosionType.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L35)
 
 ***
 
@@ -76,7 +76,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L43)
+[client/enums/ExplosionType.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L43)
 
 ***
 
@@ -86,7 +86,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L21)
+[client/enums/ExplosionType.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L21)
 
 ***
 
@@ -96,7 +96,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L53)
+[client/enums/ExplosionType.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L53)
 
 ***
 
@@ -106,7 +106,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L60)
+[client/enums/ExplosionType.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L60)
 
 ***
 
@@ -116,7 +116,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L54)
+[client/enums/ExplosionType.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L54)
 
 ***
 
@@ -126,7 +126,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L55)
+[client/enums/ExplosionType.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L55)
 
 ***
 
@@ -136,7 +136,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L56)
+[client/enums/ExplosionType.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L56)
 
 ***
 
@@ -146,7 +146,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L66)
+[client/enums/ExplosionType.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L66)
 
 ***
 
@@ -156,7 +156,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L80)
+[client/enums/ExplosionType.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L80)
 
 ***
 
@@ -166,7 +166,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L81)
+[client/enums/ExplosionType.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L81)
 
 ***
 
@@ -176,7 +176,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L59)
+[client/enums/ExplosionType.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L59)
 
 ***
 
@@ -186,7 +186,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L24)
+[client/enums/ExplosionType.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L24)
 
 ***
 
@@ -196,7 +196,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L77)
+[client/enums/ExplosionType.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L77)
 
 ***
 
@@ -206,7 +206,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L27)
+[client/enums/ExplosionType.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L27)
 
 ***
 
@@ -216,7 +216,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L13)
+[client/enums/ExplosionType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L13)
 
 ***
 
@@ -226,7 +226,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L18)
+[client/enums/ExplosionType.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L18)
 
 ***
 
@@ -236,7 +236,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L20)
+[client/enums/ExplosionType.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L20)
 
 ***
 
@@ -246,7 +246,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L17)
+[client/enums/ExplosionType.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L17)
 
 ***
 
@@ -256,7 +256,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L19)
+[client/enums/ExplosionType.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L19)
 
 ***
 
@@ -266,7 +266,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L5)
+[client/enums/ExplosionType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L5)
 
 ***
 
@@ -276,7 +276,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L75)
+[client/enums/ExplosionType.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L75)
 
 ***
 
@@ -286,7 +286,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L51)
+[client/enums/ExplosionType.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L51)
 
 ***
 
@@ -296,7 +296,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L67)
+[client/enums/ExplosionType.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L67)
 
 ***
 
@@ -306,7 +306,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L30)
+[client/enums/ExplosionType.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L30)
 
 ***
 
@@ -316,7 +316,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L44)
+[client/enums/ExplosionType.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L44)
 
 ***
 
@@ -326,7 +326,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L36)
+[client/enums/ExplosionType.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L36)
 
 ***
 
@@ -336,7 +336,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L28)
+[client/enums/ExplosionType.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L28)
 
 ***
 
@@ -346,7 +346,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L84)
+[client/enums/ExplosionType.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L84)
 
 ***
 
@@ -356,7 +356,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L29)
+[client/enums/ExplosionType.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L29)
 
 ***
 
@@ -366,7 +366,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L40)
+[client/enums/ExplosionType.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L40)
 
 ***
 
@@ -376,7 +376,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L6)
+[client/enums/ExplosionType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L6)
 
 ***
 
@@ -386,7 +386,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L7)
+[client/enums/ExplosionType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L7)
 
 ***
 
@@ -396,7 +396,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L12)
+[client/enums/ExplosionType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L12)
 
 ***
 
@@ -406,7 +406,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L61)
+[client/enums/ExplosionType.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L61)
 
 ***
 
@@ -416,7 +416,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L62)
+[client/enums/ExplosionType.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L62)
 
 ***
 
@@ -426,7 +426,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L64)
+[client/enums/ExplosionType.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L64)
 
 ***
 
@@ -436,7 +436,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L78)
+[client/enums/ExplosionType.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L78)
 
 ***
 
@@ -446,7 +446,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L87)
+[client/enums/ExplosionType.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L87)
 
 ***
 
@@ -456,7 +456,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L9)
+[client/enums/ExplosionType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L9)
 
 ***
 
@@ -466,7 +466,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L69)
+[client/enums/ExplosionType.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L69)
 
 ***
 
@@ -476,7 +476,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L68)
+[client/enums/ExplosionType.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L68)
 
 ***
 
@@ -486,7 +486,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L65)
+[client/enums/ExplosionType.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L65)
 
 ***
 
@@ -496,7 +496,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L15)
+[client/enums/ExplosionType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L15)
 
 ***
 
@@ -506,7 +506,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L49)
+[client/enums/ExplosionType.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L49)
 
 ***
 
@@ -516,7 +516,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L14)
+[client/enums/ExplosionType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L14)
 
 ***
 
@@ -526,7 +526,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L38)
+[client/enums/ExplosionType.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L38)
 
 ***
 
@@ -536,7 +536,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L34)
+[client/enums/ExplosionType.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L34)
 
 ***
 
@@ -546,7 +546,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L46)
+[client/enums/ExplosionType.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L46)
 
 ***
 
@@ -556,7 +556,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L42)
+[client/enums/ExplosionType.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L42)
 
 ***
 
@@ -566,7 +566,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L76)
+[client/enums/ExplosionType.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L76)
 
 ***
 
@@ -576,7 +576,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L79)
+[client/enums/ExplosionType.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L79)
 
 ***
 
@@ -586,7 +586,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L10)
+[client/enums/ExplosionType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L10)
 
 ***
 
@@ -596,7 +596,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L63)
+[client/enums/ExplosionType.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L63)
 
 ***
 
@@ -606,7 +606,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L22)
+[client/enums/ExplosionType.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L22)
 
 ***
 
@@ -616,7 +616,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L26)
+[client/enums/ExplosionType.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L26)
 
 ***
 
@@ -626,7 +626,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L25)
+[client/enums/ExplosionType.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L25)
 
 ***
 
@@ -636,7 +636,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L45)
+[client/enums/ExplosionType.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L45)
 
 ***
 
@@ -646,7 +646,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L8)
+[client/enums/ExplosionType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L8)
 
 ***
 
@@ -656,7 +656,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L85)
+[client/enums/ExplosionType.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L85)
 
 ***
 
@@ -666,7 +666,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L88)
+[client/enums/ExplosionType.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L88)
 
 ***
 
@@ -676,7 +676,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L11)
+[client/enums/ExplosionType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L11)
 
 ***
 
@@ -686,7 +686,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L37)
+[client/enums/ExplosionType.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L37)
 
 ***
 
@@ -696,7 +696,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L57)
+[client/enums/ExplosionType.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L57)
 
 ***
 
@@ -706,7 +706,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L58)
+[client/enums/ExplosionType.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L58)
 
 ***
 
@@ -716,7 +716,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L32)
+[client/enums/ExplosionType.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L32)
 
 ***
 
@@ -726,7 +726,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L23)
+[client/enums/ExplosionType.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L23)
 
 ***
 
@@ -736,7 +736,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L47)
+[client/enums/ExplosionType.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L47)
 
 ***
 
@@ -746,7 +746,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L39)
+[client/enums/ExplosionType.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L39)
 
 ***
 
@@ -756,7 +756,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L50)
+[client/enums/ExplosionType.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L50)
 
 ***
 
@@ -766,7 +766,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L71)
+[client/enums/ExplosionType.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L71)
 
 ***
 
@@ -776,7 +776,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L70)
+[client/enums/ExplosionType.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L70)
 
 ***
 
@@ -786,7 +786,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L73)
+[client/enums/ExplosionType.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L73)
 
 ***
 
@@ -796,7 +796,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L72)
+[client/enums/ExplosionType.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L72)
 
 ***
 
@@ -806,7 +806,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L74)
+[client/enums/ExplosionType.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L74)
 
 ***
 
@@ -816,7 +816,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L86)
+[client/enums/ExplosionType.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L86)
 
 ***
 
@@ -826,7 +826,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L31)
+[client/enums/ExplosionType.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L31)
 
 ***
 
@@ -836,7 +836,7 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L83)
+[client/enums/ExplosionType.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L83)
 
 ***
 
@@ -846,4 +846,4 @@ List of explosion sources.
 
 #### Defined in
 
-[client/enums/ExplosionType.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ExplosionType.ts#L82)
+[client/enums/ExplosionType.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L82)

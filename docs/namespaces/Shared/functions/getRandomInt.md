@@ -34,4 +34,4 @@ getRandomInt(1, 10); // A random integer between 1 and 10
 
 ## Defined in
 
-[shared/utils/FMath.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L32)
+[shared/utils/FMath.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L32)

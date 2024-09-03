@@ -57,4 +57,4 @@ Error if the dependency cannot be resolved. This might occur if:
 
 ## Defined in
 
-[server/ioc/Inject.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Inject.ts#L36)
+[server/ioc/Inject.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Inject.ts#L36)

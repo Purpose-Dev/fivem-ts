@@ -31,4 +31,4 @@ console.log(result); // "Hello World"
 
 ## Defined in
 
-[shared/utils/FString.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FString.ts#L152)
+[shared/utils/FString.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FString.ts#L152)

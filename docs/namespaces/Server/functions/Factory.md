@@ -50,4 +50,4 @@ The modified property descriptor with the factory logic applied.
 
 ## Defined in
 
-[server/ioc/Factory.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Factory.ts#L30)
+[server/ioc/Factory.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Factory.ts#L30)

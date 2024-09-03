@@ -16,7 +16,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L5)
+[client/enums/IntersectionsOptions.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L5)
 
 ***
 
@@ -26,7 +26,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L6)
+[client/enums/IntersectionsOptions.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L6)
 
 ***
 
@@ -36,7 +36,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L7)
+[client/enums/IntersectionsOptions.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L7)
 
 ***
 
@@ -46,7 +46,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L9)
+[client/enums/IntersectionsOptions.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L9)
 
 ***
 
@@ -56,7 +56,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L8)
+[client/enums/IntersectionsOptions.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L8)
 
 ***
 
@@ -66,7 +66,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L10)
+[client/enums/IntersectionsOptions.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L10)
 
 ***
 
@@ -76,7 +76,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L11)
+[client/enums/IntersectionsOptions.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L11)
 
 ***
 
@@ -86,7 +86,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L12)
+[client/enums/IntersectionsOptions.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L12)
 
 ***
 
@@ -96,7 +96,7 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L14)
+[client/enums/IntersectionsOptions.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L14)
 
 ***
 
@@ -106,4 +106,4 @@ List of possible entity intersections. Used for RayCasting.
 
 #### Defined in
 
-[client/enums/IntersectionsOptions.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/IntersectionsOptions.ts#L13)
+[client/enums/IntersectionsOptions.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/IntersectionsOptions.ts#L13)

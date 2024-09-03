@@ -48,7 +48,7 @@ and will reuse that instance throughout the request. The instance is discarded o
 
 #### Defined in
 
-[server/ioc/Scope.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Scope.ts#L54)
+[server/ioc/Scope.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Scope.ts#L54)
 
 ***
 
@@ -65,7 +65,7 @@ This is particularly useful in gaming environments where certain services need t
 
 #### Defined in
 
-[server/ioc/Scope.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Scope.ts#L64)
+[server/ioc/Scope.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Scope.ts#L64)
 
 ***
 
@@ -79,7 +79,7 @@ When a service is registered with this scope, the DI container will return the s
 
 #### Defined in
 
-[server/ioc/Scope.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Scope.ts#L39)
+[server/ioc/Scope.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Scope.ts#L39)
 
 ***
 
@@ -93,4 +93,4 @@ When a service is registered with this scope, a new instance is created and prov
 
 #### Defined in
 
-[server/ioc/Scope.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Scope.ts#L46)
+[server/ioc/Scope.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Scope.ts#L46)

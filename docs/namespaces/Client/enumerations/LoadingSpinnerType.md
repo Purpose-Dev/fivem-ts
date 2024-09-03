@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/LoadingSpinnerType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LoadingSpinnerType.ts#L2)
+[client/enums/LoadingSpinnerType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LoadingSpinnerType.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/LoadingSpinnerType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LoadingSpinnerType.ts#L3)
+[client/enums/LoadingSpinnerType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LoadingSpinnerType.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/LoadingSpinnerType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LoadingSpinnerType.ts#L4)
+[client/enums/LoadingSpinnerType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LoadingSpinnerType.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/LoadingSpinnerType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LoadingSpinnerType.ts#L6)
+[client/enums/LoadingSpinnerType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LoadingSpinnerType.ts#L6)
 
 ***
 
@@ -54,4 +54,4 @@
 
 #### Defined in
 
-[client/enums/LoadingSpinnerType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LoadingSpinnerType.ts#L5)
+[client/enums/LoadingSpinnerType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LoadingSpinnerType.ts#L5)

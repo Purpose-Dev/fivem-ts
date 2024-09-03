@@ -50,7 +50,7 @@ Represents blizzard conditions.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L40)
+[shared/hashes/WeatherTypeHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L40)
 
 ***
 
@@ -62,7 +62,7 @@ Represents clear weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L42)
+[shared/hashes/WeatherTypeHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L42)
 
 ***
 
@@ -74,7 +74,7 @@ Represents clearing weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L44)
+[shared/hashes/WeatherTypeHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L44)
 
 ***
 
@@ -86,7 +86,7 @@ Represents cloudy weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L46)
+[shared/hashes/WeatherTypeHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L46)
 
 ***
 
@@ -98,7 +98,7 @@ Represents extra sunny weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L48)
+[shared/hashes/WeatherTypeHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L48)
 
 ***
 
@@ -110,7 +110,7 @@ Represents foggy weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L50)
+[shared/hashes/WeatherTypeHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L50)
 
 ***
 
@@ -122,7 +122,7 @@ Represents Halloween-themed weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L52)
+[shared/hashes/WeatherTypeHash.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L52)
 
 ***
 
@@ -134,7 +134,7 @@ Represents neutral weather conditions.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L54)
+[shared/hashes/WeatherTypeHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L54)
 
 ***
 
@@ -146,7 +146,7 @@ Represents overcast weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L56)
+[shared/hashes/WeatherTypeHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L56)
 
 ***
 
@@ -158,7 +158,7 @@ Represents rainy weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L58)
+[shared/hashes/WeatherTypeHash.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L58)
 
 ***
 
@@ -170,7 +170,7 @@ Represents smoggy weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L60)
+[shared/hashes/WeatherTypeHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L60)
 
 ***
 
@@ -182,7 +182,7 @@ Represents snowy weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L62)
+[shared/hashes/WeatherTypeHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L62)
 
 ***
 
@@ -194,7 +194,7 @@ Represents light snow.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L64)
+[shared/hashes/WeatherTypeHash.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L64)
 
 ***
 
@@ -206,7 +206,7 @@ Represents stormy weather with thunder.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L66)
+[shared/hashes/WeatherTypeHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L66)
 
 ***
 
@@ -218,7 +218,7 @@ Represents an unknown weather state.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L38)
+[shared/hashes/WeatherTypeHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L38)
 
 ***
 
@@ -230,4 +230,4 @@ Represents Christmas-themed weather.
 
 #### Defined in
 
-[shared/hashes/WeatherTypeHash.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/hashes/WeatherTypeHash.ts#L68)
+[shared/hashes/WeatherTypeHash.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeatherTypeHash.ts#L68)

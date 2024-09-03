@@ -19,7 +19,7 @@ The x-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L7)
+[shared/utils/Vector3.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L7)
 
 ***
 
@@ -31,7 +31,7 @@ The y-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L9)
+[shared/utils/Vector3.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L9)
 
 ***
 
@@ -43,4 +43,4 @@ The z-coordinate of the vector.
 
 #### Defined in
 
-[shared/utils/Vector3.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/Vector3.ts#L11)
+[shared/utils/Vector3.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/Vector3.ts#L11)

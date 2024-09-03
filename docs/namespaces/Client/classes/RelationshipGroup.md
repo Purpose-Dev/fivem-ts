@@ -32,7 +32,7 @@ Optional custom group hash (default: 0).
 
 #### Defined in
 
-[client/RelationshipGroup.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L18)
+[client/RelationshipGroup.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L18)
 
 ## Accessors
 
@@ -50,7 +50,7 @@ The hash of this object.
 
 #### Defined in
 
-[client/RelationshipGroup.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L28)
+[client/RelationshipGroup.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L28)
 
 ## Methods
 
@@ -80,7 +80,7 @@ Whether the target group should also clear the relationship.
 
 #### Defined in
 
-[client/RelationshipGroup.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L68)
+[client/RelationshipGroup.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L68)
 
 ***
 
@@ -104,7 +104,7 @@ The relationship
 
 #### Defined in
 
-[client/RelationshipGroup.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L38)
+[client/RelationshipGroup.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L38)
 
 ***
 
@@ -120,7 +120,7 @@ Remove this relationship group from the game. This will not delete this object.
 
 #### Defined in
 
-[client/RelationshipGroup.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L83)
+[client/RelationshipGroup.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L83)
 
 ***
 
@@ -150,4 +150,4 @@ If target group should have same relationship towards this.
 
 #### Defined in
 
-[client/RelationshipGroup.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/RelationshipGroup.ts#L49)
+[client/RelationshipGroup.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/RelationshipGroup.ts#L49)

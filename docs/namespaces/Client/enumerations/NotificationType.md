@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L3)
+[client/enums/NotificationType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L3)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L2)
+[client/enums/NotificationType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L2)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L6)
+[client/enums/NotificationType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L6)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L5)
+[client/enums/NotificationType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L4)
+[client/enums/NotificationType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L4)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L9)
+[client/enums/NotificationType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L9)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L7)
+[client/enums/NotificationType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L7)
 
 ***
 
@@ -84,4 +84,4 @@
 
 #### Defined in
 
-[client/enums/NotificationType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/NotificationType.ts#L8)
+[client/enums/NotificationType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/NotificationType.ts#L8)

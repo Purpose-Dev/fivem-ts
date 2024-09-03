@@ -26,4 +26,4 @@ The route path.
 
 ## Defined in
 
-[server/web/Route.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/web/Route.ts#L9)
+[server/web/Route.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/web/Route.ts#L9)

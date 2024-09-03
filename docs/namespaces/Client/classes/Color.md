@@ -40,7 +40,7 @@ The alpha (opacity) component of the color (0-255).
 
 #### Defined in
 
-[client/utils/Color.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L154)
+[client/utils/Color.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L154)
 
 ## Properties
 
@@ -52,7 +52,7 @@ The alpha (opacity) component of the color (0-255).
 
 #### Defined in
 
-[client/utils/Color.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L158)
+[client/utils/Color.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L158)
 
 ***
 
@@ -64,7 +64,7 @@ The blue component of the color (0-255).
 
 #### Defined in
 
-[client/utils/Color.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L157)
+[client/utils/Color.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L157)
 
 ***
 
@@ -76,7 +76,7 @@ The green component of the color (0-255).
 
 #### Defined in
 
-[client/utils/Color.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L156)
+[client/utils/Color.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L156)
 
 ***
 
@@ -88,7 +88,7 @@ The red component of the color (0-255).
 
 #### Defined in
 
-[client/utils/Color.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L155)
+[client/utils/Color.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L155)
 
 ***
 
@@ -100,7 +100,7 @@ The color aqua (RGB: 0, 255, 255).
 
 #### Defined in
 
-[client/utils/Color.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L100)
+[client/utils/Color.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L100)
 
 ***
 
@@ -112,7 +112,7 @@ The color black (RGB: 0, 0, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L20)
+[client/utils/Color.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L20)
 
 ***
 
@@ -124,7 +124,7 @@ The color blue (RGB: 0, 0, 255).
 
 #### Defined in
 
-[client/utils/Color.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L90)
+[client/utils/Color.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L90)
 
 ***
 
@@ -136,7 +136,7 @@ The color brown (RGB: 165, 42, 42).
 
 #### Defined in
 
-[client/utils/Color.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L115)
+[client/utils/Color.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L115)
 
 ***
 
@@ -148,7 +148,7 @@ The color chocolate (RGB: 210, 105, 30).
 
 #### Defined in
 
-[client/utils/Color.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L145)
+[client/utils/Color.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L145)
 
 ***
 
@@ -160,7 +160,7 @@ The color coral (RGB: 255, 127, 80).
 
 #### Defined in
 
-[client/utils/Color.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L125)
+[client/utils/Color.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L125)
 
 ***
 
@@ -172,7 +172,7 @@ A transparent color (fully transparent).
 
 #### Defined in
 
-[client/utils/Color.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L10)
+[client/utils/Color.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L10)
 
 ***
 
@@ -184,7 +184,7 @@ The color fuchsia (RGB: 255, 0, 255).
 
 #### Defined in
 
-[client/utils/Color.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L60)
+[client/utils/Color.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L60)
 
 ***
 
@@ -196,7 +196,7 @@ The color gold (RGB: 255, 215, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L130)
+[client/utils/Color.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L130)
 
 ***
 
@@ -208,7 +208,7 @@ The color gray (RGB: 128, 128, 128).
 
 #### Defined in
 
-[client/utils/Color.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L35)
+[client/utils/Color.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L35)
 
 ***
 
@@ -220,7 +220,7 @@ The color green (RGB: 0, 128, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L65)
+[client/utils/Color.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L65)
 
 ***
 
@@ -232,7 +232,7 @@ The color khaki (RGB: 240, 230, 140).
 
 #### Defined in
 
-[client/utils/Color.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L135)
+[client/utils/Color.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L135)
 
 ***
 
@@ -244,7 +244,7 @@ The color light coral (RGB: 240, 128, 128).
 
 #### Defined in
 
-[client/utils/Color.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L120)
+[client/utils/Color.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L120)
 
 ***
 
@@ -256,7 +256,7 @@ The color lime (RGB: 0, 255, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L70)
+[client/utils/Color.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L70)
 
 ***
 
@@ -268,7 +268,7 @@ The color maroon (RGB: 128, 0, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L45)
+[client/utils/Color.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L45)
 
 ***
 
@@ -280,7 +280,7 @@ The color navy (RGB: 0, 0, 128).
 
 #### Defined in
 
-[client/utils/Color.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L85)
+[client/utils/Color.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L85)
 
 ***
 
@@ -292,7 +292,7 @@ The color olive (RGB: 128, 128, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L75)
+[client/utils/Color.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L75)
 
 ***
 
@@ -304,7 +304,7 @@ The color orange (RGB: 255, 165, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L105)
+[client/utils/Color.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L105)
 
 ***
 
@@ -316,7 +316,7 @@ The color pink (RGB: 255, 192, 203).
 
 #### Defined in
 
-[client/utils/Color.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L110)
+[client/utils/Color.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L110)
 
 ***
 
@@ -328,7 +328,7 @@ The color purple (RGB: 128, 0, 128).
 
 #### Defined in
 
-[client/utils/Color.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L55)
+[client/utils/Color.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L55)
 
 ***
 
@@ -340,7 +340,7 @@ The color red (RGB: 255, 0, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L50)
+[client/utils/Color.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L50)
 
 ***
 
@@ -352,7 +352,7 @@ The color salmon (RGB: 250, 128, 114).
 
 #### Defined in
 
-[client/utils/Color.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L140)
+[client/utils/Color.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L140)
 
 ***
 
@@ -364,7 +364,7 @@ The color silver (RGB: 192, 192, 192).
 
 #### Defined in
 
-[client/utils/Color.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L40)
+[client/utils/Color.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L40)
 
 ***
 
@@ -376,7 +376,7 @@ The color teal (RGB: 0, 128, 128).
 
 #### Defined in
 
-[client/utils/Color.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L95)
+[client/utils/Color.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L95)
 
 ***
 
@@ -388,7 +388,7 @@ A fully transparent color.
 
 #### Defined in
 
-[client/utils/Color.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L15)
+[client/utils/Color.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L15)
 
 ***
 
@@ -400,7 +400,7 @@ The color white (RGB: 255, 255, 255).
 
 #### Defined in
 
-[client/utils/Color.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L25)
+[client/utils/Color.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L25)
 
 ***
 
@@ -412,7 +412,7 @@ The color white smoke (RGB: 245, 245, 245).
 
 #### Defined in
 
-[client/utils/Color.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L30)
+[client/utils/Color.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L30)
 
 ***
 
@@ -424,7 +424,7 @@ The color yellow (RGB: 255, 255, 0).
 
 #### Defined in
 
-[client/utils/Color.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L80)
+[client/utils/Color.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L80)
 
 ## Methods
 
@@ -448,7 +448,7 @@ A new `Color` instance with adjusted brightness.
 
 #### Defined in
 
-[client/utils/Color.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L266)
+[client/utils/Color.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L266)
 
 ***
 
@@ -476,7 +476,7 @@ A new `Color` instance representing the blended color.
 
 #### Defined in
 
-[client/utils/Color.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L299)
+[client/utils/Color.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L299)
 
 ***
 
@@ -500,7 +500,7 @@ A new `Color` instance that is darker by the specified percentage.
 
 #### Defined in
 
-[client/utils/Color.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L280)
+[client/utils/Color.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L280)
 
 ***
 
@@ -524,7 +524,7 @@ The color to compare with.
 
 #### Defined in
 
-[client/utils/Color.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L166)
+[client/utils/Color.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L166)
 
 ***
 
@@ -542,7 +542,7 @@ A new `Color` instance representing the inverted color.
 
 #### Defined in
 
-[client/utils/Color.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L314)
+[client/utils/Color.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L314)
 
 ***
 
@@ -566,7 +566,7 @@ A new `Color` instance that is lighter by the specified percentage.
 
 #### Defined in
 
-[client/utils/Color.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L289)
+[client/utils/Color.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L289)
 
 ***
 
@@ -584,7 +584,7 @@ A string in the format `#aarrggbb`.
 
 #### Defined in
 
-[client/utils/Color.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L211)
+[client/utils/Color.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L211)
 
 ***
 
@@ -602,7 +602,7 @@ An array representing the color with `[r, g, b, a]` components.
 
 #### Defined in
 
-[client/utils/Color.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L187)
+[client/utils/Color.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L187)
 
 ***
 
@@ -620,7 +620,7 @@ A string in the format `#rrggbb`.
 
 #### Defined in
 
-[client/utils/Color.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L203)
+[client/utils/Color.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L203)
 
 ***
 
@@ -654,7 +654,7 @@ An object with `h` (hue), `s` (saturation), `l` (lightness), and `a` (alpha) pro
 
 #### Defined in
 
-[client/utils/Color.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L219)
+[client/utils/Color.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L219)
 
 ***
 
@@ -688,7 +688,7 @@ An object representing the color with `r`, `g`, `b`, and `a` properties.
 
 #### Defined in
 
-[client/utils/Color.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L174)
+[client/utils/Color.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L174)
 
 ***
 
@@ -706,7 +706,7 @@ A string in the format `rgba(r, g, b, a)`.
 
 #### Defined in
 
-[client/utils/Color.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L195)
+[client/utils/Color.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L195)
 
 ***
 
@@ -742,7 +742,7 @@ A new `Color` instance.
 
 #### Defined in
 
-[client/utils/Color.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L336)
+[client/utils/Color.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L336)
 
 ***
 
@@ -766,7 +766,7 @@ A new `Color` instance.
 
 #### Defined in
 
-[client/utils/Color.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L356)
+[client/utils/Color.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L356)
 
 ***
 
@@ -802,7 +802,7 @@ A new `Color` instance.
 
 #### Defined in
 
-[client/utils/Color.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L399)
+[client/utils/Color.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L399)
 
 ***
 
@@ -834,7 +834,7 @@ A new `Color` instance with full opacity (alpha = 255).
 
 #### Defined in
 
-[client/utils/Color.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L347)
+[client/utils/Color.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L347)
 
 ***
 
@@ -862,4 +862,4 @@ Error if the RGBA string is invalid.
 
 #### Defined in
 
-[client/utils/Color.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Color.ts#L375)
+[client/utils/Color.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Color.ts#L375)

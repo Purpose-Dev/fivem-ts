@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L11)
+[client/enums/VehicleDrivingFlags.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L11)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L13)
+[client/enums/VehicleDrivingFlags.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L13)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L6)
+[client/enums/VehicleDrivingFlags.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L6)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L8)
+[client/enums/VehicleDrivingFlags.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L8)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L7)
+[client/enums/VehicleDrivingFlags.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L7)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L5)
+[client/enums/VehicleDrivingFlags.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L5)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L14)
+[client/enums/VehicleDrivingFlags.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L14)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L3)
+[client/enums/VehicleDrivingFlags.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L3)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L15)
+[client/enums/VehicleDrivingFlags.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L15)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L2)
+[client/enums/VehicleDrivingFlags.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L2)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L12)
+[client/enums/VehicleDrivingFlags.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L12)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L17)
+[client/enums/VehicleDrivingFlags.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L17)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L9)
+[client/enums/VehicleDrivingFlags.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L9)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L16)
+[client/enums/VehicleDrivingFlags.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L16)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L10)
+[client/enums/VehicleDrivingFlags.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L10)
 
 ***
 
@@ -164,4 +164,4 @@
 
 #### Defined in
 
-[client/enums/VehicleDrivingFlags.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/VehicleDrivingFlags.ts#L4)
+[client/enums/VehicleDrivingFlags.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleDrivingFlags.ts#L4)

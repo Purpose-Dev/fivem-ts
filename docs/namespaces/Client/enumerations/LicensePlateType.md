@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateType.ts#L4)
+[client/enums/LicensePlateType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateType.ts#L4)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateType.ts#L2)
+[client/enums/LicensePlateType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateType.ts#L2)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateType.ts#L3)
+[client/enums/LicensePlateType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateType.ts#L3)
 
 ***
 
@@ -44,4 +44,4 @@
 
 #### Defined in
 
-[client/enums/LicensePlateType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateType.ts#L5)
+[client/enums/LicensePlateType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateType.ts#L5)

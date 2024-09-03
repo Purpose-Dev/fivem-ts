@@ -59,6 +59,7 @@
 - [NumerableVector3](type-aliases/NumerableVector3.md)
 - [PromiseOrValue](type-aliases/PromiseOrValue.md)
 - [PropertyDecorator](type-aliases/PropertyDecorator.md)
+- [RetryValue](type-aliases/RetryValue.md)
 - [Serializable](type-aliases/Serializable.md)
 - [Service](type-aliases/Service.md)
 - [Tuple](type-aliases/Tuple.md)

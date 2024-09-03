@@ -25,7 +25,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L221)
+[client/enums/HudColors.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L221)
 
 ***
 
@@ -35,7 +35,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L16)
+[client/enums/HudColors.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L16)
 
 ***
 
@@ -45,7 +45,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L23)
+[client/enums/HudColors.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L23)
 
 ***
 
@@ -55,7 +55,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L25)
+[client/enums/HudColors.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L25)
 
 ***
 
@@ -65,7 +65,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L24)
+[client/enums/HudColors.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L24)
 
 ***
 
@@ -75,7 +75,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L87)
+[client/enums/HudColors.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L87)
 
 ***
 
@@ -85,7 +85,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L121)
+[client/enums/HudColors.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L121)
 
 ***
 
@@ -95,7 +95,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L176)
+[client/enums/HudColors.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L176)
 
 ***
 
@@ -105,7 +105,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L188)
+[client/enums/HudColors.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L188)
 
 ***
 
@@ -115,7 +115,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L186)
+[client/enums/HudColors.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L186)
 
 ***
 
@@ -125,7 +125,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L185)
+[client/enums/HudColors.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L185)
 
 ***
 
@@ -135,7 +135,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L187)
+[client/enums/HudColors.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L187)
 
 ***
 
@@ -145,7 +145,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L232)
+[client/enums/HudColors.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L232)
 
 ***
 
@@ -155,7 +155,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L233)
+[client/enums/HudColors.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L233)
 
 ***
 
@@ -165,7 +165,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L139)
+[client/enums/HudColors.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L139)
 
 ***
 
@@ -175,7 +175,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L155)
+[client/enums/HudColors.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L155)
 
 ***
 
@@ -185,7 +185,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L226)
+[client/enums/HudColors.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L226)
 
 ***
 
@@ -195,7 +195,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L225)
+[client/enums/HudColors.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L225)
 
 ***
 
@@ -205,7 +205,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L224)
+[client/enums/HudColors.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L224)
 
 ***
 
@@ -215,7 +215,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L227)
+[client/enums/HudColors.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L227)
 
 ***
 
@@ -225,7 +225,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L222)
+[client/enums/HudColors.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L222)
 
 ***
 
@@ -235,7 +235,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L223)
+[client/enums/HudColors.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L223)
 
 ***
 
@@ -245,7 +245,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L175)
+[client/enums/HudColors.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L175)
 
 ***
 
@@ -255,7 +255,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L133)
+[client/enums/HudColors.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L133)
 
 ***
 
@@ -265,7 +265,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L153)
+[client/enums/HudColors.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L153)
 
 ***
 
@@ -275,7 +275,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L147)
+[client/enums/HudColors.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L147)
 
 ***
 
@@ -285,7 +285,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L158)
+[client/enums/HudColors.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L158)
 
 ***
 
@@ -295,7 +295,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L168)
+[client/enums/HudColors.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L168)
 
 ***
 
@@ -305,7 +305,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L130)
+[client/enums/HudColors.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L130)
 
 ***
 
@@ -315,7 +315,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L137)
+[client/enums/HudColors.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L137)
 
 ***
 
@@ -325,7 +325,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L132)
+[client/enums/HudColors.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L132)
 
 ***
 
@@ -335,7 +335,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L206)
+[client/enums/HudColors.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L206)
 
 ***
 
@@ -345,7 +345,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L215)
+[client/enums/HudColors.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L215)
 
 ***
 
@@ -355,7 +355,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L216)
+[client/enums/HudColors.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L216)
 
 ***
 
@@ -365,7 +365,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L217)
+[client/enums/HudColors.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L217)
 
 ***
 
@@ -375,7 +375,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L218)
+[client/enums/HudColors.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L218)
 
 ***
 
@@ -385,7 +385,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L219)
+[client/enums/HudColors.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L219)
 
 ***
 
@@ -395,7 +395,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L220)
+[client/enums/HudColors.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L220)
 
 ***
 
@@ -405,7 +405,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L207)
+[client/enums/HudColors.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L207)
 
 ***
 
@@ -415,7 +415,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L208)
+[client/enums/HudColors.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L208)
 
 ***
 
@@ -425,7 +425,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L209)
+[client/enums/HudColors.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L209)
 
 ***
 
@@ -435,7 +435,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L210)
+[client/enums/HudColors.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L210)
 
 ***
 
@@ -445,7 +445,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L211)
+[client/enums/HudColors.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L211)
 
 ***
 
@@ -455,7 +455,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L212)
+[client/enums/HudColors.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L212)
 
 ***
 
@@ -465,7 +465,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L213)
+[client/enums/HudColors.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L213)
 
 ***
 
@@ -475,7 +475,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L214)
+[client/enums/HudColors.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L214)
 
 ***
 
@@ -485,7 +485,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L125)
+[client/enums/HudColors.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L125)
 
 ***
 
@@ -495,7 +495,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L126)
+[client/enums/HudColors.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L126)
 
 ***
 
@@ -505,7 +505,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L127)
+[client/enums/HudColors.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L127)
 
 ***
 
@@ -515,7 +515,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L128)
+[client/enums/HudColors.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L128)
 
 ***
 
@@ -525,7 +525,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L123)
+[client/enums/HudColors.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L123)
 
 ***
 
@@ -535,7 +535,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L145)
+[client/enums/HudColors.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L145)
 
 ***
 
@@ -545,7 +545,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L160)
+[client/enums/HudColors.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L160)
 
 ***
 
@@ -555,7 +555,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L161)
+[client/enums/HudColors.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L161)
 
 ***
 
@@ -565,7 +565,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L162)
+[client/enums/HudColors.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L162)
 
 ***
 
@@ -575,7 +575,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L163)
+[client/enums/HudColors.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L163)
 
 ***
 
@@ -585,7 +585,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L32)
+[client/enums/HudColors.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L32)
 
 ***
 
@@ -595,7 +595,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L34)
+[client/enums/HudColors.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L34)
 
 ***
 
@@ -605,7 +605,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L33)
+[client/enums/HudColors.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L33)
 
 ***
 
@@ -615,7 +615,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L17)
+[client/enums/HudColors.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L17)
 
 ***
 
@@ -625,7 +625,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L19)
+[client/enums/HudColors.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L19)
 
 ***
 
@@ -635,7 +635,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L18)
+[client/enums/HudColors.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L18)
 
 ***
 
@@ -645,7 +645,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L180)
+[client/enums/HudColors.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L180)
 
 ***
 
@@ -655,7 +655,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L181)
+[client/enums/HudColors.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L181)
 
 ***
 
@@ -665,7 +665,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L184)
+[client/enums/HudColors.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L184)
 
 ***
 
@@ -675,7 +675,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L192)
+[client/enums/HudColors.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L192)
 
 ***
 
@@ -685,7 +685,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L193)
+[client/enums/HudColors.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L193)
 
 ***
 
@@ -695,7 +695,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L198)
+[client/enums/HudColors.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L198)
 
 ***
 
@@ -705,7 +705,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L154)
+[client/enums/HudColors.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L154)
 
 ***
 
@@ -715,7 +715,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L138)
+[client/enums/HudColors.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L138)
 
 ***
 
@@ -725,7 +725,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L248)
+[client/enums/HudColors.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L248)
 
 ***
 
@@ -735,7 +735,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L134)
+[client/enums/HudColors.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L134)
 
 ***
 
@@ -745,7 +745,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L204)
+[client/enums/HudColors.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L204)
 
 ***
 
@@ -755,7 +755,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L205)
+[client/enums/HudColors.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L205)
 
 ***
 
@@ -765,7 +765,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L75)
+[client/enums/HudColors.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L75)
 
 ***
 
@@ -775,7 +775,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L77)
+[client/enums/HudColors.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L77)
 
 ***
 
@@ -785,7 +785,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L85)
+[client/enums/HudColors.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L85)
 
 ***
 
@@ -795,7 +795,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L86)
+[client/enums/HudColors.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L86)
 
 ***
 
@@ -805,7 +805,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L80)
+[client/enums/HudColors.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L80)
 
 ***
 
@@ -815,7 +815,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L81)
+[client/enums/HudColors.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L81)
 
 ***
 
@@ -825,7 +825,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L82)
+[client/enums/HudColors.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L82)
 
 ***
 
@@ -835,7 +835,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L76)
+[client/enums/HudColors.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L76)
 
 ***
 
@@ -845,7 +845,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L83)
+[client/enums/HudColors.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L83)
 
 ***
 
@@ -855,7 +855,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L84)
+[client/enums/HudColors.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L84)
 
 ***
 
@@ -865,7 +865,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L78)
+[client/enums/HudColors.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L78)
 
 ***
 
@@ -875,7 +875,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L79)
+[client/enums/HudColors.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L79)
 
 ***
 
@@ -885,7 +885,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L157)
+[client/enums/HudColors.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L157)
 
 ***
 
@@ -895,7 +895,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L167)
+[client/enums/HudColors.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L167)
 
 ***
 
@@ -905,7 +905,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L88)
+[client/enums/HudColors.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L88)
 
 ***
 
@@ -915,7 +915,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L42)
+[client/enums/HudColors.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L42)
 
 ***
 
@@ -925,7 +925,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L51)
+[client/enums/HudColors.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L51)
 
 ***
 
@@ -935,7 +935,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L98)
+[client/enums/HudColors.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L98)
 
 ***
 
@@ -945,7 +945,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L52)
+[client/enums/HudColors.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L52)
 
 ***
 
@@ -955,7 +955,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L99)
+[client/enums/HudColors.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L99)
 
 ***
 
@@ -965,7 +965,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L53)
+[client/enums/HudColors.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L53)
 
 ***
 
@@ -975,7 +975,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L100)
+[client/enums/HudColors.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L100)
 
 ***
 
@@ -985,7 +985,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L54)
+[client/enums/HudColors.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L54)
 
 ***
 
@@ -995,7 +995,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L101)
+[client/enums/HudColors.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L101)
 
 ***
 
@@ -1005,7 +1005,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L55)
+[client/enums/HudColors.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L55)
 
 ***
 
@@ -1015,7 +1015,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L102)
+[client/enums/HudColors.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L102)
 
 ***
 
@@ -1025,7 +1025,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L56)
+[client/enums/HudColors.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L56)
 
 ***
 
@@ -1035,7 +1035,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L103)
+[client/enums/HudColors.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L103)
 
 ***
 
@@ -1045,7 +1045,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L57)
+[client/enums/HudColors.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L57)
 
 ***
 
@@ -1055,7 +1055,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L104)
+[client/enums/HudColors.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L104)
 
 ***
 
@@ -1065,7 +1065,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L58)
+[client/enums/HudColors.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L58)
 
 ***
 
@@ -1075,7 +1075,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L105)
+[client/enums/HudColors.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L105)
 
 ***
 
@@ -1085,7 +1085,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L59)
+[client/enums/HudColors.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L59)
 
 ***
 
@@ -1095,7 +1095,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L106)
+[client/enums/HudColors.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L106)
 
 ***
 
@@ -1105,7 +1105,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L60)
+[client/enums/HudColors.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L60)
 
 ***
 
@@ -1115,7 +1115,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L107)
+[client/enums/HudColors.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L107)
 
 ***
 
@@ -1125,7 +1125,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L89)
+[client/enums/HudColors.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L89)
 
 ***
 
@@ -1135,7 +1135,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L43)
+[client/enums/HudColors.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L43)
 
 ***
 
@@ -1145,7 +1145,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L61)
+[client/enums/HudColors.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L61)
 
 ***
 
@@ -1155,7 +1155,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L108)
+[client/enums/HudColors.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L108)
 
 ***
 
@@ -1165,7 +1165,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L62)
+[client/enums/HudColors.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L62)
 
 ***
 
@@ -1175,7 +1175,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L109)
+[client/enums/HudColors.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L109)
 
 ***
 
@@ -1185,7 +1185,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L63)
+[client/enums/HudColors.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L63)
 
 ***
 
@@ -1195,7 +1195,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L110)
+[client/enums/HudColors.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L110)
 
 ***
 
@@ -1205,7 +1205,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L64)
+[client/enums/HudColors.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L64)
 
 ***
 
@@ -1215,7 +1215,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L111)
+[client/enums/HudColors.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L111)
 
 ***
 
@@ -1225,7 +1225,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L65)
+[client/enums/HudColors.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L65)
 
 ***
 
@@ -1235,7 +1235,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L112)
+[client/enums/HudColors.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L112)
 
 ***
 
@@ -1245,7 +1245,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L66)
+[client/enums/HudColors.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L66)
 
 ***
 
@@ -1255,7 +1255,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L113)
+[client/enums/HudColors.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L113)
 
 ***
 
@@ -1265,7 +1265,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L67)
+[client/enums/HudColors.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L67)
 
 ***
 
@@ -1275,7 +1275,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L114)
+[client/enums/HudColors.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L114)
 
 ***
 
@@ -1285,7 +1285,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L68)
+[client/enums/HudColors.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L68)
 
 ***
 
@@ -1295,7 +1295,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L115)
+[client/enums/HudColors.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L115)
 
 ***
 
@@ -1305,7 +1305,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L69)
+[client/enums/HudColors.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L69)
 
 ***
 
@@ -1315,7 +1315,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L116)
+[client/enums/HudColors.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L116)
 
 ***
 
@@ -1325,7 +1325,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L70)
+[client/enums/HudColors.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L70)
 
 ***
 
@@ -1335,7 +1335,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L117)
+[client/enums/HudColors.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L117)
 
 ***
 
@@ -1345,7 +1345,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L90)
+[client/enums/HudColors.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L90)
 
 ***
 
@@ -1355,7 +1355,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L44)
+[client/enums/HudColors.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L44)
 
 ***
 
@@ -1365,7 +1365,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L71)
+[client/enums/HudColors.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L71)
 
 ***
 
@@ -1375,7 +1375,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L118)
+[client/enums/HudColors.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L118)
 
 ***
 
@@ -1385,7 +1385,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L72)
+[client/enums/HudColors.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L72)
 
 ***
 
@@ -1395,7 +1395,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L119)
+[client/enums/HudColors.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L119)
 
 ***
 
@@ -1405,7 +1405,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L73)
+[client/enums/HudColors.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L73)
 
 ***
 
@@ -1415,7 +1415,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L120)
+[client/enums/HudColors.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L120)
 
 ***
 
@@ -1425,7 +1425,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L91)
+[client/enums/HudColors.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L91)
 
 ***
 
@@ -1435,7 +1435,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L45)
+[client/enums/HudColors.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L45)
 
 ***
 
@@ -1445,7 +1445,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L92)
+[client/enums/HudColors.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L92)
 
 ***
 
@@ -1455,7 +1455,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L46)
+[client/enums/HudColors.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L46)
 
 ***
 
@@ -1465,7 +1465,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L93)
+[client/enums/HudColors.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L93)
 
 ***
 
@@ -1475,7 +1475,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L47)
+[client/enums/HudColors.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L47)
 
 ***
 
@@ -1485,7 +1485,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L94)
+[client/enums/HudColors.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L94)
 
 ***
 
@@ -1495,7 +1495,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L48)
+[client/enums/HudColors.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L48)
 
 ***
 
@@ -1505,7 +1505,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L95)
+[client/enums/HudColors.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L95)
 
 ***
 
@@ -1515,7 +1515,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L49)
+[client/enums/HudColors.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L49)
 
 ***
 
@@ -1525,7 +1525,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L96)
+[client/enums/HudColors.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L96)
 
 ***
 
@@ -1535,7 +1535,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L50)
+[client/enums/HudColors.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L50)
 
 ***
 
@@ -1545,7 +1545,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L97)
+[client/enums/HudColors.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L97)
 
 ***
 
@@ -1555,7 +1555,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L148)
+[client/enums/HudColors.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L148)
 
 ***
 
@@ -1565,7 +1565,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L178)
+[client/enums/HudColors.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L178)
 
 ***
 
@@ -1575,7 +1575,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L170)
+[client/enums/HudColors.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L170)
 
 ***
 
@@ -1585,7 +1585,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L29)
+[client/enums/HudColors.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L29)
 
 ***
 
@@ -1595,7 +1595,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L31)
+[client/enums/HudColors.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L31)
 
 ***
 
@@ -1605,7 +1605,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L30)
+[client/enums/HudColors.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L30)
 
 ***
 
@@ -1615,7 +1615,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L166)
+[client/enums/HudColors.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L166)
 
 ***
 
@@ -1625,7 +1625,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L131)
+[client/enums/HudColors.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L131)
 
 ***
 
@@ -1635,7 +1635,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L172)
+[client/enums/HudColors.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L172)
 
 ***
 
@@ -1645,7 +1645,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L171)
+[client/enums/HudColors.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L171)
 
 ***
 
@@ -1655,7 +1655,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L177)
+[client/enums/HudColors.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L177)
 
 ***
 
@@ -1665,7 +1665,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L136)
+[client/enums/HudColors.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L136)
 
 ***
 
@@ -1675,7 +1675,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L135)
+[client/enums/HudColors.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L135)
 
 ***
 
@@ -1685,7 +1685,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L38)
+[client/enums/HudColors.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L38)
 
 ***
 
@@ -1695,7 +1695,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L140)
+[client/enums/HudColors.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L140)
 
 ***
 
@@ -1705,7 +1705,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L238)
+[client/enums/HudColors.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L238)
 
 ***
 
@@ -1715,7 +1715,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L239)
+[client/enums/HudColors.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L239)
 
 ***
 
@@ -1725,7 +1725,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L240)
+[client/enums/HudColors.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L240)
 
 ***
 
@@ -1735,7 +1735,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L241)
+[client/enums/HudColors.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L241)
 
 ***
 
@@ -1745,7 +1745,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L242)
+[client/enums/HudColors.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L242)
 
 ***
 
@@ -1755,7 +1755,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L243)
+[client/enums/HudColors.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L243)
 
 ***
 
@@ -1765,7 +1765,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L244)
+[client/enums/HudColors.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L244)
 
 ***
 
@@ -1775,7 +1775,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L245)
+[client/enums/HudColors.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L245)
 
 ***
 
@@ -1785,7 +1785,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L246)
+[client/enums/HudColors.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L246)
 
 ***
 
@@ -1795,7 +1795,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L247)
+[client/enums/HudColors.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L247)
 
 ***
 
@@ -1805,7 +1805,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L150)
+[client/enums/HudColors.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L150)
 
 ***
 
@@ -1815,7 +1815,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L151)
+[client/enums/HudColors.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L151)
 
 ***
 
@@ -1825,7 +1825,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L152)
+[client/enums/HudColors.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L152)
 
 ***
 
@@ -1835,7 +1835,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L124)
+[client/enums/HudColors.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L124)
 
 ***
 
@@ -1845,7 +1845,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L141)
+[client/enums/HudColors.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L141)
 
 ***
 
@@ -1855,7 +1855,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L174)
+[client/enums/HudColors.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L174)
 
 ***
 
@@ -1865,7 +1865,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L173)
+[client/enums/HudColors.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L173)
 
 ***
 
@@ -1875,7 +1875,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L14)
+[client/enums/HudColors.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L14)
 
 ***
 
@@ -1885,7 +1885,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L35)
+[client/enums/HudColors.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L35)
 
 ***
 
@@ -1895,7 +1895,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L37)
+[client/enums/HudColors.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L37)
 
 ***
 
@@ -1905,7 +1905,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L36)
+[client/enums/HudColors.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L36)
 
 ***
 
@@ -1915,7 +1915,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L40)
+[client/enums/HudColors.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L40)
 
 ***
 
@@ -1925,7 +1925,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L41)
+[client/enums/HudColors.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L41)
 
 ***
 
@@ -1935,7 +1935,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L39)
+[client/enums/HudColors.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L39)
 
 ***
 
@@ -1945,7 +1945,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L20)
+[client/enums/HudColors.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L20)
 
 ***
 
@@ -1955,7 +1955,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L22)
+[client/enums/HudColors.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L22)
 
 ***
 
@@ -1965,7 +1965,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L21)
+[client/enums/HudColors.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L21)
 
 ***
 
@@ -1975,7 +1975,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L129)
+[client/enums/HudColors.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L129)
 
 ***
 
@@ -1985,7 +1985,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L142)
+[client/enums/HudColors.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L142)
 
 ***
 
@@ -1995,7 +1995,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L179)
+[client/enums/HudColors.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L179)
 
 ***
 
@@ -2005,7 +2005,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L146)
+[client/enums/HudColors.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L146)
 
 ***
 
@@ -2015,7 +2015,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L122)
+[client/enums/HudColors.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L122)
 
 ***
 
@@ -2025,7 +2025,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L74)
+[client/enums/HudColors.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L74)
 
 ***
 
@@ -2035,7 +2035,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L149)
+[client/enums/HudColors.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L149)
 
 ***
 
@@ -2045,7 +2045,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L230)
+[client/enums/HudColors.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L230)
 
 ***
 
@@ -2055,7 +2055,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L231)
+[client/enums/HudColors.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L231)
 
 ***
 
@@ -2065,7 +2065,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L228)
+[client/enums/HudColors.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L228)
 
 ***
 
@@ -2075,7 +2075,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L229)
+[client/enums/HudColors.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L229)
 
 ***
 
@@ -2085,7 +2085,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L182)
+[client/enums/HudColors.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L182)
 
 ***
 
@@ -2095,7 +2095,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L183)
+[client/enums/HudColors.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L183)
 
 ***
 
@@ -2105,7 +2105,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L234)
+[client/enums/HudColors.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L234)
 
 ***
 
@@ -2115,7 +2115,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L235)
+[client/enums/HudColors.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L235)
 
 ***
 
@@ -2125,7 +2125,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L237)
+[client/enums/HudColors.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L237)
 
 ***
 
@@ -2135,7 +2135,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L236)
+[client/enums/HudColors.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L236)
 
 ***
 
@@ -2145,7 +2145,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L144)
+[client/enums/HudColors.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L144)
 
 ***
 
@@ -2155,7 +2155,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L159)
+[client/enums/HudColors.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L159)
 
 ***
 
@@ -2165,7 +2165,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L169)
+[client/enums/HudColors.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L169)
 
 ***
 
@@ -2175,7 +2175,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L199)
+[client/enums/HudColors.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L199)
 
 ***
 
@@ -2185,7 +2185,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L201)
+[client/enums/HudColors.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L201)
 
 ***
 
@@ -2195,7 +2195,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L200)
+[client/enums/HudColors.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L200)
 
 ***
 
@@ -2205,7 +2205,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L202)
+[client/enums/HudColors.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L202)
 
 ***
 
@@ -2215,7 +2215,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L203)
+[client/enums/HudColors.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L203)
 
 ***
 
@@ -2225,7 +2225,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L190)
+[client/enums/HudColors.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L190)
 
 ***
 
@@ -2235,7 +2235,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L195)
+[client/enums/HudColors.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L195)
 
 ***
 
@@ -2245,7 +2245,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L194)
+[client/enums/HudColors.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L194)
 
 ***
 
@@ -2255,7 +2255,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L197)
+[client/enums/HudColors.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L197)
 
 ***
 
@@ -2265,7 +2265,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L191)
+[client/enums/HudColors.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L191)
 
 ***
 
@@ -2275,7 +2275,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L196)
+[client/enums/HudColors.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L196)
 
 ***
 
@@ -2285,7 +2285,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L189)
+[client/enums/HudColors.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L189)
 
 ***
 
@@ -2295,7 +2295,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L156)
+[client/enums/HudColors.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L156)
 
 ***
 
@@ -2305,7 +2305,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L165)
+[client/enums/HudColors.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L165)
 
 ***
 
@@ -2315,7 +2315,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L164)
+[client/enums/HudColors.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L164)
 
 ***
 
@@ -2325,7 +2325,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L15)
+[client/enums/HudColors.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L15)
 
 ***
 
@@ -2335,7 +2335,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L26)
+[client/enums/HudColors.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L26)
 
 ***
 
@@ -2345,7 +2345,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L28)
+[client/enums/HudColors.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L28)
 
 ***
 
@@ -2355,7 +2355,7 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L27)
+[client/enums/HudColors.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L27)
 
 ***
 
@@ -2365,4 +2365,4 @@ Each value is documented with its corresponding RGBA value.
 
 #### Defined in
 
-[client/enums/HudColors.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HudColors.ts#L143)
+[client/enums/HudColors.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L143)

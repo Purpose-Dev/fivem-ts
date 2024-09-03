@@ -18,4 +18,4 @@
 
 ## Defined in
 
-[shared/decorators/events/Event.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/decorators/events/Event.ts#L4)
+[shared/decorators/events/Event.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/events/Event.ts#L4)

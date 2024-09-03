@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L52)
+[client/enums/Controls.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L52)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L27)
+[client/enums/Controls.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L27)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L51)
+[client/enums/Controls.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L51)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L26)
+[client/enums/Controls.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L26)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L259)
+[client/enums/Controls.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L259)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L187)
+[client/enums/Controls.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L187)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L188)
+[client/enums/Controls.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L188)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L184)
+[client/enums/Controls.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L184)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L185)
+[client/enums/Controls.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L185)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L186)
+[client/enums/Controls.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L186)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L179)
+[client/enums/Controls.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L179)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L175)
+[client/enums/Controls.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L175)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L181)
+[client/enums/Controls.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L181)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L176)
+[client/enums/Controls.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L176)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L180)
+[client/enums/Controls.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L180)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L177)
+[client/enums/Controls.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L177)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L183)
+[client/enums/Controls.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L183)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L182)
+[client/enums/Controls.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L182)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L178)
+[client/enums/Controls.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L178)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L174)
+[client/enums/Controls.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L174)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L21)
+[client/enums/Controls.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L21)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L9)
+[client/enums/Controls.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L9)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L53)
+[client/enums/Controls.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L53)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L54)
+[client/enums/Controls.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L54)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L46)
+[client/enums/Controls.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L46)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L257)
+[client/enums/Controls.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L257)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L258)
+[client/enums/Controls.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L258)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L252)
+[client/enums/Controls.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L252)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L254)
+[client/enums/Controls.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L254)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L256)
+[client/enums/Controls.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L256)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L253)
+[client/enums/Controls.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L253)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L255)
+[client/enums/Controls.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L255)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L239)
+[client/enums/Controls.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L239)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L240)
+[client/enums/Controls.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L240)
 
 ***
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L244)
+[client/enums/Controls.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L244)
 
 ***
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L243)
+[client/enums/Controls.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L243)
 
 ***
 
@@ -374,7 +374,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L241)
+[client/enums/Controls.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L241)
 
 ***
 
@@ -384,7 +384,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L242)
+[client/enums/Controls.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L242)
 
 ***
 
@@ -394,7 +394,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L49)
+[client/enums/Controls.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L49)
 
 ***
 
@@ -404,7 +404,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L57)
+[client/enums/Controls.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L57)
 
 ***
 
@@ -414,7 +414,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L59)
+[client/enums/Controls.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L59)
 
 ***
 
@@ -424,7 +424,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L58)
+[client/enums/Controls.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L58)
 
 ***
 
@@ -434,7 +434,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L38)
+[client/enums/Controls.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L38)
 
 ***
 
@@ -444,7 +444,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L25)
+[client/enums/Controls.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L25)
 
 ***
 
@@ -454,7 +454,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L245)
+[client/enums/Controls.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L245)
 
 ***
 
@@ -464,7 +464,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L203)
+[client/enums/Controls.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L203)
 
 ***
 
@@ -474,7 +474,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L197)
+[client/enums/Controls.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L197)
 
 ***
 
@@ -484,7 +484,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L198)
+[client/enums/Controls.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L198)
 
 ***
 
@@ -494,7 +494,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L204)
+[client/enums/Controls.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L204)
 
 ***
 
@@ -504,7 +504,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L216)
+[client/enums/Controls.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L216)
 
 ***
 
@@ -514,7 +514,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L189)
+[client/enums/Controls.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L189)
 
 ***
 
@@ -524,7 +524,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L217)
+[client/enums/Controls.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L217)
 
 ***
 
@@ -534,7 +534,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L218)
+[client/enums/Controls.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L218)
 
 ***
 
@@ -544,7 +544,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L207)
+[client/enums/Controls.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L207)
 
 ***
 
@@ -554,7 +554,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L211)
+[client/enums/Controls.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L211)
 
 ***
 
@@ -564,7 +564,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L209)
+[client/enums/Controls.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L209)
 
 ***
 
@@ -574,7 +574,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L213)
+[client/enums/Controls.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L213)
 
 ***
 
@@ -584,7 +584,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L191)
+[client/enums/Controls.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L191)
 
 ***
 
@@ -594,7 +594,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L201)
+[client/enums/Controls.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L201)
 
 ***
 
@@ -604,7 +604,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L202)
+[client/enums/Controls.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L202)
 
 ***
 
@@ -614,7 +614,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L208)
+[client/enums/Controls.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L208)
 
 ***
 
@@ -624,7 +624,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L193)
+[client/enums/Controls.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L193)
 
 ***
 
@@ -634,7 +634,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L195)
+[client/enums/Controls.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L195)
 
 ***
 
@@ -644,7 +644,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L196)
+[client/enums/Controls.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L196)
 
 ***
 
@@ -654,7 +654,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L212)
+[client/enums/Controls.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L212)
 
 ***
 
@@ -664,7 +664,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L210)
+[client/enums/Controls.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L210)
 
 ***
 
@@ -674,7 +674,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L194)
+[client/enums/Controls.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L194)
 
 ***
 
@@ -684,7 +684,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L192)
+[client/enums/Controls.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L192)
 
 ***
 
@@ -694,7 +694,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L199)
+[client/enums/Controls.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L199)
 
 ***
 
@@ -704,7 +704,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L200)
+[client/enums/Controls.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L200)
 
 ***
 
@@ -714,7 +714,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L219)
+[client/enums/Controls.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L219)
 
 ***
 
@@ -724,7 +724,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L214)
+[client/enums/Controls.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L214)
 
 ***
 
@@ -734,7 +734,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L215)
+[client/enums/Controls.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L215)
 
 ***
 
@@ -744,7 +744,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L190)
+[client/enums/Controls.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L190)
 
 ***
 
@@ -754,7 +754,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L205)
+[client/enums/Controls.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L205)
 
 ***
 
@@ -764,7 +764,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L206)
+[client/enums/Controls.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L206)
 
 ***
 
@@ -774,7 +774,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L362)
+[client/enums/Controls.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L362)
 
 ***
 
@@ -784,7 +784,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L50)
+[client/enums/Controls.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L50)
 
 ***
 
@@ -794,7 +794,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L246)
+[client/enums/Controls.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L246)
 
 ***
 
@@ -804,7 +804,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L24)
+[client/enums/Controls.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L24)
 
 ***
 
@@ -814,7 +814,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L28)
+[client/enums/Controls.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L28)
 
 ***
 
@@ -824,7 +824,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L275)
+[client/enums/Controls.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L275)
 
 ***
 
@@ -834,7 +834,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L6)
+[client/enums/Controls.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L6)
 
 ***
 
@@ -844,7 +844,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L3)
+[client/enums/Controls.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L3)
 
 ***
 
@@ -854,7 +854,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L272)
+[client/enums/Controls.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L272)
 
 ***
 
@@ -864,7 +864,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L7)
+[client/enums/Controls.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L7)
 
 ***
 
@@ -874,7 +874,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L273)
+[client/enums/Controls.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L273)
 
 ***
 
@@ -884,7 +884,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L8)
+[client/enums/Controls.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L8)
 
 ***
 
@@ -894,7 +894,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L4)
+[client/enums/Controls.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L4)
 
 ***
 
@@ -904,7 +904,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L274)
+[client/enums/Controls.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L274)
 
 ***
 
@@ -914,7 +914,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L5)
+[client/enums/Controls.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L5)
 
 ***
 
@@ -924,7 +924,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L158)
+[client/enums/Controls.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L158)
 
 ***
 
@@ -934,7 +934,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L350)
+[client/enums/Controls.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L350)
 
 ***
 
@@ -944,7 +944,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L265)
+[client/enums/Controls.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L265)
 
 ***
 
@@ -954,7 +954,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L266)
+[client/enums/Controls.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L266)
 
 ***
 
@@ -964,7 +964,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L144)
+[client/enums/Controls.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L144)
 
 ***
 
@@ -974,7 +974,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L143)
+[client/enums/Controls.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L143)
 
 ***
 
@@ -984,7 +984,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L142)
+[client/enums/Controls.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L142)
 
 ***
 
@@ -994,7 +994,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L145)
+[client/enums/Controls.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L145)
 
 ***
 
@@ -1004,7 +1004,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L271)
+[client/enums/Controls.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L271)
 
 ***
 
@@ -1014,7 +1014,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L35)
+[client/enums/Controls.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L35)
 
 ***
 
@@ -1024,7 +1024,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L268)
+[client/enums/Controls.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L268)
 
 ***
 
@@ -1034,7 +1034,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L36)
+[client/enums/Controls.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L36)
 
 ***
 
@@ -1044,7 +1044,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L32)
+[client/enums/Controls.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L32)
 
 ***
 
@@ -1054,7 +1054,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L269)
+[client/enums/Controls.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L269)
 
 ***
 
@@ -1064,7 +1064,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L37)
+[client/enums/Controls.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L37)
 
 ***
 
@@ -1074,7 +1074,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L33)
+[client/enums/Controls.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L33)
 
 ***
 
@@ -1084,7 +1084,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L270)
+[client/enums/Controls.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L270)
 
 ***
 
@@ -1094,7 +1094,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L34)
+[client/enums/Controls.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L34)
 
 ***
 
@@ -1104,7 +1104,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L247)
+[client/enums/Controls.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L247)
 
 ***
 
@@ -1114,7 +1114,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L250)
+[client/enums/Controls.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L250)
 
 ***
 
@@ -1124,7 +1124,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L249)
+[client/enums/Controls.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L249)
 
 ***
 
@@ -1134,7 +1134,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L248)
+[client/enums/Controls.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L248)
 
 ***
 
@@ -1144,7 +1144,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L22)
+[client/enums/Controls.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L22)
 
 ***
 
@@ -1154,7 +1154,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L2)
+[client/enums/Controls.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L2)
 
 ***
 
@@ -1164,7 +1164,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L264)
+[client/enums/Controls.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L264)
 
 ***
 
@@ -1174,7 +1174,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L154)
+[client/enums/Controls.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L154)
 
 ***
 
@@ -1184,7 +1184,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L155)
+[client/enums/Controls.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L155)
 
 ***
 
@@ -1194,7 +1194,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L146)
+[client/enums/Controls.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L146)
 
 ***
 
@@ -1204,7 +1204,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L147)
+[client/enums/Controls.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L147)
 
 ***
 
@@ -1214,7 +1214,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L153)
+[client/enums/Controls.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L153)
 
 ***
 
@@ -1224,7 +1224,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L151)
+[client/enums/Controls.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L151)
 
 ***
 
@@ -1234,7 +1234,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L152)
+[client/enums/Controls.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L152)
 
 ***
 
@@ -1244,7 +1244,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L157)
+[client/enums/Controls.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L157)
 
 ***
 
@@ -1254,7 +1254,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L156)
+[client/enums/Controls.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L156)
 
 ***
 
@@ -1264,7 +1264,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L149)
+[client/enums/Controls.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L149)
 
 ***
 
@@ -1274,7 +1274,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L148)
+[client/enums/Controls.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L148)
 
 ***
 
@@ -1284,7 +1284,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L150)
+[client/enums/Controls.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L150)
 
 ***
 
@@ -1294,7 +1294,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L29)
+[client/enums/Controls.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L29)
 
 ***
 
@@ -1304,7 +1304,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L40)
+[client/enums/Controls.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L40)
 
 ***
 
@@ -1314,7 +1314,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L263)
+[client/enums/Controls.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L263)
 
 ***
 
@@ -1324,7 +1324,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L251)
+[client/enums/Controls.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L251)
 
 ***
 
@@ -1334,7 +1334,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L360)
+[client/enums/Controls.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L360)
 
 ***
 
@@ -1344,7 +1344,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L335)
+[client/enums/Controls.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L335)
 
 ***
 
@@ -1354,7 +1354,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L334)
+[client/enums/Controls.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L334)
 
 ***
 
@@ -1364,7 +1364,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L260)
+[client/enums/Controls.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L260)
 
 ***
 
@@ -1374,7 +1374,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L261)
+[client/enums/Controls.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L261)
 
 ***
 
@@ -1384,7 +1384,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L262)
+[client/enums/Controls.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L262)
 
 ***
 
@@ -1394,7 +1394,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L47)
+[client/enums/Controls.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L47)
 
 ***
 
@@ -1404,7 +1404,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L309)
+[client/enums/Controls.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L309)
 
 ***
 
@@ -1414,7 +1414,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L310)
+[client/enums/Controls.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L310)
 
 ***
 
@@ -1424,7 +1424,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L319)
+[client/enums/Controls.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L319)
 
 ***
 
@@ -1434,7 +1434,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L318)
+[client/enums/Controls.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L318)
 
 ***
 
@@ -1444,7 +1444,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L314)
+[client/enums/Controls.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L314)
 
 ***
 
@@ -1454,7 +1454,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L315)
+[client/enums/Controls.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L315)
 
 ***
 
@@ -1464,7 +1464,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L299)
+[client/enums/Controls.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L299)
 
 ***
 
@@ -1474,7 +1474,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L328)
+[client/enums/Controls.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L328)
 
 ***
 
@@ -1484,7 +1484,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L308)
+[client/enums/Controls.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L308)
 
 ***
 
@@ -1494,7 +1494,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L302)
+[client/enums/Controls.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L302)
 
 ***
 
@@ -1504,7 +1504,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L317)
+[client/enums/Controls.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L317)
 
 ***
 
@@ -1514,7 +1514,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L316)
+[client/enums/Controls.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L316)
 
 ***
 
@@ -1524,7 +1524,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L306)
+[client/enums/Controls.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L306)
 
 ***
 
@@ -1534,7 +1534,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L298)
+[client/enums/Controls.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L298)
 
 ***
 
@@ -1544,7 +1544,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L303)
+[client/enums/Controls.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L303)
 
 ***
 
@@ -1554,7 +1554,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L300)
+[client/enums/Controls.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L300)
 
 ***
 
@@ -1564,7 +1564,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L323)
+[client/enums/Controls.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L323)
 
 ***
 
@@ -1574,7 +1574,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L330)
+[client/enums/Controls.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L330)
 
 ***
 
@@ -1584,7 +1584,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L304)
+[client/enums/Controls.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L304)
 
 ***
 
@@ -1594,7 +1594,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L312)
+[client/enums/Controls.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L312)
 
 ***
 
@@ -1604,7 +1604,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L301)
+[client/enums/Controls.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L301)
 
 ***
 
@@ -1614,7 +1614,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:320](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L320)
+[client/enums/Controls.ts:320](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L320)
 
 ***
 
@@ -1624,7 +1624,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L305)
+[client/enums/Controls.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L305)
 
 ***
 
@@ -1634,7 +1634,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L313)
+[client/enums/Controls.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L313)
 
 ***
 
@@ -1644,7 +1644,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L351)
+[client/enums/Controls.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L351)
 
 ***
 
@@ -1654,7 +1654,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L307)
+[client/enums/Controls.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L307)
 
 ***
 
@@ -1664,7 +1664,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L290)
+[client/enums/Controls.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L290)
 
 ***
 
@@ -1674,7 +1674,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L291)
+[client/enums/Controls.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L291)
 
 ***
 
@@ -1684,7 +1684,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L326)
+[client/enums/Controls.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L326)
 
 ***
 
@@ -1694,7 +1694,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L325)
+[client/enums/Controls.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L325)
 
 ***
 
@@ -1704,7 +1704,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L327)
+[client/enums/Controls.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L327)
 
 ***
 
@@ -1714,7 +1714,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L329)
+[client/enums/Controls.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L329)
 
 ***
 
@@ -1724,7 +1724,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L321)
+[client/enums/Controls.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L321)
 
 ***
 
@@ -1734,7 +1734,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L324)
+[client/enums/Controls.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L324)
 
 ***
 
@@ -1744,7 +1744,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L322)
+[client/enums/Controls.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L322)
 
 ***
 
@@ -1754,7 +1754,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L311)
+[client/enums/Controls.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L311)
 
 ***
 
@@ -1764,7 +1764,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L361)
+[client/enums/Controls.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L361)
 
 ***
 
@@ -1774,7 +1774,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L172)
+[client/enums/Controls.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L172)
 
 ***
 
@@ -1784,7 +1784,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L295)
+[client/enums/Controls.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L295)
 
 ***
 
@@ -1794,7 +1794,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L292)
+[client/enums/Controls.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L292)
 
 ***
 
@@ -1804,7 +1804,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L296)
+[client/enums/Controls.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L296)
 
 ***
 
@@ -1814,7 +1814,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L297)
+[client/enums/Controls.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L297)
 
 ***
 
@@ -1824,7 +1824,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L293)
+[client/enums/Controls.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L293)
 
 ***
 
@@ -1834,7 +1834,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L294)
+[client/enums/Controls.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L294)
 
 ***
 
@@ -1844,7 +1844,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L228)
+[client/enums/Controls.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L228)
 
 ***
 
@@ -1854,7 +1854,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L232)
+[client/enums/Controls.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L232)
 
 ***
 
@@ -1864,7 +1864,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L230)
+[client/enums/Controls.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L230)
 
 ***
 
@@ -1874,7 +1874,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L220)
+[client/enums/Controls.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L220)
 
 ***
 
@@ -1884,7 +1884,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L221)
+[client/enums/Controls.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L221)
 
 ***
 
@@ -1894,7 +1894,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L235)
+[client/enums/Controls.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L235)
 
 ***
 
@@ -1904,7 +1904,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L236)
+[client/enums/Controls.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L236)
 
 ***
 
@@ -1914,7 +1914,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L237)
+[client/enums/Controls.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L237)
 
 ***
 
@@ -1924,7 +1924,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L234)
+[client/enums/Controls.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L234)
 
 ***
 
@@ -1934,7 +1934,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L229)
+[client/enums/Controls.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L229)
 
 ***
 
@@ -1944,7 +1944,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L225)
+[client/enums/Controls.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L225)
 
 ***
 
@@ -1954,7 +1954,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L226)
+[client/enums/Controls.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L226)
 
 ***
 
@@ -1964,7 +1964,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L227)
+[client/enums/Controls.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L227)
 
 ***
 
@@ -1974,7 +1974,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L233)
+[client/enums/Controls.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L233)
 
 ***
 
@@ -1984,7 +1984,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L231)
+[client/enums/Controls.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L231)
 
 ***
 
@@ -1994,7 +1994,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L224)
+[client/enums/Controls.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L224)
 
 ***
 
@@ -2004,7 +2004,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L222)
+[client/enums/Controls.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L222)
 
 ***
 
@@ -2014,7 +2014,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L223)
+[client/enums/Controls.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L223)
 
 ***
 
@@ -2024,7 +2024,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L238)
+[client/enums/Controls.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L238)
 
 ***
 
@@ -2034,7 +2034,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L11)
+[client/enums/Controls.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L11)
 
 ***
 
@@ -2044,7 +2044,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L10)
+[client/enums/Controls.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L10)
 
 ***
 
@@ -2054,7 +2054,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L13)
+[client/enums/Controls.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L13)
 
 ***
 
@@ -2064,7 +2064,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L12)
+[client/enums/Controls.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L12)
 
 ***
 
@@ -2074,7 +2074,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L169)
+[client/enums/Controls.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L169)
 
 ***
 
@@ -2084,7 +2084,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L168)
+[client/enums/Controls.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L168)
 
 ***
 
@@ -2094,7 +2094,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L171)
+[client/enums/Controls.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L171)
 
 ***
 
@@ -2104,7 +2104,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L170)
+[client/enums/Controls.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L170)
 
 ***
 
@@ -2114,7 +2114,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L18)
+[client/enums/Controls.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L18)
 
 ***
 
@@ -2124,7 +2124,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L19)
+[client/enums/Controls.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L19)
 
 ***
 
@@ -2134,7 +2134,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L39)
+[client/enums/Controls.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L39)
 
 ***
 
@@ -2144,7 +2144,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L164)
+[client/enums/Controls.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L164)
 
 ***
 
@@ -2154,7 +2154,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L161)
+[client/enums/Controls.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L161)
 
 ***
 
@@ -2164,7 +2164,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L166)
+[client/enums/Controls.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L166)
 
 ***
 
@@ -2174,7 +2174,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L160)
+[client/enums/Controls.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L160)
 
 ***
 
@@ -2184,7 +2184,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L162)
+[client/enums/Controls.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L162)
 
 ***
 
@@ -2194,7 +2194,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L163)
+[client/enums/Controls.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L163)
 
 ***
 
@@ -2204,7 +2204,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L165)
+[client/enums/Controls.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L165)
 
 ***
 
@@ -2214,7 +2214,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L167)
+[client/enums/Controls.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L167)
 
 ***
 
@@ -2224,7 +2224,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L159)
+[client/enums/Controls.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L159)
 
 ***
 
@@ -2234,7 +2234,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L20)
+[client/enums/Controls.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L20)
 
 ***
 
@@ -2244,7 +2244,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L41)
+[client/enums/Controls.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L41)
 
 ***
 
@@ -2254,7 +2254,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L276)
+[client/enums/Controls.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L276)
 
 ***
 
@@ -2264,7 +2264,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L278)
+[client/enums/Controls.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L278)
 
 ***
 
@@ -2274,7 +2274,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L42)
+[client/enums/Controls.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L42)
 
 ***
 
@@ -2284,7 +2284,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L44)
+[client/enums/Controls.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L44)
 
 ***
 
@@ -2294,7 +2294,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L277)
+[client/enums/Controls.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L277)
 
 ***
 
@@ -2304,7 +2304,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L279)
+[client/enums/Controls.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L279)
 
 ***
 
@@ -2314,7 +2314,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L43)
+[client/enums/Controls.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L43)
 
 ***
 
@@ -2324,7 +2324,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L45)
+[client/enums/Controls.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L45)
 
 ***
 
@@ -2334,7 +2334,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L30)
+[client/enums/Controls.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L30)
 
 ***
 
@@ -2344,7 +2344,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L173)
+[client/enums/Controls.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L173)
 
 ***
 
@@ -2354,7 +2354,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L31)
+[client/enums/Controls.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L31)
 
 ***
 
@@ -2364,7 +2364,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L23)
+[client/enums/Controls.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L23)
 
 ***
 
@@ -2374,7 +2374,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L346)
+[client/enums/Controls.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L346)
 
 ***
 
@@ -2384,7 +2384,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L48)
+[client/enums/Controls.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L48)
 
 ***
 
@@ -2394,7 +2394,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L60)
+[client/enums/Controls.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L60)
 
 ***
 
@@ -2404,7 +2404,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L73)
+[client/enums/Controls.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L73)
 
 ***
 
@@ -2414,7 +2414,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L70)
+[client/enums/Controls.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L70)
 
 ***
 
@@ -2424,7 +2424,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L71)
+[client/enums/Controls.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L71)
 
 ***
 
@@ -2434,7 +2434,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L72)
+[client/enums/Controls.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L72)
 
 ***
 
@@ -2444,7 +2444,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L356)
+[client/enums/Controls.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L356)
 
 ***
 
@@ -2454,7 +2454,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L74)
+[client/enums/Controls.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L74)
 
 ***
 
@@ -2464,7 +2464,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L352)
+[client/enums/Controls.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L352)
 
 ***
 
@@ -2474,7 +2474,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L82)
+[client/enums/Controls.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L82)
 
 ***
 
@@ -2484,7 +2484,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L99)
+[client/enums/Controls.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L99)
 
 ***
 
@@ -2494,7 +2494,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L100)
+[client/enums/Controls.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L100)
 
 ***
 
@@ -2504,7 +2504,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L97)
+[client/enums/Controls.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L97)
 
 ***
 
@@ -2514,7 +2514,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L98)
+[client/enums/Controls.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L98)
 
 ***
 
@@ -2524,7 +2524,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L331)
+[client/enums/Controls.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L331)
 
 ***
 
@@ -2534,7 +2534,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L332)
+[client/enums/Controls.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L332)
 
 ***
 
@@ -2544,7 +2544,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L107)
+[client/enums/Controls.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L107)
 
 ***
 
@@ -2554,7 +2554,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L75)
+[client/enums/Controls.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L75)
 
 ***
 
@@ -2564,7 +2564,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L77)
+[client/enums/Controls.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L77)
 
 ***
 
@@ -2574,7 +2574,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L357)
+[client/enums/Controls.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L357)
 
 ***
 
@@ -2584,7 +2584,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L116)
+[client/enums/Controls.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L116)
 
 ***
 
@@ -2594,7 +2594,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L333)
+[client/enums/Controls.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L333)
 
 ***
 
@@ -2604,7 +2604,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L123)
+[client/enums/Controls.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L123)
 
 ***
 
@@ -2614,7 +2614,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L358)
+[client/enums/Controls.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L358)
 
 ***
 
@@ -2624,7 +2624,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L354)
+[client/enums/Controls.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L354)
 
 ***
 
@@ -2634,7 +2634,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L122)
+[client/enums/Controls.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L122)
 
 ***
 
@@ -2644,7 +2644,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L124)
+[client/enums/Controls.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L124)
 
 ***
 
@@ -2654,7 +2654,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L114)
+[client/enums/Controls.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L114)
 
 ***
 
@@ -2664,7 +2664,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L112)
+[client/enums/Controls.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L112)
 
 ***
 
@@ -2674,7 +2674,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L113)
+[client/enums/Controls.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L113)
 
 ***
 
@@ -2684,7 +2684,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L110)
+[client/enums/Controls.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L110)
 
 ***
 
@@ -2694,7 +2694,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L109)
+[client/enums/Controls.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L109)
 
 ***
 
@@ -2704,7 +2704,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L111)
+[client/enums/Controls.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L111)
 
 ***
 
@@ -2714,7 +2714,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L117)
+[client/enums/Controls.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L117)
 
 ***
 
@@ -2724,7 +2724,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L118)
+[client/enums/Controls.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L118)
 
 ***
 
@@ -2734,7 +2734,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L119)
+[client/enums/Controls.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L119)
 
 ***
 
@@ -2744,7 +2744,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L120)
+[client/enums/Controls.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L120)
 
 ***
 
@@ -2754,7 +2754,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L90)
+[client/enums/Controls.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L90)
 
 ***
 
@@ -2764,7 +2764,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L89)
+[client/enums/Controls.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L89)
 
 ***
 
@@ -2774,7 +2774,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L115)
+[client/enums/Controls.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L115)
 
 ***
 
@@ -2784,7 +2784,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L121)
+[client/enums/Controls.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L121)
 
 ***
 
@@ -2794,7 +2794,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L91)
+[client/enums/Controls.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L91)
 
 ***
 
@@ -2804,7 +2804,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L92)
+[client/enums/Controls.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L92)
 
 ***
 
@@ -2814,7 +2814,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L105)
+[client/enums/Controls.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L105)
 
 ***
 
@@ -2824,7 +2824,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L287)
+[client/enums/Controls.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L287)
 
 ***
 
@@ -2834,7 +2834,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L284)
+[client/enums/Controls.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L284)
 
 ***
 
@@ -2844,7 +2844,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L68)
+[client/enums/Controls.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L68)
 
 ***
 
@@ -2854,7 +2854,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L285)
+[client/enums/Controls.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L285)
 
 ***
 
@@ -2864,7 +2864,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L69)
+[client/enums/Controls.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L69)
 
 ***
 
@@ -2874,7 +2874,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L286)
+[client/enums/Controls.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L286)
 
 ***
 
@@ -2884,7 +2884,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L78)
+[client/enums/Controls.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L78)
 
 ***
 
@@ -2894,7 +2894,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L76)
+[client/enums/Controls.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L76)
 
 ***
 
@@ -2904,7 +2904,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L88)
+[client/enums/Controls.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L88)
 
 ***
 
@@ -2914,7 +2914,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L79)
+[client/enums/Controls.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L79)
 
 ***
 
@@ -2924,7 +2924,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L80)
+[client/enums/Controls.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L80)
 
 ***
 
@@ -2934,7 +2934,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L343)
+[client/enums/Controls.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L343)
 
 ***
 
@@ -2944,7 +2944,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L340)
+[client/enums/Controls.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L340)
 
 ***
 
@@ -2954,7 +2954,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L345)
+[client/enums/Controls.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L345)
 
 ***
 
@@ -2964,7 +2964,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L341)
+[client/enums/Controls.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L341)
 
 ***
 
@@ -2974,7 +2974,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L339)
+[client/enums/Controls.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L339)
 
 ***
 
@@ -2984,7 +2984,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L344)
+[client/enums/Controls.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L344)
 
 ***
 
@@ -2994,7 +2994,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L342)
+[client/enums/Controls.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L342)
 
 ***
 
@@ -3004,7 +3004,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L104)
+[client/enums/Controls.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L104)
 
 ***
 
@@ -3014,7 +3014,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L81)
+[client/enums/Controls.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L81)
 
 ***
 
@@ -3024,7 +3024,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L288)
+[client/enums/Controls.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L288)
 
 ***
 
@@ -3034,7 +3034,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L289)
+[client/enums/Controls.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L289)
 
 ***
 
@@ -3044,7 +3044,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L347)
+[client/enums/Controls.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L347)
 
 ***
 
@@ -3054,7 +3054,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L348)
+[client/enums/Controls.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L348)
 
 ***
 
@@ -3064,7 +3064,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L349)
+[client/enums/Controls.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L349)
 
 ***
 
@@ -3074,7 +3074,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L108)
+[client/enums/Controls.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L108)
 
 ***
 
@@ -3084,7 +3084,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L283)
+[client/enums/Controls.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L283)
 
 ***
 
@@ -3094,7 +3094,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L64)
+[client/enums/Controls.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L64)
 
 ***
 
@@ -3104,7 +3104,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L280)
+[client/enums/Controls.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L280)
 
 ***
 
@@ -3114,7 +3114,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L65)
+[client/enums/Controls.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L65)
 
 ***
 
@@ -3124,7 +3124,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L61)
+[client/enums/Controls.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L61)
 
 ***
 
@@ -3134,7 +3134,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L281)
+[client/enums/Controls.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L281)
 
 ***
 
@@ -3144,7 +3144,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L66)
+[client/enums/Controls.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L66)
 
 ***
 
@@ -3154,7 +3154,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L62)
+[client/enums/Controls.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L62)
 
 ***
 
@@ -3164,7 +3164,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L282)
+[client/enums/Controls.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L282)
 
 ***
 
@@ -3174,7 +3174,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L63)
+[client/enums/Controls.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L63)
 
 ***
 
@@ -3184,7 +3184,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L83)
+[client/enums/Controls.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L83)
 
 ***
 
@@ -3194,7 +3194,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L85)
+[client/enums/Controls.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L85)
 
 ***
 
@@ -3204,7 +3204,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L355)
+[client/enums/Controls.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L355)
 
 ***
 
@@ -3214,7 +3214,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L93)
+[client/enums/Controls.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L93)
 
 ***
 
@@ -3224,7 +3224,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L94)
+[client/enums/Controls.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L94)
 
 ***
 
@@ -3234,7 +3234,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L84)
+[client/enums/Controls.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L84)
 
 ***
 
@@ -3244,7 +3244,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L86)
+[client/enums/Controls.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L86)
 
 ***
 
@@ -3254,7 +3254,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L141)
+[client/enums/Controls.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L141)
 
 ***
 
@@ -3264,7 +3264,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L140)
+[client/enums/Controls.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L140)
 
 ***
 
@@ -3274,7 +3274,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L138)
+[client/enums/Controls.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L138)
 
 ***
 
@@ -3284,7 +3284,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L139)
+[client/enums/Controls.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L139)
 
 ***
 
@@ -3294,7 +3294,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L87)
+[client/enums/Controls.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L87)
 
 ***
 
@@ -3304,7 +3304,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L353)
+[client/enums/Controls.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L353)
 
 ***
 
@@ -3314,7 +3314,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L103)
+[client/enums/Controls.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L103)
 
 ***
 
@@ -3324,7 +3324,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L128)
+[client/enums/Controls.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L128)
 
 ***
 
@@ -3334,7 +3334,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L101)
+[client/enums/Controls.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L101)
 
 ***
 
@@ -3344,7 +3344,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L102)
+[client/enums/Controls.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L102)
 
 ***
 
@@ -3354,7 +3354,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L106)
+[client/enums/Controls.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L106)
 
 ***
 
@@ -3364,7 +3364,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L338)
+[client/enums/Controls.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L338)
 
 ***
 
@@ -3374,7 +3374,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L336)
+[client/enums/Controls.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L336)
 
 ***
 
@@ -3384,7 +3384,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L337)
+[client/enums/Controls.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L337)
 
 ***
 
@@ -3394,7 +3394,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L67)
+[client/enums/Controls.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L67)
 
 ***
 
@@ -3404,7 +3404,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L95)
+[client/enums/Controls.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L95)
 
 ***
 
@@ -3414,7 +3414,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L96)
+[client/enums/Controls.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L96)
 
 ***
 
@@ -3424,7 +3424,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L133)
+[client/enums/Controls.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L133)
 
 ***
 
@@ -3434,7 +3434,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L134)
+[client/enums/Controls.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L134)
 
 ***
 
@@ -3444,7 +3444,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L137)
+[client/enums/Controls.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L137)
 
 ***
 
@@ -3454,7 +3454,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L130)
+[client/enums/Controls.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L130)
 
 ***
 
@@ -3464,7 +3464,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L129)
+[client/enums/Controls.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L129)
 
 ***
 
@@ -3474,7 +3474,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L132)
+[client/enums/Controls.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L132)
 
 ***
 
@@ -3484,7 +3484,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L131)
+[client/enums/Controls.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L131)
 
 ***
 
@@ -3494,7 +3494,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L135)
+[client/enums/Controls.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L135)
 
 ***
 
@@ -3504,7 +3504,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L136)
+[client/enums/Controls.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L136)
 
 ***
 
@@ -3514,7 +3514,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L126)
+[client/enums/Controls.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L126)
 
 ***
 
@@ -3524,7 +3524,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L125)
+[client/enums/Controls.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L125)
 
 ***
 
@@ -3534,7 +3534,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L127)
+[client/enums/Controls.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L127)
 
 ***
 
@@ -3544,7 +3544,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L359)
+[client/enums/Controls.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L359)
 
 ***
 
@@ -3554,7 +3554,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L55)
+[client/enums/Controls.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L55)
 
 ***
 
@@ -3564,7 +3564,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L56)
+[client/enums/Controls.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L56)
 
 ***
 
@@ -3574,7 +3574,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L15)
+[client/enums/Controls.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L15)
 
 ***
 
@@ -3584,7 +3584,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L16)
+[client/enums/Controls.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L16)
 
 ***
 
@@ -3594,7 +3594,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L17)
+[client/enums/Controls.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L17)
 
 ***
 
@@ -3604,7 +3604,7 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L14)
+[client/enums/Controls.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L14)
 
 ***
 
@@ -3614,4 +3614,4 @@
 
 #### Defined in
 
-[client/enums/Controls.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Controls.ts#L267)
+[client/enums/Controls.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L267)

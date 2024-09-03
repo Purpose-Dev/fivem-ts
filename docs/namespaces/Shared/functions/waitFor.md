@@ -63,4 +63,4 @@ waitFor(exampleCallback, 'Value not returned in time', 2000)
 
 ## Defined in
 
-[shared/utils/waitFor.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/waitFor.ts#L37)
+[shared/utils/waitFor.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/waitFor.ts#L37)

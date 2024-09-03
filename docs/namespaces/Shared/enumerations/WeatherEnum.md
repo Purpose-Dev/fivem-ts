@@ -47,7 +47,7 @@ Represents blizzard conditions.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L37)
+[shared/enums/WeatherEnum.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L37)
 
 ***
 
@@ -59,7 +59,7 @@ Represents clear weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L39)
+[shared/enums/WeatherEnum.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L39)
 
 ***
 
@@ -71,7 +71,7 @@ Represents clearing weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L41)
+[shared/enums/WeatherEnum.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L41)
 
 ***
 
@@ -83,7 +83,7 @@ Represents cloudy weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L43)
+[shared/enums/WeatherEnum.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L43)
 
 ***
 
@@ -95,7 +95,7 @@ Represents extra sunny weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L45)
+[shared/enums/WeatherEnum.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L45)
 
 ***
 
@@ -107,7 +107,7 @@ Represents foggy weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L47)
+[shared/enums/WeatherEnum.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L47)
 
 ***
 
@@ -119,7 +119,7 @@ Represents Halloween-themed weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L49)
+[shared/enums/WeatherEnum.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L49)
 
 ***
 
@@ -131,7 +131,7 @@ Represents neutral weather conditions.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L51)
+[shared/enums/WeatherEnum.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L51)
 
 ***
 
@@ -143,7 +143,7 @@ Represents overcast weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L53)
+[shared/enums/WeatherEnum.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L53)
 
 ***
 
@@ -155,7 +155,7 @@ Represents rainy weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L55)
+[shared/enums/WeatherEnum.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L55)
 
 ***
 
@@ -167,7 +167,7 @@ Represents smoggy weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L57)
+[shared/enums/WeatherEnum.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L57)
 
 ***
 
@@ -179,7 +179,7 @@ Represents snowy weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L59)
+[shared/enums/WeatherEnum.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L59)
 
 ***
 
@@ -191,7 +191,7 @@ Represents light snow.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L61)
+[shared/enums/WeatherEnum.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L61)
 
 ***
 
@@ -203,7 +203,7 @@ Represents stormy weather with thunder.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L63)
+[shared/enums/WeatherEnum.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L63)
 
 ***
 
@@ -215,7 +215,7 @@ Represents an unknown weather state.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L35)
+[shared/enums/WeatherEnum.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L35)
 
 ***
 
@@ -227,4 +227,4 @@ Represents Christmas-themed weather.
 
 #### Defined in
 
-[shared/enums/WeatherEnum.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/enums/WeatherEnum.ts#L65)
+[shared/enums/WeatherEnum.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/WeatherEnum.ts#L65)

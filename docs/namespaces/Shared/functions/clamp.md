@@ -40,4 +40,4 @@ clamp(15, 1, 10); // 10
 
 ## Defined in
 
-[shared/utils/FMath.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L16)
+[shared/utils/FMath.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L16)

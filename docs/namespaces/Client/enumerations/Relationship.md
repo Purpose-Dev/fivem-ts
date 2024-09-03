@@ -16,7 +16,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L5)
+[client/enums/Relationship.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L5)
 
 ***
 
@@ -26,7 +26,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L9)
+[client/enums/Relationship.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L9)
 
 ***
 
@@ -36,7 +36,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L10)
+[client/enums/Relationship.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L10)
 
 ***
 
@@ -46,7 +46,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L7)
+[client/enums/Relationship.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L7)
 
 ***
 
@@ -56,7 +56,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L8)
+[client/enums/Relationship.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L8)
 
 ***
 
@@ -66,7 +66,7 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L11)
+[client/enums/Relationship.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L11)
 
 ***
 
@@ -76,4 +76,4 @@ Relationship relation between Peds
 
 #### Defined in
 
-[client/enums/Relationship.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Relationship.ts#L6)
+[client/enums/Relationship.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Relationship.ts#L6)

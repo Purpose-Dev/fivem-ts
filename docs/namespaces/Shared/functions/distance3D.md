@@ -50,4 +50,4 @@ distance3D(0, 0, 0, 3, 4, 12); // 13
 
 ## Defined in
 
-[shared/utils/FMath.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L123)
+[shared/utils/FMath.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L123)

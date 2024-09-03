@@ -32,7 +32,7 @@ Get the forward vector of gameplay camera.
 
 #### Defined in
 
-[client/GameplayCamera.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/GameplayCamera.ts#L26)
+[client/GameplayCamera.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/GameplayCamera.ts#L26)
 
 ***
 
@@ -48,7 +48,7 @@ Get the world position of gameplay camera.
 
 #### Defined in
 
-[client/GameplayCamera.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/GameplayCamera.ts#L10)
+[client/GameplayCamera.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/GameplayCamera.ts#L10)
 
 ***
 
@@ -72,7 +72,7 @@ Get heading of gameplay camera.
 
 #### Defined in
 
-[client/GameplayCamera.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/GameplayCamera.ts#L56)
+[client/GameplayCamera.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/GameplayCamera.ts#L56)
 
 ***
 
@@ -96,7 +96,7 @@ Set gameplay camera pitch relative to player.
 
 #### Defined in
 
-[client/GameplayCamera.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/GameplayCamera.ts#L42)
+[client/GameplayCamera.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/GameplayCamera.ts#L42)
 
 ***
 
@@ -112,4 +112,4 @@ Get the rotation of gameplay camera.
 
 #### Defined in
 
-[client/GameplayCamera.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/GameplayCamera.ts#L18)
+[client/GameplayCamera.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/GameplayCamera.ts#L18)

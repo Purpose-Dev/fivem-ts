@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[shared/utils/DateTime.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L133)
+[shared/utils/DateTime.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L133)

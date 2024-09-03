@@ -16,7 +16,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L208)
+[client/hashes/MaterialHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L208)
 
 ***
 
@@ -26,7 +26,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L151)
+[client/hashes/MaterialHash.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L151)
 
 ***
 
@@ -36,7 +36,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L17)
+[client/hashes/MaterialHash.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L17)
 
 ***
 
@@ -46,7 +46,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L22)
+[client/hashes/MaterialHash.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L22)
 
 ***
 
@@ -56,7 +56,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L214)
+[client/hashes/MaterialHash.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L214)
 
 ***
 
@@ -66,7 +66,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L63)
+[client/hashes/MaterialHash.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L63)
 
 ***
 
@@ -76,7 +76,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L223)
+[client/hashes/MaterialHash.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L223)
 
 ***
 
@@ -86,7 +86,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L187)
+[client/hashes/MaterialHash.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L187)
 
 ***
 
@@ -96,7 +96,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L211)
+[client/hashes/MaterialHash.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L211)
 
 ***
 
@@ -106,7 +106,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L146)
+[client/hashes/MaterialHash.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L146)
 
 ***
 
@@ -116,7 +116,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L144)
+[client/hashes/MaterialHash.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L144)
 
 ***
 
@@ -126,7 +126,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L147)
+[client/hashes/MaterialHash.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L147)
 
 ***
 
@@ -136,7 +136,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L145)
+[client/hashes/MaterialHash.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L145)
 
 ***
 
@@ -146,7 +146,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L143)
+[client/hashes/MaterialHash.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L143)
 
 ***
 
@@ -156,7 +156,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L139)
+[client/hashes/MaterialHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L139)
 
 ***
 
@@ -166,7 +166,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L140)
+[client/hashes/MaterialHash.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L140)
 
 ***
 
@@ -176,7 +176,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L141)
+[client/hashes/MaterialHash.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L141)
 
 ***
 
@@ -186,7 +186,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L142)
+[client/hashes/MaterialHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L142)
 
 ***
 
@@ -196,7 +196,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L123)
+[client/hashes/MaterialHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L123)
 
 ***
 
@@ -206,7 +206,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L122)
+[client/hashes/MaterialHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L122)
 
 ***
 
@@ -216,7 +216,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L118)
+[client/hashes/MaterialHash.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L118)
 
 ***
 
@@ -226,7 +226,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L116)
+[client/hashes/MaterialHash.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L116)
 
 ***
 
@@ -236,7 +236,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L117)
+[client/hashes/MaterialHash.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L117)
 
 ***
 
@@ -246,7 +246,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L100)
+[client/hashes/MaterialHash.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L100)
 
 ***
 
@@ -256,7 +256,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L198)
+[client/hashes/MaterialHash.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L198)
 
 ***
 
@@ -266,7 +266,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L202)
+[client/hashes/MaterialHash.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L202)
 
 ***
 
@@ -276,7 +276,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L55)
+[client/hashes/MaterialHash.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L55)
 
 ***
 
@@ -286,7 +286,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L56)
+[client/hashes/MaterialHash.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L56)
 
 ***
 
@@ -296,7 +296,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L119)
+[client/hashes/MaterialHash.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L119)
 
 ***
 
@@ -306,7 +306,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L21)
+[client/hashes/MaterialHash.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L21)
 
 ***
 
@@ -316,7 +316,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L10)
+[client/hashes/MaterialHash.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L10)
 
 ***
 
@@ -326,7 +326,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L12)
+[client/hashes/MaterialHash.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L12)
 
 ***
 
@@ -336,7 +336,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L213)
+[client/hashes/MaterialHash.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L213)
 
 ***
 
@@ -346,7 +346,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L11)
+[client/hashes/MaterialHash.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L11)
 
 ***
 
@@ -356,7 +356,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L7)
+[client/hashes/MaterialHash.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L7)
 
 ***
 
@@ -366,7 +366,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L46)
+[client/hashes/MaterialHash.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L46)
 
 ***
 
@@ -376,7 +376,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L157)
+[client/hashes/MaterialHash.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L157)
 
 ***
 
@@ -386,7 +386,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L160)
+[client/hashes/MaterialHash.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L160)
 
 ***
 
@@ -396,7 +396,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L161)
+[client/hashes/MaterialHash.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L161)
 
 ***
 
@@ -406,7 +406,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L126)
+[client/hashes/MaterialHash.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L126)
 
 ***
 
@@ -416,7 +416,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L103)
+[client/hashes/MaterialHash.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L103)
 
 ***
 
@@ -426,7 +426,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L111)
+[client/hashes/MaterialHash.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L111)
 
 ***
 
@@ -436,7 +436,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L125)
+[client/hashes/MaterialHash.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L125)
 
 ***
 
@@ -446,7 +446,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L190)
+[client/hashes/MaterialHash.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L190)
 
 ***
 
@@ -456,7 +456,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L193)
+[client/hashes/MaterialHash.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L193)
 
 ***
 
@@ -466,7 +466,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L156)
+[client/hashes/MaterialHash.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L156)
 
 ***
 
@@ -476,7 +476,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L134)
+[client/hashes/MaterialHash.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L134)
 
 ***
 
@@ -486,7 +486,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L135)
+[client/hashes/MaterialHash.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L135)
 
 ***
 
@@ -496,7 +496,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L133)
+[client/hashes/MaterialHash.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L133)
 
 ***
 
@@ -506,7 +506,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L60)
+[client/hashes/MaterialHash.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L60)
 
 ***
 
@@ -516,7 +516,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L59)
+[client/hashes/MaterialHash.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L59)
 
 ***
 
@@ -526,7 +526,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L61)
+[client/hashes/MaterialHash.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L61)
 
 ***
 
@@ -536,7 +536,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L44)
+[client/hashes/MaterialHash.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L44)
 
 ***
 
@@ -546,7 +546,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L43)
+[client/hashes/MaterialHash.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L43)
 
 ***
 
@@ -556,7 +556,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L42)
+[client/hashes/MaterialHash.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L42)
 
 ***
 
@@ -566,7 +566,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L45)
+[client/hashes/MaterialHash.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L45)
 
 ***
 
@@ -576,7 +576,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L201)
+[client/hashes/MaterialHash.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L201)
 
 ***
 
@@ -586,7 +586,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L205)
+[client/hashes/MaterialHash.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L205)
 
 ***
 
@@ -596,7 +596,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L62)
+[client/hashes/MaterialHash.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L62)
 
 ***
 
@@ -606,7 +606,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L207)
+[client/hashes/MaterialHash.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L207)
 
 ***
 
@@ -616,7 +616,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L36)
+[client/hashes/MaterialHash.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L36)
 
 ***
 
@@ -626,7 +626,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L37)
+[client/hashes/MaterialHash.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L37)
 
 ***
 
@@ -636,7 +636,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L115)
+[client/hashes/MaterialHash.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L115)
 
 ***
 
@@ -646,7 +646,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L128)
+[client/hashes/MaterialHash.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L128)
 
 ***
 
@@ -656,7 +656,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L65)
+[client/hashes/MaterialHash.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L65)
 
 ***
 
@@ -666,7 +666,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L114)
+[client/hashes/MaterialHash.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L114)
 
 ***
 
@@ -676,7 +676,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L200)
+[client/hashes/MaterialHash.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L200)
 
 ***
 
@@ -686,7 +686,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L204)
+[client/hashes/MaterialHash.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L204)
 
 ***
 
@@ -696,7 +696,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L23)
+[client/hashes/MaterialHash.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L23)
 
 ***
 
@@ -706,7 +706,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L52)
+[client/hashes/MaterialHash.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L52)
 
 ***
 
@@ -716,7 +716,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L53)
+[client/hashes/MaterialHash.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L53)
 
 ***
 
@@ -726,7 +726,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L77)
+[client/hashes/MaterialHash.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L77)
 
 ***
 
@@ -736,7 +736,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L76)
+[client/hashes/MaterialHash.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L76)
 
 ***
 
@@ -746,7 +746,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L78)
+[client/hashes/MaterialHash.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L78)
 
 ***
 
@@ -756,7 +756,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L81)
+[client/hashes/MaterialHash.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L81)
 
 ***
 
@@ -766,7 +766,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L82)
+[client/hashes/MaterialHash.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L82)
 
 ***
 
@@ -776,7 +776,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L79)
+[client/hashes/MaterialHash.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L79)
 
 ***
 
@@ -786,7 +786,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L75)
+[client/hashes/MaterialHash.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L75)
 
 ***
 
@@ -796,7 +796,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L74)
+[client/hashes/MaterialHash.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L74)
 
 ***
 
@@ -806,7 +806,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L73)
+[client/hashes/MaterialHash.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L73)
 
 ***
 
@@ -816,7 +816,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L83)
+[client/hashes/MaterialHash.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L83)
 
 ***
 
@@ -826,7 +826,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L80)
+[client/hashes/MaterialHash.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L80)
 
 ***
 
@@ -836,7 +836,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L72)
+[client/hashes/MaterialHash.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L72)
 
 ***
 
@@ -846,7 +846,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L71)
+[client/hashes/MaterialHash.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L71)
 
 ***
 
@@ -856,7 +856,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L224)
+[client/hashes/MaterialHash.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L224)
 
 ***
 
@@ -866,7 +866,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L70)
+[client/hashes/MaterialHash.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L70)
 
 ***
 
@@ -876,7 +876,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L51)
+[client/hashes/MaterialHash.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L51)
 
 ***
 
@@ -886,7 +886,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L47)
+[client/hashes/MaterialHash.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L47)
 
 ***
 
@@ -896,7 +896,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L48)
+[client/hashes/MaterialHash.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L48)
 
 ***
 
@@ -906,7 +906,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L49)
+[client/hashes/MaterialHash.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L49)
 
 ***
 
@@ -916,7 +916,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L50)
+[client/hashes/MaterialHash.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L50)
 
 ***
 
@@ -926,7 +926,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L206)
+[client/hashes/MaterialHash.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L206)
 
 ***
 
@@ -936,7 +936,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L5)
+[client/hashes/MaterialHash.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L5)
 
 ***
 
@@ -946,7 +946,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L152)
+[client/hashes/MaterialHash.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L152)
 
 ***
 
@@ -956,7 +956,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L124)
+[client/hashes/MaterialHash.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L124)
 
 ***
 
@@ -966,7 +966,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L24)
+[client/hashes/MaterialHash.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L24)
 
 ***
 
@@ -976,7 +976,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L136)
+[client/hashes/MaterialHash.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L136)
 
 ***
 
@@ -986,7 +986,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L153)
+[client/hashes/MaterialHash.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L153)
 
 ***
 
@@ -996,7 +996,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L181)
+[client/hashes/MaterialHash.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L181)
 
 ***
 
@@ -1006,7 +1006,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L177)
+[client/hashes/MaterialHash.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L177)
 
 ***
 
@@ -1016,7 +1016,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L175)
+[client/hashes/MaterialHash.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L175)
 
 ***
 
@@ -1026,7 +1026,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L176)
+[client/hashes/MaterialHash.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L176)
 
 ***
 
@@ -1036,7 +1036,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L217)
+[client/hashes/MaterialHash.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L217)
 
 ***
 
@@ -1046,7 +1046,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L179)
+[client/hashes/MaterialHash.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L179)
 
 ***
 
@@ -1056,7 +1056,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L180)
+[client/hashes/MaterialHash.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L180)
 
 ***
 
@@ -1066,7 +1066,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L173)
+[client/hashes/MaterialHash.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L173)
 
 ***
 
@@ -1076,7 +1076,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L172)
+[client/hashes/MaterialHash.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L172)
 
 ***
 
@@ -1086,7 +1086,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L178)
+[client/hashes/MaterialHash.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L178)
 
 ***
 
@@ -1096,7 +1096,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L184)
+[client/hashes/MaterialHash.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L184)
 
 ***
 
@@ -1106,7 +1106,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L183)
+[client/hashes/MaterialHash.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L183)
 
 ***
 
@@ -1116,7 +1116,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L182)
+[client/hashes/MaterialHash.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L182)
 
 ***
 
@@ -1126,7 +1126,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L174)
+[client/hashes/MaterialHash.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L174)
 
 ***
 
@@ -1136,7 +1136,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L121)
+[client/hashes/MaterialHash.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L121)
 
 ***
 
@@ -1146,7 +1146,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L120)
+[client/hashes/MaterialHash.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L120)
 
 ***
 
@@ -1156,7 +1156,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L105)
+[client/hashes/MaterialHash.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L105)
 
 ***
 
@@ -1166,7 +1166,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L108)
+[client/hashes/MaterialHash.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L108)
 
 ***
 
@@ -1176,7 +1176,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L107)
+[client/hashes/MaterialHash.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L107)
 
 ***
 
@@ -1186,7 +1186,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L110)
+[client/hashes/MaterialHash.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L110)
 
 ***
 
@@ -1196,7 +1196,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L106)
+[client/hashes/MaterialHash.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L106)
 
 ***
 
@@ -1206,7 +1206,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L109)
+[client/hashes/MaterialHash.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L109)
 
 ***
 
@@ -1216,7 +1216,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L127)
+[client/hashes/MaterialHash.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L127)
 
 ***
 
@@ -1226,7 +1226,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L212)
+[client/hashes/MaterialHash.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L212)
 
 ***
 
@@ -1236,7 +1236,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L18)
+[client/hashes/MaterialHash.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L18)
 
 ***
 
@@ -1246,7 +1246,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L19)
+[client/hashes/MaterialHash.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L19)
 
 ***
 
@@ -1256,7 +1256,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L222)
+[client/hashes/MaterialHash.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L222)
 
 ***
 
@@ -1266,7 +1266,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L102)
+[client/hashes/MaterialHash.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L102)
 
 ***
 
@@ -1276,7 +1276,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L101)
+[client/hashes/MaterialHash.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L101)
 
 ***
 
@@ -1286,7 +1286,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L112)
+[client/hashes/MaterialHash.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L112)
 
 ***
 
@@ -1296,7 +1296,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L113)
+[client/hashes/MaterialHash.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L113)
 
 ***
 
@@ -1306,7 +1306,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L16)
+[client/hashes/MaterialHash.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L16)
 
 ***
 
@@ -1316,7 +1316,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L30)
+[client/hashes/MaterialHash.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L30)
 
 ***
 
@@ -1326,7 +1326,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L34)
+[client/hashes/MaterialHash.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L34)
 
 ***
 
@@ -1336,7 +1336,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L29)
+[client/hashes/MaterialHash.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L29)
 
 ***
 
@@ -1346,7 +1346,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L32)
+[client/hashes/MaterialHash.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L32)
 
 ***
 
@@ -1356,7 +1356,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L33)
+[client/hashes/MaterialHash.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L33)
 
 ***
 
@@ -1366,7 +1366,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L31)
+[client/hashes/MaterialHash.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L31)
 
 ***
 
@@ -1376,7 +1376,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L35)
+[client/hashes/MaterialHash.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L35)
 
 ***
 
@@ -1386,7 +1386,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L26)
+[client/hashes/MaterialHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L26)
 
 ***
 
@@ -1396,7 +1396,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L25)
+[client/hashes/MaterialHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L25)
 
 ***
 
@@ -1406,7 +1406,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L189)
+[client/hashes/MaterialHash.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L189)
 
 ***
 
@@ -1416,7 +1416,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L192)
+[client/hashes/MaterialHash.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L192)
 
 ***
 
@@ -1426,7 +1426,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L130)
+[client/hashes/MaterialHash.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L130)
 
 ***
 
@@ -1436,7 +1436,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L39)
+[client/hashes/MaterialHash.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L39)
 
 ***
 
@@ -1446,7 +1446,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L40)
+[client/hashes/MaterialHash.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L40)
 
 ***
 
@@ -1456,7 +1456,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L38)
+[client/hashes/MaterialHash.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L38)
 
 ***
 
@@ -1466,7 +1466,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L41)
+[client/hashes/MaterialHash.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L41)
 
 ***
 
@@ -1476,7 +1476,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L54)
+[client/hashes/MaterialHash.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L54)
 
 ***
 
@@ -1486,7 +1486,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L194)
+[client/hashes/MaterialHash.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L194)
 
 ***
 
@@ -1496,7 +1496,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L195)
+[client/hashes/MaterialHash.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L195)
 
 ***
 
@@ -1506,7 +1506,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L196)
+[client/hashes/MaterialHash.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L196)
 
 ***
 
@@ -1516,7 +1516,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L197)
+[client/hashes/MaterialHash.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L197)
 
 ***
 
@@ -1526,7 +1526,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L20)
+[client/hashes/MaterialHash.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L20)
 
 ***
 
@@ -1536,7 +1536,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L225)
+[client/hashes/MaterialHash.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L225)
 
 ***
 
@@ -1546,7 +1546,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L13)
+[client/hashes/MaterialHash.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L13)
 
 ***
 
@@ -1556,7 +1556,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L14)
+[client/hashes/MaterialHash.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L14)
 
 ***
 
@@ -1566,7 +1566,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L15)
+[client/hashes/MaterialHash.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L15)
 
 ***
 
@@ -1576,7 +1576,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L104)
+[client/hashes/MaterialHash.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L104)
 
 ***
 
@@ -1586,7 +1586,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L228)
+[client/hashes/MaterialHash.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L228)
 
 ***
 
@@ -1596,7 +1596,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L229)
+[client/hashes/MaterialHash.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L229)
 
 ***
 
@@ -1606,7 +1606,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L230)
+[client/hashes/MaterialHash.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L230)
 
 ***
 
@@ -1616,7 +1616,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L231)
+[client/hashes/MaterialHash.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L231)
 
 ***
 
@@ -1626,7 +1626,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L232)
+[client/hashes/MaterialHash.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L232)
 
 ***
 
@@ -1636,7 +1636,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L233)
+[client/hashes/MaterialHash.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L233)
 
 ***
 
@@ -1646,7 +1646,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L236)
+[client/hashes/MaterialHash.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L236)
 
 ***
 
@@ -1656,7 +1656,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L237)
+[client/hashes/MaterialHash.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L237)
 
 ***
 
@@ -1666,7 +1666,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L238)
+[client/hashes/MaterialHash.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L238)
 
 ***
 
@@ -1676,7 +1676,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L239)
+[client/hashes/MaterialHash.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L239)
 
 ***
 
@@ -1686,7 +1686,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L240)
+[client/hashes/MaterialHash.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L240)
 
 ***
 
@@ -1696,7 +1696,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L241)
+[client/hashes/MaterialHash.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L241)
 
 ***
 
@@ -1706,7 +1706,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L242)
+[client/hashes/MaterialHash.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L242)
 
 ***
 
@@ -1716,7 +1716,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L243)
+[client/hashes/MaterialHash.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L243)
 
 ***
 
@@ -1726,7 +1726,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L244)
+[client/hashes/MaterialHash.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L244)
 
 ***
 
@@ -1736,7 +1736,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L245)
+[client/hashes/MaterialHash.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L245)
 
 ***
 
@@ -1746,7 +1746,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L246)
+[client/hashes/MaterialHash.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L246)
 
 ***
 
@@ -1756,7 +1756,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L247)
+[client/hashes/MaterialHash.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L247)
 
 ***
 
@@ -1766,7 +1766,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L248)
+[client/hashes/MaterialHash.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L248)
 
 ***
 
@@ -1776,7 +1776,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L249)
+[client/hashes/MaterialHash.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L249)
 
 ***
 
@@ -1786,7 +1786,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L250)
+[client/hashes/MaterialHash.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L250)
 
 ***
 
@@ -1796,7 +1796,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L251)
+[client/hashes/MaterialHash.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L251)
 
 ***
 
@@ -1806,7 +1806,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L252)
+[client/hashes/MaterialHash.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L252)
 
 ***
 
@@ -1816,7 +1816,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L253)
+[client/hashes/MaterialHash.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L253)
 
 ***
 
@@ -1826,7 +1826,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L254)
+[client/hashes/MaterialHash.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L254)
 
 ***
 
@@ -1836,7 +1836,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L255)
+[client/hashes/MaterialHash.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L255)
 
 ***
 
@@ -1846,7 +1846,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L256)
+[client/hashes/MaterialHash.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L256)
 
 ***
 
@@ -1856,7 +1856,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L257)
+[client/hashes/MaterialHash.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L257)
 
 ***
 
@@ -1866,7 +1866,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L258)
+[client/hashes/MaterialHash.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L258)
 
 ***
 
@@ -1876,7 +1876,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L259)
+[client/hashes/MaterialHash.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L259)
 
 ***
 
@@ -1886,7 +1886,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L188)
+[client/hashes/MaterialHash.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L188)
 
 ***
 
@@ -1896,7 +1896,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L191)
+[client/hashes/MaterialHash.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L191)
 
 ***
 
@@ -1906,7 +1906,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L67)
+[client/hashes/MaterialHash.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L67)
 
 ***
 
@@ -1916,7 +1916,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L129)
+[client/hashes/MaterialHash.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L129)
 
 ***
 
@@ -1926,7 +1926,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L64)
+[client/hashes/MaterialHash.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L64)
 
 ***
 
@@ -1936,7 +1936,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L6)
+[client/hashes/MaterialHash.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L6)
 
 ***
 
@@ -1946,7 +1946,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L199)
+[client/hashes/MaterialHash.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L199)
 
 ***
 
@@ -1956,7 +1956,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L203)
+[client/hashes/MaterialHash.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L203)
 
 ***
 
@@ -1966,7 +1966,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L164)
+[client/hashes/MaterialHash.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L164)
 
 ***
 
@@ -1976,7 +1976,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L169)
+[client/hashes/MaterialHash.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L169)
 
 ***
 
@@ -1986,7 +1986,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L168)
+[client/hashes/MaterialHash.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L168)
 
 ***
 
@@ -1996,7 +1996,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L165)
+[client/hashes/MaterialHash.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L165)
 
 ***
 
@@ -2006,7 +2006,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L218)
+[client/hashes/MaterialHash.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L218)
 
 ***
 
@@ -2016,7 +2016,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L150)
+[client/hashes/MaterialHash.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L150)
 
 ***
 
@@ -2026,7 +2026,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L94)
+[client/hashes/MaterialHash.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L94)
 
 ***
 
@@ -2036,7 +2036,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L66)
+[client/hashes/MaterialHash.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L66)
 
 ***
 
@@ -2046,7 +2046,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L90)
+[client/hashes/MaterialHash.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L90)
 
 ***
 
@@ -2056,7 +2056,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L96)
+[client/hashes/MaterialHash.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L96)
 
 ***
 
@@ -2066,7 +2066,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L219)
+[client/hashes/MaterialHash.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L219)
 
 ***
 
@@ -2076,7 +2076,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L93)
+[client/hashes/MaterialHash.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L93)
 
 ***
 
@@ -2086,7 +2086,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L92)
+[client/hashes/MaterialHash.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L92)
 
 ***
 
@@ -2096,7 +2096,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L91)
+[client/hashes/MaterialHash.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L91)
 
 ***
 
@@ -2106,7 +2106,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L97)
+[client/hashes/MaterialHash.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L97)
 
 ***
 
@@ -2116,7 +2116,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L95)
+[client/hashes/MaterialHash.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L95)
 
 ***
 
@@ -2126,7 +2126,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L88)
+[client/hashes/MaterialHash.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L88)
 
 ***
 
@@ -2136,7 +2136,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L87)
+[client/hashes/MaterialHash.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L87)
 
 ***
 
@@ -2146,7 +2146,7 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L89)
+[client/hashes/MaterialHash.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L89)
 
 ***
 
@@ -2156,4 +2156,4 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 #### Defined in
 
-[client/hashes/MaterialHash.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/hashes/MaterialHash.ts#L86)
+[client/hashes/MaterialHash.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L86)

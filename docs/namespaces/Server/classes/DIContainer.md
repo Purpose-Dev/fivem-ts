@@ -60,7 +60,7 @@ container.clearRequestScope();
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L41)
+[server/ioc/DIContainer.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L41)
 
 ***
 
@@ -90,7 +90,7 @@ container.clearSessionScope('sessionId123');
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L57)
+[server/ioc/DIContainer.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L57)
 
 ***
 
@@ -116,7 +116,7 @@ The HTTP response object.
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L160)
+[server/ioc/DIContainer.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L160)
 
 ***
 
@@ -154,7 +154,7 @@ container.registerFactory(MyService, () => new MyService(new Dependency()));
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L138)
+[server/ioc/DIContainer.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L138)
 
 ***
 
@@ -188,7 +188,7 @@ container.registerRequestScoped(MyRequestService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L105)
+[server/ioc/DIContainer.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L105)
 
 ***
 
@@ -218,7 +218,7 @@ The function that handles the route.
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L149)
+[server/ioc/DIContainer.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L149)
 
 ***
 
@@ -252,7 +252,7 @@ container.registerSessionScoped(MySessionService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L121)
+[server/ioc/DIContainer.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L121)
 
 ***
 
@@ -286,7 +286,7 @@ container.registerSingleton(MyService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L73)
+[server/ioc/DIContainer.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L73)
 
 ***
 
@@ -320,7 +320,7 @@ container.registerTransient(MyTransientService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L89)
+[server/ioc/DIContainer.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L89)
 
 ***
 
@@ -365,4 +365,4 @@ const myService = container.resolve(MyService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/DIContainer.ts#L202)
+[server/ioc/DIContainer.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L203)

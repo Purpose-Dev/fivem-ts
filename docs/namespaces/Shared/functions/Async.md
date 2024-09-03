@@ -22,4 +22,4 @@
 
 ## Defined in
 
-[shared/decorators/core/Async.ts:1](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/decorators/core/Async.ts#L1)
+[shared/decorators/core/Async.ts:1](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/core/Async.ts#L1)

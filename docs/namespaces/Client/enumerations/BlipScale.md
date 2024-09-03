@@ -35,7 +35,7 @@ Represents a large blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L34)
+[client/enums/BlipScale.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L34)
 
 ***
 
@@ -47,7 +47,7 @@ Represents a medium blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L30)
+[client/enums/BlipScale.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L30)
 
 ***
 
@@ -59,7 +59,7 @@ Represents a medium-large blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L32)
+[client/enums/BlipScale.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L32)
 
 ***
 
@@ -71,7 +71,7 @@ Represents a medium-small blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L28)
+[client/enums/BlipScale.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L28)
 
 ***
 
@@ -83,7 +83,7 @@ Represents the smallest blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L24)
+[client/enums/BlipScale.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L24)
 
 ***
 
@@ -95,7 +95,7 @@ Represents a small blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L26)
+[client/enums/BlipScale.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L26)
 
 ***
 
@@ -107,7 +107,7 @@ Represents an extra-large blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L36)
+[client/enums/BlipScale.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L36)
 
 ***
 
@@ -119,4 +119,4 @@ Represents the largest blip scale.
 
 #### Defined in
 
-[client/enums/BlipScale.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipScale.ts#L38)
+[client/enums/BlipScale.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipScale.ts#L38)

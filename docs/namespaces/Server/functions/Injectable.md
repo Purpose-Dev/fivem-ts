@@ -52,4 +52,4 @@ A decorator function that registers the class as a singleton in the DI container
 
 ## Defined in
 
-[server/ioc/Injectable.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/Injectable.ts#L32)
+[server/ioc/Injectable.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/Injectable.ts#L32)

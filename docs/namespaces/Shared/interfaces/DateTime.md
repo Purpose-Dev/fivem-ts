@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[shared/utils/DateTime.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L3)
+[shared/utils/DateTime.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L3)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[shared/utils/DateTime.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L4)
+[shared/utils/DateTime.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L4)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[shared/utils/DateTime.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L5)
+[shared/utils/DateTime.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L5)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[shared/utils/DateTime.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L2)
+[shared/utils/DateTime.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L2)
 
 ***
 
@@ -54,4 +54,4 @@
 
 #### Defined in
 
-[shared/utils/DateTime.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/DateTime.ts#L6)
+[shared/utils/DateTime.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/DateTime.ts#L6)

@@ -39,4 +39,4 @@ isInRange(0, 1, 10); // false
 
 ## Defined in
 
-[shared/utils/FMath.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/utils/FMath.ts#L193)
+[shared/utils/FMath.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/utils/FMath.ts#L193)

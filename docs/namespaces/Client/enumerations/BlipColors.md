@@ -24,7 +24,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L75)
+[client/enums/BlipColors.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L75)
 
 ***
 
@@ -34,7 +34,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L49)
+[client/enums/BlipColors.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L49)
 
 ***
 
@@ -44,7 +44,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L66)
+[client/enums/BlipColors.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L66)
 
 ***
 
@@ -54,7 +54,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L16)
+[client/enums/BlipColors.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L16)
 
 ***
 
@@ -64,7 +64,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L51)
+[client/enums/BlipColors.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L51)
 
 ***
 
@@ -74,7 +74,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L55)
+[client/enums/BlipColors.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L55)
 
 ***
 
@@ -84,7 +84,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L70)
+[client/enums/BlipColors.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L70)
 
 ***
 
@@ -94,7 +94,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L80)
+[client/enums/BlipColors.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L80)
 
 ***
 
@@ -104,7 +104,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L81)
+[client/enums/BlipColors.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L81)
 
 ***
 
@@ -114,7 +114,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L87)
+[client/enums/BlipColors.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L87)
 
 ***
 
@@ -124,7 +124,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L90)
+[client/enums/BlipColors.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L90)
 
 ***
 
@@ -134,7 +134,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L97)
+[client/enums/BlipColors.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L97)
 
 ***
 
@@ -144,7 +144,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L40)
+[client/enums/BlipColors.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L40)
 
 ***
 
@@ -154,7 +154,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L61)
+[client/enums/BlipColors.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L61)
 
 ***
 
@@ -164,7 +164,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L69)
+[client/enums/BlipColors.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L69)
 
 ***
 
@@ -174,7 +174,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L28)
+[client/enums/BlipColors.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L28)
 
 ***
 
@@ -184,7 +184,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L42)
+[client/enums/BlipColors.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L42)
 
 ***
 
@@ -194,7 +194,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L43)
+[client/enums/BlipColors.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L43)
 
 ***
 
@@ -204,7 +204,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L53)
+[client/enums/BlipColors.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L53)
 
 ***
 
@@ -214,7 +214,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L65)
+[client/enums/BlipColors.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L65)
 
 ***
 
@@ -224,7 +224,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L34)
+[client/enums/BlipColors.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L34)
 
 ***
 
@@ -234,7 +234,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L77)
+[client/enums/BlipColors.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L77)
 
 ***
 
@@ -244,7 +244,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L32)
+[client/enums/BlipColors.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L32)
 
 ***
 
@@ -254,7 +254,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L27)
+[client/enums/BlipColors.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L27)
 
 ***
 
@@ -264,7 +264,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L33)
+[client/enums/BlipColors.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L33)
 
 ***
 
@@ -274,7 +274,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L41)
+[client/enums/BlipColors.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L41)
 
 ***
 
@@ -284,7 +284,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L89)
+[client/enums/BlipColors.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L89)
 
 ***
 
@@ -294,7 +294,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L71)
+[client/enums/BlipColors.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L71)
 
 ***
 
@@ -304,7 +304,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L39)
+[client/enums/BlipColors.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L39)
 
 ***
 
@@ -314,7 +314,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L38)
+[client/enums/BlipColors.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L38)
 
 ***
 
@@ -324,7 +324,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L59)
+[client/enums/BlipColors.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L59)
 
 ***
 
@@ -334,7 +334,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L15)
+[client/enums/BlipColors.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L15)
 
 ***
 
@@ -344,7 +344,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L82)
+[client/enums/BlipColors.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L82)
 
 ***
 
@@ -354,7 +354,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L76)
+[client/enums/BlipColors.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L76)
 
 ***
 
@@ -364,7 +364,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L37)
+[client/enums/BlipColors.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L37)
 
 ***
 
@@ -374,7 +374,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L25)
+[client/enums/BlipColors.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L25)
 
 ***
 
@@ -384,7 +384,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L31)
+[client/enums/BlipColors.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L31)
 
 ***
 
@@ -394,7 +394,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L45)
+[client/enums/BlipColors.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L45)
 
 ***
 
@@ -404,7 +404,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L23)
+[client/enums/BlipColors.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L23)
 
 ***
 
@@ -414,7 +414,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L44)
+[client/enums/BlipColors.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L44)
 
 ***
 
@@ -424,7 +424,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L35)
+[client/enums/BlipColors.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L35)
 
 ***
 
@@ -434,7 +434,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L52)
+[client/enums/BlipColors.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L52)
 
 ***
 
@@ -444,7 +444,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L24)
+[client/enums/BlipColors.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L24)
 
 ***
 
@@ -454,7 +454,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L56)
+[client/enums/BlipColors.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L56)
 
 ***
 
@@ -464,7 +464,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L95)
+[client/enums/BlipColors.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L95)
 
 ***
 
@@ -474,7 +474,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L22)
+[client/enums/BlipColors.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L22)
 
 ***
 
@@ -484,7 +484,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L57)
+[client/enums/BlipColors.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L57)
 
 ***
 
@@ -494,7 +494,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L36)
+[client/enums/BlipColors.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L36)
 
 ***
 
@@ -504,7 +504,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L47)
+[client/enums/BlipColors.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L47)
 
 ***
 
@@ -514,7 +514,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L26)
+[client/enums/BlipColors.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L26)
 
 ***
 
@@ -524,7 +524,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L19)
+[client/enums/BlipColors.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L19)
 
 ***
 
@@ -534,7 +534,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L48)
+[client/enums/BlipColors.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L48)
 
 ***
 
@@ -544,7 +544,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L29)
+[client/enums/BlipColors.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L29)
 
 ***
 
@@ -554,7 +554,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L46)
+[client/enums/BlipColors.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L46)
 
 ***
 
@@ -564,7 +564,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L78)
+[client/enums/BlipColors.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L78)
 
 ***
 
@@ -574,7 +574,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L63)
+[client/enums/BlipColors.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L63)
 
 ***
 
@@ -584,7 +584,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L74)
+[client/enums/BlipColors.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L74)
 
 ***
 
@@ -594,7 +594,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L67)
+[client/enums/BlipColors.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L67)
 
 ***
 
@@ -604,7 +604,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L91)
+[client/enums/BlipColors.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L91)
 
 ***
 
@@ -614,7 +614,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L30)
+[client/enums/BlipColors.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L30)
 
 ***
 
@@ -624,7 +624,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L60)
+[client/enums/BlipColors.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L60)
 
 ***
 
@@ -634,7 +634,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L94)
+[client/enums/BlipColors.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L94)
 
 ***
 
@@ -644,7 +644,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L21)
+[client/enums/BlipColors.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L21)
 
 ***
 
@@ -654,7 +654,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L54)
+[client/enums/BlipColors.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L54)
 
 ***
 
@@ -664,7 +664,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L96)
+[client/enums/BlipColors.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L96)
 
 ***
 
@@ -674,7 +674,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L14)
+[client/enums/BlipColors.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L14)
 
 ***
 
@@ -684,7 +684,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L62)
+[client/enums/BlipColors.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L62)
 
 ***
 
@@ -694,7 +694,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L72)
+[client/enums/BlipColors.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L72)
 
 ***
 
@@ -704,7 +704,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L88)
+[client/enums/BlipColors.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L88)
 
 ***
 
@@ -714,7 +714,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L64)
+[client/enums/BlipColors.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L64)
 
 ***
 
@@ -724,7 +724,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L68)
+[client/enums/BlipColors.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L68)
 
 ***
 
@@ -734,7 +734,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L85)
+[client/enums/BlipColors.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L85)
 
 ***
 
@@ -744,7 +744,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L98)
+[client/enums/BlipColors.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L98)
 
 ***
 
@@ -754,7 +754,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L93)
+[client/enums/BlipColors.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L93)
 
 ***
 
@@ -764,7 +764,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L92)
+[client/enums/BlipColors.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L92)
 
 ***
 
@@ -774,7 +774,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L20)
+[client/enums/BlipColors.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L20)
 
 ***
 
@@ -784,7 +784,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L13)
+[client/enums/BlipColors.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L13)
 
 ***
 
@@ -794,7 +794,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L17)
+[client/enums/BlipColors.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L17)
 
 ***
 
@@ -804,7 +804,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L50)
+[client/enums/BlipColors.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L50)
 
 ***
 
@@ -814,7 +814,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L58)
+[client/enums/BlipColors.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L58)
 
 ***
 
@@ -824,7 +824,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L18)
+[client/enums/BlipColors.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L18)
 
 ***
 
@@ -834,7 +834,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L73)
+[client/enums/BlipColors.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L73)
 
 ***
 
@@ -844,7 +844,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L79)
+[client/enums/BlipColors.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L79)
 
 ***
 
@@ -854,7 +854,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L83)
+[client/enums/BlipColors.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L83)
 
 ***
 
@@ -864,7 +864,7 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L84)
+[client/enums/BlipColors.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L84)
 
 ***
 
@@ -874,4 +874,4 @@ The enum values correspond to the default colors used in the game Blips
 
 #### Defined in
 
-[client/enums/BlipColors.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/BlipColors.ts#L86)
+[client/enums/BlipColors.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipColors.ts#L86)

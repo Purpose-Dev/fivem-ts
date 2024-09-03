@@ -55,4 +55,4 @@ Error if the class is not registered in the DI container or cannot be resolved.
 
 ## Defined in
 
-[server/ioc/resolve.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/server/ioc/resolve.ts#L35)
+[server/ioc/resolve.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/resolve.ts#L35)

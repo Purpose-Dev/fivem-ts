@@ -30,4 +30,4 @@
 
 ## Defined in
 
-[shared/decorators/game/Config.ts:1](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/shared/decorators/game/Config.ts#L1)
+[shared/decorators/game/Config.ts:1](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/game/Config.ts#L1)

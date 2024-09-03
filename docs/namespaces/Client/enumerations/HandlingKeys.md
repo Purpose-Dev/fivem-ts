@@ -24,7 +24,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L62)
+[client/enums/HandlingKeys.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L62)
 
 ***
 
@@ -34,7 +34,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L46)
+[client/enums/HandlingKeys.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L46)
 
 ***
 
@@ -44,7 +44,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L45)
+[client/enums/HandlingKeys.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L45)
 
 ***
 
@@ -54,7 +54,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L27)
+[client/enums/HandlingKeys.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L27)
 
 ***
 
@@ -64,7 +64,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L26)
+[client/enums/HandlingKeys.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L26)
 
 ***
 
@@ -74,7 +74,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L35)
+[client/enums/HandlingKeys.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L35)
 
 ***
 
@@ -84,7 +84,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L24)
+[client/enums/HandlingKeys.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L24)
 
 ***
 
@@ -94,7 +94,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L23)
+[client/enums/HandlingKeys.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L23)
 
 ***
 
@@ -104,7 +104,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L49)
+[client/enums/HandlingKeys.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L49)
 
 ***
 
@@ -114,7 +114,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L51)
+[client/enums/HandlingKeys.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L51)
 
 ***
 
@@ -124,7 +124,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L19)
+[client/enums/HandlingKeys.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L19)
 
 ***
 
@@ -134,7 +134,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L22)
+[client/enums/HandlingKeys.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L22)
 
 ***
 
@@ -144,7 +144,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L52)
+[client/enums/HandlingKeys.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L52)
 
 ***
 
@@ -154,7 +154,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L39)
+[client/enums/HandlingKeys.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L39)
 
 ***
 
@@ -164,7 +164,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L28)
+[client/enums/HandlingKeys.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L28)
 
 ***
 
@@ -174,7 +174,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L15)
+[client/enums/HandlingKeys.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L15)
 
 ***
 
@@ -184,7 +184,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L21)
+[client/enums/HandlingKeys.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L21)
 
 ***
 
@@ -194,7 +194,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L25)
+[client/enums/HandlingKeys.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L25)
 
 ***
 
@@ -204,7 +204,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L34)
+[client/enums/HandlingKeys.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L34)
 
 ***
 
@@ -214,7 +214,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L14)
+[client/enums/HandlingKeys.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L14)
 
 ***
 
@@ -224,7 +224,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L54)
+[client/enums/HandlingKeys.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L54)
 
 ***
 
@@ -234,7 +234,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L16)
+[client/enums/HandlingKeys.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L16)
 
 ***
 
@@ -244,7 +244,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L53)
+[client/enums/HandlingKeys.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L53)
 
 ***
 
@@ -254,7 +254,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L47)
+[client/enums/HandlingKeys.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L47)
 
 ***
 
@@ -264,7 +264,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L48)
+[client/enums/HandlingKeys.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L48)
 
 ***
 
@@ -274,7 +274,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L55)
+[client/enums/HandlingKeys.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L55)
 
 ***
 
@@ -284,7 +284,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L56)
+[client/enums/HandlingKeys.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L56)
 
 ***
 
@@ -294,7 +294,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L57)
+[client/enums/HandlingKeys.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L57)
 
 ***
 
@@ -304,7 +304,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L29)
+[client/enums/HandlingKeys.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L29)
 
 ***
 
@@ -314,7 +314,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L44)
+[client/enums/HandlingKeys.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L44)
 
 ***
 
@@ -324,7 +324,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L38)
+[client/enums/HandlingKeys.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L38)
 
 ***
 
@@ -334,7 +334,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L42)
+[client/enums/HandlingKeys.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L42)
 
 ***
 
@@ -344,7 +344,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L43)
+[client/enums/HandlingKeys.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L43)
 
 ***
 
@@ -354,7 +354,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L40)
+[client/enums/HandlingKeys.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L40)
 
 ***
 
@@ -364,7 +364,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L41)
+[client/enums/HandlingKeys.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L41)
 
 ***
 
@@ -374,7 +374,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L36)
+[client/enums/HandlingKeys.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L36)
 
 ***
 
@@ -384,7 +384,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L32)
+[client/enums/HandlingKeys.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L32)
 
 ***
 
@@ -394,7 +394,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L30)
+[client/enums/HandlingKeys.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L30)
 
 ***
 
@@ -404,7 +404,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L31)
+[client/enums/HandlingKeys.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L31)
 
 ***
 
@@ -414,7 +414,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L37)
+[client/enums/HandlingKeys.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L37)
 
 ***
 
@@ -424,7 +424,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L33)
+[client/enums/HandlingKeys.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L33)
 
 ***
 
@@ -434,7 +434,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L50)
+[client/enums/HandlingKeys.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L50)
 
 ***
 
@@ -444,7 +444,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L13)
+[client/enums/HandlingKeys.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L13)
 
 ***
 
@@ -454,7 +454,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L20)
+[client/enums/HandlingKeys.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L20)
 
 ***
 
@@ -464,7 +464,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L58)
+[client/enums/HandlingKeys.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L58)
 
 ***
 
@@ -474,7 +474,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L61)
+[client/enums/HandlingKeys.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L61)
 
 ***
 
@@ -484,7 +484,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L60)
+[client/enums/HandlingKeys.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L60)
 
 ***
 
@@ -494,7 +494,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L59)
+[client/enums/HandlingKeys.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L59)
 
 ***
 
@@ -504,7 +504,7 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L17)
+[client/enums/HandlingKeys.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L17)
 
 ***
 
@@ -514,4 +514,4 @@ console.log(`Mass of Vehicle with ID ${vehicle} is ${massOfVehicle}`);
 
 #### Defined in
 
-[client/enums/HandlingKeys.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/HandlingKeys.ts#L18)
+[client/enums/HandlingKeys.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HandlingKeys.ts#L18)

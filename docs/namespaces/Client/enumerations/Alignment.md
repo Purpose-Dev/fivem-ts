@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/Alignment.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Alignment.ts#L3)
+[client/enums/Alignment.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Alignment.ts#L3)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/Alignment.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Alignment.ts#L2)
+[client/enums/Alignment.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Alignment.ts#L2)
 
 ***
 
@@ -34,4 +34,4 @@
 
 #### Defined in
 
-[client/enums/Alignment.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/Alignment.ts#L4)
+[client/enums/Alignment.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Alignment.ts#L4)

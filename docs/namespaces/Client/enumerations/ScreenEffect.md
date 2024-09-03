@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L2)
+[client/enums/ScreenEffect.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L3)
+[client/enums/ScreenEffect.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L4)
+[client/enums/ScreenEffect.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L5)
+[client/enums/ScreenEffect.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L5)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L6)
+[client/enums/ScreenEffect.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L6)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L7)
+[client/enums/ScreenEffect.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L7)
 
 ***
 
@@ -74,7 +74,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L8)
+[client/enums/ScreenEffect.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L8)
 
 ***
 
@@ -84,7 +84,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L9)
+[client/enums/ScreenEffect.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L9)
 
 ***
 
@@ -94,7 +94,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L10)
+[client/enums/ScreenEffect.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L10)
 
 ***
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L11)
+[client/enums/ScreenEffect.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L11)
 
 ***
 
@@ -114,7 +114,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L12)
+[client/enums/ScreenEffect.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L12)
 
 ***
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L13)
+[client/enums/ScreenEffect.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L13)
 
 ***
 
@@ -134,7 +134,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L14)
+[client/enums/ScreenEffect.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L14)
 
 ***
 
@@ -144,7 +144,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L15)
+[client/enums/ScreenEffect.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L15)
 
 ***
 
@@ -154,7 +154,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L16)
+[client/enums/ScreenEffect.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L16)
 
 ***
 
@@ -164,7 +164,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L17)
+[client/enums/ScreenEffect.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L17)
 
 ***
 
@@ -174,7 +174,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L19)
+[client/enums/ScreenEffect.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L19)
 
 ***
 
@@ -184,7 +184,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L20)
+[client/enums/ScreenEffect.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L20)
 
 ***
 
@@ -194,7 +194,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L18)
+[client/enums/ScreenEffect.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L18)
 
 ***
 
@@ -204,7 +204,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L21)
+[client/enums/ScreenEffect.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L21)
 
 ***
 
@@ -214,7 +214,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L22)
+[client/enums/ScreenEffect.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L22)
 
 ***
 
@@ -224,7 +224,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L23)
+[client/enums/ScreenEffect.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L23)
 
 ***
 
@@ -234,7 +234,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L24)
+[client/enums/ScreenEffect.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L24)
 
 ***
 
@@ -244,7 +244,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L25)
+[client/enums/ScreenEffect.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L25)
 
 ***
 
@@ -254,7 +254,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L26)
+[client/enums/ScreenEffect.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L26)
 
 ***
 
@@ -264,7 +264,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L27)
+[client/enums/ScreenEffect.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L27)
 
 ***
 
@@ -274,7 +274,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L28)
+[client/enums/ScreenEffect.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L28)
 
 ***
 
@@ -284,7 +284,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L29)
+[client/enums/ScreenEffect.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L29)
 
 ***
 
@@ -294,7 +294,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L30)
+[client/enums/ScreenEffect.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L30)
 
 ***
 
@@ -304,7 +304,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L31)
+[client/enums/ScreenEffect.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L31)
 
 ***
 
@@ -314,7 +314,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L32)
+[client/enums/ScreenEffect.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L32)
 
 ***
 
@@ -324,7 +324,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L33)
+[client/enums/ScreenEffect.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L33)
 
 ***
 
@@ -334,7 +334,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L34)
+[client/enums/ScreenEffect.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L34)
 
 ***
 
@@ -344,7 +344,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L35)
+[client/enums/ScreenEffect.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L35)
 
 ***
 
@@ -354,7 +354,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L36)
+[client/enums/ScreenEffect.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L36)
 
 ***
 
@@ -364,7 +364,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L37)
+[client/enums/ScreenEffect.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L37)
 
 ***
 
@@ -374,7 +374,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L38)
+[client/enums/ScreenEffect.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L38)
 
 ***
 
@@ -384,7 +384,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L39)
+[client/enums/ScreenEffect.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L39)
 
 ***
 
@@ -394,7 +394,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L40)
+[client/enums/ScreenEffect.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L40)
 
 ***
 
@@ -404,7 +404,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L41)
+[client/enums/ScreenEffect.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L41)
 
 ***
 
@@ -414,7 +414,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L42)
+[client/enums/ScreenEffect.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L42)
 
 ***
 
@@ -424,7 +424,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L43)
+[client/enums/ScreenEffect.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L43)
 
 ***
 
@@ -434,7 +434,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L44)
+[client/enums/ScreenEffect.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L44)
 
 ***
 
@@ -444,7 +444,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L45)
+[client/enums/ScreenEffect.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L45)
 
 ***
 
@@ -454,7 +454,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L46)
+[client/enums/ScreenEffect.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L46)
 
 ***
 
@@ -464,7 +464,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L47)
+[client/enums/ScreenEffect.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L47)
 
 ***
 
@@ -474,7 +474,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L48)
+[client/enums/ScreenEffect.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L48)
 
 ***
 
@@ -484,7 +484,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L49)
+[client/enums/ScreenEffect.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L49)
 
 ***
 
@@ -494,7 +494,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L50)
+[client/enums/ScreenEffect.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L50)
 
 ***
 
@@ -504,7 +504,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L51)
+[client/enums/ScreenEffect.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L51)
 
 ***
 
@@ -514,7 +514,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L52)
+[client/enums/ScreenEffect.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L52)
 
 ***
 
@@ -524,7 +524,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L53)
+[client/enums/ScreenEffect.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L53)
 
 ***
 
@@ -534,7 +534,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L54)
+[client/enums/ScreenEffect.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L54)
 
 ***
 
@@ -544,7 +544,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L55)
+[client/enums/ScreenEffect.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L55)
 
 ***
 
@@ -554,7 +554,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L56)
+[client/enums/ScreenEffect.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L56)
 
 ***
 
@@ -564,7 +564,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L57)
+[client/enums/ScreenEffect.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L57)
 
 ***
 
@@ -574,7 +574,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L58)
+[client/enums/ScreenEffect.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L58)
 
 ***
 
@@ -584,7 +584,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L59)
+[client/enums/ScreenEffect.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L59)
 
 ***
 
@@ -594,7 +594,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L60)
+[client/enums/ScreenEffect.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L60)
 
 ***
 
@@ -604,7 +604,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L61)
+[client/enums/ScreenEffect.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L61)
 
 ***
 
@@ -614,7 +614,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L62)
+[client/enums/ScreenEffect.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L62)
 
 ***
 
@@ -624,7 +624,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L63)
+[client/enums/ScreenEffect.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L63)
 
 ***
 
@@ -634,7 +634,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L64)
+[client/enums/ScreenEffect.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L64)
 
 ***
 
@@ -644,7 +644,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L65)
+[client/enums/ScreenEffect.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L65)
 
 ***
 
@@ -654,7 +654,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L66)
+[client/enums/ScreenEffect.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L66)
 
 ***
 
@@ -664,7 +664,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L67)
+[client/enums/ScreenEffect.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L67)
 
 ***
 
@@ -674,7 +674,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L68)
+[client/enums/ScreenEffect.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L68)
 
 ***
 
@@ -684,7 +684,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L69)
+[client/enums/ScreenEffect.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L69)
 
 ***
 
@@ -694,7 +694,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L70)
+[client/enums/ScreenEffect.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L70)
 
 ***
 
@@ -704,7 +704,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L71)
+[client/enums/ScreenEffect.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L71)
 
 ***
 
@@ -714,7 +714,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L72)
+[client/enums/ScreenEffect.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L72)
 
 ***
 
@@ -724,7 +724,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L73)
+[client/enums/ScreenEffect.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L73)
 
 ***
 
@@ -734,7 +734,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L74)
+[client/enums/ScreenEffect.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L74)
 
 ***
 
@@ -744,7 +744,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L75)
+[client/enums/ScreenEffect.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L75)
 
 ***
 
@@ -754,7 +754,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L76)
+[client/enums/ScreenEffect.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L76)
 
 ***
 
@@ -764,7 +764,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L77)
+[client/enums/ScreenEffect.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L77)
 
 ***
 
@@ -774,7 +774,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L78)
+[client/enums/ScreenEffect.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L78)
 
 ***
 
@@ -784,7 +784,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L79)
+[client/enums/ScreenEffect.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L79)
 
 ***
 
@@ -794,7 +794,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L80)
+[client/enums/ScreenEffect.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L80)
 
 ***
 
@@ -804,7 +804,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L81)
+[client/enums/ScreenEffect.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L81)
 
 ***
 
@@ -814,7 +814,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L83)
+[client/enums/ScreenEffect.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L83)
 
 ***
 
@@ -824,7 +824,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L84)
+[client/enums/ScreenEffect.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L84)
 
 ***
 
@@ -834,7 +834,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L85)
+[client/enums/ScreenEffect.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L85)
 
 ***
 
@@ -844,7 +844,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L86)
+[client/enums/ScreenEffect.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L86)
 
 ***
 
@@ -854,7 +854,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L87)
+[client/enums/ScreenEffect.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L87)
 
 ***
 
@@ -864,7 +864,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L88)
+[client/enums/ScreenEffect.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L88)
 
 ***
 
@@ -874,7 +874,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L89)
+[client/enums/ScreenEffect.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L89)
 
 ***
 
@@ -884,7 +884,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L97)
+[client/enums/ScreenEffect.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L97)
 
 ***
 
@@ -894,7 +894,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L98)
+[client/enums/ScreenEffect.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L98)
 
 ***
 
@@ -904,7 +904,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L99)
+[client/enums/ScreenEffect.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L99)
 
 ***
 
@@ -914,7 +914,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L100)
+[client/enums/ScreenEffect.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L100)
 
 ***
 
@@ -924,7 +924,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L101)
+[client/enums/ScreenEffect.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L101)
 
 ***
 
@@ -934,7 +934,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L102)
+[client/enums/ScreenEffect.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L102)
 
 ***
 
@@ -944,7 +944,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L103)
+[client/enums/ScreenEffect.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L103)
 
 ***
 
@@ -954,7 +954,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L104)
+[client/enums/ScreenEffect.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L104)
 
 ***
 
@@ -964,7 +964,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L105)
+[client/enums/ScreenEffect.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L105)
 
 ***
 
@@ -974,7 +974,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L106)
+[client/enums/ScreenEffect.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L106)
 
 ***
 
@@ -984,7 +984,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L90)
+[client/enums/ScreenEffect.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L90)
 
 ***
 
@@ -994,7 +994,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L91)
+[client/enums/ScreenEffect.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L91)
 
 ***
 
@@ -1004,7 +1004,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L92)
+[client/enums/ScreenEffect.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L92)
 
 ***
 
@@ -1014,7 +1014,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L93)
+[client/enums/ScreenEffect.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L93)
 
 ***
 
@@ -1024,7 +1024,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L94)
+[client/enums/ScreenEffect.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L94)
 
 ***
 
@@ -1034,7 +1034,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L95)
+[client/enums/ScreenEffect.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L95)
 
 ***
 
@@ -1044,7 +1044,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L96)
+[client/enums/ScreenEffect.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L96)
 
 ***
 
@@ -1054,7 +1054,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L107)
+[client/enums/ScreenEffect.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L107)
 
 ***
 
@@ -1064,7 +1064,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L108)
+[client/enums/ScreenEffect.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L108)
 
 ***
 
@@ -1074,7 +1074,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L109)
+[client/enums/ScreenEffect.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L109)
 
 ***
 
@@ -1084,7 +1084,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L110)
+[client/enums/ScreenEffect.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L110)
 
 ***
 
@@ -1094,7 +1094,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L111)
+[client/enums/ScreenEffect.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L111)
 
 ***
 
@@ -1104,7 +1104,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L112)
+[client/enums/ScreenEffect.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L112)
 
 ***
 
@@ -1114,7 +1114,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L113)
+[client/enums/ScreenEffect.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L113)
 
 ***
 
@@ -1124,7 +1124,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L114)
+[client/enums/ScreenEffect.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L114)
 
 ***
 
@@ -1134,7 +1134,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L115)
+[client/enums/ScreenEffect.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L115)
 
 ***
 
@@ -1144,7 +1144,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L116)
+[client/enums/ScreenEffect.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L116)
 
 ***
 
@@ -1154,7 +1154,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L117)
+[client/enums/ScreenEffect.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L117)
 
 ***
 
@@ -1164,7 +1164,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L118)
+[client/enums/ScreenEffect.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L118)
 
 ***
 
@@ -1174,7 +1174,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L119)
+[client/enums/ScreenEffect.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L119)
 
 ***
 
@@ -1184,7 +1184,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L120)
+[client/enums/ScreenEffect.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L120)
 
 ***
 
@@ -1194,7 +1194,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L121)
+[client/enums/ScreenEffect.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L121)
 
 ***
 
@@ -1204,7 +1204,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L122)
+[client/enums/ScreenEffect.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L122)
 
 ***
 
@@ -1214,7 +1214,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L123)
+[client/enums/ScreenEffect.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L123)
 
 ***
 
@@ -1224,7 +1224,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L124)
+[client/enums/ScreenEffect.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L124)
 
 ***
 
@@ -1234,7 +1234,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L125)
+[client/enums/ScreenEffect.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L125)
 
 ***
 
@@ -1244,7 +1244,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L126)
+[client/enums/ScreenEffect.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L126)
 
 ***
 
@@ -1254,7 +1254,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L127)
+[client/enums/ScreenEffect.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L127)
 
 ***
 
@@ -1264,7 +1264,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L128)
+[client/enums/ScreenEffect.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L128)
 
 ***
 
@@ -1274,7 +1274,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L129)
+[client/enums/ScreenEffect.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L129)
 
 ***
 
@@ -1284,7 +1284,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L130)
+[client/enums/ScreenEffect.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L130)
 
 ***
 
@@ -1294,7 +1294,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L131)
+[client/enums/ScreenEffect.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L131)
 
 ***
 
@@ -1304,7 +1304,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L132)
+[client/enums/ScreenEffect.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L132)
 
 ***
 
@@ -1314,7 +1314,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L133)
+[client/enums/ScreenEffect.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L133)
 
 ***
 
@@ -1324,7 +1324,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L134)
+[client/enums/ScreenEffect.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L134)
 
 ***
 
@@ -1334,7 +1334,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L135)
+[client/enums/ScreenEffect.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L135)
 
 ***
 
@@ -1344,7 +1344,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L136)
+[client/enums/ScreenEffect.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L136)
 
 ***
 
@@ -1354,7 +1354,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L137)
+[client/enums/ScreenEffect.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L137)
 
 ***
 
@@ -1364,7 +1364,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L138)
+[client/enums/ScreenEffect.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L138)
 
 ***
 
@@ -1374,7 +1374,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L139)
+[client/enums/ScreenEffect.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L139)
 
 ***
 
@@ -1384,7 +1384,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L140)
+[client/enums/ScreenEffect.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L140)
 
 ***
 
@@ -1394,7 +1394,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L141)
+[client/enums/ScreenEffect.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L141)
 
 ***
 
@@ -1404,7 +1404,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L142)
+[client/enums/ScreenEffect.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L142)
 
 ***
 
@@ -1414,7 +1414,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L143)
+[client/enums/ScreenEffect.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L143)
 
 ***
 
@@ -1424,7 +1424,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L144)
+[client/enums/ScreenEffect.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L144)
 
 ***
 
@@ -1434,7 +1434,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L145)
+[client/enums/ScreenEffect.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L145)
 
 ***
 
@@ -1444,7 +1444,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L146)
+[client/enums/ScreenEffect.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L146)
 
 ***
 
@@ -1454,7 +1454,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L147)
+[client/enums/ScreenEffect.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L147)
 
 ***
 
@@ -1464,7 +1464,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L148)
+[client/enums/ScreenEffect.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L148)
 
 ***
 
@@ -1474,7 +1474,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L149)
+[client/enums/ScreenEffect.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L149)
 
 ***
 
@@ -1484,7 +1484,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L150)
+[client/enums/ScreenEffect.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L150)
 
 ***
 
@@ -1494,7 +1494,7 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L151)
+[client/enums/ScreenEffect.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L151)
 
 ***
 
@@ -1504,4 +1504,4 @@
 
 #### Defined in
 
-[client/enums/ScreenEffect.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ScreenEffect.ts#L152)
+[client/enums/ScreenEffect.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L152)

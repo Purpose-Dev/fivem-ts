@@ -16,7 +16,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L5)
+[client/enums/ZoneID.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L5)
 
 ***
 
@@ -26,7 +26,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L6)
+[client/enums/ZoneID.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L6)
 
 ***
 
@@ -36,7 +36,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L7)
+[client/enums/ZoneID.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L7)
 
 ***
 
@@ -46,7 +46,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L8)
+[client/enums/ZoneID.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L8)
 
 ***
 
@@ -56,7 +56,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L9)
+[client/enums/ZoneID.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L9)
 
 ***
 
@@ -66,7 +66,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L10)
+[client/enums/ZoneID.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L10)
 
 ***
 
@@ -76,7 +76,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L11)
+[client/enums/ZoneID.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L11)
 
 ***
 
@@ -86,7 +86,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L12)
+[client/enums/ZoneID.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L12)
 
 ***
 
@@ -96,7 +96,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L13)
+[client/enums/ZoneID.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L13)
 
 ***
 
@@ -106,7 +106,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L14)
+[client/enums/ZoneID.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L14)
 
 ***
 
@@ -116,7 +116,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L15)
+[client/enums/ZoneID.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L15)
 
 ***
 
@@ -126,7 +126,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L16)
+[client/enums/ZoneID.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L16)
 
 ***
 
@@ -136,7 +136,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L17)
+[client/enums/ZoneID.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L17)
 
 ***
 
@@ -146,7 +146,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L18)
+[client/enums/ZoneID.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L18)
 
 ***
 
@@ -156,7 +156,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L19)
+[client/enums/ZoneID.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L19)
 
 ***
 
@@ -166,7 +166,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L20)
+[client/enums/ZoneID.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L20)
 
 ***
 
@@ -176,7 +176,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L21)
+[client/enums/ZoneID.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L21)
 
 ***
 
@@ -186,7 +186,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L22)
+[client/enums/ZoneID.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L22)
 
 ***
 
@@ -196,7 +196,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L23)
+[client/enums/ZoneID.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L23)
 
 ***
 
@@ -206,7 +206,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L24)
+[client/enums/ZoneID.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L24)
 
 ***
 
@@ -216,7 +216,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L25)
+[client/enums/ZoneID.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L25)
 
 ***
 
@@ -226,7 +226,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L26)
+[client/enums/ZoneID.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L26)
 
 ***
 
@@ -236,7 +236,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L27)
+[client/enums/ZoneID.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L27)
 
 ***
 
@@ -246,7 +246,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L28)
+[client/enums/ZoneID.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L28)
 
 ***
 
@@ -256,7 +256,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L29)
+[client/enums/ZoneID.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L29)
 
 ***
 
@@ -266,7 +266,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L30)
+[client/enums/ZoneID.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L30)
 
 ***
 
@@ -276,7 +276,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L31)
+[client/enums/ZoneID.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L31)
 
 ***
 
@@ -286,7 +286,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L32)
+[client/enums/ZoneID.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L32)
 
 ***
 
@@ -296,7 +296,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L33)
+[client/enums/ZoneID.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L33)
 
 ***
 
@@ -306,7 +306,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L34)
+[client/enums/ZoneID.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L34)
 
 ***
 
@@ -316,7 +316,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L35)
+[client/enums/ZoneID.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L35)
 
 ***
 
@@ -326,7 +326,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L36)
+[client/enums/ZoneID.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L36)
 
 ***
 
@@ -336,7 +336,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L37)
+[client/enums/ZoneID.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L37)
 
 ***
 
@@ -346,7 +346,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L38)
+[client/enums/ZoneID.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L38)
 
 ***
 
@@ -356,7 +356,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L39)
+[client/enums/ZoneID.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L39)
 
 ***
 
@@ -366,7 +366,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L40)
+[client/enums/ZoneID.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L40)
 
 ***
 
@@ -376,7 +376,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L41)
+[client/enums/ZoneID.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L41)
 
 ***
 
@@ -386,7 +386,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L42)
+[client/enums/ZoneID.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L42)
 
 ***
 
@@ -396,7 +396,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L95)
+[client/enums/ZoneID.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L95)
 
 ***
 
@@ -406,7 +406,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L43)
+[client/enums/ZoneID.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L43)
 
 ***
 
@@ -416,7 +416,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L44)
+[client/enums/ZoneID.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L44)
 
 ***
 
@@ -426,7 +426,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L45)
+[client/enums/ZoneID.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L45)
 
 ***
 
@@ -436,7 +436,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L46)
+[client/enums/ZoneID.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L46)
 
 ***
 
@@ -446,7 +446,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L47)
+[client/enums/ZoneID.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L47)
 
 ***
 
@@ -456,7 +456,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L48)
+[client/enums/ZoneID.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L48)
 
 ***
 
@@ -466,7 +466,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L49)
+[client/enums/ZoneID.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L49)
 
 ***
 
@@ -476,7 +476,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L50)
+[client/enums/ZoneID.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L50)
 
 ***
 
@@ -486,7 +486,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L51)
+[client/enums/ZoneID.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L51)
 
 ***
 
@@ -496,7 +496,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L52)
+[client/enums/ZoneID.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L52)
 
 ***
 
@@ -506,7 +506,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L53)
+[client/enums/ZoneID.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L53)
 
 ***
 
@@ -516,7 +516,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L54)
+[client/enums/ZoneID.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L54)
 
 ***
 
@@ -526,7 +526,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L55)
+[client/enums/ZoneID.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L55)
 
 ***
 
@@ -536,7 +536,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L56)
+[client/enums/ZoneID.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L56)
 
 ***
 
@@ -546,7 +546,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L57)
+[client/enums/ZoneID.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L57)
 
 ***
 
@@ -556,7 +556,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L58)
+[client/enums/ZoneID.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L58)
 
 ***
 
@@ -566,7 +566,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L59)
+[client/enums/ZoneID.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L59)
 
 ***
 
@@ -576,7 +576,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L60)
+[client/enums/ZoneID.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L60)
 
 ***
 
@@ -586,7 +586,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L61)
+[client/enums/ZoneID.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L61)
 
 ***
 
@@ -596,7 +596,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L62)
+[client/enums/ZoneID.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L62)
 
 ***
 
@@ -606,7 +606,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L63)
+[client/enums/ZoneID.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L63)
 
 ***
 
@@ -616,7 +616,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L64)
+[client/enums/ZoneID.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L64)
 
 ***
 
@@ -626,7 +626,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L65)
+[client/enums/ZoneID.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L65)
 
 ***
 
@@ -636,7 +636,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L66)
+[client/enums/ZoneID.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L66)
 
 ***
 
@@ -646,7 +646,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L67)
+[client/enums/ZoneID.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L67)
 
 ***
 
@@ -656,7 +656,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L68)
+[client/enums/ZoneID.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L68)
 
 ***
 
@@ -666,7 +666,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L94)
+[client/enums/ZoneID.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L94)
 
 ***
 
@@ -676,7 +676,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L69)
+[client/enums/ZoneID.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L69)
 
 ***
 
@@ -686,7 +686,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L70)
+[client/enums/ZoneID.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L70)
 
 ***
 
@@ -696,7 +696,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L71)
+[client/enums/ZoneID.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L71)
 
 ***
 
@@ -706,7 +706,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L72)
+[client/enums/ZoneID.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L72)
 
 ***
 
@@ -716,7 +716,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L73)
+[client/enums/ZoneID.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L73)
 
 ***
 
@@ -726,7 +726,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L74)
+[client/enums/ZoneID.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L74)
 
 ***
 
@@ -736,7 +736,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L75)
+[client/enums/ZoneID.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L75)
 
 ***
 
@@ -746,7 +746,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L76)
+[client/enums/ZoneID.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L76)
 
 ***
 
@@ -756,7 +756,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L77)
+[client/enums/ZoneID.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L77)
 
 ***
 
@@ -766,7 +766,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L78)
+[client/enums/ZoneID.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L78)
 
 ***
 
@@ -776,7 +776,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L79)
+[client/enums/ZoneID.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L79)
 
 ***
 
@@ -786,7 +786,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L80)
+[client/enums/ZoneID.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L80)
 
 ***
 
@@ -796,7 +796,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L81)
+[client/enums/ZoneID.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L81)
 
 ***
 
@@ -806,7 +806,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L82)
+[client/enums/ZoneID.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L82)
 
 ***
 
@@ -816,7 +816,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L83)
+[client/enums/ZoneID.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L83)
 
 ***
 
@@ -826,7 +826,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L84)
+[client/enums/ZoneID.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L84)
 
 ***
 
@@ -836,7 +836,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L85)
+[client/enums/ZoneID.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L85)
 
 ***
 
@@ -846,7 +846,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L86)
+[client/enums/ZoneID.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L86)
 
 ***
 
@@ -856,7 +856,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L87)
+[client/enums/ZoneID.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L87)
 
 ***
 
@@ -866,7 +866,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L88)
+[client/enums/ZoneID.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L88)
 
 ***
 
@@ -876,7 +876,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L89)
+[client/enums/ZoneID.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L89)
 
 ***
 
@@ -886,7 +886,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L90)
+[client/enums/ZoneID.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L90)
 
 ***
 
@@ -896,7 +896,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L91)
+[client/enums/ZoneID.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L91)
 
 ***
 
@@ -906,7 +906,7 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L92)
+[client/enums/ZoneID.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L92)
 
 ***
 
@@ -916,4 +916,4 @@ List of Zones, Useful for using world zone related natives
 
 #### Defined in
 
-[client/enums/ZoneID.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/ZoneID.ts#L93)
+[client/enums/ZoneID.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ZoneID.ts#L93)

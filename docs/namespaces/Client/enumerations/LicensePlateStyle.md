@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L2)
+[client/enums/LicensePlateStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L2)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L3)
+[client/enums/LicensePlateStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L3)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L4)
+[client/enums/LicensePlateStyle.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L4)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L7)
+[client/enums/LicensePlateStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L7)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L5)
+[client/enums/LicensePlateStyle.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L5)
 
 ***
 
@@ -64,4 +64,4 @@
 
 #### Defined in
 
-[client/enums/LicensePlateStyle.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/enums/LicensePlateStyle.ts#L6)
+[client/enums/LicensePlateStyle.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/LicensePlateStyle.ts#L6)

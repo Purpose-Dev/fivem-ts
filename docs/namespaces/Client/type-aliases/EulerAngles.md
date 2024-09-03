@@ -32,4 +32,4 @@ Rotation around the Z-axis in radians.
 
 ## Defined in
 
-[client/utils/Quaternion.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/af9f57481b70813a163451854c2103aaaed13195/src/client/utils/Quaternion.ts#L6)
+[client/utils/Quaternion.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L6)
