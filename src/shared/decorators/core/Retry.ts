@@ -1,10 +1,7 @@
 import 'reflect-metadata';
 import { Maybe } from '../../types';
 
-const RETRY_ATTEMPTS_KEY = Symbol('retryAttempts');
-const RETRY_DELAY_KEY = Symbol('retryDelay');
-
-type RetryValue = { attempts: number; delay: number };
+export type RetryValue = { attempts: number; delay: number };
 
 export function Retry(attempts: number, delay: number) {
     return function (
@@ -16,8 +13,8 @@ export function Retry(attempts: number, delay: number) {
             throw new Error(`Method ${String(propertyKey)} does not exist on the target.`);
         }
 
-        Reflect.defineMetadata(RETRY_ATTEMPTS_KEY, attempts, target, propertyKey);
-        Reflect.defineMetadata(RETRY_DELAY_KEY, delay, target, propertyKey);
+        Reflect.defineMetadata(Symbol('retryAttempts'), attempts, target, propertyKey);
+        Reflect.defineMetadata(Symbol('retryDelay'), delay, target, propertyKey);
 
         const originalMethod = descriptor.value;
 
@@ -41,8 +38,8 @@ export function Retry(attempts: number, delay: number) {
 }
 
 export function getRetryMetadata(target: object, propertyKey: string): Maybe<RetryValue> {
-    const attempts = Reflect.getMetadata(RETRY_ATTEMPTS_KEY, target, propertyKey);
-    const delay = Reflect.getMetadata(RETRY_DELAY_KEY, target, propertyKey);
+    const attempts = Reflect.getMetadata(Symbol('retryAttempts'), target, propertyKey);
+    const delay = Reflect.getMetadata(Symbol('retryDelay'), target, propertyKey);
 
     if (attempts !== undefined && delay !== undefined) {
         return { attempts, delay };
