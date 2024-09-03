@@ -5,7 +5,7 @@ export { ErrorHandler } from './ErrorHandler';
 export { Logger } from './Logger';
 export { MeasureTime } from './MeasureTime';
 export { Middleware } from './Middleware';
-export { Retry, getRetryMetadata } from './Retry';
+export { getRetryMetadata, Retry, RetryValue } from './Retry';
 export { Singleton } from './Singleton';
 export { Thread } from './Thread';
 export { Tick } from './Tick';
