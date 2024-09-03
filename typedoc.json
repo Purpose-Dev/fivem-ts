@@ -1,7 +1,8 @@
 {
+    "$schema": "https://typedoc.org/schema.json",
     "exclude": ["**/*.test.ts", "**/node_modules/**"],
     "entryPoints": ["./src/index.ts"],
-    "out": "docs",
+    "out": "temp-docs",
     "name": "fivem-ts - Documentation",
     "theme": "default",
     "plugin": ["./node_modules/typedoc-plugin-markdown"],
@@ -12,5 +13,7 @@
     "excludeProtected": true,
     "includeVersion": true,
     "entryPointStrategy": "expand",
-    "tsconfig": "tsconfig.index.json"
+    "tsconfig": "tsconfig.index.json",
+    "gitRevision": "main",
+    "githubPages": true
 }
