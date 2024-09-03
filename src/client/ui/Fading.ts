@@ -1,15 +1,14 @@
 /**
- * Static class for managing screen fading effects.
- * This class allows you to fade the screen in and out with specified durations
- * and check the current fading status.
+ * Namespace for managing screen fading effects.
+ * This namespace allows you to fade the screen in and out with specified durations and check the current fading status.
  */
-export abstract class Fading {
+export namespace Fading {
     /**
      * Determines if the screen is currently fully faded in.
      *
      * @returns `true` if the screen is faded in, `false` otherwise.
      */
-    public static get IsFadedIn(): boolean {
+    export function getIsFadedIn(): boolean {
         return IsScreenFadedIn();
     }
 
@@ -18,7 +17,7 @@ export abstract class Fading {
      *
      * @returns `true` if the screen is fading in, `false` otherwise.
      */
-    public static get IsFadingIn(): boolean {
+    export function getIsFadingIn(): boolean {
         return IsScreenFadingIn();
     }
 
@@ -27,7 +26,7 @@ export abstract class Fading {
      *
      * @returns `true` if the screen is faded out, `false` otherwise.
      */
-    public static get IsFadedOut(): boolean {
+    export function getIsFadedOut(): boolean {
         return IsScreenFadedOut();
     }
 
@@ -36,7 +35,7 @@ export abstract class Fading {
      *
      * @returns `true` if the screen is fading out, `false` otherwise.
      */
-    public static get IsFadingOut(): boolean {
+    export function getIsFadingOut(): boolean {
         return IsScreenFadingOut();
     }
 
@@ -47,12 +46,12 @@ export abstract class Fading {
      * @param duration - The duration (in milliseconds) over which to fade in the screen.
      * @returns A promise that resolves when the fade-in is complete.
      */
-    public static async fadeIn(duration: number): Promise<void> {
-        return new Promise(resolve => {
+    export async function fadeIn(duration: number): Promise<void> {
+        return new Promise((resolve: (value: (PromiseLike<void> | void)) => void): void => {
             DoScreenFadeIn(duration);
 
-            const interval: CitizenTimer = setInterval(() => {
-                if (this.IsFadedIn) {
+            const interval: CitizenTimer = setInterval((): void => {
+                if (getIsFadedIn()) {
                     clearInterval(interval);
                     resolve();
                 }
@@ -67,12 +66,12 @@ export abstract class Fading {
      * @param duration - The duration (in milliseconds) over which to fade out the screen.
      * @returns A promise that resolves when the fade-out is complete.
      */
-    public static fadeOut(duration: number): Promise<void> {
-        return new Promise(resolve => {
+    export async function fadeOut(duration: number): Promise<void> {
+        return new Promise((resolve: (value: (PromiseLike<void> | void)) => void): void => {
             DoScreenFadeOut(duration);
 
-            const interval: CitizenTimer = setInterval(() => {
-                if (this.IsFadedOut) {
+            const interval: CitizenTimer = setInterval((): void => {
+                if (getIsFadedOut()) {
                     clearInterval(interval);
                     resolve();
                 }
