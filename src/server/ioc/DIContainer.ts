@@ -166,6 +166,7 @@ export class DIContainer {
                 try {
                     const parsedData = JSON.parse(data);
                     handler({ ...request, body: parsedData }, response);
+                    // eslint-disable-next-line @typescript-eslint/no-unused-vars
                 } catch (_error) {
                     response.writeHead(400, { 'Content-Type': 'application/json' });
                     response.send(JSON.stringify({ error: 'Invalid JSON' }));
