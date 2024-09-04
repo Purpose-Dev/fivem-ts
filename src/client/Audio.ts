@@ -2,9 +2,9 @@ import { Vector3 } from '../shared';
 import { AudioFlag } from './enums';
 
 /**
- * The `Audio` namespace provides utility functions for managing and controlling audio in game environment.
+ * The `Audio` module provides utility functions for managing and controlling audio in game environment.
  */
-export namespace Audio {
+export module Audio {
     /**
      * A cached music file currently being played or controlled.
      */
