@@ -1,7 +1,7 @@
 import { LoadingSpinnerType } from '../enums';
 
 /**
- * A utility class to manage a loading prompt that appears at the bottom right of the screen.
+ * A utility module to manage a loading prompt that appears at the bottom right of the screen.
  * The loading prompt can display a custom message and spinner, and it can be shown or hidden as needed.
  *
  * @example
@@ -17,7 +17,7 @@ import { LoadingSpinnerType } from '../enums';
  * }, 10000);
  * ```
  */
-export namespace LoadingPrompt {
+export module LoadingPrompt {
     /**
      * Checks whether the loading prompt is currently being displayed.
      *
@@ -35,8 +35,8 @@ export namespace LoadingPrompt {
      * @param spinnerType - The type of spinner to display. If not provided, a default spinner is used.
      */
     export function show(loadingText?: string, spinnerType?: LoadingSpinnerType): void {
-        if (this.IsActive) {
-            this.hide();
+        if (getIsActive()) {
+            hide();
         }
 
         if (loadingText === null) {

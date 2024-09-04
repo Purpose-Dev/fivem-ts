@@ -5,9 +5,9 @@ import { HudColors, NotificationType } from '../enums';
 import { Audio } from '../Audio';
 
 /**
- * Namespace to manage Screen on Game Env
+ * Module to manage Screen on Game Env
  */
-export namespace Screen {
+export module Screen {
     /**
      * Retrieves the screen resolution as a `Size` object.
      * @returns The screen resolution.

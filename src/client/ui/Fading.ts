@@ -1,8 +1,8 @@
 /**
- * Namespace for managing screen fading effects.
- * This namespace allows you to fade the screen in and out with specified durations and check the current fading status.
+ * Module for managing screen fading effects.
+ * This module allows you to fade the screen in and out with specified durations and check the current fading status.
  */
-export namespace Fading {
+export module Fading {
     /**
      * Determines if the screen is currently fully faded in.
      *

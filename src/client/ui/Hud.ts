@@ -2,11 +2,11 @@ import { CursorType, HudComponent } from '../enums';
 import { Point } from '../utils';
 
 /**
- * Namespace for managing HUD (Heads-Up Display) components and cursor interactions.
- * This namespace allows you to control the visibility of HUD components, the cursor's position and sprite,
+ * Module for managing HUD (Heads-Up Display) components and cursor interactions.
+ * This module allows you to control the visibility of HUD components, the cursor's position and sprite,
  * and the radar's zoom level and visibility.
  */
-export namespace Hud {
+export module Hud {
     /**
      * Checks if a specific HUD component is currently active (visible).
      *
