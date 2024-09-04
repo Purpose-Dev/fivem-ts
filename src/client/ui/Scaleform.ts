@@ -16,7 +16,7 @@ import { Vector3 } from '../../shared';
  *
  * scaleform.callFunction("SHOW_MIDSIZED_MESSAGE", ["Title", "Message"]);
  *
- * setTick(() => {
+ * setTick(async () => {
  *  await scaleform.render2D();
  * });
  * ```

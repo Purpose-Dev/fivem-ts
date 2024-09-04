@@ -20,7 +20,7 @@ const scaleform = new Scaleform("MIDSIZED_MESSAGE");
 
 scaleform.callFunction("SHOW_MIDSIZED_MESSAGE", ["Title", "Message"]);
 
-setTick(() => {
+setTick(async () => {
  await scaleform.render2D();
 });
 ```
