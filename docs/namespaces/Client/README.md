@@ -83,6 +83,7 @@
 - [RelationshipGroup](classes/RelationshipGroup.md)
 - [Scaleform](classes/Scaleform.md)
 - [Size](classes/Size.md)
+- [Text](classes/Text.md)
 
 ### Interfaces
 
