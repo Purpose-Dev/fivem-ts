@@ -6,7 +6,7 @@
 
 # LoadingPrompt
 
-A utility class to manage a loading prompt that appears at the bottom right of the screen.
+A utility module to manage a loading prompt that appears at the bottom right of the screen.
 The loading prompt can display a custom message and spinner, and it can be shown or hidden as needed.
 
 ## Example

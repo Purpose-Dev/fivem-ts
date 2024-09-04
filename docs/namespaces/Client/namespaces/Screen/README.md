@@ -6,7 +6,7 @@
 
 # Screen
 
-Namespace to manage Screen on Game Env
+Module to manage Screen on Game Env
 
 ## Index
 

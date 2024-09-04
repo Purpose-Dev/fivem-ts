@@ -6,7 +6,7 @@
 
 # Effects
 
-The `Effects` namespace provides functions to manage screen effects, such as starting, stopping, and checking the status of various screen effects.
+The `Effects` module provides functions to manage screen effects, such as starting, stopping, and checking the status of various screen effects.
 
 ## Index
 

@@ -6,7 +6,7 @@
 
 # Audio
 
-The `Audio` namespace provides utility functions for managing and controlling audio in game environment.
+The `Audio` module provides utility functions for managing and controlling audio in game environment.
 
 ## Index
 
