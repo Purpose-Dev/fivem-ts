@@ -6,4 +6,5 @@ export { Fading } from './Fading';
 export { Hud } from './Hud';
 export { LoadingPrompt } from './LoadingPrompt';
 export { Notification } from './Notification';
+export { Scaleform } from './Scaleform';
 export { Screen } from './Screen';
