@@ -3,6 +3,29 @@ import { Maybe } from '../../types';
 
 export type RetryValue = { attempts: number; delay: number };
 
+/**
+ * A decorator to automatically retry a method upon failure.
+ *
+ * This decorator retries the decorated method a specified number of times, with a delay between each attempt.
+ * If all attempts fail, the last error will be thrown.
+ *
+ * @example
+ *
+ * ```ts
+ * import { Retry } from 'fivem-ts/shared/decorators';
+ *
+ * class MyService {
+ *     @Retry(3, 1000)
+ *     async unstableMethod(): Promise<void> {
+ *         // Some operation that might fail
+ *     }
+ * }
+ * ```
+ *
+ * @param attempts The number of retry attempts before failing.
+ * @param delay The delay in milliseconds between each retry attempt.
+ * @returns A method decorator that applies the retry logic.
+ */
 export function Retry(attempts: number, delay: number) {
     return function (
         target: object,
@@ -37,6 +60,27 @@ export function Retry(attempts: number, delay: number) {
     };
 }
 
+/**
+ * Retrieves the retry metadata for a given method.
+ *
+ * This function can be used to obtain the number of retry attempts and the delay between attempts
+ * for a method decorated with the `Retry` decorator.
+ *
+ * @example
+ *
+ * ```ts
+ * import { getRetryMetadata } from 'fivem-ts/shared/decorators';
+ *
+ * const retryMetadata = getRetryMetadata(MyService.prototype, 'unstableMethod');
+ * if (retryMetadata) {
+ *     console.log(`Retry attempts: ${retryMetadata.attempts}, Delay: ${retryMetadata.delay}`);
+ * }
+ * ```
+ *
+ * @param target The target object (usually the prototype of a class).
+ * @param propertyKey The name of the method to retrieve metadata for.
+ * @returns An object containing the number of attempts and the delay, or `undefined` if not found.
+ */
 export function getRetryMetadata(target: object, propertyKey: string): Maybe<RetryValue> {
     const attempts = Reflect.getMetadata(Symbol('retryAttempts'), target, propertyKey);
     const delay = Reflect.getMetadata(Symbol('retryDelay'), target, propertyKey);
