@@ -9,7 +9,7 @@ import { container } from '../ioc';
 export function Controller(basePath: string): ClassDecorator {
     return function (constructor: Function) {
         const routes = Reflect.getMetadata('routes', constructor) || [];
-        routes.forEach((route: any) => {
+        routes.forEach((route: { method; path; handlerName; }) => {
             const { method, path, handlerName } = route;
             container.registerRoute(
                 method,

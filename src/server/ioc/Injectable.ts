@@ -30,7 +30,7 @@ import { container } from './DIContainer';
  * @returns A decorator function that registers the class as a singleton in the DI container.
  */
 export function Injectable() {
-    return function <T extends { new (...args: any[]): {} }>(constructor: T) {
+    return function <T extends { new (...args: unknown[]): {} }>(constructor: T) {
         container.registerSingleton(constructor);
     };
 }

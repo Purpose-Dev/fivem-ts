@@ -60,7 +60,7 @@ import { container } from './DIContainer';
  * @returns A decorator function that registers the class with the specified scope in the DI container.
  */
 export function Scoped(scope: Scope) {
-    return function <T extends { new (...args: any[]): {} }>(constructor: T) {
+    return function <T extends { new (...args: unknown[]): {} }>(constructor: T) {
         switch (scope) {
             case Scope.Singleton:
                 container.registerSingleton(constructor);

@@ -34,7 +34,7 @@ export interface RequestHeaders {
  * ```
  */
 export interface RequestData {
-    [key: string]: any;
+    [key: string]: unknown;
 }
 
 /**

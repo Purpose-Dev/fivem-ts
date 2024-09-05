@@ -1,7 +1,7 @@
 import { Buffer } from 'buffer';
 import { serializeToJSON } from '../../shared';
 
-export function serializeToBuffer(data: any): Buffer {
+export function serializeToBuffer(data: unknown): Buffer {
     if (Buffer.isBuffer(data)) {
         return data;
     }

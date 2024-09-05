@@ -16,6 +16,6 @@
  * @param data The value to be serialized to JSON. This can be an object, array, string, number, etc.
  * @returns A JSON string representing the serialized data.
  */
-export function serializeToJSON(data: any): string {
+export function serializeToJSON(data: unknown): string {
     return JSON.stringify(data);
 }

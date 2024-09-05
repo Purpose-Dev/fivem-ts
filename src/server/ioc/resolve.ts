@@ -32,6 +32,6 @@ import { container } from './DIContainer';
  *
  * @throws Error if the class is not registered in the DI container or cannot be resolved.
  */
-export function resolve<T>(constructor: new (...args: any[]) => T): T {
+export function resolve<T>(constructor: new (...args: unknown[]) => T): T {
     return container.resolve<T>(constructor);
 }

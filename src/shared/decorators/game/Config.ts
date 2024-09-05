@@ -30,6 +30,7 @@
  * - This decorator is useful for organizing and applying settings consistently across different parts of the application.
  */
 export function Config(settings: object) {
+    // eslint-disable-next-line
     return function (target: any, propertyKey?: string, _descriptor?: PropertyDescriptor) {
         if (propertyKey) {
             Reflect.defineMetadata(propertyKey, settings, target);

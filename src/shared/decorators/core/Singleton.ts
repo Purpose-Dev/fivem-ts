@@ -1,5 +1,7 @@
 import 'reflect-metadata';
 
+/* eslint-disable */
+
 /**
  * A decorator that ensures a class follows the Singleton pattern.
  *

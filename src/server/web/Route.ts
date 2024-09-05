@@ -7,7 +7,7 @@ import 'reflect-metadata';
  * @param path - The route path.
  */
 export function Route(method: string, path: string): MethodDecorator {
-    return function (target: any, propertyKey: string | symbol) {
+    return function (target: unknown, propertyKey: string | symbol) {
         const routes = Reflect.getMetadata('routes', target.constructor) || [];
         routes.push({ method, path, handlerName: propertyKey });
         Reflect.defineMetadata('routes', routes, target.constructor);

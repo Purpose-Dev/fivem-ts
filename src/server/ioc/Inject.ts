@@ -33,7 +33,7 @@ import { container } from './DIContainer';
  * - The dependency is not registered in the DI container.
  * - The `emitDecoratorMetadata` option is not enabled in `tsconfig.json`.
  */
-export function Inject(target: any, propertyKey: string | symbol, parameterIndex: number): void {
+export function Inject(target: unknown, propertyKey: string | symbol, parameterIndex: number): void {
     const paramTypes = Reflect.getMetadata('design:paramtypes', target, propertyKey) || [];
     const dependency = paramTypes[parameterIndex];
 

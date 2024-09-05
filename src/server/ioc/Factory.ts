@@ -27,10 +27,10 @@ import { container } from './DIContainer';
  *
  * @returns The modified property descriptor with the factory logic applied.
  */
-export function Factory(_target: any, _propertyKey: string, descriptor: PropertyDescriptor) {
+export function Factory(_target: unknown, _propertyKey: string, descriptor: PropertyDescriptor) {
     const originalMethod = descriptor.value;
 
-    descriptor.value = function (...args: any[]) {
+    descriptor.value = function (...args: unknown[]) {
         const instance = originalMethod.apply(this, args);
         container.registerFactory(instance.constructor, () => instance);
         return instance;

@@ -24,8 +24,8 @@ import { HttpRequest, HttpResponse } from '../web';
  * ```
  */
 export class DIContainer {
-    private instances: Map<Function, any> = new Map();
-    private scopedInstances: Map<string, Map<Function, any>> = new Map();
+    private instances: Map<Function, unknown> = new Map();
+    private scopedInstances: Map<string, Map<Function, unknown>> = new Map();
     private routes: Map<string, Function> = new Map();
 
     /**
@@ -70,7 +70,7 @@ export class DIContainer {
      * container.registerSingleton(MyService);
      * ```
      */
-    public registerSingleton<T>(constructor: new (...args: any[]) => T): void {
+    public registerSingleton<T>(constructor: new (...args: unknown[]) => T): void {
         this.instances.set(constructor, this.createInstance(constructor));
     }
 
@@ -86,7 +86,7 @@ export class DIContainer {
      * container.registerTransient(MyTransientService);
      * ```
      */
-    public registerTransient<T>(constructor: new (...args: any[]) => T): void {
+    public registerTransient<T>(constructor: new (...args: unknown[]) => T): void {
         this.instances.set(constructor, 'transient');
     }
 
@@ -102,7 +102,7 @@ export class DIContainer {
      * container.registerRequestScoped(MyRequestService);
      * ```
      */
-    public registerRequestScoped<T>(constructor: new (...args: any[]) => T): void {
+    public registerRequestScoped<T>(constructor: new (...args: unknown[]) => T): void {
         this.registerScoped(constructor, 'request');
     }
 
@@ -118,7 +118,7 @@ export class DIContainer {
      * container.registerSessionScoped(MySessionService);
      * ```
      */
-    public registerSessionScoped<T>(constructor: new (...args: any[]) => T): void {
+    public registerSessionScoped<T>(constructor: new (...args: unknown[]) => T): void {
         this.registerScoped(constructor, 'session');
     }
 
@@ -135,7 +135,7 @@ export class DIContainer {
      * container.registerFactory(MyService, () => new MyService(new Dependency()));
      * ```
      */
-    public registerFactory<T>(constructor: new (...args: any[]) => T, factoryFn: () => T): void {
+    public registerFactory<T>(constructor: new (...args: unknown[]) => T, factoryFn: () => T): void {
         this.instances.set(constructor, factoryFn);
     }
 
@@ -201,18 +201,18 @@ export class DIContainer {
      * ```
      */
     public resolve<T>(
-        constructor: new (...args: any[]) => T,
-        request?: any,
+        constructor: new (...args: unknown[]) => T,
+        request?: unknown,
         sessionId?: string,
     ): T {
         if (this.instances.has(constructor)) {
-            const instance: any = this.instances.get(constructor);
+            const instance: unknown = this.instances.get(constructor);
 
             if (typeof instance === 'function') return instance();
 
             if (instance === 'transient') return this.createInstance(constructor);
 
-            return instance;
+            return <T>instance;
         }
 
         if (request && this.scopedInstances.get('request')?.has(constructor)) {
@@ -239,9 +239,9 @@ export class DIContainer {
      *
      * @returns A new instance of the specified class.
      */
-    private createInstance<T>(constructor: new (...args: any[]) => T): T {
-        const dependencies: any = Reflect.getMetadata('design:paramtypes', constructor) || [];
-        const injections: any = dependencies.map((dep: any) => this.resolve(dep));
+    private createInstance<T>(constructor: new (...args: unknown[]) => T): T {
+        const dependencies = Reflect.getMetadata('design:paramtypes', constructor) || [];
+        const injections = dependencies.map((dep: new (...args: unknown[]) => unknown) => this.resolve(dep));
         return new constructor(...injections);
     }
 
@@ -253,7 +253,7 @@ export class DIContainer {
      * @param constructor - The constructor function of the class to be registered.
      * @param scope - The scope in which the class should be registered ('request' or 'session').
      */
-    private registerScoped<T>(constructor: new (...args: any[]) => T, scope: string): void {
+    private registerScoped<T>(constructor: new (...args: unknown[]) => T, scope: string): void {
         if (!this.scopedInstances.has(scope)) {
             this.scopedInstances.set(scope, new Map());
         }
@@ -270,8 +270,8 @@ export class DIContainer {
      *
      * @returns An instance of the specified class within the given scope.
      */
-    private getScopedInstance<T>(constructor: new (...args: any[]) => T, scope: string): T {
-        const scopeMap: Map<Function, any> = this.scopedInstances.get(scope)!;
+    private getScopedInstance<T>(constructor: new (...args: unknown[]) => T, scope: string): T {
+        const scopeMap = this.scopedInstances.get(scope)!;
 
         if (scopeMap.get(constructor) === 'scoped') {
             const instance: T = this.createInstance(constructor);
@@ -279,7 +279,7 @@ export class DIContainer {
             return instance;
         }
 
-        return scopeMap.get(constructor);
+        return <T>scopeMap.get(constructor);
     }
 
     /**
