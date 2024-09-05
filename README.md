@@ -55,16 +55,12 @@
   <li><strong>Entity management</strong>: Includes class objects for <code>Vehicle</code>, <code>Ped</code>, and more.</li>
   <li><strong>UI Elements</strong>: Supports <code>scaleforms</code>, loading <code>prompts</code>, and other UI components.</li>
   <li><strong>Additional Functionality</strong>: Handles Audio, Blips, Cameras, and more.</li>
+  <li><strong>IoC (Inversion of Control)</strong>: Full support with TypeScript Decorators.</li>
+  <li><strong>Web Wrapper</strong>Support for make request and HttpHandlers in resources</li>
   <li><strong>Upcoming Features</strong>:
     <ul>
       <li>Groups Management</li>
       <li>Buckets Management</li>
-    </ul>
-  </li>
-  <li><strong>WIP</strong>:
-    <ul>
-      <li><strong>IoC (Inversion of Control)</strong>: Full support with TypeScript Decorators.</li>
-      <li><strong>Web Wrapper</strong>Support for make request and HttpHandlers in resources</li>
     </ul>
   </li>
 </ul>
