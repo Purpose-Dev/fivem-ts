@@ -95,6 +95,7 @@
 - [countSubstringOccurrences](functions/countSubstringOccurrences.md)
 - [distance2D](functions/distance2D.md)
 - [distance3D](functions/distance3D.md)
+- [getConfig](functions/getConfig.md)
 - [getRandomInt](functions/getRandomInt.md)
 - [getRetryMetadata](functions/getRetryMetadata.md)
 - [isDuplicityVersion](functions/isDuplicityVersion.md)
