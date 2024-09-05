@@ -43,4 +43,5 @@ export { SpeechModifier } from './SpeechModifier';
 export { VehicleClass } from './VehicleClass';
 export { VehicleDrivingFlags } from './VehicleDrivingFlags';
 export { VehicleIndicatorsLights } from './VehicleIndicatorsLights';
+export { VehicleWindowIndex } from './VehicleWindowIndex';
 export { ZoneID } from './ZoneID';

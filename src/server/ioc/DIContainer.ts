@@ -135,7 +135,10 @@ export class DIContainer {
      * container.registerFactory(MyService, () => new MyService(new Dependency()));
      * ```
      */
-    public registerFactory<T>(constructor: new (...args: unknown[]) => T, factoryFn: () => T): void {
+    public registerFactory<T>(
+        constructor: new (...args: unknown[]) => T,
+        factoryFn: () => T,
+    ): void {
         this.instances.set(constructor, factoryFn);
     }
 
@@ -241,7 +244,9 @@ export class DIContainer {
      */
     private createInstance<T>(constructor: new (...args: unknown[]) => T): T {
         const dependencies = Reflect.getMetadata('design:paramtypes', constructor) || [];
-        const injections = dependencies.map((dep: new (...args: unknown[]) => unknown) => this.resolve(dep));
+        const injections = dependencies.map((dep: new (...args: unknown[]) => unknown) =>
+            this.resolve(dep),
+        );
         return new constructor(...injections);
     }
 

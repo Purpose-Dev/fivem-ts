@@ -1,5 +1,5 @@
 import { container } from '../ioc';
-import { HttpRequest, HttpResponse } from './';
+import { HttpRequest, HttpResponse } from '.';
 
 export function startServer(request: HttpRequest, response: HttpResponse) {
     SetHttpHandler(() => {

@@ -85,19 +85,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload release assets
+      - name: Upload ZIP release asset
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: |
-            release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
-            release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz
-          asset_name: |
-            release-${{ needs.check-version.outputs.package_version }}.zip
-            release-${{ needs.check-version.outputs.package_version }}.tar.gz
-          asset_content_type: |
-            application/zip
-            application/gzip
+          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
+          asset_name: release-${{ needs.check-version.outputs.package_version }}.zip
+          asset_content_type: application/zip
+
+      - name: Upload TAR release asset
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.tar.gz
+          asset_name: release-${{ needs.check-version.outputs.package_version }}.tar.gz
+          asset_content_type: application/gzip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
