@@ -33,10 +33,18 @@ export function MeasureTime(_target: unknown, propertyKey: string, descriptor: P
     const originalMethod = descriptor.value;
 
     descriptor.value = function (...args: unknown[]) {
-        const start = performance.now();
+        const start: number = performance.now();
         const result = originalMethod.apply(this, args);
-        const end = performance.now();
-        console.log(`[${propertyKey}] Execution time: ${end - start} ms`);
+        const end: number = performance.now();
+        const durationMs: number = end - start;
+
+        const { duration, unit } = durationMs >= 1000
+            ? { duration: durationMs / 1000, unit: 's' }
+            : durationMs >= 1
+                ? { duration: durationMs, unit: 'ms' }
+                : { duration: durationMs * 1000, unit: 'μs' };
+
+        console.debug(`[${propertyKey}] Execution time: ${duration.toFixed(3)} ${unit}`);
         return result;
     };
 
