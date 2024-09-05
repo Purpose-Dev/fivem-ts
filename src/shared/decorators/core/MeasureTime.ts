@@ -38,11 +38,12 @@ export function MeasureTime(_target: unknown, propertyKey: string, descriptor: P
         const end: number = performance.now();
         const durationMs: number = end - start;
 
-        const { duration, unit } = durationMs >= 1000
-            ? { duration: durationMs / 1000, unit: 's' }
-            : durationMs >= 1
-                ? { duration: durationMs, unit: 'ms' }
-                : { duration: durationMs * 1000, unit: 'μs' };
+        const { duration, unit } =
+            durationMs >= 1000
+                ? { duration: durationMs / 1000, unit: 's' }
+                : durationMs >= 1
+                  ? { duration: durationMs, unit: 'ms' }
+                  : { duration: durationMs * 1000, unit: 'μs' };
 
         console.debug(`[${propertyKey}] Execution time: ${duration.toFixed(3)} ${unit}`);
         return result;
