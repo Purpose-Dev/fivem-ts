@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../README.md) / Client
+[fivem-ts - Documentation v0.5.5](../../README.md) / Client
 
 # Client
 
@@ -68,6 +68,7 @@
 - [VehicleClass](enumerations/VehicleClass.md)
 - [VehicleDrivingFlags](enumerations/VehicleDrivingFlags.md)
 - [VehicleIndicatorsLights](enumerations/VehicleIndicatorsLights.md)
+- [VehicleWindowIndex](enumerations/VehicleWindowIndex.md)
 - [ZoneID](enumerations/ZoneID.md)
 
 ### Classes
@@ -75,15 +76,21 @@
 - [Checkpoint](classes/Checkpoint.md)
 - [Color](classes/Color.md)
 - [Container](classes/Container.md)
+- [Entity](classes/Entity.md)
 - [GameplayCamera](classes/GameplayCamera.md)
 - [Notification](classes/Notification.md)
 - [Point](classes/Point.md)
 - [PointF](classes/PointF.md)
 - [Quaternion](classes/Quaternion.md)
+- [Rectangle](classes/Rectangle.md)
 - [RelationshipGroup](classes/RelationshipGroup.md)
 - [Scaleform](classes/Scaleform.md)
 - [Size](classes/Size.md)
+- [Sprite](classes/Sprite.md)
 - [Text](classes/Text.md)
+- [Timerbar](classes/Timerbar.md)
+- [Vehicle](classes/Vehicle.md)
+- [VehicleWindow](classes/VehicleWindow.md)
 
 ### Interfaces
 

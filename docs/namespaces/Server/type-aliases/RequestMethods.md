@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / RequestMethods
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / RequestMethods
 
 # Type Alias: RequestMethods
 

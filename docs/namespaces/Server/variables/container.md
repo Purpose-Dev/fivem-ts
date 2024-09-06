@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / container
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / container
 
 # Variable: container
 
@@ -21,4 +21,4 @@ const myService = container.resolve(MyService);
 
 ## Defined in
 
-[server/ioc/DIContainer.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L313)
+[server/ioc/DIContainer.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L318)

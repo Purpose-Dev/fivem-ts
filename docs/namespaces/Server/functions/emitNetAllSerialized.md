@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / emitNetAllSerialized
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / emitNetAllSerialized
 
 # Function: emitNetAllSerialized()
 
@@ -14,7 +14,7 @@
 
 • **useBuffer**: `boolean`
 
-• ...**args**: `any`[]
+• ...**args**: `unknown`[]
 
 ## Returns
 

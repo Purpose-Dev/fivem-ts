@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Shared](../README.md) / getConfig
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / getConfig
 
 # Function: getConfig()
 
@@ -50,4 +50,4 @@ console.log('Method Config:', methodConfig); // output: { maxHealth: 100, canRes
 
 ## Defined in
 
-[shared/decorators/game/Config.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/game/Config.ts#L73)
+[shared/decorators/game/Config.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/game/Config.ts#L74)

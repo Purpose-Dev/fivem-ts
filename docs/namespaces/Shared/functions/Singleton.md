@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Shared](../README.md) / Singleton
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / Singleton
 
 # Function: Singleton()
 
@@ -52,4 +52,4 @@ console.log(instance1 === instance2); // true
 
 ## Defined in
 
-[shared/decorators/core/Singleton.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/core/Singleton.ts#L33)
+[shared/decorators/core/Singleton.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/decorators/core/Singleton.ts#L35)

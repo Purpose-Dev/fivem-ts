@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Shared](../README.md) / serializeToJSON
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / serializeToJSON
 
 # Function: serializeToJSON()
 
@@ -16,7 +16,7 @@ in a format that is widely supported and can be easily parsed by other systems.
 
 ## Parameters
 
-• **data**: `any`
+• **data**: `unknown`
 
 The value to be serialized to JSON. This can be an object, array, string, number, etc.
 

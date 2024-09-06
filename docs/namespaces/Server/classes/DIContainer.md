@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / DIContainer
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / DIContainer
 
 # Class: DIContainer
 
@@ -116,7 +116,7 @@ The HTTP response object.
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L160)
+[server/ioc/DIContainer.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L163)
 
 ***
 
@@ -218,7 +218,7 @@ The function that handles the route.
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L149)
+[server/ioc/DIContainer.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L152)
 
 ***
 
@@ -343,7 +343,7 @@ If a request or session context is provided, it will resolve accordingly.
 
 The constructor function of the class to be resolved.
 
-• **request?**: `any`
+• **request?**: `unknown`
 
 An optional request context for request-scoped dependencies.
 
@@ -365,4 +365,4 @@ const myService = container.resolve(MyService);
 
 #### Defined in
 
-[server/ioc/DIContainer.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L203)
+[server/ioc/DIContainer.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/ioc/DIContainer.ts#L206)

@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Shared](../README.md) / distance2D
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / distance2D
 
 # Function: distance2D()
 

@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / Factory
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / Factory
 
 # Function: Factory()
 
@@ -30,7 +30,7 @@ const myService = container.resolve(MyService);
 
 ## Parameters
 
-• **\_target**: `any`
+• **\_target**: `unknown`
 
 The prototype of the class on which the method is defined. This parameter is not used.
 

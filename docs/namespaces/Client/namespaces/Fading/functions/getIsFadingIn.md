@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../../../README.md) / [Client](../../../README.md) / [Fading](../README.md) / getIsFadingIn
+[fivem-ts - Documentation v0.5.5](../../../../../README.md) / [Client](../../../README.md) / [Fading](../README.md) / getIsFadingIn
 
 # Function: getIsFadingIn()
 

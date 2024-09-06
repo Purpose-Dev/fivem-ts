@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../../../README.md) / [Client](../../../README.md) / [Hud](../README.md) / RadarZoomLevel
+[fivem-ts - Documentation v0.5.5](../../../../../README.md) / [Client](../../../README.md) / [Hud](../README.md) / RadarZoomLevel
 
 # Type Alias: RadarZoomLevel
 

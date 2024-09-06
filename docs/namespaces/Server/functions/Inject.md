@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../../README.md) / [Server](../README.md) / Inject
+[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / Inject
 
 # Function: Inject()
 
@@ -33,7 +33,7 @@ const myService = container.resolve(MyService);
 
 ## Parameters
 
-• **target**: `any`
+• **target**: `unknown`
 
 The prototype of the class or the constructor function where the dependency is injected.
 

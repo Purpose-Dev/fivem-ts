@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.4.1**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.5.5**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.4.1](../../README.md) / Server
+[fivem-ts - Documentation v0.5.5](../../README.md) / Server
 
 # Server
 
