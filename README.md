@@ -20,7 +20,7 @@
   <a href="https://www.npmjs.com/package/fivem-ts">
     <img src="https://img.shields.io/npm/dm/fivem-ts?style=flat" alt="npm downloads">
   </a>
-  <a href="https://discord.gg/TUAFYUqHHk">
+  <a href="https://discord.gg/Rah7Bt4TeJ">
     <img src="https://img.shields.io/discord/1273215892238372895?label=Discord" alt="Discord">
   </a>
 </p>
