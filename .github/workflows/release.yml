@@ -92,6 +92,8 @@ jobs:
           asset_path: release-assets/release-${{ needs.check-version.outputs.package_version }}.zip
           asset_name: release-${{ needs.check-version.outputs.package_version }}.zip
           asset_content_type: application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload TAR release asset
         uses: actions/upload-release-asset@v1
