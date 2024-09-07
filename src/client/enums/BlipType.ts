@@ -1,3 +1,6 @@
+/**
+ * Enum representing different types of blips.
+ */
 export enum BlipType {
     Vehicle = 1,
     Ped = 2,

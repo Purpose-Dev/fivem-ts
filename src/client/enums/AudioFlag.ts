@@ -1,3 +1,8 @@
+/**
+ * Enum representing various audio flags that can be used to control audio behaviors.
+ * These flags can be used to modify audio settings, enable or disable specific audio
+ * features and control how different types of audio are handled.
+ */
 export enum AudioFlag {
     ActivateSwitchWheelAudio = 'ActivateSwitchWheelAudio',
     AllowAmbientSpeechInSlowMo = 'AllowAmbientSpeechInSlowMo',

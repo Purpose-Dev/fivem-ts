@@ -1,6 +1,11 @@
 export { BlipSprites } from './BlipSprites';
 export { PedsEnum } from './PedsEnum';
 export { PedType } from './PedType';
+export { VehicleLandingGearState } from './VehicleLandingGearState';
 export { VehicleLockState } from './VehicleLockState';
+export { VehicleSeat } from './VehicleSeat';
 export { VehiclesEnum } from './VehiclesEnum';
+export { VehicleWheelType } from './VehicleWheelType';
+export { VehicleWindowIndex } from './VehicleWindowIndex';
+export { VehicleWindowTint } from './VehicleWindowTint';
 export { WeatherEnum } from './WeatherEnum';

@@ -1,3 +1,8 @@
+/**
+ * An enumeration of various vehicle types categorized by their usage and class.
+ *
+ * @enum{string}
+ */
 export enum VehiclesEnum {
     // Boats
     Dinghy = 'dinghy',

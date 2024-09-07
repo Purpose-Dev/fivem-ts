@@ -1,3 +1,19 @@
+/**
+ * Enum representing various driving styles.
+ *
+ * - None: No specific driving style.
+ * - Normal: Standard driving behavior.
+ * - IgnoreLights: Ignores traffic lights.
+ * - SometimesOvertakeTraffic: Occasionally overtakes traffic.
+ * - Rushed: Drives in a hurried manner.
+ * - AvoidTraffic: Prefers routes to avoid traffic.
+ * - AvoidTrafficExtremely: Takes extreme measures to avoid traffic.
+ * - AvoidHighwaysWhenPossible: Avoids highways when feasible.
+ * - IgnorePathing: Disregards pathing rules.
+ * - IgnoreRoads: Ignores standard road usage.
+ * - ShortestPath: Chooses the shortest path.
+ * - Backwards: Drives in reverse.
+ */
 export enum DrivingStyle {
     None = 0,
     Normal = 786603,

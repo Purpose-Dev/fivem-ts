@@ -1,3 +1,6 @@
+/**
+ * Enum representing different cursor types.
+ */
 export enum CursorType {
     None = 0,
     Normal = 1,

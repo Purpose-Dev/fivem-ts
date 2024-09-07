@@ -1,3 +1,6 @@
+/**
+ * Enumeration representing different types of cloud hats.
+ */
 export enum CloudHat {
     Unknown = 1,
     AltoStratus = 'altostratus',

@@ -1,3 +1,105 @@
+/**
+ * An enumeration representing various skeletal and facial bones in a character model.
+ *
+ * SKEL_ROOT - The root of the skeleton.
+ * SKEL_Pelvis - The pelvis bone.
+ * SKEL_L_Thigh - The left thigh bone.
+ * SKEL_L_Calf - The left calf bone.
+ * SKEL_L_Foot - The left foot bone.
+ * SKEL_L_Toe0 - The left big toe bone.
+ * IK_L_Foot - The inverse kinematics for the left foot.
+ * PH_L_Foot - The physical representation of the left foot.
+ * MH_L_Knee - The motion handling for the left knee.
+ * SKEL_R_Thigh - The right thigh bone.
+ * SKEL_R_Calf - The right calf bone.
+ * SKEL_R_Foot - The right foot bone.
+ * SKEL_R_Toe0 - The right big toe bone.
+ * IK_R_Foot - The inverse kinematics for the right foot.
+ * PH_R_Foot - The physical representation of the right foot.
+ * MH_R_Knee - The motion handling for the right knee.
+ * RB_L_ThighRoll - The roll of the left thigh.
+ * RB_R_ThighRoll - The roll of the right thigh.
+ * SKEL_Spine_Root - The base of the spine.
+ * SKEL_Spine0 - The first spine bone.
+ * SKEL_Spine1 - The second spine bone.
+ * SKEL_Spine2 - The third spine bone.
+ * SKEL_Spine3 - The fourth spine bone.
+ * SKEL_L_Clavicle - The left clavicle bone.
+ * SKEL_L_UpperArm - The left upper arm bone.
+ * SKEL_L_Forearm - The left forearm bone.
+ * SKEL_L_Hand - The left hand bone.
+ * SKEL_L_Finger00 - The left thumb metacarpal bone.
+ * SKEL_L_Finger01 - The left thumb proximal phalanx bone.
+ * SKEL_L_Finger02 - The left thumb distal phalanx bone.
+ * SKEL_L_Finger10 - The left index metacarpal bone.
+ * SKEL_L_Finger11 - The left index proximal phalanx bone.
+ * SKEL_L_Finger12 - The left index middle phalanx bone.
+ * SKEL_L_Finger20 - The left middle metacarpal bone.
+ * SKEL_L_Finger21 - The left middle proximal phalanx bone.
+ * SKEL_L_Finger22 - The left middle middle phalanx bone.
+ * SKEL_L_Finger30 - The left ring metacarpal bone.
+ * SKEL_L_Finger31 - The left ring proximal phalanx bone.
+ * SKEL_L_Finger32 - The left ring middle phalanx bone.
+ * SKEL_L_Finger40 - The left pinky metacarpal bone.
+ * SKEL_L_Finger41 - The left pinky proximal phalanx bone.
+ * SKEL_L_Finger42 - The left pinky middle phalanx bone.
+ * PH_L_Hand - The physical representation of the left hand.
+ * IK_L_Hand - The inverse kinematics for the left hand.
+ * RB_L_ForeArmRoll - The roll of the left forearm.
+ * RB_L_ArmRoll - The roll of the left arm.
+ * MH_L_Elbow - The motion handling for the left elbow.
+ * SKEL_R_Clavicle - The right clavicle bone.
+ * SKEL_R_UpperArm - The right upper arm bone.
+ * SKEL_R_Forearm - The right forearm bone.
+ * SKEL_R_Hand - The right hand bone.
+ * SKEL_R_Finger00 - The right thumb metacarpal bone.
+ * SKEL_R_Finger01 - The right thumb proximal phalanx bone.
+ * SKEL_R_Finger02 - The right thumb distal phalanx bone.
+ * SKEL_R_Finger10 - The right index metacarpal bone.
+ * SKEL_R_Finger11 - The right index proximal phalanx bone.
+ * SKEL_R_Finger12 - The right index middle phalanx bone.
+ * SKEL_R_Finger20 - The right middle metacarpal bone.
+ * SKEL_R_Finger21 - The right middle proximal phalanx bone.
+ * SKEL_R_Finger22 - The right middle middle phalanx bone.
+ * SKEL_R_Finger30 - The right ring metacarpal bone.
+ * SKEL_R_Finger31 - The right ring proximal phalanx bone.
+ * SKEL_R_Finger32 - The right ring middle phalanx bone.
+ * SKEL_R_Finger40 - The right pinky metacarpal bone.
+ * SKEL_R_Finger41 - The right pinky proximal phalanx bone.
+ * SKEL_R_Finger42 - The right pinky middle phalanx bone.
+ * PH_R_Hand - The physical representation of the right hand.
+ * IK_R_Hand - The inverse kinematics for the right hand.
+ * RB_R_ForeArmRoll - The roll of the right forearm.
+ * RB_R_ArmRoll - The roll of the right arm.
+ * MH_R_Elbow - The motion handling for the right elbow.
+ * SKEL_Neck_1 - The first neck bone.
+ * SKEL_Head - The head bone.
+ * IK_Head - The inverse kinematics for the head.
+ * FACIAL_facialRoot - The root of the facial bones.
+ * FB_L_Brow_Out_000 - The left outer eyebrow bone.
+ * FB_L_Lid_Upper_000 - The left upper eyelid bone.
+ * FB_L_Eye_000 - The left eye bone.
+ * FB_L_CheekBone_000 - The left cheekbone.
+ * FB_L_Lip_Corner_000 - The left lip corner bone.
+ * FB_R_Lid_Upper_000 - The right upper eyelid bone.
+ * FB_R_Eye_000 - The right eye bone.
+ * FB_R_CheekBone_000 - The right cheekbone.
+ * FB_R_Brow_Out_000 - The right outer eyebrow bone.
+ * FB_R_Lip_Corner_000 - The right lip corner bone.
+ * FB_Brow_Centre_000 - The center brow bone.
+ * FB_UpperLipRoot_000 - The root of the upper lip bones.
+ * FB_UpperLip_000 - The upper lip bone.
+ * FB_L_Lip_Top_000 - The left upper lip top bone.
+ * FB_R_Lip_Top_000 - The right upper lip top bone.
+ * FB_Jaw_000 - The jaw bone.
+ * FB_LowerLipRoot_000 - The root of the lower lip bones.
+ * FB_LowerLip_000 - The lower lip bone.
+ * FB_L_Lip_Bot_000 - The left lower lip bottom bone.
+ * FB_R_Lip_Bot_000 - The right lower lip bottom bone.
+ * FB_Tongue_000 - The tongue bone.
+ * RB_Neck_1 - The roll of the first neck bone.
+ * IK_Root - The inverse kinematics root bone.
+ */
 export enum Bone {
     SKEL_ROOT,
     SKEL_Pelvis = 11816,

@@ -1,3 +1,9 @@
+/**
+ * Enumeration of different badge styles available.
+ * This enum is used to represent various badges which can be assigned
+ * to users, objects, or interfaces to signify different statuses, types,
+ * or other categorizations.
+ */
 export enum BadgeStyle {
     None,
     Lock,

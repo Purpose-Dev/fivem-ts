@@ -1,3 +1,9 @@
+/**
+ * Enumeration of HUD components.
+ * These components represent various elements that can be shown or hidden
+ * on the player's HUD, such as the player's wanted level, weapon icon,
+ * cash amount, and many others.
+ */
 export enum HudComponent {
     WantedStars = 1,
     WeaponIcon,
