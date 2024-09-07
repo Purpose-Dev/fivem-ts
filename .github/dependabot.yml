@@ -6,13 +6,6 @@ updates:
       interval: "daily"
       time: "03:00"
       timezone: "Europe/Paris"
-    allow:
-      - dependency-type: "direct"
-        dependencies:
-          - "@citizenfx/client"
-          - "@citizenfx/server"
-          - "cross-fetch"
-          - "reflect-metadata"
     labels:
       - "dependencies"
     commit-message:
