@@ -33,7 +33,11 @@
         "typescript",
         "javascript",
         "wrapper",
-        "citizenfx"
+        "citizenfx",
+        "natives",
+        "library",
+        "fivem-js",
+        "fivem-ts"
     ],
     "files": [
         "dist/**/*"
