@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Server](../README.md) / uuidv4
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / uuidv4
 
 # Function: uuidv4()
 

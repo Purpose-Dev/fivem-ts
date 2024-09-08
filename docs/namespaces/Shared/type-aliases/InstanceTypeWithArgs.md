@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / InstanceTypeWithArgs
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Shared](../README.md) / InstanceTypeWithArgs
 
 # Type Alias: InstanceTypeWithArgs\<T, Args\>
 

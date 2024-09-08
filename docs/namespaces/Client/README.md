@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../README.md) / Client
+[fivem-ts - Documentation v0.6.0](../../README.md) / Client
 
 # Client
 
@@ -68,7 +68,12 @@
 - [VehicleClass](enumerations/VehicleClass.md)
 - [VehicleDrivingFlags](enumerations/VehicleDrivingFlags.md)
 - [VehicleIndicatorsLights](enumerations/VehicleIndicatorsLights.md)
-- [VehicleWindowIndex](enumerations/VehicleWindowIndex.md)
+- [VehicleMods](enumerations/VehicleMods.md)
+- [VehicleNeonLight](enumerations/VehicleNeonLight.md)
+- [VehiclePaintType](enumerations/VehiclePaintType.md)
+- [VehicleRoofState](enumerations/VehicleRoofState.md)
+- [VehicleToggleModType](enumerations/VehicleToggleModType.md)
+- [VehicleWheelIndex](enumerations/VehicleWheelIndex.md)
 - [ZoneID](enumerations/ZoneID.md)
 
 ### Classes
@@ -77,6 +82,8 @@
 - [Color](classes/Color.md)
 - [Container](classes/Container.md)
 - [Entity](classes/Entity.md)
+- [EntityBone](classes/EntityBone.md)
+- [EntityBoneCollection](classes/EntityBoneCollection.md)
 - [GameplayCamera](classes/GameplayCamera.md)
 - [Notification](classes/Notification.md)
 - [Point](classes/Point.md)
@@ -90,7 +97,9 @@
 - [Text](classes/Text.md)
 - [Timerbar](classes/Timerbar.md)
 - [Vehicle](classes/Vehicle.md)
+- [VehicleWheel](classes/VehicleWheel.md)
 - [VehicleWindow](classes/VehicleWindow.md)
+- [VehicleWindowCollection](classes/VehicleWindowCollection.md)
 
 ### Interfaces
 

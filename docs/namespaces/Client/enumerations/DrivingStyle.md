@@ -1,10 +1,25 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / DrivingStyle
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / DrivingStyle
 
 # Enumeration: DrivingStyle
+
+Enum representing various driving styles.
+
+- None: No specific driving style.
+- Normal: Standard driving behavior.
+- IgnoreLights: Ignores traffic lights.
+- SometimesOvertakeTraffic: Occasionally overtakes traffic.
+- Rushed: Drives in a hurried manner.
+- AvoidTraffic: Prefers routes to avoid traffic.
+- AvoidTrafficExtremely: Takes extreme measures to avoid traffic.
+- AvoidHighwaysWhenPossible: Avoids highways when feasible.
+- IgnorePathing: Disregards pathing rules.
+- IgnoreRoads: Ignores standard road usage.
+- ShortestPath: Chooses the shortest path.
+- Backwards: Drives in reverse.
 
 ## Enumeration Members
 
@@ -14,7 +29,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L9)
+[client/enums/DrivingStyle.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L25)
 
 ***
 
@@ -24,7 +39,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L7)
+[client/enums/DrivingStyle.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L23)
 
 ***
 
@@ -34,7 +49,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L8)
+[client/enums/DrivingStyle.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L24)
 
 ***
 
@@ -44,7 +59,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L13)
+[client/enums/DrivingStyle.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L29)
 
 ***
 
@@ -54,7 +69,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L4)
+[client/enums/DrivingStyle.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L20)
 
 ***
 
@@ -64,7 +79,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L10)
+[client/enums/DrivingStyle.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L26)
 
 ***
 
@@ -74,7 +89,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L11)
+[client/enums/DrivingStyle.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L27)
 
 ***
 
@@ -84,7 +99,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L2)
+[client/enums/DrivingStyle.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L18)
 
 ***
 
@@ -94,7 +109,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L3)
+[client/enums/DrivingStyle.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L19)
 
 ***
 
@@ -104,7 +119,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L6)
+[client/enums/DrivingStyle.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L22)
 
 ***
 
@@ -114,7 +129,7 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L12)
+[client/enums/DrivingStyle.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L28)
 
 ***
 
@@ -124,4 +139,4 @@
 
 #### Defined in
 
-[client/enums/DrivingStyle.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L5)
+[client/enums/DrivingStyle.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/DrivingStyle.ts#L21)

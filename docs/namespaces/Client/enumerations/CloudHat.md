@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CloudHat
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CloudHat
 
 # Enumeration: CloudHat
+
+Enumeration representing different types of cloud hats.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L3)
+[client/enums/CloudHat.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L6)
 
 ***
 
@@ -24,7 +26,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L5)
+[client/enums/CloudHat.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L8)
 
 ***
 
@@ -34,7 +36,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L4)
+[client/enums/CloudHat.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L7)
 
 ***
 
@@ -44,7 +46,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L6)
+[client/enums/CloudHat.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L9)
 
 ***
 
@@ -54,7 +56,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L7)
+[client/enums/CloudHat.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L10)
 
 ***
 
@@ -64,7 +66,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L8)
+[client/enums/CloudHat.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L11)
 
 ***
 
@@ -74,7 +76,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L9)
+[client/enums/CloudHat.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L12)
 
 ***
 
@@ -84,7 +86,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L10)
+[client/enums/CloudHat.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L13)
 
 ***
 
@@ -94,7 +96,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L11)
+[client/enums/CloudHat.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L14)
 
 ***
 
@@ -104,7 +106,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L12)
+[client/enums/CloudHat.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L15)
 
 ***
 
@@ -114,7 +116,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L13)
+[client/enums/CloudHat.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L16)
 
 ***
 
@@ -124,7 +126,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L14)
+[client/enums/CloudHat.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L17)
 
 ***
 
@@ -134,7 +136,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L15)
+[client/enums/CloudHat.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L18)
 
 ***
 
@@ -144,7 +146,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L16)
+[client/enums/CloudHat.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L19)
 
 ***
 
@@ -154,7 +156,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L21)
+[client/enums/CloudHat.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L24)
 
 ***
 
@@ -164,7 +166,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L17)
+[client/enums/CloudHat.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L20)
 
 ***
 
@@ -174,7 +176,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L18)
+[client/enums/CloudHat.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L21)
 
 ***
 
@@ -184,7 +186,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L19)
+[client/enums/CloudHat.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L22)
 
 ***
 
@@ -194,7 +196,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L20)
+[client/enums/CloudHat.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L23)
 
 ***
 
@@ -204,7 +206,7 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L2)
+[client/enums/CloudHat.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L5)
 
 ***
 
@@ -214,4 +216,4 @@
 
 #### Defined in
 
-[client/enums/CloudHat.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L22)
+[client/enums/CloudHat.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CloudHat.ts#L25)

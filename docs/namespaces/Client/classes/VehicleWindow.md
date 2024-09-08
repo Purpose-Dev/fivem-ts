@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / VehicleWindow
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / VehicleWindow
 
 # Class: VehicleWindow
 
@@ -22,7 +22,7 @@ Creates an instance of the class.
 
 The vehicle to which the window belongs.
 
-• **index**: [`VehicleWindowIndex`](../enumerations/VehicleWindowIndex.md)
+• **index**: [`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
 
 The index position of the window in the vehicle.
 
@@ -38,7 +38,7 @@ The index position of the window in the vehicle.
 
 ### Index
 
-> `get` **Index**(): [`VehicleWindowIndex`](../enumerations/VehicleWindowIndex.md)
+> `get` **Index**(): [`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
 
 Retrieves the current index of the vehicle window.
 
@@ -48,13 +48,13 @@ Sets the index of the vehicle window.
 
 #### Parameters
 
-• **index**: [`VehicleWindowIndex`](../enumerations/VehicleWindowIndex.md)
+• **index**: [`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
 
 The index to set for the vehicle window.
 
 #### Returns
 
-[`VehicleWindowIndex`](../enumerations/VehicleWindowIndex.md)
+[`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
 
 The index of the vehicle window.
 

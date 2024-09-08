@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / BlipType
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / BlipType
 
 # Enumeration: BlipType
+
+Enum representing different types of blips.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L11)
+[client/enums/BlipType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L14)
 
 ***
 
@@ -24,7 +26,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L6)
+[client/enums/BlipType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L9)
 
 ***
 
@@ -34,7 +36,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L10)
+[client/enums/BlipType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L13)
 
 ***
 
@@ -44,7 +46,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L5)
+[client/enums/BlipType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L8)
 
 ***
 
@@ -54,7 +56,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L12)
+[client/enums/BlipType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L15)
 
 ***
 
@@ -64,7 +66,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L4)
+[client/enums/BlipType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L7)
 
 ***
 
@@ -74,7 +76,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L3)
+[client/enums/BlipType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L6)
 
 ***
 
@@ -84,7 +86,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L9)
+[client/enums/BlipType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L12)
 
 ***
 
@@ -94,7 +96,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L13)
+[client/enums/BlipType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L16)
 
 ***
 
@@ -104,7 +106,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L7)
+[client/enums/BlipType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L10)
 
 ***
 
@@ -114,7 +116,7 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L8)
+[client/enums/BlipType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L11)
 
 ***
 
@@ -124,4 +126,4 @@
 
 #### Defined in
 
-[client/enums/BlipType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L2)
+[client/enums/BlipType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/BlipType.ts#L5)

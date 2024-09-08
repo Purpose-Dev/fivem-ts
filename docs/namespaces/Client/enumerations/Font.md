@@ -1,10 +1,22 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / Font
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Font
 
 # Enumeration: Font
+
+Enum representing different font styles.
+
+The Font enum provides a set of predefined font styles that can be used to customize text appearance.
+
+Enum Members:
+
+- `ChaletLondon`: Represents the 'Chalet London' font style.
+- `HouseScript`: Represents the 'House Script' font style.
+- `Monospace`: Represents the 'Monospace' font style.
+- `ChaletComprimeCologne`: Represents the 'Chalet Comprime Cologne' font style, with an explicit value of 4.
+- `Pricedown`: Represents the 'Pricedown' font style, with an explicit value of 7.
 
 ## Enumeration Members
 
@@ -14,7 +26,7 @@
 
 #### Defined in
 
-[client/enums/Font.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L5)
+[client/enums/Font.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L18)
 
 ***
 
@@ -24,7 +36,7 @@
 
 #### Defined in
 
-[client/enums/Font.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L2)
+[client/enums/Font.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L15)
 
 ***
 
@@ -34,7 +46,7 @@
 
 #### Defined in
 
-[client/enums/Font.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L3)
+[client/enums/Font.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L16)
 
 ***
 
@@ -44,7 +56,7 @@
 
 #### Defined in
 
-[client/enums/Font.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L4)
+[client/enums/Font.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L17)
 
 ***
 
@@ -54,4 +66,4 @@
 
 #### Defined in
 
-[client/enums/Font.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L6)
+[client/enums/Font.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Font.ts#L19)

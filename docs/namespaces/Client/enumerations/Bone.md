@@ -1,10 +1,111 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / Bone
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Bone
 
 # Enumeration: Bone
+
+An enumeration representing various skeletal and facial bones in a character model.
+
+SKEL_ROOT - The root of the skeleton.
+SKEL_Pelvis - The pelvis bone.
+SKEL_L_Thigh - The left thigh bone.
+SKEL_L_Calf - The left calf bone.
+SKEL_L_Foot - The left foot bone.
+SKEL_L_Toe0 - The left big toe bone.
+IK_L_Foot - The inverse kinematics for the left foot.
+PH_L_Foot - The physical representation of the left foot.
+MH_L_Knee - The motion handling for the left knee.
+SKEL_R_Thigh - The right thigh bone.
+SKEL_R_Calf - The right calf bone.
+SKEL_R_Foot - The right foot bone.
+SKEL_R_Toe0 - The right big toe bone.
+IK_R_Foot - The inverse kinematics for the right foot.
+PH_R_Foot - The physical representation of the right foot.
+MH_R_Knee - The motion handling for the right knee.
+RB_L_ThighRoll - The roll of the left thigh.
+RB_R_ThighRoll - The roll of the right thigh.
+SKEL_Spine_Root - The base of the spine.
+SKEL_Spine0 - The first spine bone.
+SKEL_Spine1 - The second spine bone.
+SKEL_Spine2 - The third spine bone.
+SKEL_Spine3 - The fourth spine bone.
+SKEL_L_Clavicle - The left clavicle bone.
+SKEL_L_UpperArm - The left upper arm bone.
+SKEL_L_Forearm - The left forearm bone.
+SKEL_L_Hand - The left hand bone.
+SKEL_L_Finger00 - The left thumb metacarpal bone.
+SKEL_L_Finger01 - The left thumb proximal phalanx bone.
+SKEL_L_Finger02 - The left thumb distal phalanx bone.
+SKEL_L_Finger10 - The left index metacarpal bone.
+SKEL_L_Finger11 - The left index proximal phalanx bone.
+SKEL_L_Finger12 - The left index middle phalanx bone.
+SKEL_L_Finger20 - The left middle metacarpal bone.
+SKEL_L_Finger21 - The left middle proximal phalanx bone.
+SKEL_L_Finger22 - The left middle middle phalanx bone.
+SKEL_L_Finger30 - The left ring metacarpal bone.
+SKEL_L_Finger31 - The left ring proximal phalanx bone.
+SKEL_L_Finger32 - The left ring middle phalanx bone.
+SKEL_L_Finger40 - The left pinky metacarpal bone.
+SKEL_L_Finger41 - The left pinky proximal phalanx bone.
+SKEL_L_Finger42 - The left pinky middle phalanx bone.
+PH_L_Hand - The physical representation of the left hand.
+IK_L_Hand - The inverse kinematics for the left hand.
+RB_L_ForeArmRoll - The roll of the left forearm.
+RB_L_ArmRoll - The roll of the left arm.
+MH_L_Elbow - The motion handling for the left elbow.
+SKEL_R_Clavicle - The right clavicle bone.
+SKEL_R_UpperArm - The right upper arm bone.
+SKEL_R_Forearm - The right forearm bone.
+SKEL_R_Hand - The right hand bone.
+SKEL_R_Finger00 - The right thumb metacarpal bone.
+SKEL_R_Finger01 - The right thumb proximal phalanx bone.
+SKEL_R_Finger02 - The right thumb distal phalanx bone.
+SKEL_R_Finger10 - The right index metacarpal bone.
+SKEL_R_Finger11 - The right index proximal phalanx bone.
+SKEL_R_Finger12 - The right index middle phalanx bone.
+SKEL_R_Finger20 - The right middle metacarpal bone.
+SKEL_R_Finger21 - The right middle proximal phalanx bone.
+SKEL_R_Finger22 - The right middle middle phalanx bone.
+SKEL_R_Finger30 - The right ring metacarpal bone.
+SKEL_R_Finger31 - The right ring proximal phalanx bone.
+SKEL_R_Finger32 - The right ring middle phalanx bone.
+SKEL_R_Finger40 - The right pinky metacarpal bone.
+SKEL_R_Finger41 - The right pinky proximal phalanx bone.
+SKEL_R_Finger42 - The right pinky middle phalanx bone.
+PH_R_Hand - The physical representation of the right hand.
+IK_R_Hand - The inverse kinematics for the right hand.
+RB_R_ForeArmRoll - The roll of the right forearm.
+RB_R_ArmRoll - The roll of the right arm.
+MH_R_Elbow - The motion handling for the right elbow.
+SKEL_Neck_1 - The first neck bone.
+SKEL_Head - The head bone.
+IK_Head - The inverse kinematics for the head.
+FACIAL_facialRoot - The root of the facial bones.
+FB_L_Brow_Out_000 - The left outer eyebrow bone.
+FB_L_Lid_Upper_000 - The left upper eyelid bone.
+FB_L_Eye_000 - The left eye bone.
+FB_L_CheekBone_000 - The left cheekbone.
+FB_L_Lip_Corner_000 - The left lip corner bone.
+FB_R_Lid_Upper_000 - The right upper eyelid bone.
+FB_R_Eye_000 - The right eye bone.
+FB_R_CheekBone_000 - The right cheekbone.
+FB_R_Brow_Out_000 - The right outer eyebrow bone.
+FB_R_Lip_Corner_000 - The right lip corner bone.
+FB_Brow_Centre_000 - The center brow bone.
+FB_UpperLipRoot_000 - The root of the upper lip bones.
+FB_UpperLip_000 - The upper lip bone.
+FB_L_Lip_Top_000 - The left upper lip top bone.
+FB_R_Lip_Top_000 - The right upper lip top bone.
+FB_Jaw_000 - The jaw bone.
+FB_LowerLipRoot_000 - The root of the lower lip bones.
+FB_LowerLip_000 - The lower lip bone.
+FB_L_Lip_Bot_000 - The left lower lip bottom bone.
+FB_R_Lip_Bot_000 - The right lower lip bottom bone.
+FB_Tongue_000 - The tongue bone.
+RB_Neck_1 - The roll of the first neck bone.
+IK_Root - The inverse kinematics root bone.
 
 ## Enumeration Members
 
@@ -14,7 +115,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L76)
+[client/enums/Bone.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L178)
 
 ***
 
@@ -24,7 +125,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L87)
+[client/enums/Bone.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L189)
 
 ***
 
@@ -34,7 +135,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L92)
+[client/enums/Bone.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L194)
 
 ***
 
@@ -44,7 +145,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L77)
+[client/enums/Bone.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L179)
 
 ***
 
@@ -54,7 +155,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L80)
+[client/enums/Bone.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L182)
 
 ***
 
@@ -64,7 +165,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L79)
+[client/enums/Bone.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L181)
 
 ***
 
@@ -74,7 +175,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L78)
+[client/enums/Bone.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L180)
 
 ***
 
@@ -84,7 +185,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L95)
+[client/enums/Bone.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L197)
 
 ***
 
@@ -94,7 +195,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L81)
+[client/enums/Bone.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L183)
 
 ***
 
@@ -104,7 +205,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L90)
+[client/enums/Bone.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L192)
 
 ***
 
@@ -114,7 +215,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L93)
+[client/enums/Bone.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L195)
 
 ***
 
@@ -124,7 +225,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L94)
+[client/enums/Bone.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L196)
 
 ***
 
@@ -134,7 +235,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L85)
+[client/enums/Bone.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L187)
 
 ***
 
@@ -144,7 +245,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L84)
+[client/enums/Bone.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L186)
 
 ***
 
@@ -154,7 +255,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L83)
+[client/enums/Bone.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L185)
 
 ***
 
@@ -164,7 +265,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L82)
+[client/enums/Bone.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L184)
 
 ***
 
@@ -174,7 +275,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L96)
+[client/enums/Bone.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L198)
 
 ***
 
@@ -184,7 +285,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L86)
+[client/enums/Bone.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L188)
 
 ***
 
@@ -194,7 +295,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L91)
+[client/enums/Bone.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L193)
 
 ***
 
@@ -204,7 +305,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L97)
+[client/enums/Bone.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L199)
 
 ***
 
@@ -214,7 +315,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L88)
+[client/enums/Bone.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L190)
 
 ***
 
@@ -224,7 +325,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L89)
+[client/enums/Bone.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L191)
 
 ***
 
@@ -234,7 +335,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L75)
+[client/enums/Bone.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L177)
 
 ***
 
@@ -244,7 +345,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L8)
+[client/enums/Bone.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L110)
 
 ***
 
@@ -254,7 +355,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L45)
+[client/enums/Bone.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L147)
 
 ***
 
@@ -264,7 +365,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L15)
+[client/enums/Bone.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L117)
 
 ***
 
@@ -274,7 +375,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L69)
+[client/enums/Bone.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L171)
 
 ***
 
@@ -284,7 +385,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L99)
+[client/enums/Bone.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L201)
 
 ***
 
@@ -294,7 +395,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L48)
+[client/enums/Bone.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L150)
 
 ***
 
@@ -304,7 +405,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L10)
+[client/enums/Bone.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L112)
 
 ***
 
@@ -314,7 +415,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L72)
+[client/enums/Bone.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L174)
 
 ***
 
@@ -324,7 +425,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L17)
+[client/enums/Bone.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L119)
 
 ***
 
@@ -334,7 +435,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L9)
+[client/enums/Bone.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L111)
 
 ***
 
@@ -344,7 +445,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L44)
+[client/enums/Bone.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L146)
 
 ***
 
@@ -354,7 +455,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L16)
+[client/enums/Bone.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L118)
 
 ***
 
@@ -364,7 +465,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L68)
+[client/enums/Bone.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L170)
 
 ***
 
@@ -374,7 +475,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L47)
+[client/enums/Bone.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L149)
 
 ***
 
@@ -384,7 +485,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L46)
+[client/enums/Bone.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L148)
 
 ***
 
@@ -394,7 +495,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L18)
+[client/enums/Bone.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L120)
 
 ***
 
@@ -404,7 +505,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L98)
+[client/enums/Bone.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L200)
 
 ***
 
@@ -414,7 +515,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L71)
+[client/enums/Bone.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L173)
 
 ***
 
@@ -424,7 +525,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L70)
+[client/enums/Bone.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L172)
 
 ***
 
@@ -434,7 +535,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L19)
+[client/enums/Bone.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L121)
 
 ***
 
@@ -444,7 +545,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L74)
+[client/enums/Bone.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L176)
 
 ***
 
@@ -454,7 +555,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L5)
+[client/enums/Bone.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L107)
 
 ***
 
@@ -464,7 +565,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L25)
+[client/enums/Bone.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L127)
 
 ***
 
@@ -474,7 +575,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L29)
+[client/enums/Bone.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L131)
 
 ***
 
@@ -484,7 +585,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L30)
+[client/enums/Bone.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L132)
 
 ***
 
@@ -494,7 +595,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L31)
+[client/enums/Bone.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L133)
 
 ***
 
@@ -504,7 +605,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L32)
+[client/enums/Bone.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L134)
 
 ***
 
@@ -514,7 +615,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L33)
+[client/enums/Bone.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L135)
 
 ***
 
@@ -524,7 +625,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L34)
+[client/enums/Bone.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L136)
 
 ***
 
@@ -534,7 +635,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L35)
+[client/enums/Bone.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L137)
 
 ***
 
@@ -544,7 +645,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L36)
+[client/enums/Bone.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L138)
 
 ***
 
@@ -554,7 +655,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L37)
+[client/enums/Bone.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L139)
 
 ***
 
@@ -564,7 +665,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L38)
+[client/enums/Bone.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L140)
 
 ***
 
@@ -574,7 +675,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L39)
+[client/enums/Bone.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L141)
 
 ***
 
@@ -584,7 +685,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L40)
+[client/enums/Bone.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L142)
 
 ***
 
@@ -594,7 +695,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L41)
+[client/enums/Bone.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L143)
 
 ***
 
@@ -604,7 +705,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L42)
+[client/enums/Bone.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L144)
 
 ***
 
@@ -614,7 +715,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L43)
+[client/enums/Bone.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L145)
 
 ***
 
@@ -624,7 +725,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L6)
+[client/enums/Bone.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L108)
 
 ***
 
@@ -634,7 +735,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L27)
+[client/enums/Bone.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L129)
 
 ***
 
@@ -644,7 +745,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L28)
+[client/enums/Bone.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L130)
 
 ***
 
@@ -654,7 +755,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L4)
+[client/enums/Bone.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L106)
 
 ***
 
@@ -664,7 +765,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L7)
+[client/enums/Bone.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L109)
 
 ***
 
@@ -674,7 +775,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L26)
+[client/enums/Bone.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L128)
 
 ***
 
@@ -684,7 +785,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L73)
+[client/enums/Bone.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L175)
 
 ***
 
@@ -694,7 +795,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L3)
+[client/enums/Bone.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L105)
 
 ***
 
@@ -704,7 +805,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L2)
+[client/enums/Bone.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L104)
 
 ***
 
@@ -714,7 +815,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L12)
+[client/enums/Bone.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L114)
 
 ***
 
@@ -724,7 +825,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L49)
+[client/enums/Bone.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L151)
 
 ***
 
@@ -734,7 +835,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L53)
+[client/enums/Bone.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L155)
 
 ***
 
@@ -744,7 +845,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L54)
+[client/enums/Bone.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L156)
 
 ***
 
@@ -754,7 +855,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L55)
+[client/enums/Bone.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L157)
 
 ***
 
@@ -764,7 +865,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L56)
+[client/enums/Bone.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L158)
 
 ***
 
@@ -774,7 +875,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L57)
+[client/enums/Bone.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L159)
 
 ***
 
@@ -784,7 +885,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L58)
+[client/enums/Bone.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L160)
 
 ***
 
@@ -794,7 +895,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L59)
+[client/enums/Bone.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L161)
 
 ***
 
@@ -804,7 +905,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L60)
+[client/enums/Bone.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L162)
 
 ***
 
@@ -814,7 +915,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L61)
+[client/enums/Bone.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L163)
 
 ***
 
@@ -824,7 +925,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L62)
+[client/enums/Bone.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L164)
 
 ***
 
@@ -834,7 +935,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L63)
+[client/enums/Bone.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L165)
 
 ***
 
@@ -844,7 +945,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L64)
+[client/enums/Bone.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L166)
 
 ***
 
@@ -854,7 +955,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L65)
+[client/enums/Bone.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L167)
 
 ***
 
@@ -864,7 +965,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L66)
+[client/enums/Bone.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L168)
 
 ***
 
@@ -874,7 +975,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L67)
+[client/enums/Bone.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L169)
 
 ***
 
@@ -884,7 +985,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L13)
+[client/enums/Bone.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L115)
 
 ***
 
@@ -894,7 +995,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L51)
+[client/enums/Bone.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L153)
 
 ***
 
@@ -904,7 +1005,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L52)
+[client/enums/Bone.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L154)
 
 ***
 
@@ -914,7 +1015,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L11)
+[client/enums/Bone.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L113)
 
 ***
 
@@ -924,7 +1025,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L14)
+[client/enums/Bone.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L116)
 
 ***
 
@@ -934,7 +1035,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L50)
+[client/enums/Bone.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L152)
 
 ***
 
@@ -944,7 +1045,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L21)
+[client/enums/Bone.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L123)
 
 ***
 
@@ -954,7 +1055,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L22)
+[client/enums/Bone.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L124)
 
 ***
 
@@ -964,7 +1065,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L23)
+[client/enums/Bone.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L125)
 
 ***
 
@@ -974,7 +1075,7 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L24)
+[client/enums/Bone.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L126)
 
 ***
 
@@ -984,4 +1085,4 @@
 
 #### Defined in
 
-[client/enums/Bone.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L20)
+[client/enums/Bone.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L122)

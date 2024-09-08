@@ -1,10 +1,14 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / ForceType
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / ForceType
 
 # Enumeration: ForceType
+
+Enumeration representing different types of forces.
+
+ForceType is used to define constants that represent various force behaviors.
 
 ## Enumeration Members
 
@@ -14,7 +18,7 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L6)
+[client/enums/ForceType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L11)
 
 ***
 
@@ -24,7 +28,7 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L7)
+[client/enums/ForceType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L12)
 
 ***
 
@@ -34,7 +38,7 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L3)
+[client/enums/ForceType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L8)
 
 ***
 
@@ -44,7 +48,7 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L5)
+[client/enums/ForceType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L10)
 
 ***
 
@@ -54,7 +58,7 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L2)
+[client/enums/ForceType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L7)
 
 ***
 
@@ -64,4 +68,4 @@
 
 #### Defined in
 
-[client/enums/ForceType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L4)
+[client/enums/ForceType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ForceType.ts#L9)

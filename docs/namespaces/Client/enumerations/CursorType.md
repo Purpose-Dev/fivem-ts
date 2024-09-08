@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CursorType
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CursorType
 
 # Enumeration: CursorType
+
+Enum representing different cursor types.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L13)
+[client/enums/CursorType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L16)
 
 ***
 
@@ -24,7 +26,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L11)
+[client/enums/CursorType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L14)
 
 ***
 
@@ -34,7 +36,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L6)
+[client/enums/CursorType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L9)
 
 ***
 
@@ -44,7 +46,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L12)
+[client/enums/CursorType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L15)
 
 ***
 
@@ -54,7 +56,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L8)
+[client/enums/CursorType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L11)
 
 ***
 
@@ -64,7 +66,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L7)
+[client/enums/CursorType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L10)
 
 ***
 
@@ -74,7 +76,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L2)
+[client/enums/CursorType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L5)
 
 ***
 
@@ -84,7 +86,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L3)
+[client/enums/CursorType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L6)
 
 ***
 
@@ -94,7 +96,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L5)
+[client/enums/CursorType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L8)
 
 ***
 
@@ -104,7 +106,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L14)
+[client/enums/CursorType.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L17)
 
 ***
 
@@ -114,7 +116,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L9)
+[client/enums/CursorType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L12)
 
 ***
 
@@ -124,7 +126,7 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L4)
+[client/enums/CursorType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L7)
 
 ***
 
@@ -134,4 +136,4 @@
 
 #### Defined in
 
-[client/enums/CursorType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L10)
+[client/enums/CursorType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CursorType.ts#L13)

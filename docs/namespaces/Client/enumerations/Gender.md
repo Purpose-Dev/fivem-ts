@@ -1,10 +1,15 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / Gender
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Gender
 
 # Enumeration: Gender
+
+Enumeration representing gender.
+It contains the following values:
+- `Male`
+- `Female`
 
 ## Enumeration Members
 
@@ -14,7 +19,7 @@
 
 #### Defined in
 
-[client/enums/Gender.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Gender.ts#L3)
+[client/enums/Gender.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Gender.ts#L9)
 
 ***
 
@@ -24,4 +29,4 @@
 
 #### Defined in
 
-[client/enums/Gender.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Gender.ts#L2)
+[client/enums/Gender.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Gender.ts#L8)

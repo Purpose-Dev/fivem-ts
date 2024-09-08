@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../../../README.md) / [Client](../../../README.md) / [Audio](../README.md) / playSound
+[fivem-ts - Documentation v0.6.0](../../../../../README.md) / [Client](../../../README.md) / [Audio](../README.md) / playSound
 
 # Function: playSound()
 

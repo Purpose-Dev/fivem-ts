@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CameraShake
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CameraShake
 
 # Enumeration: CameraShake
+
+Enumeration for different types of camera shake effects.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L2)
+[client/enums/CameraShake.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L5)
 
 ***
 
@@ -24,7 +26,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L3)
+[client/enums/CameraShake.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L6)
 
 ***
 
@@ -34,7 +36,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L4)
+[client/enums/CameraShake.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L7)
 
 ***
 
@@ -44,7 +46,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L5)
+[client/enums/CameraShake.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L8)
 
 ***
 
@@ -54,7 +56,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L6)
+[client/enums/CameraShake.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L9)
 
 ***
 
@@ -64,7 +66,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L7)
+[client/enums/CameraShake.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L10)
 
 ***
 
@@ -74,7 +76,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L8)
+[client/enums/CameraShake.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L11)
 
 ***
 
@@ -84,7 +86,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L10)
+[client/enums/CameraShake.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L13)
 
 ***
 
@@ -94,7 +96,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L11)
+[client/enums/CameraShake.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L14)
 
 ***
 
@@ -104,7 +106,7 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L9)
+[client/enums/CameraShake.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L12)
 
 ***
 
@@ -114,4 +116,4 @@
 
 #### Defined in
 
-[client/enums/CameraShake.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L12)
+[client/enums/CameraShake.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L15)

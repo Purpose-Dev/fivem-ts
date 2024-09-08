@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CheckboxStyle
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CheckboxStyle
 
 # Enumeration: CheckboxStyle
+
+Enum representing different styles for a checkbox.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/CheckboxStyle.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckboxStyle.ts#L3)
+[client/enums/CheckboxStyle.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckboxStyle.ts#L8)
 
 ***
 
@@ -24,4 +26,4 @@
 
 #### Defined in
 
-[client/enums/CheckboxStyle.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckboxStyle.ts#L2)
+[client/enums/CheckboxStyle.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckboxStyle.ts#L7)

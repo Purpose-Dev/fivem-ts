@@ -1,10 +1,14 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Shared](../README.md) / VehiclesEnum
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Shared](../README.md) / VehiclesEnum
 
 # Enumeration: VehiclesEnum
+
+An enumeration of various vehicle types categorized by their usage and class.
+
+@enum{string}
 
 ## Enumeration Members
 
@@ -14,7 +18,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:656](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L656)
+[shared/enums/VehiclesEnum.ts:661](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L661)
 
 ***
 
@@ -24,7 +28,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:494](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L494)
+[shared/enums/VehiclesEnum.ts:499](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L499)
 
 ***
 
@@ -34,7 +38,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:743](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L743)
+[shared/enums/VehiclesEnum.ts:748](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L748)
 
 ***
 
@@ -44,7 +48,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L120)
+[shared/enums/VehiclesEnum.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L125)
 
 ***
 
@@ -54,7 +58,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L180)
+[shared/enums/VehiclesEnum.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L185)
 
 ***
 
@@ -64,7 +68,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:421](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L421)
+[shared/enums/VehiclesEnum.ts:426](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L426)
 
 ***
 
@@ -74,7 +78,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:508](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L508)
+[shared/enums/VehiclesEnum.ts:513](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L513)
 
 ***
 
@@ -84,7 +88,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:382](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L382)
+[shared/enums/VehiclesEnum.ts:387](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L387)
 
 ***
 
@@ -94,7 +98,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L97)
+[shared/enums/VehiclesEnum.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L102)
 
 ***
 
@@ -104,7 +108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L121)
+[shared/enums/VehiclesEnum.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L126)
 
 ***
 
@@ -114,7 +118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L122)
+[shared/enums/VehiclesEnum.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L127)
 
 ***
 
@@ -124,7 +128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L161)
+[shared/enums/VehiclesEnum.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L166)
 
 ***
 
@@ -134,7 +138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L608)
+[shared/enums/VehiclesEnum.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L613)
 
 ***
 
@@ -144,7 +148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:707](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L707)
+[shared/enums/VehiclesEnum.ts:712](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L712)
 
 ***
 
@@ -154,7 +158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:708](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L708)
+[shared/enums/VehiclesEnum.ts:713](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L713)
 
 ***
 
@@ -164,7 +168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:709](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L709)
+[shared/enums/VehiclesEnum.ts:714](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L714)
 
 ***
 
@@ -174,7 +178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L52)
+[shared/enums/VehiclesEnum.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L57)
 
 ***
 
@@ -184,7 +188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:461](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L461)
+[shared/enums/VehiclesEnum.ts:466](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L466)
 
 ***
 
@@ -194,7 +198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:462](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L462)
+[shared/enums/VehiclesEnum.ts:467](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L467)
 
 ***
 
@@ -204,7 +208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:463](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L463)
+[shared/enums/VehiclesEnum.ts:468](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L468)
 
 ***
 
@@ -214,7 +218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:657](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L657)
+[shared/enums/VehiclesEnum.ts:662](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L662)
 
 ***
 
@@ -224,7 +228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L181)
+[shared/enums/VehiclesEnum.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L186)
 
 ***
 
@@ -234,7 +238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:383](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L383)
+[shared/enums/VehiclesEnum.ts:388](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L388)
 
 ***
 
@@ -244,7 +248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:384](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L384)
+[shared/enums/VehiclesEnum.ts:389](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L389)
 
 ***
 
@@ -254,7 +258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L24)
+[shared/enums/VehiclesEnum.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L29)
 
 ***
 
@@ -264,7 +268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L609)
+[shared/enums/VehiclesEnum.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L614)
 
 ***
 
@@ -274,7 +278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L610)
+[shared/enums/VehiclesEnum.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L615)
 
 ***
 
@@ -284,7 +288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:611](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L611)
+[shared/enums/VehiclesEnum.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L616)
 
 ***
 
@@ -294,7 +298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L182)
+[shared/enums/VehiclesEnum.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L187)
 
 ***
 
@@ -304,7 +308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:710](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L710)
+[shared/enums/VehiclesEnum.ts:715](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L715)
 
 ***
 
@@ -314,7 +318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:424](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L424)
+[shared/enums/VehiclesEnum.ts:429](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L429)
 
 ***
 
@@ -324,7 +328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:425](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L425)
+[shared/enums/VehiclesEnum.ts:430](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L430)
 
 ***
 
@@ -334,7 +338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:426](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L426)
+[shared/enums/VehiclesEnum.ts:431](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L431)
 
 ***
 
@@ -344,7 +348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:427](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L427)
+[shared/enums/VehiclesEnum.ts:432](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L432)
 
 ***
 
@@ -354,7 +358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:428](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L428)
+[shared/enums/VehiclesEnum.ts:433](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L433)
 
 ***
 
@@ -364,7 +368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:429](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L429)
+[shared/enums/VehiclesEnum.ts:434](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L434)
 
 ***
 
@@ -374,7 +378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L509)
+[shared/enums/VehiclesEnum.ts:514](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L514)
 
 ***
 
@@ -384,7 +388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L658)
+[shared/enums/VehiclesEnum.ts:663](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L663)
 
 ***
 
@@ -394,7 +398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L162)
+[shared/enums/VehiclesEnum.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L167)
 
 ***
 
@@ -404,7 +408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L163)
+[shared/enums/VehiclesEnum.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L168)
 
 ***
 
@@ -414,7 +418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L164)
+[shared/enums/VehiclesEnum.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L169)
 
 ***
 
@@ -424,7 +428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L165)
+[shared/enums/VehiclesEnum.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L170)
 
 ***
 
@@ -434,7 +438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L183)
+[shared/enums/VehiclesEnum.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L188)
 
 ***
 
@@ -444,7 +448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L184)
+[shared/enums/VehiclesEnum.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L189)
 
 ***
 
@@ -454,7 +458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L30)
+[shared/enums/VehiclesEnum.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L35)
 
 ***
 
@@ -464,7 +468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:385](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L385)
+[shared/enums/VehiclesEnum.ts:390](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L390)
 
 ***
 
@@ -474,7 +478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:510](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L510)
+[shared/enums/VehiclesEnum.ts:515](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L515)
 
 ***
 
@@ -484,7 +488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L185)
+[shared/enums/VehiclesEnum.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L190)
 
 ***
 
@@ -494,7 +498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L316)
+[shared/enums/VehiclesEnum.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L321)
 
 ***
 
@@ -504,7 +508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L31)
+[shared/enums/VehiclesEnum.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L36)
 
 ***
 
@@ -514,7 +518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L317)
+[shared/enums/VehiclesEnum.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L322)
 
 ***
 
@@ -524,7 +528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:765](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L765)
+[shared/enums/VehiclesEnum.ts:770](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L770)
 
 ***
 
@@ -534,7 +538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:766](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L766)
+[shared/enums/VehiclesEnum.ts:771](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L771)
 
 ***
 
@@ -544,7 +548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:767](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L767)
+[shared/enums/VehiclesEnum.ts:772](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L772)
 
 ***
 
@@ -554,7 +558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:430](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L430)
+[shared/enums/VehiclesEnum.ts:435](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L435)
 
 ***
 
@@ -564,7 +568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L238)
+[shared/enums/VehiclesEnum.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L243)
 
 ***
 
@@ -574,7 +578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L318)
+[shared/enums/VehiclesEnum.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L323)
 
 ***
 
@@ -584,7 +588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L319)
+[shared/enums/VehiclesEnum.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L324)
 
 ***
 
@@ -594,7 +598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:320](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L320)
+[shared/enums/VehiclesEnum.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L325)
 
 ***
 
@@ -604,7 +608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L321)
+[shared/enums/VehiclesEnum.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L326)
 
 ***
 
@@ -614,7 +618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:322](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L322)
+[shared/enums/VehiclesEnum.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L327)
 
 ***
 
@@ -624,7 +628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:386](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L386)
+[shared/enums/VehiclesEnum.ts:391](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L391)
 
 ***
 
@@ -634,7 +638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:387](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L387)
+[shared/enums/VehiclesEnum.ts:392](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L392)
 
 ***
 
@@ -644,7 +648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:388](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L388)
+[shared/enums/VehiclesEnum.ts:393](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L393)
 
 ***
 
@@ -654,7 +658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L53)
+[shared/enums/VehiclesEnum.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L58)
 
 ***
 
@@ -664,7 +668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:511](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L511)
+[shared/enums/VehiclesEnum.ts:516](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L516)
 
 ***
 
@@ -674,7 +678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:512](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L512)
+[shared/enums/VehiclesEnum.ts:517](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L517)
 
 ***
 
@@ -684,7 +688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L88)
+[shared/enums/VehiclesEnum.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L93)
 
 ***
 
@@ -694,7 +698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:711](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L711)
+[shared/enums/VehiclesEnum.ts:716](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L716)
 
 ***
 
@@ -704,7 +708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:768](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L768)
+[shared/enums/VehiclesEnum.ts:773](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L773)
 
 ***
 
@@ -714,7 +718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L323)
+[shared/enums/VehiclesEnum.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L328)
 
 ***
 
@@ -724,7 +728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:389](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L389)
+[shared/enums/VehiclesEnum.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L394)
 
 ***
 
@@ -734,7 +738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:769](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L769)
+[shared/enums/VehiclesEnum.ts:774](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L774)
 
 ***
 
@@ -744,7 +748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:770](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L770)
+[shared/enums/VehiclesEnum.ts:775](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L775)
 
 ***
 
@@ -754,7 +758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:771](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L771)
+[shared/enums/VehiclesEnum.ts:776](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L776)
 
 ***
 
@@ -764,7 +768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:772](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L772)
+[shared/enums/VehiclesEnum.ts:777](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L777)
 
 ***
 
@@ -774,7 +778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:773](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L773)
+[shared/enums/VehiclesEnum.ts:778](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L778)
 
 ***
 
@@ -784,7 +788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:324](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L324)
+[shared/enums/VehiclesEnum.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L329)
 
 ***
 
@@ -794,7 +798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:495](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L495)
+[shared/enums/VehiclesEnum.ts:500](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L500)
 
 ***
 
@@ -804,7 +808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L54)
+[shared/enums/VehiclesEnum.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L59)
 
 ***
 
@@ -814,7 +818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L55)
+[shared/enums/VehiclesEnum.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L60)
 
 ***
 
@@ -824,7 +828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L239)
+[shared/enums/VehiclesEnum.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L244)
 
 ***
 
@@ -834,7 +838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L325)
+[shared/enums/VehiclesEnum.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L330)
 
 ***
 
@@ -844,7 +848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:326](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L326)
+[shared/enums/VehiclesEnum.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L331)
 
 ***
 
@@ -854,7 +858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L327)
+[shared/enums/VehiclesEnum.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L332)
 
 ***
 
@@ -864,7 +868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:328](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L328)
+[shared/enums/VehiclesEnum.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L333)
 
 ***
 
@@ -874,7 +878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L329)
+[shared/enums/VehiclesEnum.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L334)
 
 ***
 
@@ -884,7 +888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L330)
+[shared/enums/VehiclesEnum.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L335)
 
 ***
 
@@ -894,7 +898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L240)
+[shared/enums/VehiclesEnum.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L245)
 
 ***
 
@@ -904,7 +908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L241)
+[shared/enums/VehiclesEnum.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L246)
 
 ***
 
@@ -914,7 +918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:513](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L513)
+[shared/enums/VehiclesEnum.ts:518](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L518)
 
 ***
 
@@ -924,7 +928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:514](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L514)
+[shared/enums/VehiclesEnum.ts:519](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L519)
 
 ***
 
@@ -934,7 +938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:515](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L515)
+[shared/enums/VehiclesEnum.ts:520](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L520)
 
 ***
 
@@ -944,7 +948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L148)
+[shared/enums/VehiclesEnum.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L153)
 
 ***
 
@@ -954,7 +958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:659](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L659)
+[shared/enums/VehiclesEnum.ts:664](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L664)
 
 ***
 
@@ -964,7 +968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:774](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L774)
+[shared/enums/VehiclesEnum.ts:779](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L779)
 
 ***
 
@@ -974,7 +978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:775](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L775)
+[shared/enums/VehiclesEnum.ts:780](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L780)
 
 ***
 
@@ -984,7 +988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:776](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L776)
+[shared/enums/VehiclesEnum.ts:781](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L781)
 
 ***
 
@@ -994,7 +998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:777](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L777)
+[shared/enums/VehiclesEnum.ts:782](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L782)
 
 ***
 
@@ -1004,7 +1008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:778](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L778)
+[shared/enums/VehiclesEnum.ts:783](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L783)
 
 ***
 
@@ -1014,7 +1018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:496](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L496)
+[shared/enums/VehiclesEnum.ts:501](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L501)
 
 ***
 
@@ -1024,7 +1028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L123)
+[shared/enums/VehiclesEnum.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L128)
 
 ***
 
@@ -1034,7 +1038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L124)
+[shared/enums/VehiclesEnum.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L129)
 
 ***
 
@@ -1044,7 +1048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:712](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L712)
+[shared/enums/VehiclesEnum.ts:717](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L717)
 
 ***
 
@@ -1054,7 +1058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:744](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L744)
+[shared/enums/VehiclesEnum.ts:749](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L749)
 
 ***
 
@@ -1064,7 +1068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:745](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L745)
+[shared/enums/VehiclesEnum.ts:750](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L750)
 
 ***
 
@@ -1074,7 +1078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:746](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L746)
+[shared/enums/VehiclesEnum.ts:751](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L751)
 
 ***
 
@@ -1084,7 +1088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:516](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L516)
+[shared/enums/VehiclesEnum.ts:521](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L521)
 
 ***
 
@@ -1094,7 +1098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:779](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L779)
+[shared/enums/VehiclesEnum.ts:784](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L784)
 
 ***
 
@@ -1104,7 +1108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L331)
+[shared/enums/VehiclesEnum.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L336)
 
 ***
 
@@ -1114,7 +1118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L332)
+[shared/enums/VehiclesEnum.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L337)
 
 ***
 
@@ -1124,7 +1128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L186)
+[shared/enums/VehiclesEnum.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L191)
 
 ***
 
@@ -1134,7 +1138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:517](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L517)
+[shared/enums/VehiclesEnum.ts:522](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L522)
 
 ***
 
@@ -1144,7 +1148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:390](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L390)
+[shared/enums/VehiclesEnum.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L395)
 
 ***
 
@@ -1154,7 +1158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:391](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L391)
+[shared/enums/VehiclesEnum.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L396)
 
 ***
 
@@ -1164,7 +1168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L125)
+[shared/enums/VehiclesEnum.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L130)
 
 ***
 
@@ -1174,7 +1178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L126)
+[shared/enums/VehiclesEnum.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L131)
 
 ***
 
@@ -1184,7 +1188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L127)
+[shared/enums/VehiclesEnum.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L132)
 
 ***
 
@@ -1194,7 +1198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L128)
+[shared/enums/VehiclesEnum.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L133)
 
 ***
 
@@ -1204,7 +1208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:612](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L612)
+[shared/enums/VehiclesEnum.ts:617](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L617)
 
 ***
 
@@ -1214,7 +1218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:431](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L431)
+[shared/enums/VehiclesEnum.ts:436](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L436)
 
 ***
 
@@ -1224,7 +1228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:432](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L432)
+[shared/enums/VehiclesEnum.ts:437](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L437)
 
 ***
 
@@ -1234,7 +1238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L32)
+[shared/enums/VehiclesEnum.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L37)
 
 ***
 
@@ -1244,7 +1248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L33)
+[shared/enums/VehiclesEnum.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L38)
 
 ***
 
@@ -1254,7 +1258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L34)
+[shared/enums/VehiclesEnum.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L39)
 
 ***
 
@@ -1264,7 +1268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L613)
+[shared/enums/VehiclesEnum.ts:618](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L618)
 
 ***
 
@@ -1274,7 +1278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L614)
+[shared/enums/VehiclesEnum.ts:619](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L619)
 
 ***
 
@@ -1284,7 +1288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:660](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L660)
+[shared/enums/VehiclesEnum.ts:665](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L665)
 
 ***
 
@@ -1294,7 +1298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L166)
+[shared/enums/VehiclesEnum.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L171)
 
 ***
 
@@ -1304,7 +1308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L187)
+[shared/enums/VehiclesEnum.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L192)
 
 ***
 
@@ -1314,7 +1318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:242](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L242)
+[shared/enums/VehiclesEnum.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L247)
 
 ***
 
@@ -1324,7 +1328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L243)
+[shared/enums/VehiclesEnum.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L248)
 
 ***
 
@@ -1334,7 +1338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L188)
+[shared/enums/VehiclesEnum.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L193)
 
 ***
 
@@ -1344,7 +1348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L244)
+[shared/enums/VehiclesEnum.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L249)
 
 ***
 
@@ -1354,7 +1358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L56)
+[shared/enums/VehiclesEnum.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L61)
 
 ***
 
@@ -1364,7 +1368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:497](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L497)
+[shared/enums/VehiclesEnum.ts:502](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L502)
 
 ***
 
@@ -1374,7 +1378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:464](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L464)
+[shared/enums/VehiclesEnum.ts:469](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L469)
 
 ***
 
@@ -1384,7 +1388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:465](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L465)
+[shared/enums/VehiclesEnum.ts:470](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L470)
 
 ***
 
@@ -1394,7 +1398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L71)
+[shared/enums/VehiclesEnum.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L76)
 
 ***
 
@@ -1404,7 +1408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:466](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L466)
+[shared/enums/VehiclesEnum.ts:471](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L471)
 
 ***
 
@@ -1414,7 +1418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:467](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L467)
+[shared/enums/VehiclesEnum.ts:472](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L472)
 
 ***
 
@@ -1424,7 +1428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:518](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L518)
+[shared/enums/VehiclesEnum.ts:523](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L523)
 
 ***
 
@@ -1434,7 +1438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:519](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L519)
+[shared/enums/VehiclesEnum.ts:524](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L524)
 
 ***
 
@@ -1444,7 +1448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:520](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L520)
+[shared/enums/VehiclesEnum.ts:525](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L525)
 
 ***
 
@@ -1454,7 +1458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:521](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L521)
+[shared/enums/VehiclesEnum.ts:526](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L526)
 
 ***
 
@@ -1464,7 +1468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:522](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L522)
+[shared/enums/VehiclesEnum.ts:527](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L527)
 
 ***
 
@@ -1474,7 +1478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:433](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L433)
+[shared/enums/VehiclesEnum.ts:438](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L438)
 
 ***
 
@@ -1484,7 +1488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:523](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L523)
+[shared/enums/VehiclesEnum.ts:528](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L528)
 
 ***
 
@@ -1494,7 +1498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L615)
+[shared/enums/VehiclesEnum.ts:620](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L620)
 
 ***
 
@@ -1504,7 +1508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L245)
+[shared/enums/VehiclesEnum.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L250)
 
 ***
 
@@ -1514,7 +1518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:524](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L524)
+[shared/enums/VehiclesEnum.ts:529](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L529)
 
 ***
 
@@ -1524,7 +1528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L89)
+[shared/enums/VehiclesEnum.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L94)
 
 ***
 
@@ -1534,7 +1538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L167)
+[shared/enums/VehiclesEnum.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L172)
 
 ***
 
@@ -1544,7 +1548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L149)
+[shared/enums/VehiclesEnum.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L154)
 
 ***
 
@@ -1554,7 +1558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:661](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L661)
+[shared/enums/VehiclesEnum.ts:666](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L666)
 
 ***
 
@@ -1564,7 +1568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:525](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L525)
+[shared/enums/VehiclesEnum.ts:530](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L530)
 
 ***
 
@@ -1574,7 +1578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L333)
+[shared/enums/VehiclesEnum.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L338)
 
 ***
 
@@ -1584,7 +1588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L189)
+[shared/enums/VehiclesEnum.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L194)
 
 ***
 
@@ -1594,7 +1598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L190)
+[shared/enums/VehiclesEnum.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L195)
 
 ***
 
@@ -1604,7 +1608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L192)
+[shared/enums/VehiclesEnum.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L197)
 
 ***
 
@@ -1614,7 +1618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L193)
+[shared/enums/VehiclesEnum.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L198)
 
 ***
 
@@ -1624,7 +1628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L194)
+[shared/enums/VehiclesEnum.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L199)
 
 ***
 
@@ -1634,7 +1638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L191)
+[shared/enums/VehiclesEnum.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L196)
 
 ***
 
@@ -1644,7 +1648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L616)
+[shared/enums/VehiclesEnum.ts:621](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L621)
 
 ***
 
@@ -1654,7 +1658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:527](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L527)
+[shared/enums/VehiclesEnum.ts:532](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L532)
 
 ***
 
@@ -1664,7 +1668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:246](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L246)
+[shared/enums/VehiclesEnum.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L251)
 
 ***
 
@@ -1674,7 +1678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L195)
+[shared/enums/VehiclesEnum.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L200)
 
 ***
 
@@ -1684,7 +1688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L196)
+[shared/enums/VehiclesEnum.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L201)
 
 ***
 
@@ -1694,7 +1698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L57)
+[shared/enums/VehiclesEnum.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L62)
 
 ***
 
@@ -1704,7 +1708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L58)
+[shared/enums/VehiclesEnum.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L63)
 
 ***
 
@@ -1714,7 +1718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L3)
+[shared/enums/VehiclesEnum.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L8)
 
 ***
 
@@ -1724,7 +1728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L4)
+[shared/enums/VehiclesEnum.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L9)
 
 ***
 
@@ -1734,7 +1738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L5)
+[shared/enums/VehiclesEnum.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L10)
 
 ***
 
@@ -1744,7 +1748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L6)
+[shared/enums/VehiclesEnum.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L11)
 
 ***
 
@@ -1754,7 +1758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L7)
+[shared/enums/VehiclesEnum.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L12)
 
 ***
 
@@ -1764,7 +1768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:713](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L713)
+[shared/enums/VehiclesEnum.ts:718](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L718)
 
 ***
 
@@ -1774,7 +1778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:747](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L747)
+[shared/enums/VehiclesEnum.ts:752](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L752)
 
 ***
 
@@ -1784,7 +1788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L247)
+[shared/enums/VehiclesEnum.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L252)
 
 ***
 
@@ -1794,7 +1798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L248)
+[shared/enums/VehiclesEnum.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L253)
 
 ***
 
@@ -1804,7 +1808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L249)
+[shared/enums/VehiclesEnum.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L254)
 
 ***
 
@@ -1814,7 +1818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:250](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L250)
+[shared/enums/VehiclesEnum.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L255)
 
 ***
 
@@ -1824,7 +1828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L251)
+[shared/enums/VehiclesEnum.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L256)
 
 ***
 
@@ -1834,7 +1838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:252](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L252)
+[shared/enums/VehiclesEnum.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L257)
 
 ***
 
@@ -1844,7 +1848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L253)
+[shared/enums/VehiclesEnum.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L258)
 
 ***
 
@@ -1854,7 +1858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L197)
+[shared/enums/VehiclesEnum.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L202)
 
 ***
 
@@ -1864,7 +1868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:526](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L526)
+[shared/enums/VehiclesEnum.ts:531](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L531)
 
 ***
 
@@ -1874,7 +1878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:434](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L434)
+[shared/enums/VehiclesEnum.ts:439](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L439)
 
 ***
 
@@ -1884,7 +1888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:435](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L435)
+[shared/enums/VehiclesEnum.ts:440](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L440)
 
 ***
 
@@ -1894,7 +1898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:334](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L334)
+[shared/enums/VehiclesEnum.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L339)
 
 ***
 
@@ -1904,7 +1908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:254](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L254)
+[shared/enums/VehiclesEnum.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L259)
 
 ***
 
@@ -1914,7 +1918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L255)
+[shared/enums/VehiclesEnum.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L260)
 
 ***
 
@@ -1924,7 +1928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:256](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L256)
+[shared/enums/VehiclesEnum.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L261)
 
 ***
 
@@ -1934,7 +1938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L150)
+[shared/enums/VehiclesEnum.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L155)
 
 ***
 
@@ -1944,7 +1948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L335)
+[shared/enums/VehiclesEnum.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L340)
 
 ***
 
@@ -1954,7 +1958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:336](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L336)
+[shared/enums/VehiclesEnum.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L341)
 
 ***
 
@@ -1964,7 +1968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L337)
+[shared/enums/VehiclesEnum.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L342)
 
 ***
 
@@ -1974,7 +1978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L338)
+[shared/enums/VehiclesEnum.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L343)
 
 ***
 
@@ -1984,7 +1988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L339)
+[shared/enums/VehiclesEnum.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L344)
 
 ***
 
@@ -1994,7 +1998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L394)
+[shared/enums/VehiclesEnum.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L399)
 
 ***
 
@@ -2004,7 +2008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:617](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L617)
+[shared/enums/VehiclesEnum.ts:622](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L622)
 
 ***
 
@@ -2014,7 +2018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:528](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L528)
+[shared/enums/VehiclesEnum.ts:533](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L533)
 
 ***
 
@@ -2024,7 +2028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:529](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L529)
+[shared/enums/VehiclesEnum.ts:534](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L534)
 
 ***
 
@@ -2034,7 +2038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:260](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L260)
+[shared/enums/VehiclesEnum.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L265)
 
 ***
 
@@ -2044,7 +2048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:665](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L665)
+[shared/enums/VehiclesEnum.ts:670](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L670)
 
 ***
 
@@ -2054,7 +2058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:468](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L468)
+[shared/enums/VehiclesEnum.ts:473](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L473)
 
 ***
 
@@ -2064,7 +2068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:469](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L469)
+[shared/enums/VehiclesEnum.ts:474](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L474)
 
 ***
 
@@ -2074,7 +2078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:470](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L470)
+[shared/enums/VehiclesEnum.ts:475](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L475)
 
 ***
 
@@ -2084,7 +2088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L198)
+[shared/enums/VehiclesEnum.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L203)
 
 ***
 
@@ -2094,7 +2098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:662](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L662)
+[shared/enums/VehiclesEnum.ts:667](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L667)
 
 ***
 
@@ -2104,7 +2108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:663](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L663)
+[shared/enums/VehiclesEnum.ts:668](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L668)
 
 ***
 
@@ -2114,7 +2118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:664](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L664)
+[shared/enums/VehiclesEnum.ts:669](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L669)
 
 ***
 
@@ -2124,7 +2128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L199)
+[shared/enums/VehiclesEnum.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L204)
 
 ***
 
@@ -2134,7 +2138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L261)
+[shared/enums/VehiclesEnum.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L266)
 
 ***
 
@@ -2144,7 +2148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:530](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L530)
+[shared/enums/VehiclesEnum.ts:535](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L535)
 
 ***
 
@@ -2154,7 +2158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:340](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L340)
+[shared/enums/VehiclesEnum.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L345)
 
 ***
 
@@ -2164,7 +2168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:531](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L531)
+[shared/enums/VehiclesEnum.ts:536](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L536)
 
 ***
 
@@ -2174,7 +2178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L72)
+[shared/enums/VehiclesEnum.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L77)
 
 ***
 
@@ -2184,7 +2188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L73)
+[shared/enums/VehiclesEnum.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L78)
 
 ***
 
@@ -2194,7 +2198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:436](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L436)
+[shared/enums/VehiclesEnum.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L441)
 
 ***
 
@@ -2204,7 +2208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L257)
+[shared/enums/VehiclesEnum.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L262)
 
 ***
 
@@ -2214,7 +2218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:258](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L258)
+[shared/enums/VehiclesEnum.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L263)
 
 ***
 
@@ -2224,7 +2228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L259)
+[shared/enums/VehiclesEnum.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L264)
 
 ***
 
@@ -2234,7 +2238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:618](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L618)
+[shared/enums/VehiclesEnum.ts:623](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L623)
 
 ***
 
@@ -2244,7 +2248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L200)
+[shared/enums/VehiclesEnum.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L205)
 
 ***
 
@@ -2254,7 +2258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L201)
+[shared/enums/VehiclesEnum.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L206)
 
 ***
 
@@ -2264,7 +2268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L202)
+[shared/enums/VehiclesEnum.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L207)
 
 ***
 
@@ -2274,7 +2278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L98)
+[shared/enums/VehiclesEnum.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L103)
 
 ***
 
@@ -2284,7 +2288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L99)
+[shared/enums/VehiclesEnum.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L104)
 
 ***
 
@@ -2294,7 +2298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L203)
+[shared/enums/VehiclesEnum.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L208)
 
 ***
 
@@ -2304,7 +2308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:204](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L204)
+[shared/enums/VehiclesEnum.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L209)
 
 ***
 
@@ -2314,7 +2318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L74)
+[shared/enums/VehiclesEnum.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L79)
 
 ***
 
@@ -2324,7 +2328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:75](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L75)
+[shared/enums/VehiclesEnum.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L80)
 
 ***
 
@@ -2334,7 +2338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:532](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L532)
+[shared/enums/VehiclesEnum.ts:537](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L537)
 
 ***
 
@@ -2344,7 +2348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:619](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L619)
+[shared/enums/VehiclesEnum.ts:624](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L624)
 
 ***
 
@@ -2354,7 +2358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L100)
+[shared/enums/VehiclesEnum.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L105)
 
 ***
 
@@ -2364,7 +2368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L90)
+[shared/enums/VehiclesEnum.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L95)
 
 ***
 
@@ -2374,7 +2378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:533](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L533)
+[shared/enums/VehiclesEnum.ts:538](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L538)
 
 ***
 
@@ -2384,7 +2388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L151)
+[shared/enums/VehiclesEnum.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L156)
 
 ***
 
@@ -2394,7 +2398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:666](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L666)
+[shared/enums/VehiclesEnum.ts:671](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L671)
 
 ***
 
@@ -2404,7 +2408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:748](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L748)
+[shared/enums/VehiclesEnum.ts:753](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L753)
 
 ***
 
@@ -2414,7 +2418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:376](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L376)
+[shared/enums/VehiclesEnum.ts:381](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L381)
 
 ***
 
@@ -2424,7 +2428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:377](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L377)
+[shared/enums/VehiclesEnum.ts:382](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L382)
 
 ***
 
@@ -2434,7 +2438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L341)
+[shared/enums/VehiclesEnum.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L346)
 
 ***
 
@@ -2444,7 +2448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:734](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L734)
+[shared/enums/VehiclesEnum.ts:739](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L739)
 
 ***
 
@@ -2454,7 +2458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:735](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L735)
+[shared/enums/VehiclesEnum.ts:740](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L740)
 
 ***
 
@@ -2464,7 +2468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:736](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L736)
+[shared/enums/VehiclesEnum.ts:741](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L741)
 
 ***
 
@@ -2474,7 +2478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:737](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L737)
+[shared/enums/VehiclesEnum.ts:742](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L742)
 
 ***
 
@@ -2484,7 +2488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:738](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L738)
+[shared/enums/VehiclesEnum.ts:743](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L743)
 
 ***
 
@@ -2494,7 +2498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:714](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L714)
+[shared/enums/VehiclesEnum.ts:719](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L719)
 
 ***
 
@@ -2504,7 +2508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L129)
+[shared/enums/VehiclesEnum.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L134)
 
 ***
 
@@ -2514,7 +2518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L130)
+[shared/enums/VehiclesEnum.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L135)
 
 ***
 
@@ -2524,7 +2528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:471](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L471)
+[shared/enums/VehiclesEnum.ts:476](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L476)
 
 ***
 
@@ -2534,7 +2538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:667](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L667)
+[shared/enums/VehiclesEnum.ts:672](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L672)
 
 ***
 
@@ -2544,7 +2548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:534](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L534)
+[shared/enums/VehiclesEnum.ts:539](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L539)
 
 ***
 
@@ -2554,7 +2558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:535](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L535)
+[shared/enums/VehiclesEnum.ts:540](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L540)
 
 ***
 
@@ -2564,7 +2568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:536](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L536)
+[shared/enums/VehiclesEnum.ts:541](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L541)
 
 ***
 
@@ -2574,7 +2578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:537](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L537)
+[shared/enums/VehiclesEnum.ts:542](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L542)
 
 ***
 
@@ -2584,7 +2588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:538](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L538)
+[shared/enums/VehiclesEnum.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L543)
 
 ***
 
@@ -2594,7 +2598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:668](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L668)
+[shared/enums/VehiclesEnum.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L673)
 
 ***
 
@@ -2604,7 +2608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:620](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L620)
+[shared/enums/VehiclesEnum.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L625)
 
 ***
 
@@ -2614,7 +2618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:780](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L780)
+[shared/enums/VehiclesEnum.ts:785](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L785)
 
 ***
 
@@ -2624,7 +2628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:781](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L781)
+[shared/enums/VehiclesEnum.ts:786](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L786)
 
 ***
 
@@ -2634,7 +2638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L205)
+[shared/enums/VehiclesEnum.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L210)
 
 ***
 
@@ -2644,7 +2648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:262](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L262)
+[shared/enums/VehiclesEnum.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L267)
 
 ***
 
@@ -2654,7 +2658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L263)
+[shared/enums/VehiclesEnum.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L268)
 
 ***
 
@@ -2664,7 +2668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:264](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L264)
+[shared/enums/VehiclesEnum.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L269)
 
 ***
 
@@ -2674,7 +2678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L265)
+[shared/enums/VehiclesEnum.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L270)
 
 ***
 
@@ -2684,7 +2688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:266](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L266)
+[shared/enums/VehiclesEnum.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L271)
 
 ***
 
@@ -2694,7 +2698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:472](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L472)
+[shared/enums/VehiclesEnum.ts:477](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L477)
 
 ***
 
@@ -2704,7 +2708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:473](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L473)
+[shared/enums/VehiclesEnum.ts:478](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L478)
 
 ***
 
@@ -2714,7 +2718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:715](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L715)
+[shared/enums/VehiclesEnum.ts:720](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L720)
 
 ***
 
@@ -2724,7 +2728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:437](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L437)
+[shared/enums/VehiclesEnum.ts:442](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L442)
 
 ***
 
@@ -2734,7 +2738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:438](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L438)
+[shared/enums/VehiclesEnum.ts:443](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L443)
 
 ***
 
@@ -2744,7 +2748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:539](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L539)
+[shared/enums/VehiclesEnum.ts:544](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L544)
 
 ***
 
@@ -2754,7 +2758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L152)
+[shared/enums/VehiclesEnum.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L157)
 
 ***
 
@@ -2764,7 +2768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:439](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L439)
+[shared/enums/VehiclesEnum.ts:444](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L444)
 
 ***
 
@@ -2774,7 +2778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:206](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L206)
+[shared/enums/VehiclesEnum.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L211)
 
 ***
 
@@ -2784,7 +2788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L207)
+[shared/enums/VehiclesEnum.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L212)
 
 ***
 
@@ -2794,7 +2798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L168)
+[shared/enums/VehiclesEnum.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L173)
 
 ***
 
@@ -2804,7 +2808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L153)
+[shared/enums/VehiclesEnum.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L158)
 
 ***
 
@@ -2814,7 +2818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L35)
+[shared/enums/VehiclesEnum.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L40)
 
 ***
 
@@ -2824,7 +2828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L36)
+[shared/enums/VehiclesEnum.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L41)
 
 ***
 
@@ -2834,7 +2838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L131)
+[shared/enums/VehiclesEnum.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L136)
 
 ***
 
@@ -2844,7 +2848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:342](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L342)
+[shared/enums/VehiclesEnum.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L347)
 
 ***
 
@@ -2854,7 +2858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L267)
+[shared/enums/VehiclesEnum.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L272)
 
 ***
 
@@ -2864,7 +2868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L208)
+[shared/enums/VehiclesEnum.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L213)
 
 ***
 
@@ -2874,7 +2878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:268](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L268)
+[shared/enums/VehiclesEnum.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L273)
 
 ***
 
@@ -2884,7 +2888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:540](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L540)
+[shared/enums/VehiclesEnum.ts:545](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L545)
 
 ***
 
@@ -2894,7 +2898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L395)
+[shared/enums/VehiclesEnum.ts:400](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L400)
 
 ***
 
@@ -2904,7 +2908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L132)
+[shared/enums/VehiclesEnum.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L137)
 
 ***
 
@@ -2914,7 +2918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:440](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L440)
+[shared/enums/VehiclesEnum.ts:445](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L445)
 
 ***
 
@@ -2924,7 +2928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L269)
+[shared/enums/VehiclesEnum.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L274)
 
 ***
 
@@ -2934,7 +2938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L396)
+[shared/enums/VehiclesEnum.ts:401](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L401)
 
 ***
 
@@ -2944,7 +2948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:542](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L542)
+[shared/enums/VehiclesEnum.ts:547](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L547)
 
 ***
 
@@ -2954,7 +2958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:270](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L270)
+[shared/enums/VehiclesEnum.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L275)
 
 ***
 
@@ -2964,7 +2968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L271)
+[shared/enums/VehiclesEnum.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L276)
 
 ***
 
@@ -2974,7 +2978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:272](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L272)
+[shared/enums/VehiclesEnum.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L277)
 
 ***
 
@@ -2984,7 +2988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L273)
+[shared/enums/VehiclesEnum.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L278)
 
 ***
 
@@ -2994,7 +2998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L274)
+[shared/enums/VehiclesEnum.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L279)
 
 ***
 
@@ -3004,7 +3008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L275)
+[shared/enums/VehiclesEnum.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L280)
 
 ***
 
@@ -3014,7 +3018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:276](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L276)
+[shared/enums/VehiclesEnum.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L281)
 
 ***
 
@@ -3024,7 +3028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:669](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L669)
+[shared/enums/VehiclesEnum.ts:674](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L674)
 
 ***
 
@@ -3034,7 +3038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:621](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L621)
+[shared/enums/VehiclesEnum.ts:626](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L626)
 
 ***
 
@@ -3044,7 +3048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:474](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L474)
+[shared/enums/VehiclesEnum.ts:479](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L479)
 
 ***
 
@@ -3054,7 +3058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L209)
+[shared/enums/VehiclesEnum.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L214)
 
 ***
 
@@ -3064,7 +3068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L343)
+[shared/enums/VehiclesEnum.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L348)
 
 ***
 
@@ -3074,7 +3078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:344](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L344)
+[shared/enums/VehiclesEnum.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L349)
 
 ***
 
@@ -3084,7 +3088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L345)
+[shared/enums/VehiclesEnum.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L350)
 
 ***
 
@@ -3094,7 +3098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:475](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L475)
+[shared/enums/VehiclesEnum.ts:480](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L480)
 
 ***
 
@@ -3104,7 +3108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L60)
+[shared/enums/VehiclesEnum.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L65)
 
 ***
 
@@ -3114,7 +3118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L61)
+[shared/enums/VehiclesEnum.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L66)
 
 ***
 
@@ -3124,7 +3128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L62)
+[shared/enums/VehiclesEnum.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L67)
 
 ***
 
@@ -3134,7 +3138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L63)
+[shared/enums/VehiclesEnum.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L68)
 
 ***
 
@@ -3144,7 +3148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L64)
+[shared/enums/VehiclesEnum.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L69)
 
 ***
 
@@ -3154,7 +3158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L543)
+[shared/enums/VehiclesEnum.ts:548](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L548)
 
 ***
 
@@ -3164,7 +3168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L441)
+[shared/enums/VehiclesEnum.ts:446](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L446)
 
 ***
 
@@ -3174,7 +3178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:670](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L670)
+[shared/enums/VehiclesEnum.ts:675](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L675)
 
 ***
 
@@ -3184,7 +3188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:671](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L671)
+[shared/enums/VehiclesEnum.ts:676](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L676)
 
 ***
 
@@ -3194,7 +3198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:544](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L544)
+[shared/enums/VehiclesEnum.ts:549](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L549)
 
 ***
 
@@ -3204,7 +3208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:545](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L545)
+[shared/enums/VehiclesEnum.ts:550](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L550)
 
 ***
 
@@ -3214,7 +3218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:622](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L622)
+[shared/enums/VehiclesEnum.ts:627](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L627)
 
 ***
 
@@ -3224,7 +3228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:623](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L623)
+[shared/enums/VehiclesEnum.ts:628](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L628)
 
 ***
 
@@ -3234,7 +3238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:76](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L76)
+[shared/enums/VehiclesEnum.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L81)
 
 ***
 
@@ -3244,7 +3248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:547](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L547)
+[shared/enums/VehiclesEnum.ts:552](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L552)
 
 ***
 
@@ -3254,7 +3258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:548](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L548)
+[shared/enums/VehiclesEnum.ts:553](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L553)
 
 ***
 
@@ -3264,7 +3268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:549](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L549)
+[shared/enums/VehiclesEnum.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L554)
 
 ***
 
@@ -3274,7 +3278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:550](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L550)
+[shared/enums/VehiclesEnum.ts:555](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L555)
 
 ***
 
@@ -3284,7 +3288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L397)
+[shared/enums/VehiclesEnum.ts:402](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L402)
 
 ***
 
@@ -3294,7 +3298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L8)
+[shared/enums/VehiclesEnum.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L13)
 
 ***
 
@@ -3304,7 +3308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:782](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L782)
+[shared/enums/VehiclesEnum.ts:787](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L787)
 
 ***
 
@@ -3314,7 +3318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:783](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L783)
+[shared/enums/VehiclesEnum.ts:788](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L788)
 
 ***
 
@@ -3324,7 +3328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:546](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L546)
+[shared/enums/VehiclesEnum.ts:551](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L551)
 
 ***
 
@@ -3334,7 +3338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:346](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L346)
+[shared/enums/VehiclesEnum.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L351)
 
 ***
 
@@ -3344,7 +3348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L347)
+[shared/enums/VehiclesEnum.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L352)
 
 ***
 
@@ -3354,7 +3358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L59)
+[shared/enums/VehiclesEnum.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L64)
 
 ***
 
@@ -3364,7 +3368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:551](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L551)
+[shared/enums/VehiclesEnum.ts:556](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L556)
 
 ***
 
@@ -3374,7 +3378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L169)
+[shared/enums/VehiclesEnum.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L174)
 
 ***
 
@@ -3384,7 +3388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:541](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L541)
+[shared/enums/VehiclesEnum.ts:546](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L546)
 
 ***
 
@@ -3394,7 +3398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L25)
+[shared/enums/VehiclesEnum.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L30)
 
 ***
 
@@ -3404,7 +3408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:672](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L672)
+[shared/enums/VehiclesEnum.ts:677](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L677)
 
 ***
 
@@ -3414,7 +3418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:552](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L552)
+[shared/enums/VehiclesEnum.ts:557](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L557)
 
 ***
 
@@ -3424,7 +3428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:553](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L553)
+[shared/enums/VehiclesEnum.ts:558](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L558)
 
 ***
 
@@ -3434,7 +3438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L673)
+[shared/enums/VehiclesEnum.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L678)
 
 ***
 
@@ -3444,7 +3448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:442](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L442)
+[shared/enums/VehiclesEnum.ts:447](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L447)
 
 ***
 
@@ -3454,7 +3458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:443](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L443)
+[shared/enums/VehiclesEnum.ts:448](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L448)
 
 ***
 
@@ -3464,7 +3468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L398)
+[shared/enums/VehiclesEnum.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L403)
 
 ***
 
@@ -3474,7 +3478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:210](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L210)
+[shared/enums/VehiclesEnum.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L215)
 
 ***
 
@@ -3484,7 +3488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:101](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L101)
+[shared/enums/VehiclesEnum.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L106)
 
 ***
 
@@ -3494,7 +3498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:476](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L476)
+[shared/enums/VehiclesEnum.ts:481](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L481)
 
 ***
 
@@ -3504,7 +3508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L554)
+[shared/enums/VehiclesEnum.ts:559](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L559)
 
 ***
 
@@ -3514,7 +3518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L26)
+[shared/enums/VehiclesEnum.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L31)
 
 ***
 
@@ -3524,7 +3528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L277)
+[shared/enums/VehiclesEnum.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L282)
 
 ***
 
@@ -3534,7 +3538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L399)
+[shared/enums/VehiclesEnum.ts:404](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L404)
 
 ***
 
@@ -3544,7 +3548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:400](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L400)
+[shared/enums/VehiclesEnum.ts:405](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L405)
 
 ***
 
@@ -3554,7 +3558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:555](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L555)
+[shared/enums/VehiclesEnum.ts:560](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L560)
 
 ***
 
@@ -3564,7 +3568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:624](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L624)
+[shared/enums/VehiclesEnum.ts:629](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L629)
 
 ***
 
@@ -3574,7 +3578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:401](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L401)
+[shared/enums/VehiclesEnum.ts:406](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L406)
 
 ***
 
@@ -3584,7 +3588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L625)
+[shared/enums/VehiclesEnum.ts:630](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L630)
 
 ***
 
@@ -3594,7 +3598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:626](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L626)
+[shared/enums/VehiclesEnum.ts:631](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L631)
 
 ***
 
@@ -3604,7 +3608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L211)
+[shared/enums/VehiclesEnum.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L216)
 
 ***
 
@@ -3614,7 +3618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:212](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L212)
+[shared/enums/VehiclesEnum.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L217)
 
 ***
 
@@ -3624,7 +3628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L213)
+[shared/enums/VehiclesEnum.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L218)
 
 ***
 
@@ -3634,7 +3638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L9)
+[shared/enums/VehiclesEnum.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L14)
 
 ***
 
@@ -3644,7 +3648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:348](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L348)
+[shared/enums/VehiclesEnum.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L353)
 
 ***
 
@@ -3654,7 +3658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:556](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L556)
+[shared/enums/VehiclesEnum.ts:561](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L561)
 
 ***
 
@@ -3664,7 +3668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:557](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L557)
+[shared/enums/VehiclesEnum.ts:562](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L562)
 
 ***
 
@@ -3674,7 +3678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L133)
+[shared/enums/VehiclesEnum.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L138)
 
 ***
 
@@ -3684,7 +3688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L354)
+[shared/enums/VehiclesEnum.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L359)
 
 ***
 
@@ -3694,7 +3698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:444](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L444)
+[shared/enums/VehiclesEnum.ts:449](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L449)
 
 ***
 
@@ -3704,7 +3708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:445](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L445)
+[shared/enums/VehiclesEnum.ts:450](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L450)
 
 ***
 
@@ -3714,7 +3718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L349)
+[shared/enums/VehiclesEnum.ts:354](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L354)
 
 ***
 
@@ -3724,7 +3728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:739](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L739)
+[shared/enums/VehiclesEnum.ts:744](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L744)
 
 ***
 
@@ -3734,7 +3738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:627](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L627)
+[shared/enums/VehiclesEnum.ts:632](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L632)
 
 ***
 
@@ -3744,7 +3748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:402](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L402)
+[shared/enums/VehiclesEnum.ts:407](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L407)
 
 ***
 
@@ -3754,7 +3758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L403)
+[shared/enums/VehiclesEnum.ts:408](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L408)
 
 ***
 
@@ -3764,7 +3768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L170)
+[shared/enums/VehiclesEnum.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L175)
 
 ***
 
@@ -3774,7 +3778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:784](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L784)
+[shared/enums/VehiclesEnum.ts:789](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L789)
 
 ***
 
@@ -3784,7 +3788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:785](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L785)
+[shared/enums/VehiclesEnum.ts:790](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L790)
 
 ***
 
@@ -3794,7 +3798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L154)
+[shared/enums/VehiclesEnum.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L159)
 
 ***
 
@@ -3804,7 +3808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L155)
+[shared/enums/VehiclesEnum.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L160)
 
 ***
 
@@ -3814,7 +3818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:404](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L404)
+[shared/enums/VehiclesEnum.ts:409](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L409)
 
 ***
 
@@ -3824,7 +3828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:405](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L405)
+[shared/enums/VehiclesEnum.ts:410](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L410)
 
 ***
 
@@ -3834,7 +3838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:628](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L628)
+[shared/enums/VehiclesEnum.ts:633](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L633)
 
 ***
 
@@ -3844,7 +3848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:350](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L350)
+[shared/enums/VehiclesEnum.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L355)
 
 ***
 
@@ -3854,7 +3858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L351)
+[shared/enums/VehiclesEnum.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L356)
 
 ***
 
@@ -3864,7 +3868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:352](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L352)
+[shared/enums/VehiclesEnum.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L357)
 
 ***
 
@@ -3874,7 +3878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L353)
+[shared/enums/VehiclesEnum.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L358)
 
 ***
 
@@ -3884,7 +3888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:278](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L278)
+[shared/enums/VehiclesEnum.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L283)
 
 ***
 
@@ -3894,7 +3898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L279)
+[shared/enums/VehiclesEnum.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L284)
 
 ***
 
@@ -3904,7 +3908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:749](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L749)
+[shared/enums/VehiclesEnum.ts:754](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L754)
 
 ***
 
@@ -3914,7 +3918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L37)
+[shared/enums/VehiclesEnum.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L42)
 
 ***
 
@@ -3924,7 +3928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L38)
+[shared/enums/VehiclesEnum.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L43)
 
 ***
 
@@ -3934,7 +3938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L39)
+[shared/enums/VehiclesEnum.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L44)
 
 ***
 
@@ -3944,7 +3948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L40)
+[shared/enums/VehiclesEnum.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L45)
 
 ***
 
@@ -3954,7 +3958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:629](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L629)
+[shared/enums/VehiclesEnum.ts:634](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L634)
 
 ***
 
@@ -3964,7 +3968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:214](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L214)
+[shared/enums/VehiclesEnum.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L219)
 
 ***
 
@@ -3974,7 +3978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:558](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L558)
+[shared/enums/VehiclesEnum.ts:563](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L563)
 
 ***
 
@@ -3984,7 +3988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:559](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L559)
+[shared/enums/VehiclesEnum.ts:564](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L564)
 
 ***
 
@@ -3994,7 +3998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:674](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L674)
+[shared/enums/VehiclesEnum.ts:679](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L679)
 
 ***
 
@@ -4004,7 +4008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:675](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L675)
+[shared/enums/VehiclesEnum.ts:680](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L680)
 
 ***
 
@@ -4014,7 +4018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L215)
+[shared/enums/VehiclesEnum.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L220)
 
 ***
 
@@ -4024,7 +4028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:356](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L356)
+[shared/enums/VehiclesEnum.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L361)
 
 ***
 
@@ -4034,7 +4038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:280](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L280)
+[shared/enums/VehiclesEnum.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L285)
 
 ***
 
@@ -4044,7 +4048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:406](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L406)
+[shared/enums/VehiclesEnum.ts:411](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L411)
 
 ***
 
@@ -4054,7 +4058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:560](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L560)
+[shared/enums/VehiclesEnum.ts:565](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L565)
 
 ***
 
@@ -4064,7 +4068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:561](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L561)
+[shared/enums/VehiclesEnum.ts:566](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L566)
 
 ***
 
@@ -4074,7 +4078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:407](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L407)
+[shared/enums/VehiclesEnum.ts:412](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L412)
 
 ***
 
@@ -4084,7 +4088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:446](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L446)
+[shared/enums/VehiclesEnum.ts:451](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L451)
 
 ***
 
@@ -4094,7 +4098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:562](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L562)
+[shared/enums/VehiclesEnum.ts:567](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L567)
 
 ***
 
@@ -4104,7 +4108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:378](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L378)
+[shared/enums/VehiclesEnum.ts:383](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L383)
 
 ***
 
@@ -4114,7 +4118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:379](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L379)
+[shared/enums/VehiclesEnum.ts:384](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L384)
 
 ***
 
@@ -4124,7 +4128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:216](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L216)
+[shared/enums/VehiclesEnum.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L221)
 
 ***
 
@@ -4134,7 +4138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L217)
+[shared/enums/VehiclesEnum.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L222)
 
 ***
 
@@ -4144,7 +4148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L77)
+[shared/enums/VehiclesEnum.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L82)
 
 ***
 
@@ -4154,7 +4158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L78)
+[shared/enums/VehiclesEnum.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L83)
 
 ***
 
@@ -4164,7 +4168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:676](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L676)
+[shared/enums/VehiclesEnum.ts:681](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L681)
 
 ***
 
@@ -4174,7 +4178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L355)
+[shared/enums/VehiclesEnum.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L360)
 
 ***
 
@@ -4184,7 +4188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L41)
+[shared/enums/VehiclesEnum.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L46)
 
 ***
 
@@ -4194,7 +4198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:566](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L566)
+[shared/enums/VehiclesEnum.ts:571](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L571)
 
 ***
 
@@ -4204,7 +4208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L65)
+[shared/enums/VehiclesEnum.ts:70](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L70)
 
 ***
 
@@ -4214,7 +4218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:786](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L786)
+[shared/enums/VehiclesEnum.ts:791](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L791)
 
 ***
 
@@ -4224,7 +4228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:563](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L563)
+[shared/enums/VehiclesEnum.ts:568](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L568)
 
 ***
 
@@ -4234,7 +4238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:564](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L564)
+[shared/enums/VehiclesEnum.ts:569](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L569)
 
 ***
 
@@ -4244,7 +4248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:565](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L565)
+[shared/enums/VehiclesEnum.ts:570](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L570)
 
 ***
 
@@ -4254,7 +4258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:498](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L498)
+[shared/enums/VehiclesEnum.ts:503](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L503)
 
 ***
 
@@ -4264,7 +4268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:447](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L447)
+[shared/enums/VehiclesEnum.ts:452](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L452)
 
 ***
 
@@ -4274,7 +4278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:448](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L448)
+[shared/enums/VehiclesEnum.ts:453](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L453)
 
 ***
 
@@ -4284,7 +4288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L27)
+[shared/enums/VehiclesEnum.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L32)
 
 ***
 
@@ -4294,7 +4298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:218](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L218)
+[shared/enums/VehiclesEnum.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L223)
 
 ***
 
@@ -4304,7 +4308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:677](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L677)
+[shared/enums/VehiclesEnum.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L682)
 
 ***
 
@@ -4314,7 +4318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:567](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L567)
+[shared/enums/VehiclesEnum.ts:572](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L572)
 
 ***
 
@@ -4324,7 +4328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:568](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L568)
+[shared/enums/VehiclesEnum.ts:573](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L573)
 
 ***
 
@@ -4334,7 +4338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:630](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L630)
+[shared/enums/VehiclesEnum.ts:635](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L635)
 
 ***
 
@@ -4344,7 +4348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L281)
+[shared/enums/VehiclesEnum.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L286)
 
 ***
 
@@ -4354,7 +4358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:631](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L631)
+[shared/enums/VehiclesEnum.ts:636](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L636)
 
 ***
 
@@ -4364,7 +4368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L678)
+[shared/enums/VehiclesEnum.ts:683](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L683)
 
 ***
 
@@ -4374,7 +4378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L42)
+[shared/enums/VehiclesEnum.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L47)
 
 ***
 
@@ -4384,7 +4388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L43)
+[shared/enums/VehiclesEnum.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L48)
 
 ***
 
@@ -4394,7 +4398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L44)
+[shared/enums/VehiclesEnum.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L49)
 
 ***
 
@@ -4404,7 +4408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:282](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L282)
+[shared/enums/VehiclesEnum.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L287)
 
 ***
 
@@ -4414,7 +4418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L283)
+[shared/enums/VehiclesEnum.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L288)
 
 ***
 
@@ -4424,7 +4428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:632](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L632)
+[shared/enums/VehiclesEnum.ts:637](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L637)
 
 ***
 
@@ -4434,7 +4438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L103)
+[shared/enums/VehiclesEnum.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L108)
 
 ***
 
@@ -4444,7 +4448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L104)
+[shared/enums/VehiclesEnum.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L109)
 
 ***
 
@@ -4454,7 +4458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L105)
+[shared/enums/VehiclesEnum.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L110)
 
 ***
 
@@ -4464,7 +4468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L106)
+[shared/enums/VehiclesEnum.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L111)
 
 ***
 
@@ -4474,7 +4478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L107)
+[shared/enums/VehiclesEnum.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L112)
 
 ***
 
@@ -4484,7 +4488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:102](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L102)
+[shared/enums/VehiclesEnum.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L107)
 
 ***
 
@@ -4494,7 +4498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L108)
+[shared/enums/VehiclesEnum.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L113)
 
 ***
 
@@ -4504,7 +4508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L109)
+[shared/enums/VehiclesEnum.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L114)
 
 ***
 
@@ -4514,7 +4518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L110)
+[shared/enums/VehiclesEnum.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L115)
 
 ***
 
@@ -4524,7 +4528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L112)
+[shared/enums/VehiclesEnum.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L117)
 
 ***
 
@@ -4534,7 +4538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L111)
+[shared/enums/VehiclesEnum.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L116)
 
 ***
 
@@ -4544,7 +4548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:787](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L787)
+[shared/enums/VehiclesEnum.ts:792](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L792)
 
 ***
 
@@ -4554,7 +4558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:788](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L788)
+[shared/enums/VehiclesEnum.ts:793](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L793)
 
 ***
 
@@ -4564,7 +4568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L45)
+[shared/enums/VehiclesEnum.ts:50](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L50)
 
 ***
 
@@ -4574,7 +4578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L46)
+[shared/enums/VehiclesEnum.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L51)
 
 ***
 
@@ -4584,7 +4588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L219)
+[shared/enums/VehiclesEnum.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L224)
 
 ***
 
@@ -4594,7 +4598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L66)
+[shared/enums/VehiclesEnum.ts:71](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L71)
 
 ***
 
@@ -4604,7 +4608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L113)
+[shared/enums/VehiclesEnum.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L118)
 
 ***
 
@@ -4614,7 +4618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:477](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L477)
+[shared/enums/VehiclesEnum.ts:482](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L482)
 
 ***
 
@@ -4624,7 +4628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:79](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L79)
+[shared/enums/VehiclesEnum.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L84)
 
 ***
 
@@ -4634,7 +4638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:478](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L478)
+[shared/enums/VehiclesEnum.ts:483](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L483)
 
 ***
 
@@ -4644,7 +4648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:479](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L479)
+[shared/enums/VehiclesEnum.ts:484](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L484)
 
 ***
 
@@ -4654,7 +4658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:716](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L716)
+[shared/enums/VehiclesEnum.ts:721](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L721)
 
 ***
 
@@ -4664,7 +4668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:679](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L679)
+[shared/enums/VehiclesEnum.ts:684](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L684)
 
 ***
 
@@ -4674,7 +4678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:408](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L408)
+[shared/enums/VehiclesEnum.ts:413](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L413)
 
 ***
 
@@ -4684,7 +4688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:569](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L569)
+[shared/enums/VehiclesEnum.ts:574](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L574)
 
 ***
 
@@ -4694,7 +4698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L222)
+[shared/enums/VehiclesEnum.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L227)
 
 ***
 
@@ -4704,7 +4708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:576](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L576)
+[shared/enums/VehiclesEnum.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L581)
 
 ***
 
@@ -4714,7 +4718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:449](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L449)
+[shared/enums/VehiclesEnum.ts:454](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L454)
 
 ***
 
@@ -4724,7 +4728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:570](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L570)
+[shared/enums/VehiclesEnum.ts:575](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L575)
 
 ***
 
@@ -4734,7 +4738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:717](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L717)
+[shared/enums/VehiclesEnum.ts:722](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L722)
 
 ***
 
@@ -4744,7 +4748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:499](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L499)
+[shared/enums/VehiclesEnum.ts:504](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L504)
 
 ***
 
@@ -4754,7 +4758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L357)
+[shared/enums/VehiclesEnum.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L362)
 
 ***
 
@@ -4764,7 +4768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:358](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L358)
+[shared/enums/VehiclesEnum.ts:363](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L363)
 
 ***
 
@@ -4774,7 +4778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:571](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L571)
+[shared/enums/VehiclesEnum.ts:576](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L576)
 
 ***
 
@@ -4784,7 +4788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:572](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L572)
+[shared/enums/VehiclesEnum.ts:577](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L577)
 
 ***
 
@@ -4794,7 +4798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:633](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L633)
+[shared/enums/VehiclesEnum.ts:638](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L638)
 
 ***
 
@@ -4804,7 +4808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:573](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L573)
+[shared/enums/VehiclesEnum.ts:578](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L578)
 
 ***
 
@@ -4814,7 +4818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:220](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L220)
+[shared/enums/VehiclesEnum.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L225)
 
 ***
 
@@ -4824,7 +4828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:284](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L284)
+[shared/enums/VehiclesEnum.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L289)
 
 ***
 
@@ -4834,7 +4838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L285)
+[shared/enums/VehiclesEnum.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L290)
 
 ***
 
@@ -4844,7 +4848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L361)
+[shared/enums/VehiclesEnum.ts:366](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L366)
 
 ***
 
@@ -4854,7 +4858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:680](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L680)
+[shared/enums/VehiclesEnum.ts:685](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L685)
 
 ***
 
@@ -4864,7 +4868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L359)
+[shared/enums/VehiclesEnum.ts:364](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L364)
 
 ***
 
@@ -4874,7 +4878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:360](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L360)
+[shared/enums/VehiclesEnum.ts:365](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L365)
 
 ***
 
@@ -4884,7 +4888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:450](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L450)
+[shared/enums/VehiclesEnum.ts:455](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L455)
 
 ***
 
@@ -4894,7 +4898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:480](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L480)
+[shared/enums/VehiclesEnum.ts:485](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L485)
 
 ***
 
@@ -4904,7 +4908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:574](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L574)
+[shared/enums/VehiclesEnum.ts:579](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L579)
 
 ***
 
@@ -4914,7 +4918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:500](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L500)
+[shared/enums/VehiclesEnum.ts:505](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L505)
 
 ***
 
@@ -4924,7 +4928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:634](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L634)
+[shared/enums/VehiclesEnum.ts:639](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L639)
 
 ***
 
@@ -4934,7 +4938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:635](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L635)
+[shared/enums/VehiclesEnum.ts:640](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L640)
 
 ***
 
@@ -4944,7 +4948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:575](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L575)
+[shared/enums/VehiclesEnum.ts:580](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L580)
 
 ***
 
@@ -4954,7 +4958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L67)
+[shared/enums/VehiclesEnum.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L72)
 
 ***
 
@@ -4964,7 +4968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L171)
+[shared/enums/VehiclesEnum.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L176)
 
 ***
 
@@ -4974,7 +4978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:362](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L362)
+[shared/enums/VehiclesEnum.ts:367](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L367)
 
 ***
 
@@ -4984,7 +4988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L114)
+[shared/enums/VehiclesEnum.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L119)
 
 ***
 
@@ -4994,7 +4998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L115)
+[shared/enums/VehiclesEnum.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L120)
 
 ***
 
@@ -5004,7 +5008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:750](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L750)
+[shared/enums/VehiclesEnum.ts:755](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L755)
 
 ***
 
@@ -5014,7 +5018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:451](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L451)
+[shared/enums/VehiclesEnum.ts:456](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L456)
 
 ***
 
@@ -5024,7 +5028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:409](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L409)
+[shared/enums/VehiclesEnum.ts:414](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L414)
 
 ***
 
@@ -5034,7 +5038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:481](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L481)
+[shared/enums/VehiclesEnum.ts:486](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L486)
 
 ***
 
@@ -5044,7 +5048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L156)
+[shared/enums/VehiclesEnum.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L161)
 
 ***
 
@@ -5054,7 +5058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L221)
+[shared/enums/VehiclesEnum.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L226)
 
 ***
 
@@ -5064,7 +5068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:286](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L286)
+[shared/enums/VehiclesEnum.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L291)
 
 ***
 
@@ -5074,7 +5078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L287)
+[shared/enums/VehiclesEnum.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L292)
 
 ***
 
@@ -5084,7 +5088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:288](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L288)
+[shared/enums/VehiclesEnum.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L293)
 
 ***
 
@@ -5094,7 +5098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:789](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L789)
+[shared/enums/VehiclesEnum.ts:794](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L794)
 
 ***
 
@@ -5104,7 +5108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:790](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L790)
+[shared/enums/VehiclesEnum.ts:795](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L795)
 
 ***
 
@@ -5114,7 +5118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:791](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L791)
+[shared/enums/VehiclesEnum.ts:796](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L796)
 
 ***
 
@@ -5124,7 +5128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:577](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L577)
+[shared/enums/VehiclesEnum.ts:582](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L582)
 
 ***
 
@@ -5134,7 +5138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:681](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L681)
+[shared/enums/VehiclesEnum.ts:686](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L686)
 
 ***
 
@@ -5144,7 +5148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L289)
+[shared/enums/VehiclesEnum.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L294)
 
 ***
 
@@ -5154,7 +5158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:290](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L290)
+[shared/enums/VehiclesEnum.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L295)
 
 ***
 
@@ -5164,7 +5168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:751](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L751)
+[shared/enums/VehiclesEnum.ts:756](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L756)
 
 ***
 
@@ -5174,7 +5178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:752](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L752)
+[shared/enums/VehiclesEnum.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L757)
 
 ***
 
@@ -5184,7 +5188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L223)
+[shared/enums/VehiclesEnum.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L228)
 
 ***
 
@@ -5194,7 +5198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:224](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L224)
+[shared/enums/VehiclesEnum.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L229)
 
 ***
 
@@ -5204,7 +5208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L225)
+[shared/enums/VehiclesEnum.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L230)
 
 ***
 
@@ -5214,7 +5218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:363](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L363)
+[shared/enums/VehiclesEnum.ts:368](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L368)
 
 ***
 
@@ -5224,7 +5228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:364](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L364)
+[shared/enums/VehiclesEnum.ts:369](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L369)
 
 ***
 
@@ -5234,7 +5238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L134)
+[shared/enums/VehiclesEnum.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L139)
 
 ***
 
@@ -5244,7 +5248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:636](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L636)
+[shared/enums/VehiclesEnum.ts:641](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L641)
 
 ***
 
@@ -5254,7 +5258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L682)
+[shared/enums/VehiclesEnum.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L687)
 
 ***
 
@@ -5264,7 +5268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L172)
+[shared/enums/VehiclesEnum.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L177)
 
 ***
 
@@ -5274,7 +5278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L173)
+[shared/enums/VehiclesEnum.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L178)
 
 ***
 
@@ -5284,7 +5288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L174)
+[shared/enums/VehiclesEnum.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L179)
 
 ***
 
@@ -5294,7 +5298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:578](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L578)
+[shared/enums/VehiclesEnum.ts:583](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L583)
 
 ***
 
@@ -5304,7 +5308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:579](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L579)
+[shared/enums/VehiclesEnum.ts:584](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L584)
 
 ***
 
@@ -5314,7 +5318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:580](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L580)
+[shared/enums/VehiclesEnum.ts:585](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L585)
 
 ***
 
@@ -5324,7 +5328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L581)
+[shared/enums/VehiclesEnum.ts:586](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L586)
 
 ***
 
@@ -5334,7 +5338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:582](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L582)
+[shared/enums/VehiclesEnum.ts:587](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L587)
 
 ***
 
@@ -5344,7 +5348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:583](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L583)
+[shared/enums/VehiclesEnum.ts:588](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L588)
 
 ***
 
@@ -5354,7 +5358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:584](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L584)
+[shared/enums/VehiclesEnum.ts:589](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L589)
 
 ***
 
@@ -5364,7 +5368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L91)
+[shared/enums/VehiclesEnum.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L96)
 
 ***
 
@@ -5374,7 +5378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:683](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L683)
+[shared/enums/VehiclesEnum.ts:688](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L688)
 
 ***
 
@@ -5384,7 +5388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:753](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L753)
+[shared/enums/VehiclesEnum.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L758)
 
 ***
 
@@ -5394,7 +5398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:410](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L410)
+[shared/enums/VehiclesEnum.ts:415](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L415)
 
 ***
 
@@ -5404,7 +5408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L10)
+[shared/enums/VehiclesEnum.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L15)
 
 ***
 
@@ -5414,7 +5418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L11)
+[shared/enums/VehiclesEnum.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L16)
 
 ***
 
@@ -5424,7 +5428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L12)
+[shared/enums/VehiclesEnum.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L17)
 
 ***
 
@@ -5434,7 +5438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L135)
+[shared/enums/VehiclesEnum.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L140)
 
 ***
 
@@ -5444,7 +5448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L136)
+[shared/enums/VehiclesEnum.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L141)
 
 ***
 
@@ -5454,7 +5458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L137)
+[shared/enums/VehiclesEnum.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L142)
 
 ***
 
@@ -5464,7 +5468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:452](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L452)
+[shared/enums/VehiclesEnum.ts:457](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L457)
 
 ***
 
@@ -5474,7 +5478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:453](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L453)
+[shared/enums/VehiclesEnum.ts:458](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L458)
 
 ***
 
@@ -5484,7 +5488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L80)
+[shared/enums/VehiclesEnum.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L85)
 
 ***
 
@@ -5494,7 +5498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L81)
+[shared/enums/VehiclesEnum.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L86)
 
 ***
 
@@ -5504,7 +5508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:585](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L585)
+[shared/enums/VehiclesEnum.ts:590](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L590)
 
 ***
 
@@ -5514,7 +5518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:454](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L454)
+[shared/enums/VehiclesEnum.ts:459](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L459)
 
 ***
 
@@ -5524,7 +5528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:586](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L586)
+[shared/enums/VehiclesEnum.ts:591](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L591)
 
 ***
 
@@ -5534,7 +5538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:411](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L411)
+[shared/enums/VehiclesEnum.ts:416](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L416)
 
 ***
 
@@ -5544,7 +5548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:684](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L684)
+[shared/enums/VehiclesEnum.ts:689](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L689)
 
 ***
 
@@ -5554,7 +5558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L116)
+[shared/enums/VehiclesEnum.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L121)
 
 ***
 
@@ -5564,7 +5568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L117)
+[shared/enums/VehiclesEnum.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L122)
 
 ***
 
@@ -5574,7 +5578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:226](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L226)
+[shared/enums/VehiclesEnum.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L231)
 
 ***
 
@@ -5584,7 +5588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L138)
+[shared/enums/VehiclesEnum.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L143)
 
 ***
 
@@ -5594,7 +5598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:762](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L762)
+[shared/enums/VehiclesEnum.ts:767](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L767)
 
 ***
 
@@ -5604,7 +5608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L291)
+[shared/enums/VehiclesEnum.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L296)
 
 ***
 
@@ -5614,7 +5618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L292)
+[shared/enums/VehiclesEnum.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L297)
 
 ***
 
@@ -5624,7 +5628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L293)
+[shared/enums/VehiclesEnum.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L298)
 
 ***
 
@@ -5634,7 +5638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:294](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L294)
+[shared/enums/VehiclesEnum.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L299)
 
 ***
 
@@ -5644,7 +5648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L295)
+[shared/enums/VehiclesEnum.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L300)
 
 ***
 
@@ -5654,7 +5658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L296)
+[shared/enums/VehiclesEnum.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L301)
 
 ***
 
@@ -5664,7 +5668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L227)
+[shared/enums/VehiclesEnum.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L232)
 
 ***
 
@@ -5674,7 +5678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:587](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L587)
+[shared/enums/VehiclesEnum.ts:592](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L592)
 
 ***
 
@@ -5684,7 +5688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:588](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L588)
+[shared/enums/VehiclesEnum.ts:593](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L593)
 
 ***
 
@@ -5694,7 +5698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L13)
+[shared/enums/VehiclesEnum.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L18)
 
 ***
 
@@ -5704,7 +5708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L14)
+[shared/enums/VehiclesEnum.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L19)
 
 ***
 
@@ -5714,7 +5718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:792](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L792)
+[shared/enums/VehiclesEnum.ts:797](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L797)
 
 ***
 
@@ -5724,7 +5728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:793](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L793)
+[shared/enums/VehiclesEnum.ts:798](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L798)
 
 ***
 
@@ -5734,7 +5738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:794](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L794)
+[shared/enums/VehiclesEnum.ts:799](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L799)
 
 ***
 
@@ -5744,7 +5748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:455](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L455)
+[shared/enums/VehiclesEnum.ts:460](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L460)
 
 ***
 
@@ -5754,7 +5758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L15)
+[shared/enums/VehiclesEnum.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L20)
 
 ***
 
@@ -5764,7 +5768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:482](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L482)
+[shared/enums/VehiclesEnum.ts:487](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L487)
 
 ***
 
@@ -5774,7 +5778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L297)
+[shared/enums/VehiclesEnum.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L302)
 
 ***
 
@@ -5784,7 +5788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:298](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L298)
+[shared/enums/VehiclesEnum.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L303)
 
 ***
 
@@ -5794,7 +5798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:483](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L483)
+[shared/enums/VehiclesEnum.ts:488](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L488)
 
 ***
 
@@ -5804,7 +5808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:412](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L412)
+[shared/enums/VehiclesEnum.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L417)
 
 ***
 
@@ -5814,7 +5818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:637](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L637)
+[shared/enums/VehiclesEnum.ts:642](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L642)
 
 ***
 
@@ -5824,7 +5828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:638](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L638)
+[shared/enums/VehiclesEnum.ts:643](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L643)
 
 ***
 
@@ -5834,7 +5838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L47)
+[shared/enums/VehiclesEnum.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L52)
 
 ***
 
@@ -5844,7 +5848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L48)
+[shared/enums/VehiclesEnum.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L53)
 
 ***
 
@@ -5854,7 +5858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:484](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L484)
+[shared/enums/VehiclesEnum.ts:489](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L489)
 
 ***
 
@@ -5864,7 +5868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:589](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L589)
+[shared/enums/VehiclesEnum.ts:594](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L594)
 
 ***
 
@@ -5874,7 +5878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:485](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L485)
+[shared/enums/VehiclesEnum.ts:490](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L490)
 
 ***
 
@@ -5884,7 +5888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:413](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L413)
+[shared/enums/VehiclesEnum.ts:418](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L418)
 
 ***
 
@@ -5894,7 +5898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:639](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L639)
+[shared/enums/VehiclesEnum.ts:644](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L644)
 
 ***
 
@@ -5904,7 +5908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L228)
+[shared/enums/VehiclesEnum.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L233)
 
 ***
 
@@ -5914,7 +5918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:414](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L414)
+[shared/enums/VehiclesEnum.ts:419](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L419)
 
 ***
 
@@ -5924,7 +5928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L16)
+[shared/enums/VehiclesEnum.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L21)
 
 ***
 
@@ -5934,7 +5938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L17)
+[shared/enums/VehiclesEnum.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L22)
 
 ***
 
@@ -5944,7 +5948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:590](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L590)
+[shared/enums/VehiclesEnum.ts:595](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L595)
 
 ***
 
@@ -5954,7 +5958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:591](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L591)
+[shared/enums/VehiclesEnum.ts:596](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L596)
 
 ***
 
@@ -5964,7 +5968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:592](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L592)
+[shared/enums/VehiclesEnum.ts:597](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L597)
 
 ***
 
@@ -5974,7 +5978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:593](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L593)
+[shared/enums/VehiclesEnum.ts:598](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L598)
 
 ***
 
@@ -5984,7 +5988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:685](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L685)
+[shared/enums/VehiclesEnum.ts:690](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L690)
 
 ***
 
@@ -5994,7 +5998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L18)
+[shared/enums/VehiclesEnum.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L23)
 
 ***
 
@@ -6004,7 +6008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L139)
+[shared/enums/VehiclesEnum.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L144)
 
 ***
 
@@ -6014,7 +6018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L140)
+[shared/enums/VehiclesEnum.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L145)
 
 ***
 
@@ -6024,7 +6028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:486](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L486)
+[shared/enums/VehiclesEnum.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L491)
 
 ***
 
@@ -6034,7 +6038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:594](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L594)
+[shared/enums/VehiclesEnum.ts:599](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L599)
 
 ***
 
@@ -6044,7 +6048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:795](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L795)
+[shared/enums/VehiclesEnum.ts:800](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L800)
 
 ***
 
@@ -6054,7 +6058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:796](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L796)
+[shared/enums/VehiclesEnum.ts:801](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L801)
 
 ***
 
@@ -6064,7 +6068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:797](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L797)
+[shared/enums/VehiclesEnum.ts:802](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L802)
 
 ***
 
@@ -6074,7 +6078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:487](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L487)
+[shared/enums/VehiclesEnum.ts:492](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L492)
 
 ***
 
@@ -6084,7 +6088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L141)
+[shared/enums/VehiclesEnum.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L146)
 
 ***
 
@@ -6094,7 +6098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L142)
+[shared/enums/VehiclesEnum.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L147)
 
 ***
 
@@ -6104,7 +6108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:640](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L640)
+[shared/enums/VehiclesEnum.ts:645](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L645)
 
 ***
 
@@ -6114,7 +6118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:686](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L686)
+[shared/enums/VehiclesEnum.ts:691](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L691)
 
 ***
 
@@ -6124,7 +6128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:798](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L798)
+[shared/enums/VehiclesEnum.ts:803](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L803)
 
 ***
 
@@ -6134,7 +6138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L299)
+[shared/enums/VehiclesEnum.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L304)
 
 ***
 
@@ -6144,7 +6148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:488](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L488)
+[shared/enums/VehiclesEnum.ts:493](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L493)
 
 ***
 
@@ -6154,7 +6158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:489](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L489)
+[shared/enums/VehiclesEnum.ts:494](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L494)
 
 ***
 
@@ -6164,7 +6168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L687)
+[shared/enums/VehiclesEnum.ts:692](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L692)
 
 ***
 
@@ -6174,7 +6178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:300](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L300)
+[shared/enums/VehiclesEnum.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L305)
 
 ***
 
@@ -6184,7 +6188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:595](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L595)
+[shared/enums/VehiclesEnum.ts:600](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L600)
 
 ***
 
@@ -6194,7 +6198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L301)
+[shared/enums/VehiclesEnum.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L306)
 
 ***
 
@@ -6204,7 +6208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:723](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L723)
+[shared/enums/VehiclesEnum.ts:728](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L728)
 
 ***
 
@@ -6214,7 +6218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:724](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L724)
+[shared/enums/VehiclesEnum.ts:729](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L729)
 
 ***
 
@@ -6224,7 +6228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:740](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L740)
+[shared/enums/VehiclesEnum.ts:745](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L745)
 
 ***
 
@@ -6234,7 +6238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:501](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L501)
+[shared/enums/VehiclesEnum.ts:506](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L506)
 
 ***
 
@@ -6244,7 +6248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:365](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L365)
+[shared/enums/VehiclesEnum.ts:370](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L370)
 
 ***
 
@@ -6254,7 +6258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:366](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L366)
+[shared/enums/VehiclesEnum.ts:371](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L371)
 
 ***
 
@@ -6264,7 +6268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:367](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L367)
+[shared/enums/VehiclesEnum.ts:372](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L372)
 
 ***
 
@@ -6274,7 +6278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:688](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L688)
+[shared/enums/VehiclesEnum.ts:693](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L693)
 
 ***
 
@@ -6284,7 +6288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L49)
+[shared/enums/VehiclesEnum.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L54)
 
 ***
 
@@ -6294,7 +6298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:689](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L689)
+[shared/enums/VehiclesEnum.ts:694](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L694)
 
 ***
 
@@ -6304,7 +6308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:690](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L690)
+[shared/enums/VehiclesEnum.ts:695](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L695)
 
 ***
 
@@ -6314,7 +6318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L229)
+[shared/enums/VehiclesEnum.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L234)
 
 ***
 
@@ -6324,7 +6328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L175)
+[shared/enums/VehiclesEnum.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L180)
 
 ***
 
@@ -6334,7 +6338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:691](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L691)
+[shared/enums/VehiclesEnum.ts:696](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L696)
 
 ***
 
@@ -6344,7 +6348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L157)
+[shared/enums/VehiclesEnum.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L162)
 
 ***
 
@@ -6354,7 +6358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L158)
+[shared/enums/VehiclesEnum.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L163)
 
 ***
 
@@ -6364,7 +6368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:415](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L415)
+[shared/enums/VehiclesEnum.ts:420](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L420)
 
 ***
 
@@ -6374,7 +6378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:641](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L641)
+[shared/enums/VehiclesEnum.ts:646](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L646)
 
 ***
 
@@ -6384,7 +6388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:642](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L642)
+[shared/enums/VehiclesEnum.ts:647](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L647)
 
 ***
 
@@ -6394,7 +6398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:643](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L643)
+[shared/enums/VehiclesEnum.ts:648](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L648)
 
 ***
 
@@ -6404,7 +6408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:644](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L644)
+[shared/enums/VehiclesEnum.ts:649](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L649)
 
 ***
 
@@ -6414,7 +6418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:645](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L645)
+[shared/enums/VehiclesEnum.ts:650](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L650)
 
 ***
 
@@ -6424,7 +6428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:646](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L646)
+[shared/enums/VehiclesEnum.ts:651](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L651)
 
 ***
 
@@ -6434,7 +6438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:647](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L647)
+[shared/enums/VehiclesEnum.ts:652](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L652)
 
 ***
 
@@ -6444,7 +6448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:648](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L648)
+[shared/enums/VehiclesEnum.ts:653](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L653)
 
 ***
 
@@ -6454,7 +6458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L19)
+[shared/enums/VehiclesEnum.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L24)
 
 ***
 
@@ -6464,7 +6468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L20)
+[shared/enums/VehiclesEnum.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L25)
 
 ***
 
@@ -6474,7 +6478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:456](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L456)
+[shared/enums/VehiclesEnum.ts:461](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L461)
 
 ***
 
@@ -6484,7 +6488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:502](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L502)
+[shared/enums/VehiclesEnum.ts:507](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L507)
 
 ***
 
@@ -6494,7 +6498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:754](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L754)
+[shared/enums/VehiclesEnum.ts:759](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L759)
 
 ***
 
@@ -6504,7 +6508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:755](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L755)
+[shared/enums/VehiclesEnum.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L760)
 
 ***
 
@@ -6514,7 +6518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:718](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L718)
+[shared/enums/VehiclesEnum.ts:723](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L723)
 
 ***
 
@@ -6524,7 +6528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:719](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L719)
+[shared/enums/VehiclesEnum.ts:724](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L724)
 
 ***
 
@@ -6534,7 +6538,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:720](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L720)
+[shared/enums/VehiclesEnum.ts:725](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L725)
 
 ***
 
@@ -6544,7 +6548,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:721](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L721)
+[shared/enums/VehiclesEnum.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L726)
 
 ***
 
@@ -6554,7 +6558,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:756](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L756)
+[shared/enums/VehiclesEnum.ts:761](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L761)
 
 ***
 
@@ -6564,7 +6568,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L757)
+[shared/enums/VehiclesEnum.ts:762](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L762)
 
 ***
 
@@ -6574,7 +6578,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L758)
+[shared/enums/VehiclesEnum.ts:763](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L763)
 
 ***
 
@@ -6584,7 +6588,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:725](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L725)
+[shared/enums/VehiclesEnum.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L730)
 
 ***
 
@@ -6594,7 +6598,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L726)
+[shared/enums/VehiclesEnum.ts:731](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L731)
 
 ***
 
@@ -6604,7 +6608,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:727](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L727)
+[shared/enums/VehiclesEnum.ts:732](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L732)
 
 ***
 
@@ -6614,7 +6618,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L176)
+[shared/enums/VehiclesEnum.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L181)
 
 ***
 
@@ -6624,7 +6628,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:728](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L728)
+[shared/enums/VehiclesEnum.ts:733](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L733)
 
 ***
 
@@ -6634,7 +6638,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:729](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L729)
+[shared/enums/VehiclesEnum.ts:734](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L734)
 
 ***
 
@@ -6644,7 +6648,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L730)
+[shared/enums/VehiclesEnum.ts:735](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L735)
 
 ***
 
@@ -6654,7 +6658,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:731](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L731)
+[shared/enums/VehiclesEnum.ts:736](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L736)
 
 ***
 
@@ -6664,7 +6668,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:503](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L503)
+[shared/enums/VehiclesEnum.ts:508](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L508)
 
 ***
 
@@ -6674,7 +6678,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:504](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L504)
+[shared/enums/VehiclesEnum.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L509)
 
 ***
 
@@ -6684,7 +6688,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L92)
+[shared/enums/VehiclesEnum.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L97)
 
 ***
 
@@ -6694,7 +6698,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L93)
+[shared/enums/VehiclesEnum.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L98)
 
 ***
 
@@ -6704,7 +6708,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L94)
+[shared/enums/VehiclesEnum.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L99)
 
 ***
 
@@ -6714,7 +6718,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:368](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L368)
+[shared/enums/VehiclesEnum.ts:373](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L373)
 
 ***
 
@@ -6724,7 +6728,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:369](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L369)
+[shared/enums/VehiclesEnum.ts:374](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L374)
 
 ***
 
@@ -6734,7 +6738,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L21)
+[shared/enums/VehiclesEnum.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L26)
 
 ***
 
@@ -6744,7 +6748,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L22)
+[shared/enums/VehiclesEnum.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L27)
 
 ***
 
@@ -6754,7 +6758,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:596](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L596)
+[shared/enums/VehiclesEnum.ts:601](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L601)
 
 ***
 
@@ -6764,7 +6768,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L23)
+[shared/enums/VehiclesEnum.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L28)
 
 ***
 
@@ -6774,7 +6778,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:416](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L416)
+[shared/enums/VehiclesEnum.ts:421](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L421)
 
 ***
 
@@ -6784,7 +6788,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:302](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L302)
+[shared/enums/VehiclesEnum.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L307)
 
 ***
 
@@ -6794,7 +6798,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L303)
+[shared/enums/VehiclesEnum.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L308)
 
 ***
 
@@ -6804,7 +6808,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:649](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L649)
+[shared/enums/VehiclesEnum.ts:654](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L654)
 
 ***
 
@@ -6814,7 +6818,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:692](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L692)
+[shared/enums/VehiclesEnum.ts:697](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L697)
 
 ***
 
@@ -6824,7 +6828,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:722](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L722)
+[shared/enums/VehiclesEnum.ts:727](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L727)
 
 ***
 
@@ -6834,7 +6838,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:693](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L693)
+[shared/enums/VehiclesEnum.ts:698](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L698)
 
 ***
 
@@ -6844,7 +6848,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:694](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L694)
+[shared/enums/VehiclesEnum.ts:699](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L699)
 
 ***
 
@@ -6854,7 +6858,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:759](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L759)
+[shared/enums/VehiclesEnum.ts:764](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L764)
 
 ***
 
@@ -6864,7 +6868,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L760)
+[shared/enums/VehiclesEnum.ts:765](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L765)
 
 ***
 
@@ -6874,7 +6878,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:761](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L761)
+[shared/enums/VehiclesEnum.ts:766](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L766)
 
 ***
 
@@ -6884,7 +6888,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:601](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L601)
+[shared/enums/VehiclesEnum.ts:606](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L606)
 
 ***
 
@@ -6894,7 +6898,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:695](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L695)
+[shared/enums/VehiclesEnum.ts:700](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L700)
 
 ***
 
@@ -6904,7 +6908,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L230)
+[shared/enums/VehiclesEnum.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L235)
 
 ***
 
@@ -6914,7 +6918,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:696](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L696)
+[shared/enums/VehiclesEnum.ts:701](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L701)
 
 ***
 
@@ -6924,7 +6928,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:370](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L370)
+[shared/enums/VehiclesEnum.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L375)
 
 ***
 
@@ -6934,7 +6938,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L143)
+[shared/enums/VehiclesEnum.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L148)
 
 ***
 
@@ -6944,7 +6948,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L144)
+[shared/enums/VehiclesEnum.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L149)
 
 ***
 
@@ -6954,7 +6958,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:304](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L304)
+[shared/enums/VehiclesEnum.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L309)
 
 ***
 
@@ -6964,7 +6968,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:597](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L597)
+[shared/enums/VehiclesEnum.ts:602](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L602)
 
 ***
 
@@ -6974,7 +6978,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L417)
+[shared/enums/VehiclesEnum.ts:422](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L422)
 
 ***
 
@@ -6984,7 +6988,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:418](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L418)
+[shared/enums/VehiclesEnum.ts:423](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L423)
 
 ***
 
@@ -6994,7 +6998,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:598](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L598)
+[shared/enums/VehiclesEnum.ts:603](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L603)
 
 ***
 
@@ -7004,7 +7008,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:371](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L371)
+[shared/enums/VehiclesEnum.ts:376](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L376)
 
 ***
 
@@ -7014,7 +7018,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:419](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L419)
+[shared/enums/VehiclesEnum.ts:424](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L424)
 
 ***
 
@@ -7024,7 +7028,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L177)
+[shared/enums/VehiclesEnum.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L182)
 
 ***
 
@@ -7034,7 +7038,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:599](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L599)
+[shared/enums/VehiclesEnum.ts:604](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L604)
 
 ***
 
@@ -7044,7 +7048,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:600](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L600)
+[shared/enums/VehiclesEnum.ts:605](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L605)
 
 ***
 
@@ -7054,7 +7058,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L305)
+[shared/enums/VehiclesEnum.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L310)
 
 ***
 
@@ -7064,7 +7068,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:697](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L697)
+[shared/enums/VehiclesEnum.ts:702](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L702)
 
 ***
 
@@ -7074,7 +7078,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L231)
+[shared/enums/VehiclesEnum.ts:236](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L236)
 
 ***
 
@@ -7084,7 +7088,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L306)
+[shared/enums/VehiclesEnum.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L311)
 
 ***
 
@@ -7094,7 +7098,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L307)
+[shared/enums/VehiclesEnum.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L312)
 
 ***
 
@@ -7104,7 +7108,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:308](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L308)
+[shared/enums/VehiclesEnum.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L313)
 
 ***
 
@@ -7114,7 +7118,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:698](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L698)
+[shared/enums/VehiclesEnum.ts:703](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L703)
 
 ***
 
@@ -7124,7 +7128,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:650](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L650)
+[shared/enums/VehiclesEnum.ts:655](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L655)
 
 ***
 
@@ -7134,7 +7138,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:699](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L699)
+[shared/enums/VehiclesEnum.ts:704](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L704)
 
 ***
 
@@ -7144,7 +7148,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:420](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L420)
+[shared/enums/VehiclesEnum.ts:425](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L425)
 
 ***
 
@@ -7154,7 +7158,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L145)
+[shared/enums/VehiclesEnum.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L150)
 
 ***
 
@@ -7164,7 +7168,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:700](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L700)
+[shared/enums/VehiclesEnum.ts:705](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L705)
 
 ***
 
@@ -7174,7 +7178,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:701](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L701)
+[shared/enums/VehiclesEnum.ts:706](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L706)
 
 ***
 
@@ -7184,7 +7188,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L309)
+[shared/enums/VehiclesEnum.ts:314](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L314)
 
 ***
 
@@ -7194,7 +7198,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:310](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L310)
+[shared/enums/VehiclesEnum.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L315)
 
 ***
 
@@ -7204,7 +7208,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L232)
+[shared/enums/VehiclesEnum.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L237)
 
 ***
 
@@ -7214,7 +7218,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:490](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L490)
+[shared/enums/VehiclesEnum.ts:495](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L495)
 
 ***
 
@@ -7224,7 +7228,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L491)
+[shared/enums/VehiclesEnum.ts:496](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L496)
 
 ***
 
@@ -7234,7 +7238,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:505](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L505)
+[shared/enums/VehiclesEnum.ts:510](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L510)
 
 ***
 
@@ -7244,7 +7248,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L68)
+[shared/enums/VehiclesEnum.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L73)
 
 ***
 
@@ -7254,7 +7258,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L82)
+[shared/enums/VehiclesEnum.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L87)
 
 ***
 
@@ -7264,7 +7268,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L83)
+[shared/enums/VehiclesEnum.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L88)
 
 ***
 
@@ -7274,7 +7278,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:372](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L372)
+[shared/enums/VehiclesEnum.ts:377](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L377)
 
 ***
 
@@ -7284,7 +7288,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L233)
+[shared/enums/VehiclesEnum.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L238)
 
 ***
 
@@ -7294,7 +7298,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:702](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L702)
+[shared/enums/VehiclesEnum.ts:707](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L707)
 
 ***
 
@@ -7304,7 +7308,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:457](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L457)
+[shared/enums/VehiclesEnum.ts:462](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L462)
 
 ***
 
@@ -7314,7 +7318,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:458](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L458)
+[shared/enums/VehiclesEnum.ts:463](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L463)
 
 ***
 
@@ -7324,7 +7328,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L311)
+[shared/enums/VehiclesEnum.ts:316](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L316)
 
 ***
 
@@ -7334,7 +7338,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:312](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L312)
+[shared/enums/VehiclesEnum.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L317)
 
 ***
 
@@ -7344,7 +7348,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L313)
+[shared/enums/VehiclesEnum.ts:318](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L318)
 
 ***
 
@@ -7354,7 +7358,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:799](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L799)
+[shared/enums/VehiclesEnum.ts:804](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L804)
 
 ***
 
@@ -7364,7 +7368,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:800](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L800)
+[shared/enums/VehiclesEnum.ts:805](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L805)
 
 ***
 
@@ -7374,7 +7378,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:801](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L801)
+[shared/enums/VehiclesEnum.ts:806](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L806)
 
 ***
 
@@ -7384,7 +7388,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:651](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L651)
+[shared/enums/VehiclesEnum.ts:656](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L656)
 
 ***
 
@@ -7394,7 +7398,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:602](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L602)
+[shared/enums/VehiclesEnum.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L607)
 
 ***
 
@@ -7404,7 +7408,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:603](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L603)
+[shared/enums/VehiclesEnum.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L608)
 
 ***
 
@@ -7414,7 +7418,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:604](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L604)
+[shared/enums/VehiclesEnum.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L609)
 
 ***
 
@@ -7424,7 +7428,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:605](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L605)
+[shared/enums/VehiclesEnum.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L610)
 
 ***
 
@@ -7434,7 +7438,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:653](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L653)
+[shared/enums/VehiclesEnum.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L658)
 
 ***
 
@@ -7444,7 +7448,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:703](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L703)
+[shared/enums/VehiclesEnum.ts:708](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L708)
 
 ***
 
@@ -7454,7 +7458,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:373](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L373)
+[shared/enums/VehiclesEnum.ts:378](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L378)
 
 ***
 
@@ -7464,7 +7468,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L84)
+[shared/enums/VehiclesEnum.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L89)
 
 ***
 
@@ -7474,7 +7478,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L85)
+[shared/enums/VehiclesEnum.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L90)
 
 ***
 
@@ -7484,7 +7488,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:652](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L652)
+[shared/enums/VehiclesEnum.ts:657](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L657)
 
 ***
 
@@ -7494,7 +7498,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:234](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L234)
+[shared/enums/VehiclesEnum.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L239)
 
 ***
 
@@ -7504,7 +7508,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L235)
+[shared/enums/VehiclesEnum.ts:240](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L240)
 
 ***
 
@@ -7514,7 +7518,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:704](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L704)
+[shared/enums/VehiclesEnum.ts:709](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L709)
 
 ***
 
@@ -7524,7 +7528,7 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:392](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L392)
+[shared/enums/VehiclesEnum.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L397)
 
 ***
 
@@ -7534,4 +7538,4 @@
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:393](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L393)
+[shared/enums/VehiclesEnum.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L398)

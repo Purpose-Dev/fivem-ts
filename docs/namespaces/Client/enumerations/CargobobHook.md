@@ -1,10 +1,12 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CargobobHook
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CargobobHook
 
 # Enumeration: CargobobHook
+
+Enum representing different types of hooks that can be attached to a Cargobob.
 
 ## Enumeration Members
 
@@ -14,7 +16,7 @@
 
 #### Defined in
 
-[client/enums/CargobobHook.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CargobobHook.ts#L2)
+[client/enums/CargobobHook.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CargobobHook.ts#L7)
 
 ***
 
@@ -24,4 +26,4 @@
 
 #### Defined in
 
-[client/enums/CargobobHook.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CargobobHook.ts#L3)
+[client/enums/CargobobHook.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CargobobHook.ts#L8)

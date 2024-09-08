@@ -1,10 +1,14 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / AudioFlag
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / AudioFlag
 
 # Enumeration: AudioFlag
+
+Enum representing various audio flags that can be used to control audio behaviors.
+These flags can be used to modify audio settings, enable or disable specific audio
+features and control how different types of audio are handled.
 
 ## Enumeration Members
 
@@ -14,7 +18,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L2)
+[client/enums/AudioFlag.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L7)
 
 ***
 
@@ -24,7 +28,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L3)
+[client/enums/AudioFlag.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L8)
 
 ***
 
@@ -34,7 +38,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L4)
+[client/enums/AudioFlag.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L9)
 
 ***
 
@@ -44,7 +48,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L5)
+[client/enums/AudioFlag.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L10)
 
 ***
 
@@ -54,7 +58,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L6)
+[client/enums/AudioFlag.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L11)
 
 ***
 
@@ -64,7 +68,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L7)
+[client/enums/AudioFlag.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L12)
 
 ***
 
@@ -74,7 +78,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L8)
+[client/enums/AudioFlag.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L13)
 
 ***
 
@@ -84,7 +88,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L9)
+[client/enums/AudioFlag.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L14)
 
 ***
 
@@ -94,7 +98,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L10)
+[client/enums/AudioFlag.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L15)
 
 ***
 
@@ -104,7 +108,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L11)
+[client/enums/AudioFlag.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L16)
 
 ***
 
@@ -114,7 +118,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L12)
+[client/enums/AudioFlag.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L17)
 
 ***
 
@@ -124,7 +128,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L13)
+[client/enums/AudioFlag.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L18)
 
 ***
 
@@ -134,7 +138,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L14)
+[client/enums/AudioFlag.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L19)
 
 ***
 
@@ -144,7 +148,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L15)
+[client/enums/AudioFlag.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L20)
 
 ***
 
@@ -154,7 +158,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L16)
+[client/enums/AudioFlag.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L21)
 
 ***
 
@@ -164,7 +168,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L17)
+[client/enums/AudioFlag.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L22)
 
 ***
 
@@ -174,7 +178,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L18)
+[client/enums/AudioFlag.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L23)
 
 ***
 
@@ -184,7 +188,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L19)
+[client/enums/AudioFlag.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L24)
 
 ***
 
@@ -194,7 +198,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L20)
+[client/enums/AudioFlag.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L25)
 
 ***
 
@@ -204,7 +208,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L21)
+[client/enums/AudioFlag.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L26)
 
 ***
 
@@ -214,7 +218,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L22)
+[client/enums/AudioFlag.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L27)
 
 ***
 
@@ -224,7 +228,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L23)
+[client/enums/AudioFlag.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L28)
 
 ***
 
@@ -234,7 +238,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L24)
+[client/enums/AudioFlag.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L29)
 
 ***
 
@@ -244,7 +248,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L25)
+[client/enums/AudioFlag.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L30)
 
 ***
 
@@ -254,7 +258,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L26)
+[client/enums/AudioFlag.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L31)
 
 ***
 
@@ -264,7 +268,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L27)
+[client/enums/AudioFlag.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L32)
 
 ***
 
@@ -274,7 +278,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L28)
+[client/enums/AudioFlag.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L33)
 
 ***
 
@@ -284,7 +288,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L29)
+[client/enums/AudioFlag.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L34)
 
 ***
 
@@ -294,7 +298,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L30)
+[client/enums/AudioFlag.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L35)
 
 ***
 
@@ -304,7 +308,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L31)
+[client/enums/AudioFlag.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L36)
 
 ***
 
@@ -314,7 +318,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L32)
+[client/enums/AudioFlag.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L37)
 
 ***
 
@@ -324,7 +328,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L33)
+[client/enums/AudioFlag.ts:38](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L38)
 
 ***
 
@@ -334,7 +338,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L34)
+[client/enums/AudioFlag.ts:39](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L39)
 
 ***
 
@@ -344,7 +348,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L35)
+[client/enums/AudioFlag.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L40)
 
 ***
 
@@ -354,7 +358,7 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L36)
+[client/enums/AudioFlag.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L41)
 
 ***
 
@@ -364,4 +368,4 @@
 
 #### Defined in
 
-[client/enums/AudioFlag.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L37)
+[client/enums/AudioFlag.ts:42](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/AudioFlag.ts#L42)

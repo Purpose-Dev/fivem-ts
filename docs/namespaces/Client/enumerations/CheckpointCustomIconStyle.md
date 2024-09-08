@@ -1,10 +1,31 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / CheckpointCustomIconStyle
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CheckpointCustomIconStyle
 
 # Enumeration: CheckpointCustomIconStyle
+
+Enumeration representing different styles for checkpoint custom icons.
+
+Each member of this enumeration corresponds to a specific style of icon that can be used to
+personalize the appearance of checkpoints. These styles can be leveraged to enhance visuals
+and provide distinctive icons for various checkpoints in an application.
+
+Members include:
+- Number: Represents a numerical style.
+- SingleArrow: Represents a single arrow style.
+- DoubleArrow: Represents a double arrow style.
+- TripleArrow: Represents a triple arrow style.
+- Ring: Represents a ring style.
+- CycleArrow: Represents a cycling arrow style.
+- Ring2: Represents an alternate ring style.
+- RingPointer: Represents a ring with a pointer.
+- SegmentedRing: Represents a segmented ring style.
+- Sphere: Represents a spherical style.
+- Dollar: Represents a dollar symbol style.
+- QuintupleLines: Represents a style with five lines.
+- BeastIcon: Represents a style with a beast icon.
 
 ## Enumeration Members
 
@@ -14,7 +35,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L66)
+[client/enums/CheckPoints.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L94)
 
 ***
 
@@ -24,7 +45,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L59)
+[client/enums/CheckPoints.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L87)
 
 ***
 
@@ -34,7 +55,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:64](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L64)
+[client/enums/CheckPoints.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L92)
 
 ***
 
@@ -44,7 +65,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L56)
+[client/enums/CheckPoints.ts:84](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L84)
 
 ***
 
@@ -54,7 +75,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:54](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L54)
+[client/enums/CheckPoints.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L82)
 
 ***
 
@@ -64,7 +85,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L65)
+[client/enums/CheckPoints.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L93)
 
 ***
 
@@ -74,7 +95,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L58)
+[client/enums/CheckPoints.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L86)
 
 ***
 
@@ -84,7 +105,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L60)
+[client/enums/CheckPoints.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L88)
 
 ***
 
@@ -94,7 +115,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L61)
+[client/enums/CheckPoints.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L89)
 
 ***
 
@@ -104,7 +125,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L62)
+[client/enums/CheckPoints.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L90)
 
 ***
 
@@ -114,7 +135,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:55](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L55)
+[client/enums/CheckPoints.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L83)
 
 ***
 
@@ -124,7 +145,7 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:63](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L63)
+[client/enums/CheckPoints.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L91)
 
 ***
 
@@ -134,4 +155,4 @@
 
 #### Defined in
 
-[client/enums/CheckPoints.ts:57](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L57)
+[client/enums/CheckPoints.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CheckPoints.ts#L85)

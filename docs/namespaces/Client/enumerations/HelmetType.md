@@ -1,10 +1,14 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / HelmetType
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / HelmetType
 
 # Enumeration: HelmetType
+
+Enumeration for types of helmets.
+This enum provides a set of constants representing different types of helmets and their associated attributes.
+Each helmet type is represented by a unique integer value.
 
 ## Enumeration Members
 
@@ -14,7 +18,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L12)
+[client/enums/HelmetType.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L17)
 
 ***
 
@@ -24,7 +28,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L9)
+[client/enums/HelmetType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L14)
 
 ***
 
@@ -34,7 +38,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L3)
+[client/enums/HelmetType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L8)
 
 ***
 
@@ -44,7 +48,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L7)
+[client/enums/HelmetType.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L12)
 
 ***
 
@@ -54,7 +58,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L15)
+[client/enums/HelmetType.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L20)
 
 ***
 
@@ -64,7 +68,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L11)
+[client/enums/HelmetType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L16)
 
 ***
 
@@ -74,7 +78,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L18)
+[client/enums/HelmetType.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L23)
 
 ***
 
@@ -84,7 +88,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L19)
+[client/enums/HelmetType.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L24)
 
 ***
 
@@ -94,7 +98,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L14)
+[client/enums/HelmetType.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L19)
 
 ***
 
@@ -104,7 +108,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L4)
+[client/enums/HelmetType.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L9)
 
 ***
 
@@ -114,7 +118,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L13)
+[client/enums/HelmetType.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L18)
 
 ***
 
@@ -124,7 +128,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:2](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L2)
+[client/enums/HelmetType.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L7)
 
 ***
 
@@ -134,7 +138,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L8)
+[client/enums/HelmetType.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L13)
 
 ***
 
@@ -144,7 +148,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L10)
+[client/enums/HelmetType.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L15)
 
 ***
 
@@ -154,7 +158,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L21)
+[client/enums/HelmetType.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L26)
 
 ***
 
@@ -164,7 +168,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L16)
+[client/enums/HelmetType.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L21)
 
 ***
 
@@ -174,7 +178,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L17)
+[client/enums/HelmetType.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L22)
 
 ***
 
@@ -184,7 +188,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L5)
+[client/enums/HelmetType.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L10)
 
 ***
 
@@ -194,7 +198,7 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L20)
+[client/enums/HelmetType.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L25)
 
 ***
 
@@ -204,4 +208,4 @@
 
 #### Defined in
 
-[client/enums/HelmetType.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L6)
+[client/enums/HelmetType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HelmetType.ts#L11)

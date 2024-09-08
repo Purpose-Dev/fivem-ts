@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../README.md) / Shared
+[fivem-ts - Documentation v0.6.0](../../README.md) / Shared
 
 # Shared
 
@@ -15,8 +15,13 @@
 - [PedType](enumerations/PedType.md)
 - [PedsEnum](enumerations/PedsEnum.md)
 - [VehicleAmmoTypesHash](enumerations/VehicleAmmoTypesHash.md)
+- [VehicleLandingGearState](enumerations/VehicleLandingGearState.md)
 - [VehicleLockState](enumerations/VehicleLockState.md)
+- [VehicleSeat](enumerations/VehicleSeat.md)
 - [VehicleWeaponsHash](enumerations/VehicleWeaponsHash.md)
+- [VehicleWheelType](enumerations/VehicleWheelType.md)
+- [VehicleWindowIndex](enumerations/VehicleWindowIndex.md)
+- [VehicleWindowTint](enumerations/VehicleWindowTint.md)
 - [VehiclesEnum](enumerations/VehiclesEnum.md)
 - [WeaponsHash](enumerations/WeaponsHash.md)
 - [WeatherEnum](enumerations/WeatherEnum.md)

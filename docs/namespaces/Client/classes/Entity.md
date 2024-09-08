@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../../README.md) / [Client](../README.md) / Entity
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Entity
 
 # Class: Entity
 

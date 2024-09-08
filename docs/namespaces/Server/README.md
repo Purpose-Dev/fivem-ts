@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.5.5**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.6.0**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.5.5](../../README.md) / Server
+[fivem-ts - Documentation v0.6.0](../../README.md) / Server
 
 # Server
 
@@ -10,11 +10,14 @@
 
 ### Enumerations
 
+- [BucketLockdownMode](enumerations/BucketLockdownMode.md)
 - [Scope](enumerations/Scope.md)
 - [ServerEventNames](enumerations/ServerEventNames.md)
 
 ### Classes
 
+- [Bucket](classes/Bucket.md)
+- [BucketCollection](classes/BucketCollection.md)
 - [DIContainer](classes/DIContainer.md)
 
 ### Interfaces
@@ -31,6 +34,7 @@
 
 ### Variables
 
+- [bucketCollection](variables/bucketCollection.md)
 - [container](variables/container.md)
 
 ### Functions
