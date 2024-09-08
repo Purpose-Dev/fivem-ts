@@ -79,7 +79,7 @@
 
 <h2>Usage</h2>
 
-<p>Explore <a href="https://github.com/Purpose-Dev/fivem-ts/tree/main/examples">example projects</a> to get started. (<strong>Coming Soon</strong>)</p>
+<p>Explore <a href="https://github.com/Purpose-Dev/fivem-ts/tree/main/examples">example projects</a> to get started.</p>
 
 <h2>Community</h2>
 
