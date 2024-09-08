@@ -4,10 +4,6 @@ on:
   push:
     paths:
       - 'package.json'
-      
-concurrency:
-  group: "release"
-  cancel-in-progress: true
 
 jobs:
   check-version:
@@ -46,6 +42,7 @@ jobs:
             echo "## No version change"
             echo "should_release=false" >> $GITHUB_ENV
             echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
+          fi
 
   create-release:
     needs: check-version
