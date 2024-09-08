@@ -4,6 +4,10 @@ on:
   push:
     paths:
       - 'package.json'
+      
+concurrency:
+  group: "release"
+  cancel-in-progress: true
 
 jobs:
   check-version:
@@ -21,14 +25,14 @@ jobs:
           node-version: 20
 
       - name: Get current version
-        id: current_version
+        id: get_current_version
         run: echo "CURRENT_VERSION=$(jq -r '.version' package.json)" >> $GITHUB_ENV
 
       - name: Fetch tags
         run: git fetch --tags
 
       - name: Get latest tag
-        id: latest_tag
+        id: get_latest_tag
         run: echo "LATEST_TAG=$(git describe --tags --abbrev=0 || echo 'v0.0.0')" >> $GITHUB_ENV
 
       - name: Compare versions
@@ -36,14 +40,12 @@ jobs:
         run: |
           if [ "${{ env.CURRENT_VERSION }}" != "${{ env.LATEST_TAG }}" ]; then
             echo "## Version changed"
-            echo "::set-output name=should_release::true"
-            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
+            echo "should_release=true" >> $GITHUB_ENV
+            echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
           else
             echo "## No version change"
-            echo "::set-output name=should_release::false"
-            echo "::set-output name=package_version::${{ env.CURRENT_VERSION }}"
-          fi
-          echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
+            echo "should_release=false" >> $GITHUB_ENV
+            echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
 
   create-release:
     needs: check-version
@@ -152,3 +154,4 @@ jobs:
 
       - name: Post-build message
         run: echo "-- build completed successfully"
+        
