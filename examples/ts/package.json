@@ -1,0 +1,28 @@
+{
+    "name": "ts",
+    "version": "1.0.0",
+    "description": "Ts example with esbuild",
+    "main": "index.js",
+    "scripts": {
+        "build:dev": "node .project/build.js",
+        "build:prod": "cross-env IS_PRODUCTION=1 node .project/build.js",
+        "watch": "cross-env IS_WATCH_MODE=1 node .project/build.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@citizenfx/client": "^2.0.9780-1",
+        "@citizenfx/server": "^2.0.9780-1",
+        "@types/node": "^22.5.4",
+        "chalk": "^5.3.0",
+        "chokidar": "^3.6.0",
+        "cross-env": "^7.0.3",
+        "esbuild": "^0.23.1",
+        "esbuild-plugin-fileloc": "^0.0.6",
+        "typescript": "^5.5.4"
+    },
+    "dependencies": {
+        "fivem-ts": "^0.5.6"
+    }
+}

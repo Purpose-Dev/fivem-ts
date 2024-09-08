@@ -1,27 +1,31 @@
 {
     "name": "fivem-ts",
-    "version": "0.5.6",
+    "version": "0.6.0",
     "author": "Riyane <Purpose-Dev>",
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
     "exports": {
         ".": {
+            "types": "./dist/index.d.ts",
             "import": "./dist/index.js",
-            "types": "./dist/index.d.ts"
+            "require": "./dist/index.js"
         },
         "./client": {
+            "types": "./dist/client/index.d.ts",
             "import": "./dist/client/index.js",
-            "types": "./dist/client/index.d.ts"
+            "require": "./dist/client/index.js"
         },
         "./server": {
+            "types": "./dist/server/index.d.ts",
             "import": "./dist/server/index.js",
-            "types": "./dist/server/index.d.ts"
+            "require": "./dist/server/index.js"
         },
         "./shared": {
+            "types": "./dist/shared/index.d.ts",
             "import": "./dist/shared/index.js",
-            "types": "./dist/shared/index.d.ts"
+            "require": "./dist/shared/index.js"
         }
     },
     "keywords": [
