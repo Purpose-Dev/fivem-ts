@@ -71,21 +71,21 @@
     "devDependencies": {
         "@types/jest": "^29.5.12",
         "@types/node": "^22.5.4",
-        "@typescript-eslint/eslint-plugin": "^8.4.0",
-        "@typescript-eslint/parser": "^8.4.0",
+        "@typescript-eslint/eslint-plugin": "^8.5.0",
+        "@typescript-eslint/parser": "^8.5.0",
         "eslint": "^9.10.0",
         "eslint-config-prettier": "^9.1.0",
         "jest": "^29.7.0",
         "jest-junit": "^16.0.0",
         "prettier": "^3.3.3",
         "ts-jest": "^29.2.5",
-        "typedoc": "^0.26.6",
+        "typedoc": "^0.26.7",
         "typedoc-plugin-markdown": "^4.2.7",
         "typescript": "^5.5.4"
     },
     "dependencies": {
-        "@citizenfx/client": "2.0.9780-1",
-        "@citizenfx/server": "2.0.9780-1",
+        "@citizenfx/client": "2.0.9823-1",
+        "@citizenfx/server": "2.0.9823-1",
         "cross-fetch": "^4.0.0",
         "reflect-metadata": "^0.2.2"
     }
