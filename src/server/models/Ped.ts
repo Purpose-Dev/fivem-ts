@@ -27,7 +27,7 @@ export class Ped extends Entity {
     }
 
     public get IsInVehicle(): boolean {
-        return !!this.CurrentVehicle;
+        return this.CurrentVehicle !== null;
     }
 
     public get IsAPlayer(): boolean {

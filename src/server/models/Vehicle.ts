@@ -5,6 +5,8 @@ import { Entity } from '.';
 /**
  * Vehicle class that extends the Entity class.
  * Represents a vehicle entity.
+ *
+ * @extends {Entity}
  */
 export class Vehicle extends Entity {
     constructor(id: number) {

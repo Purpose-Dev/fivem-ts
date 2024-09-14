@@ -5,6 +5,12 @@ import { Vector3 } from '../../shared';
  * Provides various methods and properties to access and manipulate the entity's state.
  */
 export class Entity {
+    /**
+     * Retrieves an entity based on the provided network ID.
+     *
+     * @param {number} netId - The network identifier for the entity.
+     * @return {Entity} - The entity corresponding to the given network ID.
+     */
     public static getFromNetworkId(netId: number): Entity {
         return new Entity(NetworkGetEntityFromNetworkId(netId));
     }
@@ -91,10 +97,19 @@ export class Entity {
         return !GetEntityCollisionDisabled(this.id);
     }
 
+    /**
+     * Checks if the entity with the current instance's ID exists.
+     * @return {boolean} True if the entity exists, otherwise false.
+     */
     public exists(): boolean {
         return DoesEntityExist(this.id);
     }
 
+    /**
+     * Deletes the current entity based on its id.
+     *
+     * @return {void} No return value.
+     */
     public delete(): void {
         DeleteEntity(this.id);
     }
