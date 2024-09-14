@@ -4,6 +4,7 @@
     "author": "Riyane <Purpose-Dev>",
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
+    "packageManager": "pnpm@9.10.0",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "exports": {
@@ -69,8 +70,8 @@
         "version": "npm run format && git add -A src"
     },
     "devDependencies": {
-        "@types/jest": "^29.5.12",
-        "@types/node": "^22.5.4",
+        "@types/jest": "^29.5.13",
+        "@types/node": "^22.5.5",
         "@typescript-eslint/eslint-plugin": "^8.5.0",
         "@typescript-eslint/parser": "^8.5.0",
         "eslint": "^9.10.0",
@@ -84,8 +85,8 @@
         "typescript": "^5.5.4"
     },
     "dependencies": {
-        "@citizenfx/client": "2.0.9823-1",
-        "@citizenfx/server": "2.0.9823-1",
+        "@citizenfx/client": "2.0.9875-1",
+        "@citizenfx/server": "2.0.9875-1",
         "cross-fetch": "^4.0.0",
         "reflect-metadata": "^0.2.2"
     }
