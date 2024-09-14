@@ -20,6 +20,8 @@
 - [BucketCollection](classes/BucketCollection.md)
 - [DIContainer](classes/DIContainer.md)
 - [Entity](classes/Entity.md)
+- [Ped](classes/Ped.md)
+- [Vehicle](classes/Vehicle.md)
 
 ### Interfaces
 

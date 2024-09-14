@@ -2,23 +2,22 @@
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / Entity
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / Vehicle
 
-# Class: Entity
+# Class: Vehicle
 
-Represents an entity.
-Provides various methods and properties to access and manipulate the entity's state.
+Vehicle class that extends the Entity class.
+Represents a vehicle entity.
 
-## Extended by
+## Extends
 
-- [`Ped`](Ped.md)
-- [`Vehicle`](Vehicle.md)
+- [`Entity`](Entity.md)
 
 ## Constructors
 
-### new Entity()
+### new Vehicle()
 
-> **new Entity**(`id`): [`Entity`](Entity.md)
+> **new Vehicle**(`id`): [`Vehicle`](Vehicle.md)
 
 #### Parameters
 
@@ -26,11 +25,15 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Returns
 
-[`Entity`](Entity.md)
+[`Vehicle`](Vehicle.md)
+
+#### Overrides
+
+[`Entity`](Entity.md).[`constructor`](Entity.md#constructors)
 
 #### Defined in
 
-[server/models/Entity.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L14)
+[server/models/Vehicle.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L12)
 
 ## Accessors
 
@@ -48,6 +51,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `number`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Heading`](Entity.md#heading)
+
 #### Defined in
 
 [server/models/Entity.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L52)
@@ -61,6 +68,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`Health`](Entity.md#health)
 
 #### Defined in
 
@@ -76,6 +87,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `number`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Id`](Entity.md#id)
+
 #### Defined in
 
 [server/models/Entity.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L18)
@@ -89,6 +104,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsCollisionEnabled`](Entity.md#iscollisionenabled)
 
 #### Defined in
 
@@ -110,6 +129,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `boolean`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsPositionFrozen`](Entity.md#ispositionfrozen)
+
 #### Defined in
 
 [server/models/Entity.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L60)
@@ -123,6 +146,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsVisible`](Entity.md#isvisible)
 
 #### Defined in
 
@@ -138,6 +165,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `number`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`MaxHealth`](Entity.md#maxhealth)
+
 #### Defined in
 
 [server/models/Entity.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L30)
@@ -151,6 +182,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`NetworkId`](Entity.md#networkid)
 
 #### Defined in
 
@@ -172,6 +207,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Position`](Entity.md#position)
+
 #### Defined in
 
 [server/models/Entity.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L34)
@@ -192,6 +231,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Rotation`](Entity.md#rotation)
+
 #### Defined in
 
 [server/models/Entity.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L43)
@@ -206,6 +249,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`RotationVelocity`](Entity.md#rotationvelocity)
+
 #### Defined in
 
 [server/models/Entity.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L77)
@@ -219,6 +266,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`Speed`](Entity.md#speed)
 
 #### Defined in
 
@@ -240,6 +291,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Velocity`](Entity.md#velocity)
+
 #### Defined in
 
 [server/models/Entity.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L68)
@@ -254,6 +309,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `void`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`delete`](Entity.md#delete)
+
 #### Defined in
 
 [server/models/Entity.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L98)
@@ -267,6 +326,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`exists`](Entity.md#exists)
 
 #### Defined in
 
@@ -285,6 +348,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 [`Entity`](Entity.md)
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`getFromNetworkId`](Entity.md#getfromnetworkid)
 
 #### Defined in
 

@@ -2,23 +2,24 @@
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / Entity
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / Ped
 
-# Class: Entity
+# Class: Ped
 
-Represents an entity.
-Provides various methods and properties to access and manipulate the entity's state.
+The `Ped` class represents a pedestrian entity.
 
-## Extended by
+This class extends the `Entity` class and provides an interface for interacting with pedestrian entities.
+The constructor takes the entity ID as a parameter and ensures the entity type is a pedestrian.
 
-- [`Ped`](Ped.md)
-- [`Vehicle`](Vehicle.md)
+## Extends
+
+- [`Entity`](Entity.md)
 
 ## Constructors
 
-### new Entity()
+### new Ped()
 
-> **new Entity**(`id`): [`Entity`](Entity.md)
+> **new Ped**(`id`): [`Ped`](Ped.md)
 
 #### Parameters
 
@@ -26,13 +27,31 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Returns
 
-[`Entity`](Entity.md)
+[`Ped`](Ped.md)
+
+#### Overrides
+
+[`Entity`](Entity.md).[`constructor`](Entity.md#constructors)
 
 #### Defined in
 
-[server/models/Entity.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L14)
+[server/models/Ped.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L12)
 
 ## Accessors
+
+### CurrentVehicle
+
+> `get` **CurrentVehicle**(): [`Vehicle`](Vehicle.md)
+
+#### Returns
+
+[`Vehicle`](Vehicle.md)
+
+#### Defined in
+
+[server/models/Ped.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L19)
+
+***
 
 ### Heading
 
@@ -48,6 +67,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `number`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Heading`](Entity.md#heading)
+
 #### Defined in
 
 [server/models/Entity.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L52)
@@ -61,6 +84,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`Health`](Entity.md#health)
 
 #### Defined in
 
@@ -76,9 +103,27 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `number`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Id`](Entity.md#id)
+
 #### Defined in
 
 [server/models/Entity.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L18)
+
+***
+
+### IsAPlayer
+
+> `get` **IsAPlayer**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L33)
 
 ***
 
@@ -90,9 +135,41 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `boolean`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsCollisionEnabled`](Entity.md#iscollisionenabled)
+
 #### Defined in
 
 [server/models/Entity.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L90)
+
+***
+
+### IsHandcuffed
+
+> `get` **IsHandcuffed**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L37)
+
+***
+
+### IsInVehicle
+
+> `get` **IsInVehicle**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L29)
 
 ***
 
@@ -110,9 +187,55 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `boolean`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsPositionFrozen`](Entity.md#ispositionfrozen)
+
 #### Defined in
 
 [server/models/Entity.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L60)
+
+***
+
+### IsRagdoll
+
+> `get` **IsRagdoll**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L41)
+
+***
+
+### IsStrafing
+
+> `get` **IsStrafing**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L45)
+
+***
+
+### IsUsingActionMode
+
+> `get` **IsUsingActionMode**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Ped.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L49)
 
 ***
 
@@ -124,9 +247,27 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `boolean`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`IsVisible`](Entity.md#isvisible)
+
 #### Defined in
 
 [server/models/Entity.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L86)
+
+***
+
+### LastVehicle
+
+> `get` **LastVehicle**(): [`Vehicle`](Vehicle.md)
+
+#### Returns
+
+[`Vehicle`](Vehicle.md)
+
+#### Defined in
+
+[server/models/Ped.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Ped.ts#L24)
 
 ***
 
@@ -137,6 +278,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`MaxHealth`](Entity.md#maxhealth)
 
 #### Defined in
 
@@ -151,6 +296,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`NetworkId`](Entity.md#networkid)
 
 #### Defined in
 
@@ -172,6 +321,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Position`](Entity.md#position)
+
 #### Defined in
 
 [server/models/Entity.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L34)
@@ -192,6 +345,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Rotation`](Entity.md#rotation)
+
 #### Defined in
 
 [server/models/Entity.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L43)
@@ -206,6 +363,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`RotationVelocity`](Entity.md#rotationvelocity)
+
 #### Defined in
 
 [server/models/Entity.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L77)
@@ -219,6 +380,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`Speed`](Entity.md#speed)
 
 #### Defined in
 
@@ -240,6 +405,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`Velocity`](Entity.md#velocity)
+
 #### Defined in
 
 [server/models/Entity.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L68)
@@ -254,6 +423,10 @@ Provides various methods and properties to access and manipulate the entity's st
 
 `void`
 
+#### Inherited from
+
+[`Entity`](Entity.md).[`delete`](Entity.md#delete)
+
 #### Defined in
 
 [server/models/Entity.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L98)
@@ -267,6 +440,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 `boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`exists`](Entity.md#exists)
 
 #### Defined in
 
@@ -285,6 +462,10 @@ Provides various methods and properties to access and manipulate the entity's st
 #### Returns
 
 [`Entity`](Entity.md)
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`getFromNetworkId`](Entity.md#getfromnetworkid)
 
 #### Defined in
 
