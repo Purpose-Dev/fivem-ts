@@ -262,36 +262,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### BType
-
-> **BType**: `"btype"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L614)
-
-***
-
-### BType2
-
-> **BType2**: `"btype2"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L615)
-
-***
-
-### BType3
-
-> **BType3**: `"btype3"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L616)
-
-***
-
 ### Bagger
 
 > **Bagger**: `"bagger"`
@@ -892,6 +862,36 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### BType
+
+> **BType**: `"btype"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:614](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L614)
+
+***
+
+### BType2
+
+> **BType2**: `"btype2"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L615)
+
+***
+
+### BType3
+
+> **BType3**: `"btype3"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:616](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L616)
+
+***
+
 ### Buccaneer
 
 > **Buccaneer**: `"buccaneer"`
@@ -1122,16 +1122,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### CarbonRS
-
-> **CarbonRS**: `"carbonrs"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L191)
-
-***
-
 ### Carbonizzare
 
 > **Carbonizzare**: `"carbonizzare"`
@@ -1142,23 +1132,13 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### CargoPlane
+### CarbonRS
 
-> **CargoPlane**: `"cargoplane"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L395)
-
-***
-
-### CargoPlane2
-
-> **CargoPlane2**: `"cargoplane2"`
+> **CarbonRS**: `"carbonrs"`
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L396)
+[shared/enums/VehiclesEnum.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L191)
 
 ***
 
@@ -1199,6 +1179,26 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L133)
+
+***
+
+### CargoPlane
+
+> **CargoPlane**: `"cargoplane"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L395)
+
+***
+
+### CargoPlane2
+
+> **CargoPlane2**: `"cargoplane2"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:396](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L396)
 
 ***
 
@@ -1542,6 +1542,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### cuban800
+
+> **cuban800**: `"cuban800"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L397)
+
+***
+
 ### Cutter
 
 > **Cutter**: `"cutter"`
@@ -1569,16 +1579,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:530](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L530)
-
-***
-
-### DLoader
-
-> **DLoader**: `"dloader"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L338)
 
 ***
 
@@ -1762,6 +1762,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### DLoader
+
+> **DLoader**: `"dloader"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:338](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L338)
+
+***
+
 ### DockTrailer
 
 > **DockTrailer**: `"docktrailer"`
@@ -1779,6 +1789,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:752](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L752)
+
+***
+
+### dodo
+
+> **dodo**: `"dodo"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L398)
 
 ***
 
@@ -2192,16 +2212,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### FQ2
-
-> **FQ2**: `"fq2"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L441)
-
-***
-
 ### Faction
 
 > **Faction**: `"faction"`
@@ -2432,6 +2442,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### FQ2
+
+> **FQ2**: `"fq2"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:441](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L441)
+
+***
+
 ### FreeCrawler
 
 > **FreeCrawler**: `"freecrawler"`
@@ -2582,36 +2602,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### GB200
-
-> **GB200**: `"gb200"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L543)
-
-***
-
-### GP1
-
-> **GP1**: `"gp1"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L673)
-
-***
-
-### GT500
-
-> **GT500**: `"gt500"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L625)
-
-***
-
 ### GangBurrito
 
 > **GangBurrito**: `"gburrito"`
@@ -2692,6 +2682,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### GB200
+
+> **GB200**: `"gb200"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:543](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L543)
+
+***
+
 ### Glendale
 
 > **Glendale**: `"glendale"`
@@ -2709,6 +2709,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:478](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L478)
+
+***
+
+### GP1
+
+> **GP1**: `"gp1"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:673](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L673)
 
 ***
 
@@ -2749,6 +2759,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:544](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L544)
+
+***
+
+### GT500
+
+> **GT500**: `"gt500"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L625)
 
 ***
 
@@ -3212,6 +3232,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### Jackal
+
+> **Jackal**: `"jackal"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L81)
+
+***
+
 ### JB700
 
 > **JB700**: `"jb700"`
@@ -3229,16 +3259,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:628](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L628)
-
-***
-
-### Jackal
-
-> **Jackal**: `"jackal"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L81)
 
 ***
 
@@ -3432,16 +3452,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### LE7B
-
-> **LE7B**: `"le7b"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L678)
-
-***
-
 ### Landstalker
 
 > **Landstalker**: `"landstalker"`
@@ -3469,6 +3479,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L403)
+
+***
+
+### LE7B
+
+> **LE7B**: `"le7b"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:678](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L678)
 
 ***
 
@@ -4022,16 +4042,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### NightShark
-
-> **NightShark**: `"nightshark"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L361)
-
-***
-
 ### Nightshade
 
 > **Nightshade**: `"nightshade"`
@@ -4039,6 +4049,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L285)
+
+***
+
+### NightShark
+
+> **NightShark**: `"nightshark"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L361)
 
 ***
 
@@ -4692,26 +4712,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### RRocket
-
-> **RRocket**: `"rrocket"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L227)
-
-***
-
-### RT3000
-
-> **RT3000**: `"rt3000"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L581)
-
-***
-
 ### Radi
 
 > **Radi**: `"radi"`
@@ -5039,6 +5039,26 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:486](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L486)
+
+***
+
+### RRocket
+
+> **RRocket**: `"rrocket"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L227)
+
+***
+
+### RT3000
+
+> **RT3000**: `"rt3000"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:581](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L581)
 
 ***
 
@@ -6002,6 +6022,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### Superd
+
+> **Superd**: `"superd"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L491)
+
+***
+
 ### SuperVolito
 
 > **SuperVolito**: `"supervolito"`
@@ -6019,16 +6049,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L145)
-
-***
-
-### Superd
-
-> **Superd**: `"superd"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L491)
 
 ***
 
@@ -6542,16 +6562,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### TrFlat
-
-> **TrFlat**: `"trflat"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L726)
-
-***
-
 ### Tractor
 
 > **Tractor**: `"tractor"`
@@ -6602,26 +6612,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### TrailerSmall
-
-> **TrailerSmall**: `"trailersmall"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:732](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L732)
-
-***
-
-### TrailerSmall2
-
-> **TrailerSmall2**: `"trailersmall2"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L181)
-
-***
-
 ### Trailers
 
 > **Trailers**: `"trailers"`
@@ -6662,6 +6652,26 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### TrailerSmall
+
+> **TrailerSmall**: `"trailersmall"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:732](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L732)
+
+***
+
+### TrailerSmall2
+
+> **TrailerSmall2**: `"trailersmall2"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L181)
+
+***
+
 ### Trash
 
 > **Trash**: `"trash"`
@@ -6679,6 +6689,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L509)
+
+***
+
+### TrFlat
+
+> **TrFlat**: `"trflat"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:726](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L726)
 
 ***
 
@@ -6879,16 +6899,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 #### Defined in
 
 [shared/enums/VehiclesEnum.ts:766](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L766)
-
-***
-
-### VSTR
-
-> **VSTR**: `"vstr"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:606](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L606)
 
 ***
 
@@ -7212,6 +7222,16 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
+### VSTR
+
+> **VSTR**: `"vstr"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:606](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L606)
+
+***
+
 ### Warrener
 
 > **Warrener**: `"warrener"`
@@ -7392,56 +7412,6 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### ZR350
-
-> **ZR350**: `"zr350"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L607)
-
-***
-
-### ZR380
-
-> **ZR380**: `"zr380"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L608)
-
-***
-
-### ZR3802
-
-> **ZR3802**: `"zr3802"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L609)
-
-***
-
-### ZR3803
-
-> **ZR3803**: `"zr3803"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L610)
-
-***
-
-### ZType
-
-> **ZType**: `"ztype"`
-
-#### Defined in
-
-[shared/enums/VehiclesEnum.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L658)
-
-***
-
 ### Zentorno
 
 > **Zentorno**: `"zentorno"`
@@ -7522,20 +7492,50 @@ An enumeration of various vehicle types categorized by their usage and class.
 
 ***
 
-### cuban800
+### ZR350
 
-> **cuban800**: `"cuban800"`
+> **ZR350**: `"zr350"`
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L397)
+[shared/enums/VehiclesEnum.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L607)
 
 ***
 
-### dodo
+### ZR380
 
-> **dodo**: `"dodo"`
+> **ZR380**: `"zr380"`
 
 #### Defined in
 
-[shared/enums/VehiclesEnum.ts:398](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L398)
+[shared/enums/VehiclesEnum.ts:608](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L608)
+
+***
+
+### ZR3802
+
+> **ZR3802**: `"zr3802"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L609)
+
+***
+
+### ZR3803
+
+> **ZR3803**: `"zr3803"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:610](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L610)
+
+***
+
+### ZType
+
+> **ZType**: `"ztype"`
+
+#### Defined in
+
+[shared/enums/VehiclesEnum.ts:658](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/VehiclesEnum.ts#L658)

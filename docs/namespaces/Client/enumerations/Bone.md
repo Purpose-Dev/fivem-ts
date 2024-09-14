@@ -209,16 +209,6 @@ IK_Root - The inverse kinematics root bone.
 
 ***
 
-### FB\_LowerLipRoot\_000
-
-> **FB\_LowerLipRoot\_000**: `17188`
-
-#### Defined in
-
-[client/enums/Bone.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L195)
-
-***
-
 ### FB\_LowerLip\_000
 
 > **FB\_LowerLip\_000**: `20623`
@@ -226,6 +216,16 @@ IK_Root - The inverse kinematics root bone.
 #### Defined in
 
 [client/enums/Bone.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L196)
+
+***
+
+### FB\_LowerLipRoot\_000
+
+> **FB\_LowerLipRoot\_000**: `17188`
+
+#### Defined in
+
+[client/enums/Bone.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L195)
 
 ***
 
@@ -309,16 +309,6 @@ IK_Root - The inverse kinematics root bone.
 
 ***
 
-### FB\_UpperLipRoot\_000
-
-> **FB\_UpperLipRoot\_000**: `20178`
-
-#### Defined in
-
-[client/enums/Bone.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L190)
-
-***
-
 ### FB\_UpperLip\_000
 
 > **FB\_UpperLip\_000**: `61839`
@@ -326,6 +316,16 @@ IK_Root - The inverse kinematics root bone.
 #### Defined in
 
 [client/enums/Bone.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L191)
+
+***
+
+### FB\_UpperLipRoot\_000
+
+> **FB\_UpperLipRoot\_000**: `20178`
+
+#### Defined in
+
+[client/enums/Bone.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L190)
 
 ***
 
@@ -799,16 +799,6 @@ IK_Root - The inverse kinematics root bone.
 
 ***
 
-### SKEL\_ROOT
-
-> **SKEL\_ROOT**: `0`
-
-#### Defined in
-
-[client/enums/Bone.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L104)
-
-***
-
 ### SKEL\_R\_Calf
 
 > **SKEL\_R\_Calf**: `36864`
@@ -1039,6 +1029,26 @@ IK_Root - The inverse kinematics root bone.
 
 ***
 
+### SKEL\_ROOT
+
+> **SKEL\_ROOT**: `0`
+
+#### Defined in
+
+[client/enums/Bone.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L104)
+
+***
+
+### SKEL\_Spine\_Root
+
+> **SKEL\_Spine\_Root**: `57597`
+
+#### Defined in
+
+[client/enums/Bone.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L122)
+
+***
+
 ### SKEL\_Spine0
 
 > **SKEL\_Spine0**: `23553`
@@ -1076,13 +1086,3 @@ IK_Root - The inverse kinematics root bone.
 #### Defined in
 
 [client/enums/Bone.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L126)
-
-***
-
-### SKEL\_Spine\_Root
-
-> **SKEL\_Spine\_Root**: `57597`
-
-#### Defined in
-
-[client/enums/Bone.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L122)

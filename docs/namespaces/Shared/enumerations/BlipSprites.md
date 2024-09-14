@@ -604,16 +604,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarArmWrestling
-
-> **RadarArmWrestling**: `311`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L248)
-
-***
-
 ### RadarArmenianFamily
 
 > **RadarArmenianFamily**: `76`
@@ -641,6 +631,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L193)
+
+***
+
+### RadarArmWrestling
+
+> **RadarArmWrestling**: `311`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:248](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L248)
 
 ***
 
@@ -1434,6 +1434,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
+### RadarCargobob
+
+> **RadarCargobob**: `481`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L417)
+
+***
+
 ### RadarCarMeet
 
 > **RadarCarMeet**: `777`
@@ -1521,16 +1531,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L88)
-
-***
-
-### RadarCargobob
-
-> **RadarCargobob**: `481`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L417)
 
 ***
 
@@ -2224,16 +2224,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarDChampion
-
-> **RadarDChampion**: `824`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L760)
-
-***
-
 ### RadarDarts
 
 > **RadarDarts**: `103`
@@ -2251,6 +2241,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:777](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L777)
+
+***
+
+### RadarDChampion
+
+> **RadarDChampion**: `824`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:760](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L760)
 
 ***
 
@@ -2524,6 +2524,26 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
+### RadarExplosiveCharge
+
+> **RadarExplosiveCharge**: `822`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L758)
+
+***
+
+### RadarExportVehicle
+
+> **RadarExportVehicle**: `794`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L730)
+
+***
+
 ### RadarExVech1
 
 > **RadarExVech1**: `528`
@@ -2591,26 +2611,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:470](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L470)
-
-***
-
-### RadarExplosiveCharge
-
-> **RadarExplosiveCharge**: `822`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:758](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L758)
-
-***
-
-### RadarExportVehicle
-
-> **RadarExportVehicle**: `794`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:730](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L730)
 
 ***
 
@@ -3114,6 +3114,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
+### RadarGranger2
+
+> **RadarGranger2**: `821`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L757)
+
+***
+
 ### RadarGrCovertOps
 
 > **RadarGrCovertOps**: `564`
@@ -3121,6 +3131,46 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:500](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L500)
+
+***
+
+### RadarGreenAndFriendly
+
+> **RadarGreenAndFriendly**: `395`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L332)
+
+***
+
+### RadarGreenAndNetPlayer1
+
+> **RadarGreenAndNetPlayer1**: `392`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L329)
+
+***
+
+### RadarGreenAndNetPlayer2
+
+> **RadarGreenAndNetPlayer2**: `393`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L330)
+
+***
+
+### RadarGreenAndNetPlayer3
+
+> **RadarGreenAndNetPlayer3**: `394`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L331)
 
 ***
 
@@ -3204,53 +3254,13 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarGranger2
+### RadarGuncar
 
-> **RadarGranger2**: `821`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:757](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L757)
-
-***
-
-### RadarGreenAndFriendly
-
-> **RadarGreenAndFriendly**: `395`
+> **RadarGuncar**: `229`
 
 #### Defined in
 
-[shared/enums/BlipSprites.ts:332](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L332)
-
-***
-
-### RadarGreenAndNetPlayer1
-
-> **RadarGreenAndNetPlayer1**: `392`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L329)
-
-***
-
-### RadarGreenAndNetPlayer2
-
-> **RadarGreenAndNetPlayer2**: `393`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:330](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L330)
-
-***
-
-### RadarGreenAndNetPlayer3
-
-> **RadarGreenAndNetPlayer3**: `394`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L331)
+[shared/enums/BlipSprites.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L183)
 
 ***
 
@@ -3271,16 +3281,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:780](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L780)
-
-***
-
-### RadarGuncar
-
-> **RadarGuncar**: `229`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L183)
 
 ***
 
@@ -3524,16 +3524,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarHuntTheBoss
-
-> **RadarHuntTheBoss**: `458`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L394)
-
-***
-
 ### RadarHunting
 
 > **RadarHunting**: `141`
@@ -3541,6 +3531,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L123)
+
+***
+
+### RadarHuntTheBoss
+
+> **RadarHuntTheBoss**: `458`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:394](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L394)
 
 ***
 
@@ -3934,16 +3934,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarMiniSub
-
-> **RadarMiniSub**: `746`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L682)
-
-***
-
 ### RadarMinigun2
 
 > **RadarMinigun2**: `322`
@@ -3951,6 +3941,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L259)
+
+***
+
+### RadarMiniSub
+
+> **RadarMiniSub**: `746`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:682](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L682)
 
 ***
 
@@ -4684,16 +4684,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarOffRoadRacing
-
-> **RadarOffRoadRacing**: `127`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L111)
-
-***
-
 ### RadarOffice
 
 > **RadarOffice**: `475`
@@ -4711,6 +4701,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:412](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L412)
+
+***
+
+### RadarOffRoadRacing
+
+> **RadarOffRoadRacing**: `127`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L111)
 
 ***
 
@@ -5754,6 +5754,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
+### RadarRaceflag
+
+> **RadarRaceflag**: `38`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L40)
+
+***
+
 ### RadarRaceFoot
 
 > **RadarRaceFoot**: `379`
@@ -5831,16 +5841,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:580](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L580)
-
-***
-
-### RadarRaceflag
-
-> **RadarRaceflag**: `38`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L40)
 
 ***
 
@@ -6574,16 +6574,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
-### RadarShipWheel
-
-> **RadarShipWheel**: `751`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L687)
-
-***
-
 ### RadarShippingContainer
 
 > **RadarShippingContainer**: `677`
@@ -6591,6 +6581,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L613)
+
+***
+
+### RadarShipWheel
+
+> **RadarShipWheel**: `751`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:687](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L687)
 
 ***
 
@@ -7034,6 +7034,16 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 
 ***
 
+### RadarSubmarine
+
+> **RadarSubmarine**: `324`
+
+#### Defined in
+
+[shared/enums/BlipSprites.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L261)
+
+***
+
 ### RadarSubMissile
 
 > **RadarSubMissile**: `775`
@@ -7051,16 +7061,6 @@ if (getBlip22Sprite === BlipSprites.RadarPolicePed) {
 #### Defined in
 
 [shared/enums/BlipSprites.ts:710](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L710)
-
-***
-
-### RadarSubmarine
-
-> **RadarSubmarine**: `324`
-
-#### Defined in
-
-[shared/enums/BlipSprites.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/enums/BlipSprites.ts#L261)
 
 ***
 

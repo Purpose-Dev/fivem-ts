@@ -548,26 +548,6 @@
 
 ***
 
-### FrontendLS
-
-> **FrontendLS**: `209`
-
-#### Defined in
-
-[client/enums/Controls.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L211)
-
-***
-
-### FrontendLT
-
-> **FrontendLT**: `207`
-
-#### Defined in
-
-[client/enums/Controls.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L209)
-
-***
-
 ### FrontendLeaderboard
 
 > **FrontendLeaderboard**: `211`
@@ -585,6 +565,26 @@
 #### Defined in
 
 [client/enums/Controls.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L191)
+
+***
+
+### FrontendLS
+
+> **FrontendLS**: `209`
+
+#### Defined in
+
+[client/enums/Controls.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L211)
+
+***
+
+### FrontendLT
+
+> **FrontendLT**: `207`
+
+#### Defined in
+
+[client/enums/Controls.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L209)
 
 ***
 
@@ -625,6 +625,36 @@
 #### Defined in
 
 [client/enums/Controls.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L193)
+
+***
+
+### FrontendRight
+
+> **FrontendRight**: `190`
+
+#### Defined in
+
+[client/enums/Controls.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L192)
+
+***
+
+### FrontendRightAxisX
+
+> **FrontendRightAxisX**: `197`
+
+#### Defined in
+
+[client/enums/Controls.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L199)
+
+***
+
+### FrontendRightAxisY
+
+> **FrontendRightAxisY**: `198`
+
+#### Defined in
+
+[client/enums/Controls.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L200)
 
 ***
 
@@ -675,36 +705,6 @@
 #### Defined in
 
 [client/enums/Controls.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L194)
-
-***
-
-### FrontendRight
-
-> **FrontendRight**: `190`
-
-#### Defined in
-
-[client/enums/Controls.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L192)
-
-***
-
-### FrontendRightAxisX
-
-> **FrontendRightAxisX**: `197`
-
-#### Defined in
-
-[client/enums/Controls.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L199)
-
-***
-
-### FrontendRightAxisY
-
-> **FrontendRightAxisY**: `198`
-
-#### Defined in
-
-[client/enums/Controls.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L200)
 
 ***
 
@@ -838,16 +838,6 @@
 
 ***
 
-### LookLR
-
-> **LookLR**: `1`
-
-#### Defined in
-
-[client/enums/Controls.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L3)
-
-***
-
 ### LookLeft
 
 > **LookLeft**: `270`
@@ -865,6 +855,16 @@
 #### Defined in
 
 [client/enums/Controls.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L7)
+
+***
+
+### LookLR
+
+> **LookLR**: `1`
+
+#### Defined in
+
+[client/enums/Controls.ts:3](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L3)
 
 ***
 
@@ -1788,16 +1788,6 @@
 
 ***
 
-### ScaledLookLR
-
-> **ScaledLookLR**: `290`
-
-#### Defined in
-
-[client/enums/Controls.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L292)
-
-***
-
 ### ScaledLookLeftOnly
 
 > **ScaledLookLeftOnly**: `294`
@@ -1805,6 +1795,16 @@
 #### Defined in
 
 [client/enums/Controls.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L296)
+
+***
+
+### ScaledLookLR
+
+> **ScaledLookLR**: `290`
+
+#### Defined in
+
+[client/enums/Controls.ts:292](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L292)
 
 ***
 
@@ -1838,6 +1838,46 @@
 
 ***
 
+### ScriptedFlyLr
+
+> **ScriptedFlyLr**: `9`
+
+#### Defined in
+
+[client/enums/Controls.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L11)
+
+***
+
+### ScriptedFlyUd
+
+> **ScriptedFlyUd**: `8`
+
+#### Defined in
+
+[client/enums/Controls.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L10)
+
+***
+
+### ScriptedFlyZDown
+
+> **ScriptedFlyZDown**: `11`
+
+#### Defined in
+
+[client/enums/Controls.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L13)
+
+***
+
+### ScriptedFlyZup
+
+> **ScriptedFlyZup**: `10`
+
+#### Defined in
+
+[client/enums/Controls.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L12)
+
+***
+
 ### ScriptLB
 
 > **ScriptLB**: `226`
@@ -1845,26 +1885,6 @@
 #### Defined in
 
 [client/enums/Controls.ts:228](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L228)
-
-***
-
-### ScriptLS
-
-> **ScriptLS**: `230`
-
-#### Defined in
-
-[client/enums/Controls.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L232)
-
-***
-
-### ScriptLT
-
-> **ScriptLT**: `228`
-
-#### Defined in
-
-[client/enums/Controls.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L230)
 
 ***
 
@@ -1885,6 +1905,26 @@
 #### Defined in
 
 [client/enums/Controls.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L221)
+
+***
+
+### ScriptLS
+
+> **ScriptLS**: `230`
+
+#### Defined in
+
+[client/enums/Controls.ts:232](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L232)
+
+***
+
+### ScriptLT
+
+> **ScriptLT**: `228`
+
+#### Defined in
+
+[client/enums/Controls.ts:230](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L230)
 
 ***
 
@@ -1948,6 +1988,26 @@
 
 ***
 
+### ScriptRightAxisX
+
+> **ScriptRightAxisX**: `220`
+
+#### Defined in
+
+[client/enums/Controls.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L222)
+
+***
+
+### ScriptRightAxisY
+
+> **ScriptRightAxisY**: `221`
+
+#### Defined in
+
+[client/enums/Controls.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L223)
+
+***
+
 ### ScriptRLeft
 
 > **ScriptRLeft**: `224`
@@ -1998,26 +2058,6 @@
 
 ***
 
-### ScriptRightAxisX
-
-> **ScriptRightAxisX**: `220`
-
-#### Defined in
-
-[client/enums/Controls.ts:222](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L222)
-
-***
-
-### ScriptRightAxisY
-
-> **ScriptRightAxisY**: `221`
-
-#### Defined in
-
-[client/enums/Controls.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L223)
-
-***
-
 ### ScriptSelect
 
 > **ScriptSelect**: `236`
@@ -2025,46 +2065,6 @@
 #### Defined in
 
 [client/enums/Controls.ts:238](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L238)
-
-***
-
-### ScriptedFlyLr
-
-> **ScriptedFlyLr**: `9`
-
-#### Defined in
-
-[client/enums/Controls.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L11)
-
-***
-
-### ScriptedFlyUd
-
-> **ScriptedFlyUd**: `8`
-
-#### Defined in
-
-[client/enums/Controls.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L10)
-
-***
-
-### ScriptedFlyZDown
-
-> **ScriptedFlyZDown**: `11`
-
-#### Defined in
-
-[client/enums/Controls.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L13)
-
-***
-
-### ScriptedFlyZup
-
-> **ScriptedFlyZup**: `10`
-
-#### Defined in
-
-[client/enums/Controls.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L12)
 
 ***
 
@@ -2568,16 +2568,6 @@
 
 ***
 
-### VehFLyBombBay
-
-> **VehFLyBombBay**: `355`
-
-#### Defined in
-
-[client/enums/Controls.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L357)
-
-***
-
 ### VehFlyAttack
 
 > **VehFlyAttack**: `114`
@@ -2605,6 +2595,16 @@
 #### Defined in
 
 [client/enums/Controls.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L123)
+
+***
+
+### VehFLyBombBay
+
+> **VehFLyBombBay**: `355`
+
+#### Defined in
+
+[client/enums/Controls.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L357)
 
 ***
 
@@ -3248,16 +3248,6 @@
 
 ***
 
-### VehPushBikeRearBrake
-
-> **VehPushBikeRearBrake**: `139`
-
-#### Defined in
-
-[client/enums/Controls.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L141)
-
-***
-
 ### VehPushbikeFrontBrake
 
 > **VehPushbikeFrontBrake**: `138`
@@ -3275,6 +3265,16 @@
 #### Defined in
 
 [client/enums/Controls.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L138)
+
+***
+
+### VehPushBikeRearBrake
+
+> **VehPushBikeRearBrake**: `139`
+
+#### Defined in
+
+[client/enums/Controls.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L141)
 
 ***
 
@@ -3315,16 +3315,6 @@
 #### Defined in
 
 [client/enums/Controls.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L103)
-
-***
-
-### VehSUbPitchUd
-
-> **VehSUbPitchUd**: `126`
-
-#### Defined in
-
-[client/enums/Controls.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L128)
 
 ***
 
@@ -3455,6 +3445,16 @@
 #### Defined in
 
 [client/enums/Controls.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L130)
+
+***
+
+### VehSUbPitchUd
+
+> **VehSUbPitchUd**: `126`
+
+#### Defined in
+
+[client/enums/Controls.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Controls.ts#L128)
 
 ***
 

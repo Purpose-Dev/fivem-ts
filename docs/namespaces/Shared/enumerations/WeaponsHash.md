@@ -730,16 +730,6 @@ Enum containing all Weapons Names to signed int
 
 ***
 
-### NightVision
-
-> **NightVision**: `-1491061156`
-
-#### Defined in
-
-[shared/hashes/WeaponsHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L139)
-
-***
-
 ### Nightstick
 
 > **Nightstick**: `1737195953`
@@ -747,6 +737,16 @@ Enum containing all Weapons Names to signed int
 #### Defined in
 
 [shared/hashes/WeaponsHash.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L22)
+
+***
+
+### NightVision
+
+> **NightVision**: `-1491061156`
+
+#### Defined in
+
+[shared/hashes/WeaponsHash.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L139)
 
 ***
 

@@ -168,6 +168,16 @@
 
 ***
 
+### DeathFailMichaelIn
+
+> **DeathFailMichaelIn**: `"DeathFailMichaelIn"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L18)
+
+***
+
 ### DeathFailMPDark
 
 > **DeathFailMPDark**: `"DeathFailMPDark"`
@@ -185,16 +195,6 @@
 #### Defined in
 
 [client/enums/ScreenEffect.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L20)
-
-***
-
-### DeathFailMichaelIn
-
-> **DeathFailMichaelIn**: `"DeathFailMichaelIn"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L18)
 
 ***
 
@@ -878,6 +878,76 @@
 
 ***
 
+### PauseMenuOut
+
+> **PauseMenuOut**: `"PauseMenuOut"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L90)
+
+***
+
+### PennedIn
+
+> **PennedIn**: `"pennedIn"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L91)
+
+***
+
+### PennedInOut
+
+> **PennedInOut**: `"PennedInOut"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L92)
+
+***
+
+### PeyoteEndIn
+
+> **PeyoteEndIn**: `"PeyoteEndIn"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L93)
+
+***
+
+### PeyoteEndOut
+
+> **PeyoteEndOut**: `"PeyoteEndOut"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L94)
+
+***
+
+### PeyoteIn
+
+> **PeyoteIn**: `"PeyoteIn"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L95)
+
+***
+
+### PeyoteOut
+
+> **PeyoteOut**: `"PeyoteOut"`
+
+#### Defined in
+
+[client/enums/ScreenEffect.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L96)
+
+***
+
 ### PPFilter
 
 > **PPFilter**: `"PPFilter"`
@@ -975,76 +1045,6 @@
 #### Defined in
 
 [client/enums/ScreenEffect.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L106)
-
-***
-
-### PauseMenuOut
-
-> **PauseMenuOut**: `"PauseMenuOut"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L90)
-
-***
-
-### PennedIn
-
-> **PennedIn**: `"pennedIn"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:91](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L91)
-
-***
-
-### PennedInOut
-
-> **PennedInOut**: `"PennedInOut"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L92)
-
-***
-
-### PeyoteEndIn
-
-> **PeyoteEndIn**: `"PeyoteEndIn"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L93)
-
-***
-
-### PeyoteEndOut
-
-> **PeyoteEndOut**: `"PeyoteEndOut"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L94)
-
-***
-
-### PeyoteIn
-
-> **PeyoteIn**: `"PeyoteIn"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L95)
-
-***
-
-### PeyoteOut
-
-> **PeyoteOut**: `"PeyoteOut"`
-
-#### Defined in
-
-[client/enums/ScreenEffect.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ScreenEffect.ts#L96)
 
 ***
 

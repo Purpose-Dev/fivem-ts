@@ -148,16 +148,6 @@
 
 ***
 
-### SUVs
-
-> **SUVs**: `2`
-
-#### Defined in
-
-[client/enums/VehicleClass.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L4)
-
-***
-
 ### Sedans
 
 > **Sedans**: `1`
@@ -205,6 +195,16 @@
 #### Defined in
 
 [client/enums/VehicleClass.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L9)
+
+***
+
+### SUVs
+
+> **SUVs**: `2`
+
+#### Defined in
+
+[client/enums/VehicleClass.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/VehicleClass.ts#L4)
 
 ***
 

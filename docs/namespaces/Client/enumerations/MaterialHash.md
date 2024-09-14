@@ -90,6 +90,26 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 ***
 
+### CardboardBox
+
+> **CardboardBox**: `324383113`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L123)
+
+***
+
+### CardboardSheet
+
+> **CardboardSheet**: `371872850`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L122)
+
+***
+
 ### CarEngine
 
 > **CarEngine**: `1483730186`
@@ -160,56 +180,6 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 ***
 
-### CarPlastic
-
-> **CarPlastic**: `-2073076037`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L140)
-
-***
-
-### CarSoftTop
-
-> **CarSoftTop**: `1787289462`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L141)
-
-***
-
-### CarSoftTopClear
-
-> **CarSoftTopClear**: `-1856842160`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L142)
-
-***
-
-### CardboardBox
-
-> **CardboardBox**: `324383113`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L123)
-
-***
-
-### CardboardSheet
-
-> **CardboardSheet**: `371872850`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L122)
-
-***
-
 ### CarpetFloorboard
 
 > **CarpetFloorboard**: `369382465`
@@ -237,6 +207,36 @@ You can use this enum containing all material hashes (in signed int format) for 
 #### Defined in
 
 [client/hashes/MaterialHash.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L117)
+
+***
+
+### CarPlastic
+
+> **CarPlastic**: `-2073076037`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L140)
+
+***
+
+### CarSoftTop
+
+> **CarSoftTop**: `1787289462`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L141)
+
+***
+
+### CarSoftTopClear
+
+> **CarSoftTopClear**: `-1856842160`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L142)
 
 ***
 
@@ -1340,6 +1340,26 @@ You can use this enum containing all material hashes (in signed int format) for 
 
 ***
 
+### SandstoneBrittle
+
+> **SandstoneBrittle**: `-2124424959`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L26)
+
+***
+
+### SandstoneSolid
+
+> **SandstoneSolid**: `193446431`
+
+#### Defined in
+
+[client/hashes/MaterialHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L25)
+
+***
+
 ### SandTrack
 
 > **SandTrack**: `-1229953970`
@@ -1377,26 +1397,6 @@ You can use this enum containing all material hashes (in signed int format) for 
 #### Defined in
 
 [client/hashes/MaterialHash.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L35)
-
-***
-
-### SandstoneBrittle
-
-> **SandstoneBrittle**: `-2124424959`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L26)
-
-***
-
-### SandstoneSolid
-
-> **SandstoneSolid**: `193446431`
-
-#### Defined in
-
-[client/hashes/MaterialHash.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/hashes/MaterialHash.ts#L25)
 
 ***
 

@@ -19,6 +19,7 @@
 - [Bucket](classes/Bucket.md)
 - [BucketCollection](classes/BucketCollection.md)
 - [DIContainer](classes/DIContainer.md)
+- [Entity](classes/Entity.md)
 
 ### Interfaces
 
@@ -39,24 +40,24 @@
 
 ### Functions
 
-- [Controller](functions/Controller.md)
-- [Factory](functions/Factory.md)
-- [Inject](functions/Inject.md)
-- [Injectable](functions/Injectable.md)
-- [Route](functions/Route.md)
-- [Scoped](functions/Scoped.md)
 - [addAce](functions/addAce.md)
 - [addPrincipal](functions/addPrincipal.md)
+- [Controller](functions/Controller.md)
 - [del](functions/del.md)
 - [emitNetAll](functions/emitNetAll.md)
 - [emitNetAllSerialized](functions/emitNetAllSerialized.md)
+- [Factory](functions/Factory.md)
 - [get](functions/get.md)
+- [Inject](functions/Inject.md)
+- [Injectable](functions/Injectable.md)
 - [makeRequest](functions/makeRequest.md)
 - [post](functions/post.md)
 - [put](functions/put.md)
 - [removeAce](functions/removeAce.md)
 - [removePrincipal](functions/removePrincipal.md)
 - [resolve](functions/resolve.md)
+- [Route](functions/Route.md)
+- [Scoped](functions/Scoped.md)
 - [serializeToBuffer](functions/serializeToBuffer.md)
 - [startServer](functions/startServer.md)
 - [uuidv4](functions/uuidv4.md)

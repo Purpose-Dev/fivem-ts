@@ -10,6 +10,46 @@ List of explosion sources.
 
 ## Enumeration Members
 
+### \_0x763D3B3B
+
+> **\_0x763D3B3B**: `80`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L86)
+
+***
+
+### \_0x988620B8
+
+> **\_0x988620B8**: `25`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L31)
+
+***
+
+### \_0xBAEC056F
+
+> **\_0xBAEC056F**: `77`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L83)
+
+***
+
+### \_0xF728C4A9
+
+> **\_0xF728C4A9**: `76`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L82)
+
+***
+
 ### AirDefence
 
 > **AirDefence**: `42`
@@ -150,6 +190,16 @@ List of explosion sources.
 
 ***
 
+### BombushkaCannon
+
+> **BombushkaCannon**: `53`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L59)
+
+***
+
 ### BombWater
 
 > **BombWater**: `74`
@@ -167,16 +217,6 @@ List of explosion sources.
 #### Defined in
 
 [client/enums/ExplosionType.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L81)
-
-***
-
-### BombushkaCannon
-
-> **BombushkaCannon**: `53`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:59](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L59)
 
 ***
 
@@ -670,16 +710,6 @@ List of explosion sources.
 
 ***
 
-### TankShell
-
-> **TankShell**: `5`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L11)
-
-***
-
 ### Tanker
 
 > **Tanker**: `31`
@@ -687,6 +717,16 @@ List of explosion sources.
 #### Defined in
 
 [client/enums/ExplosionType.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L37)
+
+***
+
+### TankShell
+
+> **TankShell**: `5`
+
+#### Defined in
+
+[client/enums/ExplosionType.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L11)
 
 ***
 
@@ -807,43 +847,3 @@ List of explosion sources.
 #### Defined in
 
 [client/enums/ExplosionType.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L74)
-
-***
-
-### \_0x763D3B3B
-
-> **\_0x763D3B3B**: `80`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L86)
-
-***
-
-### \_0x988620B8
-
-> **\_0x988620B8**: `25`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L31)
-
-***
-
-### \_0xBAEC056F
-
-> **\_0xBAEC056F**: `77`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L83)
-
-***
-
-### \_0xF728C4A9
-
-> **\_0xF728C4A9**: `76`
-
-#### Defined in
-
-[client/enums/ExplosionType.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/ExplosionType.ts#L82)

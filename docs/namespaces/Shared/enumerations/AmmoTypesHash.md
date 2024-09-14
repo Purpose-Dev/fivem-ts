@@ -568,16 +568,6 @@
 
 ***
 
-### SnowLauncher
-
-> **SnowLauncher**: `843865465`
-
-#### Defined in
-
-[shared/hashes/WeaponsHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L208)
-
-***
-
 ### Snowball
 
 > **Snowball**: `-2112339603`
@@ -585,6 +575,16 @@
 #### Defined in
 
 [shared/hashes/WeaponsHash.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L207)
+
+***
+
+### SnowLauncher
+
+> **SnowLauncher**: `843865465`
+
+#### Defined in
+
+[shared/hashes/WeaponsHash.ts:208](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/shared/hashes/WeaponsHash.ts#L208)
 
 ***
 

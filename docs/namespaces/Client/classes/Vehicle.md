@@ -76,6 +76,42 @@
 
 ***
 
+### isAlive
+
+> `get` **isAlive**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`isAlive`](Entity.md#isalive)
+
+#### Defined in
+
+[client/models/Entity.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L36)
+
+***
+
+### isDead
+
+> `get` **isDead**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Inherited from
+
+[`Entity`](Entity.md).[`isDead`](Entity.md#isdead)
+
+#### Defined in
+
+[client/models/Entity.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L32)
+
+***
+
 ### MaxHealth
 
 > `get` **MaxHealth**(): `number`
@@ -157,39 +193,3 @@
 #### Defined in
 
 [client/models/Entity.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L40)
-
-***
-
-### isAlive
-
-> `get` **isAlive**(): `boolean`
-
-#### Returns
-
-`boolean`
-
-#### Inherited from
-
-[`Entity`](Entity.md).[`isAlive`](Entity.md#isalive)
-
-#### Defined in
-
-[client/models/Entity.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L36)
-
-***
-
-### isDead
-
-> `get` **isDead**(): `boolean`
-
-#### Returns
-
-`boolean`
-
-#### Inherited from
-
-[`Entity`](Entity.md).[`isDead`](Entity.md#isdead)
-
-#### Defined in
-
-[client/models/Entity.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L32)

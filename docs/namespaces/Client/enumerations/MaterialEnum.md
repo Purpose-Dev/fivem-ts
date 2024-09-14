@@ -90,6 +90,26 @@ You can use this enum containing all material names for the materials in materia
 
 ***
 
+### CardboardBox
+
+> **CardboardBox**: `"CARDBOARD_BOX"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L123)
+
+***
+
+### CardboardSheet
+
+> **CardboardSheet**: `"CARDBOARD_SHEET"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L122)
+
+***
+
 ### CarEngine
 
 > **CarEngine**: `"CAR_ENGINE"`
@@ -160,56 +180,6 @@ You can use this enum containing all material names for the materials in materia
 
 ***
 
-### CarPlastic
-
-> **CarPlastic**: `"CAR_PLASTIC"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L140)
-
-***
-
-### CarSoftTop
-
-> **CarSoftTop**: `"CAR_SOFTTOP"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L141)
-
-***
-
-### CarSoftTopClear
-
-> **CarSoftTopClear**: `"CAR_SOFTTOP_CLEAR"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L142)
-
-***
-
-### CardboardBox
-
-> **CardboardBox**: `"CARDBOARD_BOX"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L123)
-
-***
-
-### CardboardSheet
-
-> **CardboardSheet**: `"CARDBOARD_SHEET"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L122)
-
-***
-
 ### CarpetFloorboard
 
 > **CarpetFloorboard**: `"CARPET_FLOORBOARD"`
@@ -237,6 +207,36 @@ You can use this enum containing all material names for the materials in materia
 #### Defined in
 
 [client/enums/MaterialEnum.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L117)
+
+***
+
+### CarPlastic
+
+> **CarPlastic**: `"CAR_PLASTIC"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L140)
+
+***
+
+### CarSoftTop
+
+> **CarSoftTop**: `"CAR_SOFTTOP"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L141)
+
+***
+
+### CarSoftTopClear
+
+> **CarSoftTopClear**: `"CAR_SOFTTOP_CLEAR"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L142)
 
 ***
 
@@ -1340,6 +1340,26 @@ You can use this enum containing all material names for the materials in materia
 
 ***
 
+### SandstoneBrittle
+
+> **SandstoneBrittle**: `"SANDSTONE_BRITTLE"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L26)
+
+***
+
+### SandstoneSolid
+
+> **SandstoneSolid**: `"SANDSTONE_SOLID"`
+
+#### Defined in
+
+[client/enums/MaterialEnum.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L25)
+
+***
+
 ### SandTrack
 
 > **SandTrack**: `"SAND_TRACK"`
@@ -1377,26 +1397,6 @@ You can use this enum containing all material names for the materials in materia
 #### Defined in
 
 [client/enums/MaterialEnum.ts:35](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L35)
-
-***
-
-### SandstoneBrittle
-
-> **SandstoneBrittle**: `"SANDSTONE_BRITTLE"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L26)
-
-***
-
-### SandstoneSolid
-
-> **SandstoneSolid**: `"SANDSTONE_SOLID"`
-
-#### Defined in
-
-[client/enums/MaterialEnum.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/MaterialEnum.ts#L25)
 
 ***
 

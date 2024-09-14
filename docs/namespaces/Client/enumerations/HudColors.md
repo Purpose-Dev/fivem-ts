@@ -649,26 +649,6 @@ Each value is documented with its corresponding RGBA value.
 
 ***
 
-### HudColourHDark
-
-> **HudColourHDark**: `167`
-
-#### Defined in
-
-[client/enums/HudColors.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L181)
-
-***
-
-### HudColourHShard
-
-> **HudColourHShard**: `170`
-
-#### Defined in
-
-[client/enums/HudColors.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L184)
-
-***
-
 ### HudColourHbBlue
 
 > **HudColourHbBlue**: `178`
@@ -689,6 +669,16 @@ Each value is documented with its corresponding RGBA value.
 
 ***
 
+### HudColourHDark
+
+> **HudColourHDark**: `167`
+
+#### Defined in
+
+[client/enums/HudColors.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L181)
+
+***
+
 ### HudColourHeistBackground
 
 > **HudColourHeistBackground**: `184`
@@ -699,13 +689,13 @@ Each value is documented with its corresponding RGBA value.
 
 ***
 
-### HudColourInGameBg
+### HudColourHShard
 
-> **HudColourInGameBg**: `140`
+> **HudColourHShard**: `170`
 
 #### Defined in
 
-[client/enums/HudColors.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L154)
+[client/enums/HudColors.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L184)
 
 ***
 
@@ -716,6 +706,16 @@ Each value is documented with its corresponding RGBA value.
 #### Defined in
 
 [client/enums/HudColors.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L138)
+
+***
+
+### HudColourInGameBg
+
+> **HudColourInGameBg**: `140`
+
+#### Defined in
+
+[client/enums/HudColors.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/HudColors.ts#L154)
 
 ***
 
