@@ -1,6 +1,7 @@
 export { BlipSprites } from './BlipSprites';
 export { PedsEnum } from './PedsEnum';
 export { PedType } from './PedType';
+export { RadioStation } from './RadioStation';
 export { VehicleLandingGearState } from './VehicleLandingGearState';
 export { VehicleLockState } from './VehicleLockState';
 export { VehicleSeat } from './VehicleSeat';

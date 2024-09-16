@@ -34,7 +34,6 @@ export { MarkerTypes } from './MarkerTypes';
 export { MaterialEnum } from './MaterialEnum';
 export { NotificationType } from './NotificationType';
 export { ParachuteLandingType, PedParachuteState } from './Parachute';
-export { RadioStation } from './RadioStation';
 export { RagdollType } from './RagdollType';
 export { Relationship } from './Relationship';
 export { RopeType } from './RopeType';
