@@ -1,6 +1,9 @@
 import { VehicleDoorIndex } from '../enums';
 import { Vehicle, VehicleDoor } from '.';
 
+/**
+ * Manages a collection of vehicle doors associated with a specific vehicle.
+ */
 export class VehicleDoorCollection {
     private readonly vehicleDoors: Map<VehicleDoorIndex, VehicleDoor> = new Map();
 
