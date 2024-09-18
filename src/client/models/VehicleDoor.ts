@@ -52,15 +52,13 @@ export class VehicleDoor {
     }
 
     /**
-     * Opens a vehicle door.
+     * Breaks the vehicle door with the option to keep it in the world.
      *
-     * @param [loose=false] - Indicates if the door should be opened loosely.
-     * @param [openInstantly=false] - If true, the door opens instantly.
-     *
+     * @param [stayInTheWorld=true] - Determines whether the broken door stays in the world.
      * @return {void}
      */
-    public open(loose = false, openInstantly = false): void {
-        SetVehicleDoorOpen(this.owner.Handle, this.index, loose, openInstantly);
+    public break(stayInTheWorld = true): void {
+        SetVehicleDoorBroken(this.owner.Handle, this.index, stayInTheWorld);
     }
 
     /**
@@ -75,13 +73,15 @@ export class VehicleDoor {
     }
 
     /**
-     * Breaks the vehicle door with the option to keep it in the world.
+     * Opens a vehicle door.
      *
-     * @param [stayInTheWorld=true] - Determines whether the broken door stays in the world.
+     * @param [loose=false] - Indicates if the door should be opened loosely.
+     * @param [openInstantly=false] - If true, the door opens instantly.
+     *
      * @return {void}
      */
-    public break(stayInTheWorld = true): void {
-        SetVehicleDoorBroken(this.owner.Handle, this.index, stayInTheWorld);
+    public open(loose = false, openInstantly = false): void {
+        SetVehicleDoorOpen(this.owner.Handle, this.index, loose, openInstantly);
     }
 
     /**
