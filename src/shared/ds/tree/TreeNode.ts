@@ -4,8 +4,6 @@ import { ITreeNode, NodeColor } from '.';
  * Represents a node in a binary tree.
  *
  * @template T - The type of the value held by this node.
- *
- * @implements ITreeNode<T>
  */
 export class TreeNode<T> implements ITreeNode<T> {
     value: T;

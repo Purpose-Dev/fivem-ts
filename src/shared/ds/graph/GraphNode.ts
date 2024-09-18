@@ -4,7 +4,6 @@ import { IGraphNode } from '.';
  * Represents a node in a graph structure.
  *
  * @template T - The type of the value held by the node.
- * @implements {IGraphNode<T>}
  */
 export class GraphNode<T> implements IGraphNode<T> {
     constructor(private value: T) {}
