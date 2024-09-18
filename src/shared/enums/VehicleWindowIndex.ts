@@ -5,10 +5,10 @@
  * - `FrontRightWindow`: Index 1, representing the front right window of the vehicle.
  * - `BackLeftWindow`: Index 2, representing the back left window of the vehicle.
  * - `BackRightWindow`: Index 3, representing the back right window of the vehicle.
- * - `ExtraWindow1`: Index 4, representing an extra window, usually custom or additional.
- * - `ExtraWindow2`: Index 5, representing an extra window, usually custom or additional.
- * - `ExtraWindow3`: Index 6, representing an extra window, usually custom or additional.
- * - `ExtraWindow4`: Index 7, representing an extra window, usually custom or additional.
+ * - `ExtraWindow1`: Index 4, representing an extra window, usually custom, additional or Middle Left Window.
+ * - `ExtraWindow2`: Index 5, representing an extra window, usually custom, additional or Middle Rear Window.
+ * - `ExtraWindow3`: Index 6, representing an extra window, usually custom, additional or WindScreen.
+ * - `ExtraWindow4`: Index 7, representing an extra window, usually custom, additional or Rear WindScreen.
  *
  * @enum{number}
  */
