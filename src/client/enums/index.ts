@@ -40,6 +40,8 @@ export { RopeType } from './RopeType';
 export { ScreenEffect } from './ScreenEffect';
 export { SpeechModifier } from './SpeechModifier';
 export { VehicleClass } from './VehicleClass';
+export { VehicleColor } from './VehicleColor';
+export { VehicleDoorIndex } from './VehicleDoorIndex';
 export { VehicleDrivingFlags } from './VehicleDrivingFlags';
 export { VehicleIndicatorsLights } from './VehicleIndicatorsLights';
 export { VehicleMods } from './VehicleMods';
