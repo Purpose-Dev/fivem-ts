@@ -1,3 +1,4 @@
+export { VehiclesHash } from './VehiclesHash';
 export {
     AmmoTypesHash,
     VehicleAmmoTypesHash,
