@@ -28,10 +28,10 @@ export type EulerAngles = {
 export class Quaternion {
     /**
      * Creates a new Quaternion instance.
-     * @param x - The x component of the quaternion.
-     * @param y - The y component of the quaternion.
-     * @param z - The z component of the quaternion.
-     * @param w - The w (scalar) component of the quaternion.
+     * @param x {number} - The x component of the quaternion.
+     * @param y {number} - The y component of the quaternion.
+     * @param z {number} - The z component of the quaternion.
+     * @param w {number} - The w (scalar) component of the quaternion.
      */
     constructor(
         public x: number,
@@ -42,7 +42,8 @@ export class Quaternion {
 
     /**
      * Gets the length (magnitude) of the quaternion.
-     * @returns The magnitude of the quaternion.
+     *
+     * @returns {number} The magnitude of the quaternion.
      */
     get Length(): number {
         return Math.sqrt(this.x * this.x + this.y * this.y + this.z * this.z + this.w * this.w);
@@ -51,12 +52,16 @@ export class Quaternion {
     /**
      * Gets the normalized quaternion (unit quaternion).
      * Normalization makes the magnitude of the quaternion equal to 1.
-     * @returns A new quaternion that is the normalized version of this quaternion.
+     *
+     * @returns {Quaternion} A new quaternion that is the normalized version of this quaternion.
      */
     get normalize(): Quaternion {
-        const magnitude: number = Math.sqrt(
-            this.x * this.x + this.y * this.y + this.z * this.z + this.w * this.w,
-        );
+        const magnitude: number = this.Length;
+
+        if (magnitude === 0) {
+            return new Quaternion(0, 0, 0, 0);
+        }
+
         return new Quaternion(
             this.x / magnitude,
             this.y / magnitude,
@@ -67,9 +72,11 @@ export class Quaternion {
 
     /**
      * Checks if this quaternion is equal to another quaternion within a certain tolerance.
-     * @param other - The quaternion to compare with.
+     *
+     * @param other {Quaternion} - The quaternion to compare with.
      * @param tolerance - The tolerance within which the two quaternions are considered equal. Default is 1e-6.
-     * @returns True if the quaternions are equal within the given tolerance, false otherwise.
+     *
+     * @returns {boolean} True if the quaternions are equal within the given tolerance, false otherwise.
      */
     public equals(other: Quaternion, tolerance = 1e-6): boolean {
         return (
@@ -82,7 +89,8 @@ export class Quaternion {
 
     /**
      * Converts the quaternion to an array of numbers [x, y, z, w].
-     * @returns An array containing the quaternion components.
+     *
+     * @returns {[number, number, number, number]} An array containing the quaternion components.
      */
     public toArray(): [number, number, number, number] {
         return [this.x, this.y, this.z, this.w];
@@ -90,7 +98,8 @@ export class Quaternion {
 
     /**
      * Converts the quaternion to a JSON object.
-     * @returns A JSON object with x, y, z, and w properties.
+     *
+     * @returns {{x: number, y: number, z: number, w: number}} A JSON object with x, y, z, and w properties.
      */
     public toJson(): { x: number; y: number; z: number; w: number } {
         return {
@@ -104,8 +113,10 @@ export class Quaternion {
     /**
      * Multiplies this quaternion by another quaternion.
      * The result is a new quaternion representing the combined rotation.
-     * @param other - The quaternion to multiply with.
-     * @returns A new quaternion representing the product of the two quaternions.
+     *
+     * @param other {Quaternion} - The quaternion to multiply with.
+     *
+     * @returns {Quaternion} A new quaternion representing the product of the two quaternions.
      */
     public multiply(other: Quaternion): Quaternion {
         const x = this.w * other.x + this.x * other.w + this.y * other.z - this.z * other.y;
@@ -119,7 +130,8 @@ export class Quaternion {
     /**
      * Returns the conjugate of this quaternion.
      * The conjugate of a quaternion is obtained by negating its vector part.
-     * @returns A new quaternion representing the conjugate of this quaternion.
+     *
+     * @returns {Quaternion} A new quaternion representing the conjugate of this quaternion.
      */
     public conjugate(): Quaternion {
         return new Quaternion(-this.x, -this.y, -this.z, -this.w);
@@ -128,7 +140,8 @@ export class Quaternion {
     /**
      * Returns the inverse of this quaternion.
      * The inverse is calculated by conjugating the quaternion and dividing by the square of its magnitude.
-     * @returns A new quaternion representing the inverse of this quaternion.
+     *
+     * @returns {Quaternion} A new quaternion representing the inverse of this quaternion.
      */
     public inverse(): Quaternion {
         const normSquared = this.x * this.x + this.y * this.y + this.z * this.z + this.w * this.w;
@@ -143,8 +156,10 @@ export class Quaternion {
     /**
      * Computes the dot product between this quaternion and another quaternion.
      * The dot product is a measure of the angle between two quaternions.
-     * @param q - The other quaternion.
-     * @returns The dot product of the two quaternions.
+     *
+     * @param q {Quaternion} - The other quaternion.
+     *
+     * @returns {Quaternion} The dot product of the two quaternions.
      */
     public dot(q: Quaternion): number {
         return this.x * q.x + this.y * q.y + this.z * q.z + this.w * q.w;
@@ -153,9 +168,11 @@ export class Quaternion {
     /**
      * Performs spherical linear interpolation (SLERP) between this quaternion and another quaternion.
      * SLERP is used to interpolate between two quaternions with constant angular velocity.
-     * @param q1 - The quaternion to interpolate towards.
-     * @param t - The interpolation factor, ranging from 0 to 1.
-     * @returns A new quaternion representing the interpolated quaternion.
+     *
+     * @param q1 {Quaternion} - The quaternion to interpolate towards.
+     * @param t {number} - The interpolation factor, ranging from 0 to 1.
+     *
+     * @returns {Quaternion} A new quaternion representing the interpolated quaternion.
      */
     public slerp(q1: Quaternion, t: number): Quaternion {
         let cosHalfTheta = this.w * q1.w + this.x * q1.x + this.y * q1.y + this.z * q1.z;
@@ -194,7 +211,8 @@ export class Quaternion {
     /**
      * Converts the quaternion to Euler angles (roll, pitch, yaw).
      * Euler angles are a way to represent 3D rotations using three angles.
-     * @returns An object containing the roll, pitch, and yaw angles in radians.
+     *
+     * @returns {EulerAngles} An object containing the roll, pitch, and yaw angles in radians.
      */
     public toEulerAngles(): EulerAngles {
         const sinr_cosp = 2 * (this.w * this.x + this.y * this.z);
@@ -219,7 +237,8 @@ export class Quaternion {
 
     /**
      * Creates a quaternion from Euler angles (roll, pitch, yaw).
-     * @param eulerAngles - An object containing the roll, pitch, and yaw angles in radians.
+     * @param eulerAngles {EulerAngles} - An object containing the roll, pitch, and yaw angles in radians.
+     *
      * @returns A new quaternion representing the rotation.
      */
     public static fromEulerAngles(eulerAngles: EulerAngles): Quaternion {
@@ -241,10 +260,11 @@ export class Quaternion {
     /**
      * Performs linear interpolation (LERP) between two quaternions.
      *
-     * @param q1 - The starting quaternion.
-     * @param q2 - The ending quaternion.
-     * @param t - The interpolation factor (0 to 1).
-     * @returns A new quaternion that is the result of the interpolation.
+     * @param q1 {Quaternion} - The starting quaternion.
+     * @param q2 {Quaternion} - The ending quaternion.
+     * @param t {number} - The interpolation factor (0 to 1).
+     *
+     * @returns {Quaternion} A new quaternion that is the result of the interpolation.
      */
     public static lerp(q1: Quaternion, q2: Quaternion, t: number): Quaternion {
         const x = q1.x + t * (q2.x - q1.x);
@@ -258,7 +278,7 @@ export class Quaternion {
     /**
      * Returns the identity quaternion (no rotation).
      *
-     * @returns A new quaternion representing no rotation.
+     * @returns {Quaternion} A new quaternion representing no rotation.
      */
     public static identity(): Quaternion {
         return new Quaternion(0, 0, 0, 1);
@@ -267,9 +287,10 @@ export class Quaternion {
     /**
      * Calculates the angle between two quaternions.
      *
-     * @param q1 - The first quaternion.
-     * @param q2 - The second quaternion.
-     * @returns The angle in radians between the two quaternions.
+     * @param q1 {Quaternion} - The first quaternion.
+     * @param q2 {Quaternion} - The second quaternion.
+     *
+     * @returns {number} The angle in radians between the two quaternions.
      */
     public static angleBetween(q1: Quaternion, q2: Quaternion): number {
         const dotProduct: number = q1.dot(q2);
