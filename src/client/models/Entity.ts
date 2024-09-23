@@ -294,7 +294,8 @@ export class Entity {
      * This method determines whether the entity associated with the current instance is occluded,
      * meaning it is blocked from view by other objects or entities.
      *
-     * @return {boolean*/
+     * @return {boolean}
+     */
     public get IsOccluded(): boolean {
         return IsEntityOccluded(this.handle);
     }
