@@ -1,10 +1,13 @@
 import { RadioStation } from '../shared';
 import { Controls, InputMode } from './enums';
+import { Ped, Player } from './models';
 
 /**
  * Represents a Game with various methods to interact with and retrieve game-related data.
  */
 export class Game {
+    protected static cachedPlayer: Player;
+
     /**
      * Generates a hash based on the input value.
      * If the input is a number, it will return the number directly.
@@ -13,7 +16,7 @@ export class Game {
      * @param {string | number} input - The value to be hashed, can be a string or a number.
      * @return {number} The generated hash key or the input number.
      */
-    public static generateHash(input: string | number) {
+    public static generateHash(input: string | number): number {
         if (typeof input === 'number') {
             return input;
         } else {
@@ -41,6 +44,41 @@ export class Game {
         return 1 / this.LastFrameTime;
     }
 
+    public static get Player(): Player {
+        const handle: number = PlayerId();
+
+        if (typeof this.cachedPlayer === 'undefined' || handle !== this.cachedPlayer.Owner) {
+            this.cachedPlayer = new Player(handle);
+        }
+
+        return this.cachedPlayer;
+    }
+
+    public static get PlayerPed(): Ped {
+        return this.Player.Ped;
+    }
+
+    public static *playersList(): IterableIterator<Player> {
+        for (const id of GetActivePlayers() as number[]) {
+            yield new Player(id);
+        }
+    }
+
+    /**
+     * Get whether PvP is enabled.
+     * @returns True if enabled.
+     */
+    public static get PlayerVersusPlayer(): boolean {
+        return this.Player.PvpEnabled;
+    }
+
+    /**
+     * Set whether PvP is enabled.
+     */
+    public static set PlayerVersusPlayer(value: boolean) {
+        this.Player.PvpEnabled = value;
+    }
+
     public static get MaxWantedLevel(): number {
         return GetMaxWantedLevel();
     }
@@ -64,7 +102,7 @@ export class Game {
     }
 
     public static get NightVision(): boolean {
-        return !!IsNightvisionActive();
+        return IsNightvisionActive();
     }
 
     public static set NightVision(value: boolean) {
@@ -72,7 +110,7 @@ export class Game {
     }
 
     public static get ThermalVision(): boolean {
-        return !!IsSeethroughActive();
+        return IsSeethroughActive();
     }
 
     public static set ThermalVision(toggle: boolean) {
@@ -80,7 +118,7 @@ export class Game {
     }
 
     public static get IsMissionActive(): boolean {
-        return !!GetMissionFlag();
+        return GetMissionFlag();
     }
 
     public static set IsMissionActive(toggle: boolean) {

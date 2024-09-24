@@ -101,6 +101,7 @@
  * IK_Root - The inverse kinematics root bone.
  */
 export enum Bone {
+    Unknown = -1,
     SKEL_ROOT,
     SKEL_Pelvis = 11816,
     SKEL_L_Thigh = 58271,
