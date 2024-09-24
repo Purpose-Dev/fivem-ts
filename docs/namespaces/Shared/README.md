@@ -12,13 +12,16 @@
 
 - [AmmoTypesHash](enumerations/AmmoTypesHash.md)
 - [BlipSprites](enumerations/BlipSprites.md)
+- [NodeColor](enumerations/NodeColor.md)
 - [PedsEnum](enumerations/PedsEnum.md)
 - [PedType](enumerations/PedType.md)
+- [RadioStation](enumerations/RadioStation.md)
 - [VehicleAmmoTypesHash](enumerations/VehicleAmmoTypesHash.md)
 - [VehicleLandingGearState](enumerations/VehicleLandingGearState.md)
 - [VehicleLockState](enumerations/VehicleLockState.md)
 - [VehicleSeat](enumerations/VehicleSeat.md)
 - [VehiclesEnum](enumerations/VehiclesEnum.md)
+- [VehiclesHash](enumerations/VehiclesHash.md)
 - [VehicleWeaponsHash](enumerations/VehicleWeaponsHash.md)
 - [VehicleWheelType](enumerations/VehicleWheelType.md)
 - [VehicleWindowIndex](enumerations/VehicleWindowIndex.md)
@@ -29,11 +32,31 @@
 
 ### Classes
 
+- [CircularQueue](classes/CircularQueue.md)
+- [Graph](classes/Graph.md)
+- [GraphEdge](classes/GraphEdge.md)
+- [GraphNode](classes/GraphNode.md)
+- [PriorityQueue](classes/PriorityQueue.md)
+- [Queue](classes/Queue.md)
+- [Stack](classes/Stack.md)
+- [StackOverflowError](classes/StackOverflowError.md)
+- [StackUnderflowError](classes/StackUnderflowError.md)
+- [TreeNode](classes/TreeNode.md)
 - [Vector3](classes/Vector3.md)
 
 ### Interfaces
 
 - [DateTime](interfaces/DateTime.md)
+- [ICircularQueue](interfaces/ICircularQueue.md)
+- [IGraph](interfaces/IGraph.md)
+- [IGraphEdge](interfaces/IGraphEdge.md)
+- [IGraphNode](interfaces/IGraphNode.md)
+- [IPriorityQueue](interfaces/IPriorityQueue.md)
+- [IQueue](interfaces/IQueue.md)
+- [IStack](interfaces/IStack.md)
+- [ITree](interfaces/ITree.md)
+- [ITreeNode](interfaces/ITreeNode.md)
+- [PriorityQueueElement](interfaces/PriorityQueueElement.md)
 - [Vec3](interfaces/Vec3.md)
 
 ### Type Aliases

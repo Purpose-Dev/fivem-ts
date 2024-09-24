@@ -6,6 +6,8 @@
 
 # Class: VehicleWindowCollection
 
+Represents a collection of windows for a specific vehicle.
+
 ## Constructors
 
 ### new VehicleWindowCollection()
@@ -22,9 +24,23 @@
 
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L11)
+[client/models/VehicleWindowCollection.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L14)
 
 ## Accessors
+
+### AreAllWindowsIntact
+
+> `get` **AreAllWindowsIntact**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[client/models/VehicleWindowCollection.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L26)
+
+***
 
 ### Owner
 
@@ -36,7 +52,7 @@
 
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L15)
+[client/models/VehicleWindowCollection.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L18)
 
 ***
 
@@ -50,7 +66,7 @@
 
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L19)
+[client/models/VehicleWindowCollection.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L22)
 
 ## Methods
 
@@ -58,13 +74,17 @@
 
 > **getAllWindows**(): [`VehicleWindow`](VehicleWindow.md)[]
 
+Retrieves all window objects in the vehicle.
+
 #### Returns
 
 [`VehicleWindow`](VehicleWindow.md)[]
 
+An array of VehicleWindow objects that exist in the vehicle.
+
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L31)
+[client/models/VehicleWindowCollection.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L49)
 
 ***
 
@@ -72,17 +92,23 @@
 
 > **getWindow**(`index`): [`VehicleWindow`](VehicleWindow.md)
 
+Retrieves the window object associated with a specific index in the vehicle.
+
 #### Parameters
 
 • **index**: [`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
+
+The index of the window to retrieve.
 
 #### Returns
 
 [`VehicleWindow`](VehicleWindow.md)
 
+The window object associated with the specified index.
+
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:23](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L23)
+[client/models/VehicleWindowCollection.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L36)
 
 ***
 
@@ -90,14 +116,54 @@
 
 > **hasWindow**(`windowIndex`): `boolean`
 
+Checks if a window of the vehicle exists based on the given window index.
+
 #### Parameters
 
 • **windowIndex**: [`VehicleWindowIndex`](../../Shared/enumerations/VehicleWindowIndex.md)
+
+The index of the window to check.
 
 #### Returns
 
 `boolean`
 
+True if the window exists, false otherwise.
+
 #### Defined in
 
-[client/models/VehicleWindowCollection.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L44)
+[client/models/VehicleWindowCollection.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L90)
+
+***
+
+### rollDownAllWindows()
+
+> **rollDownAllWindows**(): `void`
+
+Rolls down all the windows of the vehicle.
+
+#### Returns
+
+`void`
+
+No return value
+
+#### Defined in
+
+[client/models/VehicleWindowCollection.ts:67](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L67)
+
+***
+
+### rollUpAllWindows()
+
+> **rollUpAllWindows**(): `void`
+
+Rolls up all windows in the vehicle.
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[client/models/VehicleWindowCollection.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWindowCollection.ts#L78)

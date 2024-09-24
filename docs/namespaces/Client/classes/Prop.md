@@ -2,11 +2,15 @@
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Vehicle
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Prop
 
-# Class: Vehicle
+# Class: Prop
 
-Represents an in-game entity with various properties and methods to interact with the underlying game engine.
+Represents a Prop entity.
+
+This class extends the Entity class and provides functionalities
+specific to Prop entities. A Prop is a type of entity that can be
+placed on the ground correctly within the game environment.
 
 ## Extends
 
@@ -14,9 +18,9 @@ Represents an in-game entity with various properties and methods to interact wit
 
 ## Constructors
 
-### new Vehicle()
+### new Prop()
 
-> **new Vehicle**(`id`): [`Vehicle`](Vehicle.md)
+> **new Prop**(`id`): [`Prop`](Prop.md)
 
 #### Parameters
 
@@ -24,7 +28,7 @@ Represents an in-game entity with various properties and methods to interact wit
 
 #### Returns
 
-[`Vehicle`](Vehicle.md)
+[`Prop`](Prop.md)
 
 #### Overrides
 
@@ -32,7 +36,7 @@ Represents an in-game entity with various properties and methods to interact wit
 
 #### Defined in
 
-[client/models/Vehicle.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L17)
+[client/models/Prop.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Prop.ts#L11)
 
 ## Accessors
 
@@ -78,34 +82,6 @@ Entity Bone Collection of Entity
 #### Defined in
 
 [client/models/Entity.ts:31](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L31)
-
-***
-
-### ClassDisplayName
-
-> `get` **ClassDisplayName**(): `string`
-
-#### Returns
-
-`string`
-
-#### Defined in
-
-[client/models/Vehicle.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L26)
-
-***
-
-### ClassType
-
-> `get` **ClassType**(): [`VehicleClass`](../enumerations/VehicleClass.md)
-
-#### Returns
-
-[`VehicleClass`](../enumerations/VehicleClass.md)
-
-#### Defined in
-
-[client/models/Vehicle.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L30)
 
 ***
 
@@ -1720,6 +1696,43 @@ No return value.
 
 ***
 
+### placeOnGround()
+
+> **placeOnGround**(): `void`
+
+Positions the object on the ground properly.
+
+This method uses the underlying 'PlaceObjectOnGroundProperly' function with
+the current object's handle to adjust its position such that it rests
+appropriately on the ground.
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[client/models/Prop.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Prop.ts#L27)
+
+***
+
+### placeOnGround2()
+
+> **placeOnGround2**(): `void`
+
+Places the object on the ground properly using the appropriate game function.
+Adjusts the position of the object to ensure it is correctly aligned with the ground.
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[client/models/Prop.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Prop.ts#L37)
+
+***
+
 ### removeAllParticleEffects()
 
 > **removeAllParticleEffects**(): `void`
@@ -1843,75 +1856,3 @@ The network identifier for the entity.
 #### Defined in
 
 [client/models/Entity.ts:929](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Entity.ts#L929)
-
-***
-
-### getClassDisplayName()
-
-> `static` **getClassDisplayName**(`vehicleClass`): `string`
-
-Returns a formatted string representing the display name of the vehicle class.
-
-#### Parameters
-
-• **vehicleClass**: [`VehicleClass`](../enumerations/VehicleClass.md)
-
-The enumeration value representing the class of the vehicle.
-
-#### Returns
-
-`string`
-
-The formatted display name of the vehicle class.
-
-#### Defined in
-
-[client/models/Vehicle.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L41)
-
-***
-
-### getModelClass()
-
-> `static` **getModelClass**(`vehicleModel`): [`VehicleClass`](../enumerations/VehicleClass.md)
-
-Retrieves the vehicle class associated with a given vehicle model.
-
-#### Parameters
-
-• **vehicleModel**: [`Model`](Model.md)
-
-The model of the vehicle for which to retrieve the class.
-
-#### Returns
-
-[`VehicleClass`](../enumerations/VehicleClass.md)
-
-The class of the specified vehicle model.
-
-#### Defined in
-
-[client/models/Vehicle.ts:51](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L51)
-
-***
-
-### getModelDisplayName()
-
-> `static` **getModelDisplayName**(`vehicleModel`): `string`
-
-Retrieves the display name for a given vehicle model.
-
-#### Parameters
-
-• **vehicleModel**: [`Model`](Model.md)
-
-The model of the vehicle for which the display name is to be retrieved.
-
-#### Returns
-
-`string`
-
-The display name of the vehicle model.
-
-#### Defined in
-
-[client/models/Vehicle.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Vehicle.ts#L61)

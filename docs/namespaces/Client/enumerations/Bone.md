@@ -115,7 +115,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L178)
+[client/enums/Bone.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L179)
 
 ***
 
@@ -125,7 +125,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L189)
+[client/enums/Bone.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L190)
 
 ***
 
@@ -135,7 +135,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L194)
+[client/enums/Bone.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L195)
 
 ***
 
@@ -145,7 +145,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L179)
+[client/enums/Bone.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L180)
 
 ***
 
@@ -155,7 +155,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L182)
+[client/enums/Bone.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L183)
 
 ***
 
@@ -165,7 +165,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L181)
+[client/enums/Bone.ts:182](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L182)
 
 ***
 
@@ -175,7 +175,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:180](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L180)
+[client/enums/Bone.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L181)
 
 ***
 
@@ -185,7 +185,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L197)
+[client/enums/Bone.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L198)
 
 ***
 
@@ -195,7 +195,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L183)
+[client/enums/Bone.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L184)
 
 ***
 
@@ -205,7 +205,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L192)
+[client/enums/Bone.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L193)
 
 ***
 
@@ -215,7 +215,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L196)
+[client/enums/Bone.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L197)
 
 ***
 
@@ -225,7 +225,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L195)
+[client/enums/Bone.ts:196](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L196)
 
 ***
 
@@ -235,7 +235,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L187)
+[client/enums/Bone.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L188)
 
 ***
 
@@ -245,7 +245,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L186)
+[client/enums/Bone.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L187)
 
 ***
 
@@ -255,7 +255,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L185)
+[client/enums/Bone.ts:186](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L186)
 
 ***
 
@@ -265,7 +265,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:184](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L184)
+[client/enums/Bone.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L185)
 
 ***
 
@@ -275,7 +275,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:198](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L198)
+[client/enums/Bone.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L199)
 
 ***
 
@@ -285,7 +285,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:188](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L188)
+[client/enums/Bone.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L189)
 
 ***
 
@@ -295,7 +295,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L193)
+[client/enums/Bone.ts:194](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L194)
 
 ***
 
@@ -305,7 +305,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L199)
+[client/enums/Bone.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L200)
 
 ***
 
@@ -315,7 +315,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L191)
+[client/enums/Bone.ts:192](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L192)
 
 ***
 
@@ -325,7 +325,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:190](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L190)
+[client/enums/Bone.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L191)
 
 ***
 
@@ -335,7 +335,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L177)
+[client/enums/Bone.ts:178](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L178)
 
 ***
 
@@ -345,7 +345,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L110)
+[client/enums/Bone.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L111)
 
 ***
 
@@ -355,7 +355,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L147)
+[client/enums/Bone.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L148)
 
 ***
 
@@ -365,7 +365,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L117)
+[client/enums/Bone.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L118)
 
 ***
 
@@ -375,7 +375,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L171)
+[client/enums/Bone.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L172)
 
 ***
 
@@ -385,7 +385,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L201)
+[client/enums/Bone.ts:202](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L202)
 
 ***
 
@@ -395,7 +395,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L150)
+[client/enums/Bone.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L151)
 
 ***
 
@@ -405,7 +405,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L112)
+[client/enums/Bone.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L113)
 
 ***
 
@@ -415,7 +415,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L174)
+[client/enums/Bone.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L175)
 
 ***
 
@@ -425,7 +425,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L119)
+[client/enums/Bone.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L120)
 
 ***
 
@@ -435,7 +435,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L111)
+[client/enums/Bone.ts:112](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L112)
 
 ***
 
@@ -445,7 +445,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L146)
+[client/enums/Bone.ts:147](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L147)
 
 ***
 
@@ -455,7 +455,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L118)
+[client/enums/Bone.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L119)
 
 ***
 
@@ -465,7 +465,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L170)
+[client/enums/Bone.ts:171](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L171)
 
 ***
 
@@ -475,7 +475,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L149)
+[client/enums/Bone.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L150)
 
 ***
 
@@ -485,7 +485,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:148](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L148)
+[client/enums/Bone.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L149)
 
 ***
 
@@ -495,7 +495,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:120](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L120)
+[client/enums/Bone.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L121)
 
 ***
 
@@ -505,7 +505,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:200](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L200)
+[client/enums/Bone.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L201)
 
 ***
 
@@ -515,7 +515,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L173)
+[client/enums/Bone.ts:174](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L174)
 
 ***
 
@@ -525,7 +525,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:172](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L172)
+[client/enums/Bone.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L173)
 
 ***
 
@@ -535,7 +535,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L121)
+[client/enums/Bone.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L122)
 
 ***
 
@@ -545,7 +545,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L176)
+[client/enums/Bone.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L177)
 
 ***
 
@@ -555,7 +555,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L107)
+[client/enums/Bone.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L108)
 
 ***
 
@@ -565,7 +565,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L127)
+[client/enums/Bone.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L128)
 
 ***
 
@@ -575,7 +575,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L131)
+[client/enums/Bone.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L132)
 
 ***
 
@@ -585,7 +585,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L132)
+[client/enums/Bone.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L133)
 
 ***
 
@@ -595,7 +595,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L133)
+[client/enums/Bone.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L134)
 
 ***
 
@@ -605,7 +605,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:134](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L134)
+[client/enums/Bone.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L135)
 
 ***
 
@@ -615,7 +615,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L135)
+[client/enums/Bone.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L136)
 
 ***
 
@@ -625,7 +625,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L136)
+[client/enums/Bone.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L137)
 
 ***
 
@@ -635,7 +635,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L137)
+[client/enums/Bone.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L138)
 
 ***
 
@@ -645,7 +645,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:138](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L138)
+[client/enums/Bone.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L139)
 
 ***
 
@@ -655,7 +655,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L139)
+[client/enums/Bone.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L140)
 
 ***
 
@@ -665,7 +665,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:140](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L140)
+[client/enums/Bone.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L141)
 
 ***
 
@@ -675,7 +675,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L141)
+[client/enums/Bone.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L142)
 
 ***
 
@@ -685,7 +685,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:142](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L142)
+[client/enums/Bone.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L143)
 
 ***
 
@@ -695,7 +695,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L143)
+[client/enums/Bone.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L144)
 
 ***
 
@@ -705,7 +705,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:144](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L144)
+[client/enums/Bone.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L145)
 
 ***
 
@@ -715,7 +715,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L145)
+[client/enums/Bone.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L146)
 
 ***
 
@@ -725,7 +725,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L108)
+[client/enums/Bone.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L109)
 
 ***
 
@@ -735,7 +735,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L129)
+[client/enums/Bone.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L130)
 
 ***
 
@@ -745,7 +745,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:130](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L130)
+[client/enums/Bone.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L131)
 
 ***
 
@@ -755,7 +755,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L106)
+[client/enums/Bone.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L107)
 
 ***
 
@@ -765,7 +765,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L109)
+[client/enums/Bone.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L110)
 
 ***
 
@@ -775,7 +775,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:128](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L128)
+[client/enums/Bone.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L129)
 
 ***
 
@@ -785,7 +785,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L175)
+[client/enums/Bone.ts:176](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L176)
 
 ***
 
@@ -795,7 +795,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L105)
+[client/enums/Bone.ts:106](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L106)
 
 ***
 
@@ -805,7 +805,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L114)
+[client/enums/Bone.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L115)
 
 ***
 
@@ -815,7 +815,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:151](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L151)
+[client/enums/Bone.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L152)
 
 ***
 
@@ -825,7 +825,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L155)
+[client/enums/Bone.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L156)
 
 ***
 
@@ -835,7 +835,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:156](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L156)
+[client/enums/Bone.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L157)
 
 ***
 
@@ -845,7 +845,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L157)
+[client/enums/Bone.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L158)
 
 ***
 
@@ -855,7 +855,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:158](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L158)
+[client/enums/Bone.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L159)
 
 ***
 
@@ -865,7 +865,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:159](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L159)
+[client/enums/Bone.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L160)
 
 ***
 
@@ -875,7 +875,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L160)
+[client/enums/Bone.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L161)
 
 ***
 
@@ -885,7 +885,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:161](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L161)
+[client/enums/Bone.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L162)
 
 ***
 
@@ -895,7 +895,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:162](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L162)
+[client/enums/Bone.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L163)
 
 ***
 
@@ -905,7 +905,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:163](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L163)
+[client/enums/Bone.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L164)
 
 ***
 
@@ -915,7 +915,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L164)
+[client/enums/Bone.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L165)
 
 ***
 
@@ -925,7 +925,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L165)
+[client/enums/Bone.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L166)
 
 ***
 
@@ -935,7 +935,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:166](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L166)
+[client/enums/Bone.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L167)
 
 ***
 
@@ -945,7 +945,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L167)
+[client/enums/Bone.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L168)
 
 ***
 
@@ -955,7 +955,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:168](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L168)
+[client/enums/Bone.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L169)
 
 ***
 
@@ -965,7 +965,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L169)
+[client/enums/Bone.ts:170](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L170)
 
 ***
 
@@ -975,7 +975,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L115)
+[client/enums/Bone.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L116)
 
 ***
 
@@ -985,7 +985,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L153)
+[client/enums/Bone.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L154)
 
 ***
 
@@ -995,7 +995,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:154](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L154)
+[client/enums/Bone.ts:155](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L155)
 
 ***
 
@@ -1005,7 +1005,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L113)
+[client/enums/Bone.ts:114](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L114)
 
 ***
 
@@ -1015,7 +1015,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:116](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L116)
+[client/enums/Bone.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L117)
 
 ***
 
@@ -1025,7 +1025,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:152](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L152)
+[client/enums/Bone.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L153)
 
 ***
 
@@ -1035,7 +1035,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L104)
+[client/enums/Bone.ts:105](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L105)
 
 ***
 
@@ -1045,7 +1045,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L122)
+[client/enums/Bone.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L123)
 
 ***
 
@@ -1055,7 +1055,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L123)
+[client/enums/Bone.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L124)
 
 ***
 
@@ -1065,7 +1065,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L124)
+[client/enums/Bone.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L125)
 
 ***
 
@@ -1075,7 +1075,7 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L125)
+[client/enums/Bone.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L126)
 
 ***
 
@@ -1085,4 +1085,14 @@ IK_Root - The inverse kinematics root bone.
 
 #### Defined in
 
-[client/enums/Bone.ts:126](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L126)
+[client/enums/Bone.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L127)
+
+***
+
+### Unknown
+
+> **Unknown**: `-1`
+
+#### Defined in
+
+[client/enums/Bone.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/Bone.ts#L104)

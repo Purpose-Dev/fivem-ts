@@ -22,19 +22,19 @@ Creates a new Quaternion instance.
 
 • **x**: `number`
 
-The x component of the quaternion.
+{number} - The x component of the quaternion.
 
 • **y**: `number`
 
-The y component of the quaternion.
+{number} - The y component of the quaternion.
 
 • **z**: `number`
 
-The z component of the quaternion.
+{number} - The z component of the quaternion.
 
 • **w**: `number`
 
-The w (scalar) component of the quaternion.
+{number} - The w (scalar) component of the quaternion.
 
 #### Returns
 
@@ -50,7 +50,7 @@ The w (scalar) component of the quaternion.
 
 > **w**: `number`
 
-The w (scalar) component of the quaternion.
+{number} - The w (scalar) component of the quaternion.
 
 #### Defined in
 
@@ -62,7 +62,7 @@ The w (scalar) component of the quaternion.
 
 > **x**: `number`
 
-The x component of the quaternion.
+{number} - The x component of the quaternion.
 
 #### Defined in
 
@@ -74,7 +74,7 @@ The x component of the quaternion.
 
 > **y**: `number`
 
-The y component of the quaternion.
+{number} - The y component of the quaternion.
 
 #### Defined in
 
@@ -86,7 +86,7 @@ The y component of the quaternion.
 
 > **z**: `number`
 
-The z component of the quaternion.
+{number} - The z component of the quaternion.
 
 #### Defined in
 
@@ -108,7 +108,7 @@ The magnitude of the quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:47](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L47)
+[client/utils/Quaternion.ts:48](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L48)
 
 ***
 
@@ -127,7 +127,7 @@ A new quaternion that is the normalized version of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:56](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L56)
+[client/utils/Quaternion.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L58)
 
 ## Methods
 
@@ -146,7 +146,7 @@ A new quaternion representing the conjugate of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:124](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L124)
+[client/utils/Quaternion.ts:136](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L136)
 
 ***
 
@@ -161,7 +161,7 @@ The dot product is a measure of the angle between two quaternions.
 
 • **q**: [`Quaternion`](Quaternion.md)
 
-The other quaternion.
+{Quaternion} - The other quaternion.
 
 #### Returns
 
@@ -171,7 +171,7 @@ The dot product of the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L149)
+[client/utils/Quaternion.ts:164](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L164)
 
 ***
 
@@ -185,7 +185,7 @@ Checks if this quaternion is equal to another quaternion within a certain tolera
 
 • **other**: [`Quaternion`](Quaternion.md)
 
-The quaternion to compare with.
+{Quaternion} - The quaternion to compare with.
 
 • **tolerance**: `number` = `1e-6`
 
@@ -199,7 +199,7 @@ True if the quaternions are equal within the given tolerance, false otherwise.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L74)
+[client/utils/Quaternion.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L81)
 
 ***
 
@@ -218,7 +218,7 @@ A new quaternion representing the inverse of this quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L133)
+[client/utils/Quaternion.ts:146](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L146)
 
 ***
 
@@ -233,7 +233,7 @@ The result is a new quaternion representing the combined rotation.
 
 • **other**: [`Quaternion`](Quaternion.md)
 
-The quaternion to multiply with.
+{Quaternion} - The quaternion to multiply with.
 
 #### Returns
 
@@ -243,7 +243,7 @@ A new quaternion representing the product of the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:110](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L110)
+[client/utils/Quaternion.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L121)
 
 ***
 
@@ -258,11 +258,11 @@ SLERP is used to interpolate between two quaternions with constant angular veloc
 
 • **q1**: [`Quaternion`](Quaternion.md)
 
-The quaternion to interpolate towards.
+{Quaternion} - The quaternion to interpolate towards.
 
 • **t**: `number`
 
-The interpolation factor, ranging from 0 to 1.
+{number} - The interpolation factor, ranging from 0 to 1.
 
 #### Returns
 
@@ -272,7 +272,7 @@ A new quaternion representing the interpolated quaternion.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:160](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L160)
+[client/utils/Quaternion.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L177)
 
 ***
 
@@ -290,7 +290,7 @@ An array containing the quaternion components.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:87](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L87)
+[client/utils/Quaternion.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L95)
 
 ***
 
@@ -309,7 +309,7 @@ An object containing the roll, pitch, and yaw angles in radians.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L199)
+[client/utils/Quaternion.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L217)
 
 ***
 
@@ -343,7 +343,7 @@ A JSON object with x, y, z, and w properties.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:95](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L95)
+[client/utils/Quaternion.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L104)
 
 ***
 
@@ -357,11 +357,11 @@ Calculates the angle between two quaternions.
 
 • **q1**: [`Quaternion`](Quaternion.md)
 
-The first quaternion.
+{Quaternion} - The first quaternion.
 
 • **q2**: [`Quaternion`](Quaternion.md)
 
-The second quaternion.
+{Quaternion} - The second quaternion.
 
 #### Returns
 
@@ -371,7 +371,7 @@ The angle in radians between the two quaternions.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:274](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L274)
+[client/utils/Quaternion.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L295)
 
 ***
 
@@ -397,7 +397,7 @@ The quaternion representing the rotation to apply.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:296](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L296)
+[client/utils/Quaternion.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L317)
 
 ***
 
@@ -421,7 +421,7 @@ A new quaternion representing the entity's rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L285)
+[client/utils/Quaternion.ts:306](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L306)
 
 ***
 
@@ -435,7 +435,7 @@ Creates a quaternion from Euler angles (roll, pitch, yaw).
 
 • **eulerAngles**: [`EulerAngles`](../type-aliases/EulerAngles.md)
 
-An object containing the roll, pitch, and yaw angles in radians.
+{EulerAngles} - An object containing the roll, pitch, and yaw angles in radians.
 
 #### Returns
 
@@ -445,7 +445,7 @@ A new quaternion representing the rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L225)
+[client/utils/Quaternion.ts:244](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L244)
 
 ***
 
@@ -463,7 +463,7 @@ A new quaternion representing no rotation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L263)
+[client/utils/Quaternion.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L283)
 
 ***
 
@@ -477,15 +477,15 @@ Performs linear interpolation (LERP) between two quaternions.
 
 • **q1**: [`Quaternion`](Quaternion.md)
 
-The starting quaternion.
+{Quaternion} - The starting quaternion.
 
 • **q2**: [`Quaternion`](Quaternion.md)
 
-The ending quaternion.
+{Quaternion} - The ending quaternion.
 
 • **t**: `number`
 
-The interpolation factor (0 to 1).
+{number} - The interpolation factor (0 to 1).
 
 #### Returns
 
@@ -495,4 +495,4 @@ A new quaternion that is the result of the interpolation.
 
 #### Defined in
 
-[client/utils/Quaternion.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L249)
+[client/utils/Quaternion.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/utils/Quaternion.ts#L269)

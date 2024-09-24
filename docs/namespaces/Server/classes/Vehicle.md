@@ -33,9 +33,165 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Vehicle.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L12)
+[server/models/Vehicle.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L34)
 
 ## Accessors
+
+### Alarm
+
+> `set` **Alarm**(`state`): `void`
+
+#### Parameters
+
+• **state**: `boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L77)
+
+***
+
+### AreLightsOn
+
+> `get` **AreLightsOn**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:85](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L85)
+
+***
+
+### BodyHealth
+
+> `get` **BodyHealth**(): `number`
+
+> `set` **BodyHealth**(`value`): `void`
+
+#### Parameters
+
+• **value**: `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L53)
+
+***
+
+### Colours
+
+> `get` **Colours**(): [`VehicleColours`](../type-aliases/VehicleColours.md)
+
+> `set` **Colours**(`colours`): `void`
+
+#### Parameters
+
+• **colours**: [`VehicleColours`](../type-aliases/VehicleColours.md)
+
+#### Returns
+
+[`VehicleColours`](../type-aliases/VehicleColours.md)
+
+#### Defined in
+
+[server/models/Vehicle.ts:97](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L97)
+
+***
+
+### CustomPrimaryColour
+
+> `get` **CustomPrimaryColour**(): [`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+> `set` **CustomPrimaryColour**(`value`): `void`
+
+#### Parameters
+
+• **value**: [`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+#### Returns
+
+[`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+#### Defined in
+
+[server/models/Vehicle.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L109)
+
+***
+
+### CustomSecondaryColour
+
+> `get` **CustomSecondaryColour**(): [`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+> `set` **CustomSecondaryColour**(`value`): `void`
+
+#### Parameters
+
+• **value**: [`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+#### Returns
+
+[`CustomVehicleColour`](../type-aliases/CustomVehicleColour.md)
+
+#### Defined in
+
+[server/models/Vehicle.ts:122](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L122)
+
+***
+
+### DashboardColour
+
+> `get` **DashboardColour**(): `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L135)
+
+***
+
+### DirtLevel
+
+> `get` **DirtLevel**(): `number`
+
+> `set` **DirtLevel**(`value`): `void`
+
+#### Parameters
+
+• **value**: `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L139)
+
+***
+
+### EngineHealth
+
+> `get` **EngineHealth**(): `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L61)
+
+***
 
 ### Heading
 
@@ -57,7 +213,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L52)
+[server/models/Entity.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L58)
 
 ***
 
@@ -75,7 +231,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L26)
+[server/models/Entity.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L32)
 
 ***
 
@@ -93,7 +249,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L18)
+[server/models/Entity.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L24)
 
 ***
 
@@ -111,7 +267,35 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L90)
+[server/models/Entity.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L96)
+
+***
+
+### IsEngineRunning
+
+> `get` **IsEngineRunning**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L69)
+
+***
+
+### IsEngineStarting
+
+> `get` **IsEngineStarting**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:73](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L73)
 
 ***
 
@@ -135,7 +319,35 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L60)
+[server/models/Entity.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L66)
+
+***
+
+### IsPrimaryColourCustom
+
+> `get` **IsPrimaryColourCustom**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:89](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L89)
+
+***
+
+### IsSecondaryColourCustom
+
+> `get` **IsSecondaryColourCustom**(): `boolean`
+
+#### Returns
+
+`boolean`
+
+#### Defined in
+
+[server/models/Vehicle.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L93)
 
 ***
 
@@ -153,7 +365,21 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L86)
+[server/models/Entity.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L92)
+
+***
+
+### LightsState
+
+> `get` **LightsState**(): [`boolean`, `boolean`, `boolean`]
+
+#### Returns
+
+[`boolean`, `boolean`, `boolean`]
+
+#### Defined in
+
+[server/models/Vehicle.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L81)
 
 ***
 
@@ -171,7 +397,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L30)
+[server/models/Entity.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L36)
 
 ***
 
@@ -189,7 +415,55 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L22)
+[server/models/Entity.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L28)
+
+***
+
+### PetrolTankHealth
+
+> `get` **PetrolTankHealth**(): `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:65](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L65)
+
+***
+
+### Plate
+
+> `get` **Plate**(): `string`
+
+> `set` **Plate**(`value`): `void`
+
+#### Parameters
+
+• **value**: `string`
+
+#### Returns
+
+`string`
+
+#### Defined in
+
+[server/models/Vehicle.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L41)
+
+***
+
+### PlateIndex
+
+> `get` **PlateIndex**(): `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[server/models/Vehicle.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L49)
 
 ***
 
@@ -213,7 +487,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L34)
+[server/models/Entity.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L40)
 
 ***
 
@@ -237,7 +511,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L43)
+[server/models/Entity.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L49)
 
 ***
 
@@ -255,7 +529,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L77)
+[server/models/Entity.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L83)
 
 ***
 
@@ -273,7 +547,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L82)
+[server/models/Entity.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L88)
 
 ***
 
@@ -297,7 +571,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L68)
+[server/models/Entity.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L74)
 
 ## Methods
 
@@ -305,9 +579,13 @@ Represents a vehicle entity.
 
 > **delete**(): `void`
 
+Deletes the current entity based on its id.
+
 #### Returns
 
 `void`
+
+No return value.
 
 #### Inherited from
 
@@ -315,7 +593,7 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L98)
+[server/models/Entity.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L113)
 
 ***
 
@@ -323,9 +601,13 @@ Represents a vehicle entity.
 
 > **exists**(): `boolean`
 
+Checks if the entity with the current instance's ID exists.
+
 #### Returns
 
 `boolean`
+
+True if the entity exists, otherwise false.
 
 #### Inherited from
 
@@ -333,7 +615,23 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L94)
+[server/models/Entity.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L104)
+
+***
+
+### wash()
+
+> **wash**(): `void`
+
+Washes the vehicle by setting the DirtLevel to 0.
+
+#### Returns
+
+`void`
+
+#### Defined in
+
+[server/models/Vehicle.ts:150](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Vehicle.ts#L150)
 
 ***
 
@@ -341,13 +639,19 @@ Represents a vehicle entity.
 
 > `static` **getFromNetworkId**(`netId`): [`Entity`](Entity.md)
 
+Retrieves an entity based on the provided network ID.
+
 #### Parameters
 
 • **netId**: `number`
 
+The network identifier for the entity.
+
 #### Returns
 
 [`Entity`](Entity.md)
+
+- The entity corresponding to the given network ID.
 
 #### Inherited from
 
@@ -355,4 +659,4 @@ Represents a vehicle entity.
 
 #### Defined in
 
-[server/models/Entity.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L8)
+[server/models/Entity.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L14)

@@ -30,7 +30,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L14)
+[server/models/Entity.ts:20](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L20)
 
 ## Accessors
 
@@ -50,7 +50,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L52)
+[server/models/Entity.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L58)
 
 ***
 
@@ -64,7 +64,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L26)
+[server/models/Entity.ts:32](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L32)
 
 ***
 
@@ -78,7 +78,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L18)
+[server/models/Entity.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L24)
 
 ***
 
@@ -92,7 +92,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L90)
+[server/models/Entity.ts:96](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L96)
 
 ***
 
@@ -112,7 +112,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L60)
+[server/models/Entity.ts:66](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L66)
 
 ***
 
@@ -126,7 +126,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:86](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L86)
+[server/models/Entity.ts:92](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L92)
 
 ***
 
@@ -140,7 +140,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L30)
+[server/models/Entity.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L36)
 
 ***
 
@@ -154,7 +154,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:22](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L22)
+[server/models/Entity.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L28)
 
 ***
 
@@ -174,7 +174,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:34](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L34)
+[server/models/Entity.ts:40](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L40)
 
 ***
 
@@ -194,7 +194,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L43)
+[server/models/Entity.ts:49](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L49)
 
 ***
 
@@ -208,7 +208,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:77](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L77)
+[server/models/Entity.ts:83](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L83)
 
 ***
 
@@ -222,7 +222,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L82)
+[server/models/Entity.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L88)
 
 ***
 
@@ -242,7 +242,7 @@ Provides various methods and properties to access and manipulate the entity's st
 
 #### Defined in
 
-[server/models/Entity.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L68)
+[server/models/Entity.ts:74](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L74)
 
 ## Methods
 
@@ -250,13 +250,17 @@ Provides various methods and properties to access and manipulate the entity's st
 
 > **delete**(): `void`
 
+Deletes the current entity based on its id.
+
 #### Returns
 
 `void`
 
+No return value.
+
 #### Defined in
 
-[server/models/Entity.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L98)
+[server/models/Entity.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L113)
 
 ***
 
@@ -264,13 +268,17 @@ Provides various methods and properties to access and manipulate the entity's st
 
 > **exists**(): `boolean`
 
+Checks if the entity with the current instance's ID exists.
+
 #### Returns
 
 `boolean`
 
+True if the entity exists, otherwise false.
+
 #### Defined in
 
-[server/models/Entity.ts:94](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L94)
+[server/models/Entity.ts:104](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L104)
 
 ***
 
@@ -278,14 +286,20 @@ Provides various methods and properties to access and manipulate the entity's st
 
 > `static` **getFromNetworkId**(`netId`): [`Entity`](Entity.md)
 
+Retrieves an entity based on the provided network ID.
+
 #### Parameters
 
 • **netId**: `number`
+
+The network identifier for the entity.
 
 #### Returns
 
 [`Entity`](Entity.md)
 
+- The entity corresponding to the given network ID.
+
 #### Defined in
 
-[server/models/Entity.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L8)
+[server/models/Entity.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Entity.ts#L14)

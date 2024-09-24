@@ -33,7 +33,9 @@
 ### Type Aliases
 
 - [AceAllowed](type-aliases/AceAllowed.md)
+- [CustomVehicleColour](type-aliases/CustomVehicleColour.md)
 - [RequestMethods](type-aliases/RequestMethods.md)
+- [VehicleColours](type-aliases/VehicleColours.md)
 
 ### Variables
 

@@ -2,37 +2,42 @@
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / EntityBone
+[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / PedBone
 
-# Class: EntityBone
+# Class: PedBone
 
-Represents a bone of an entity in a game environment.
+Represents a specific bone in a pedestrian entity.
+Extends EntityBone to provide additional functionality specific to pedestrians.
 
-## Extended by
+ PedBone
 
-- [`PedBone`](PedBone.md)
+## Extends
+
+- [`EntityBone`](EntityBone.md)
 
 ## Constructors
 
-### new EntityBone()
+### new PedBone()
 
-> **new EntityBone**(`owner`, `boneIndex`?, `boneName`?): [`EntityBone`](EntityBone.md)
+> **new PedBone**(`owner`, `boneId`): [`PedBone`](PedBone.md)
 
 #### Parameters
 
-• **owner**: [`Entity`](Entity.md)
+• **owner**: [`Ped`](Ped.md)
 
-• **boneIndex?**: `number`
-
-• **boneName?**: `string`
+• **boneId**: [`Bone`](../enumerations/Bone.md)
 
 #### Returns
 
-[`EntityBone`](EntityBone.md)
+[`PedBone`](PedBone.md)
+
+#### Overrides
+
+[`EntityBone`](EntityBone.md).[`constructor`](EntityBone.md#constructors)
 
 #### Defined in
 
-[client/models/EntityBone.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBone.ts#L10)
+[client/models/PedBone.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/PedBone.ts#L12)
 
 ## Accessors
 
@@ -43,6 +48,10 @@ Represents a bone of an entity in a game environment.
 #### Returns
 
 `number`
+
+#### Inherited from
+
+[`EntityBone`](EntityBone.md).[`Index`](EntityBone.md#index)
 
 #### Defined in
 
@@ -58,9 +67,13 @@ Represents a bone of an entity in a game environment.
 
 `boolean`
 
+#### Overrides
+
+[`EntityBone`](EntityBone.md).[`IsValid`](EntityBone.md#isvalid)
+
 #### Defined in
 
-[client/models/EntityBone.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBone.ts#L26)
+[client/models/PedBone.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/PedBone.ts#L16)
 
 ***
 
@@ -71,6 +84,10 @@ Represents a bone of an entity in a game environment.
 #### Returns
 
 [`Vector3`](../../Shared/classes/Vector3.md)
+
+#### Inherited from
+
+[`EntityBone`](EntityBone.md).[`LocalRotation`](EntityBone.md#localrotation)
 
 #### Defined in
 
@@ -86,6 +103,10 @@ Represents a bone of an entity in a game environment.
 
 [`Entity`](Entity.md)
 
+#### Inherited from
+
+[`EntityBone`](EntityBone.md).[`Owner`](EntityBone.md#owner)
+
 #### Defined in
 
 [client/models/EntityBone.ts:18](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBone.ts#L18)
@@ -100,6 +121,10 @@ Represents a bone of an entity in a game environment.
 
 [`Vector3`](../../Shared/classes/Vector3.md)
 
+#### Inherited from
+
+[`EntityBone`](EntityBone.md).[`Position`](EntityBone.md#position)
+
 #### Defined in
 
 [client/models/EntityBone.ts:30](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBone.ts#L30)
@@ -113,6 +138,10 @@ Represents a bone of an entity in a game environment.
 #### Returns
 
 [`Vector3`](../../Shared/classes/Vector3.md)
+
+#### Inherited from
+
+[`EntityBone`](EntityBone.md).[`Rotation`](EntityBone.md#rotation)
 
 #### Defined in
 

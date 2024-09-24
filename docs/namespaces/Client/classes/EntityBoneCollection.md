@@ -6,6 +6,12 @@
 
 # Class: EntityBoneCollection
 
+Represents a collection of bones associated with an entity.
+
+## Extended by
+
+- [`PedBoneCollection`](PedBoneCollection.md)
+
 ## Constructors
 
 ### new EntityBoneCollection()
@@ -22,7 +28,7 @@
 
 #### Defined in
 
-[client/models/EntityBoneCollection.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L4)
+[client/models/EntityBoneCollection.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L7)
 
 ## Accessors
 
@@ -36,7 +42,7 @@
 
 #### Defined in
 
-[client/models/EntityBoneCollection.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L6)
+[client/models/EntityBoneCollection.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L9)
 
 ## Methods
 
@@ -44,14 +50,20 @@
 
 > **hasBone**(`name`): `boolean`
 
+Checks if an entity has a specified bone by its name.
+
 #### Parameters
 
 • **name**: `string`
+
+The name of the bone to check for.
 
 #### Returns
 
 `boolean`
 
+True if the bone exists, false otherwise.
+
 #### Defined in
 
-[client/models/EntityBoneCollection.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L10)
+[client/models/EntityBoneCollection.ts:19](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L19)

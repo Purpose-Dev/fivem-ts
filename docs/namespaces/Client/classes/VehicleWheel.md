@@ -6,6 +6,8 @@
 
 # Class: VehicleWheel
 
+Represents a wheel of a vehicle and provides methods to interact with its state.
+
 ## Constructors
 
 ### new VehicleWheel()
@@ -24,9 +26,29 @@
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:4](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L4)
+[client/models/VehicleWheel.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L7)
 
 ## Accessors
+
+### Health
+
+> `get` **Health**(): `number`
+
+> `set` **Health**(`value`): `void`
+
+#### Parameters
+
+• **value**: `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[client/models/VehicleWheel.ts:28](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L28)
+
+***
 
 ### Index
 
@@ -44,7 +66,7 @@
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L13)
+[client/models/VehicleWheel.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L16)
 
 ***
 
@@ -58,7 +80,21 @@
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L9)
+[client/models/VehicleWheel.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L12)
+
+***
+
+### WearMultiplier
+
+> `get` **WearMultiplier**(): `number`
+
+#### Returns
+
+`number`
+
+#### Defined in
+
+[client/models/VehicleWheel.ts:36](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L36)
 
 ## Methods
 
@@ -66,13 +102,20 @@
 
 > **burst**(): `void`
 
+Causes the vehicle tyre to burst for the vehicle associated with the owner.
+
+This method utilizes `SetVehicleTyreBurst` to simulate a tyre burst effect.
+The tyre index and bursting properties are specified in the parameters of the method.
+
 #### Returns
 
 `void`
 
+No return value.
+
 #### Defined in
 
-[client/models/VehicleWheel.ts:41](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L41)
+[client/models/VehicleWheel.ts:58](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L58)
 
 ***
 
@@ -86,7 +129,7 @@
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:21](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L21)
+[client/models/VehicleWheel.ts:24](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L24)
 
 ***
 
@@ -94,41 +137,18 @@
 
 > **fix**(): `void`
 
+Repairs a specific vehicle tire associated with the vehicle owner.
+This method ensures that the tire at the provided index of the owner's vehicle is fixed.
+
 #### Returns
 
 `void`
 
-#### Defined in
-
-[client/models/VehicleWheel.ts:45](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L45)
-
-***
-
-### getHealth()
-
-> **getHealth**(): `number`
-
-#### Returns
-
-`number`
+Does not return any value.
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:25](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L25)
-
-***
-
-### getWearMultiplier()
-
-> **getWearMultiplier**(): `number`
-
-#### Returns
-
-`number`
-
-#### Defined in
-
-[client/models/VehicleWheel.ts:29](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L29)
+[client/models/VehicleWheel.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L68)
 
 ***
 
@@ -136,32 +156,20 @@
 
 > **isBurstable**(`completely`): `boolean`
 
+Determines if the vehicle's tire is burst.
+
 #### Parameters
 
 • **completely**: `boolean`
+
+Flag indicating if the check should consider complete burst.
 
 #### Returns
 
 `boolean`
 
-#### Defined in
-
-[client/models/VehicleWheel.ts:33](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L33)
-
-***
-
-### setHealth()
-
-> **setHealth**(`value`): `void`
-
-#### Parameters
-
-• **value**: `number`
-
-#### Returns
-
-`void`
+- Returns true if the tire is burst based on the provided condition, otherwise false.
 
 #### Defined in
 
-[client/models/VehicleWheel.ts:37](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L37)
+[client/models/VehicleWheel.ts:46](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/VehicleWheel.ts#L46)
