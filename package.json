@@ -71,7 +71,7 @@
     },
     "devDependencies": {
         "@types/jest": "^29.5.13",
-        "@types/node": "^22.5.5",
+        "@types/node": "^22.7.2",
         "@typescript-eslint/eslint-plugin": "8.7.0",
         "@typescript-eslint/parser": "8.7.0",
         "eslint": "^9.11.1",
@@ -85,8 +85,8 @@
         "typescript": "^5.5.4"
     },
     "dependencies": {
-        "@citizenfx/client": "2.0.10018-1",
-        "@citizenfx/server": "2.0.10018-1",
+        "@citizenfx/client": "2.0.10048-1",
+        "@citizenfx/server": "2.0.10048-1",
         "cross-fetch": "^4.0.0",
         "reflect-metadata": "^0.2.2"
     }
