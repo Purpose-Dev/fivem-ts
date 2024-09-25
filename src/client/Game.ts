@@ -5,8 +5,8 @@ import { Ped, Player } from './models';
 /**
  * Represents a Game with various methods to interact with and retrieve game-related data.
  */
-export class Game {
-    protected static cachedPlayer: Player;
+export namespace Game {
+    let cachedPlayer: Player;
 
     /**
      * Generates a hash based on the input value.
@@ -16,7 +16,7 @@ export class Game {
      * @param {string | number} input - The value to be hashed, can be a string or a number.
      * @return {number} The generated hash key or the input number.
      */
-    public static generateHash(input: string | number): number {
+    export function generateHash(input: string | number): number {
         if (typeof input === 'number') {
             return input;
         } else {
@@ -24,41 +24,91 @@ export class Game {
         }
     }
 
-    public static get GameTime(): number {
+    /**
+     * Retrieves the current game time.
+     *
+     * @return {number} The current game time.
+     */
+    export function getGameTime(): number {
         return GetGameTimer();
     }
 
-    public static set TimeScale(time: number) {
+    /**
+     * Adjusts the timescale.
+     * Controls the flow of time within the system where 1 represents normal speed,
+     * 0 represents a full stop, and values between 0 and 1 represent slower speeds.
+     *
+     * @param {number} time - A value between 0 and 1 that sets the new timescale.
+     *                         If the provided value is outside this range, the timescale defaults to 1 (normal speed).
+     *
+     * @return {void}
+     */
+    export function setTimeScale(time: number): void {
         SetTimeScale(time <= 1 && time >= 0 ? time : 1);
     }
 
-    public static get FrameCount(): number {
+    /**
+     * Retrieves the number of frames that have been rendered since the application started.
+     *
+     * @return {number} The total count of rendered frames.
+     */
+    export function getFrameCount(): number {
         return GetFrameCount();
     }
 
-    public static get LastFrameTime(): number {
+    /**
+     * Retrieves the time elapsed in seconds since the last frame.
+     *
+     * @return {number} The time elapsed in seconds since the last frame.
+     */
+    export function getLastFrameTime(): number {
         return GetFrameTime();
     }
 
-    public static get FPS(): number {
-        return 1 / this.LastFrameTime;
+    /**
+     * Calculates and returns the current frames per second (FPS).
+     *
+     * @return {number} The current FPS, calculated as the reciprocal of the time taken for the last frame.
+     */
+    export function getFPS(): number {
+        return 1 / getLastFrameTime();
     }
 
-    public static get Player(): Player {
+    /**
+     * Retrieves the player instance, caching it if necessary.
+     *
+     * The method checks if there is a cached player instance. If the cached
+     * player is undefined or its owner does not match the current player ID,
+     * it creates a new Player instance and caches it. Otherwise, it returns
+     * the cached player.
+     *
+     * @return {Player} The current player instance.
+     */
+    export function getPlayer(): Player {
         const handle: number = PlayerId();
 
-        if (typeof this.cachedPlayer === 'undefined' || handle !== this.cachedPlayer.Owner) {
-            this.cachedPlayer = new Player(handle);
+        if (typeof cachedPlayer === 'undefined' || handle !== cachedPlayer.Owner) {
+            cachedPlayer = new Player(handle);
         }
 
-        return this.cachedPlayer;
+        return cachedPlayer;
     }
 
-    public static get PlayerPed(): Ped {
-        return this.Player.Ped;
+    /**
+     * Retrieves the Ped instance associated with the current player.
+     *
+     * @return {Ped} The Ped instance of the current player.
+     */
+    export function getPlayerPed(): Ped {
+        return getPlayer().Ped;
     }
 
-    public static *playersList(): IterableIterator<Player> {
+    /**
+     * Generates an iterable sequence of Player objects for the currently active players.
+     *
+     * @return {IterableIterator<Player>} An iterator that yields Player instances representing each active player.
+     */
+    export function* playersList(): IterableIterator<Player> {
         for (const id of GetActivePlayers() as number[]) {
             yield new Player(id);
         }
@@ -66,24 +116,40 @@ export class Game {
 
     /**
      * Get whether PvP is enabled.
-     * @returns True if enabled.
+     *
+     * @returns {boolean} True if enabled.
      */
-    public static get PlayerVersusPlayer(): boolean {
-        return this.Player.PvpEnabled;
+    export function getPlayerVersusPlayer(): boolean {
+        return getPlayer().PvpEnabled;
     }
 
     /**
      * Set whether PvP is enabled.
+     *
+     * @return {void}
      */
-    public static set PlayerVersusPlayer(value: boolean) {
-        this.Player.PvpEnabled = value;
+    export function setPlayerVersusPlayer(value: boolean): void {
+        getPlayer().PvpEnabled = value;
     }
 
-    public static get MaxWantedLevel(): number {
+    /**
+     * Retrieves the maximum wanted level allowed in the game.
+     * The wanted level indicates the player's level of police pursuit.
+     *
+     * @return {number} The maximum wanted level possible.
+     */
+    export function getMaxWantedLevel(): number {
         return GetMaxWantedLevel();
     }
 
-    public static set MaxWantedLevel(value: number) {
+    /**
+     * Sets the maximum wanted level for the player.
+     *
+     * @param {number} value - The desired maximum wanted level, ranging between 0 and 5.
+     *
+     * @return {void}
+     */
+    export function setMaxWantedLevel(value: number): void {
         if (value < 0) {
             value = 0;
         } else if (value > 5) {
@@ -93,71 +159,169 @@ export class Game {
         SetMaxWantedLevel(value);
     }
 
-    public static set WantedMultiplier(value: number) {
+    /**
+     * Sets the wanted level multiplier to the given value.
+     *
+     * @param {number} value - The multiplier value to set for the wanted level.
+     *
+     * @return {void}
+     */
+    export function setWantedMultiplier(value: number): void {
         SetWantedLevelMultiplier(value);
     }
 
-    public static set ShowPoliceBlipsOnRadar(toggle: boolean) {
+    /**
+     * Sets the visibility of police blips on the radar.
+     *
+     * @param {boolean} toggle - A boolean value indicating whether to show (true) or hide (false) police blips on the radar.
+     *
+     * @return {void}
+     */
+    export function setShowPoliceBlipsOnRadar(toggle: boolean): void {
         SetPoliceRadarBlips(toggle);
     }
 
-    public static get NightVision(): boolean {
+    /**
+     * Checks if night vision is currently active.
+     *
+     * @return {boolean} True if night vision is active, false otherwise.
+     */
+    export function getNightVision(): boolean {
         return IsNightvisionActive();
     }
 
-    public static set NightVision(value: boolean) {
+    /**
+     * Enables or disables the night vision setting.
+     *
+     * @param {boolean} value - A boolean indicating whether to enable (true) or disable (false) night vision.
+     *
+     * @return {void}
+     */
+    export function setNightVision(value: boolean): void {
         SetNightvision(value);
     }
 
-    public static get ThermalVision(): boolean {
+    /**
+     * Checks if the thermal vision mode is currently active.
+     *
+     * @return {boolean} True if thermal vision is active, otherwise false.
+     */
+    export function getThermalVision(): boolean {
         return IsSeethroughActive();
     }
 
-    public static set ThermalVision(toggle: boolean) {
+    /**
+     * Enables or disables thermal vision for the user.
+     *
+     * @param {boolean} toggle - A boolean indicating whether to turn thermal vision on (true) or off (false).
+     *
+     * @return {void}
+     */
+    export function setThermalVision(toggle: boolean): void {
         SetSeethrough(toggle);
     }
 
-    public static get IsMissionActive(): boolean {
+    /**
+     * Determines if a mission is currently active.
+     *
+     * @return {boolean} true if a mission is active, false otherwise.
+     */
+    export function getIsMissionActive(): boolean {
         return GetMissionFlag();
     }
 
-    public static set IsMissionActive(toggle: boolean) {
+    /**
+     * Sets the mission active state to the given boolean value.
+     *
+     * @param {boolean} toggle - A boolean value indicating whether the mission should be active (true) or inactive (false).
+     *
+     * @return {void}
+     */
+    export function setIsMissionActive(toggle: boolean): void {
         SetMissionFlag(toggle);
     }
 
-    public static get IsRandomEventActive(): boolean {
+    /**
+     * Checks if a random event is currently active.
+     *
+     * @return {boolean} True if a random event is active, false otherwise.
+     */
+    export function getIsRandomEventActive(): boolean {
         return GetRandomEventFlag();
     }
 
-    public static set IsRandomEventActive(toggle: boolean) {
+    /**
+     * Toggles the random event active status.
+     *
+     * @param {boolean} toggle - The flag to set the random event active status.
+     *
+     * @return {void}
+     */
+    export function setIsRandomEventActive(toggle: boolean): void {
         SetRandomEventFlag(toggle);
     }
 
-    public static get IsCutsceneActive(): boolean {
+    /**
+     * Checks if a cutscene is currently active in the game.
+     *
+     * @return {boolean} True if a cutscene is active, otherwise false.
+     */
+    export function getIsCutsceneActive(): boolean {
         return IsCutsceneActive();
     }
 
-    public static get IsCutscenePlaying(): boolean {
+    /**
+     * Checks if a cutscene is currently playing.
+     *
+     * @return {boolean} Returns true if a cutscene is playing, otherwise false.
+     */
+    export function getIsCutscenePlaying(): boolean {
         return IsCutscenePlaying();
     }
 
-    public static get IsPaused(): boolean {
+    /**
+     * Checks if the pause menu is currently active.
+     *
+     * @return {boolean} Returns true if the pause menu is active, otherwise false.
+     */
+    export function getIsPaused(): boolean {
         return IsPauseMenuActive();
     }
 
-    public static set IsPaused(value: boolean) {
+    /**
+     * Sets the pause state in the application.
+     *
+     * @param {boolean} value - A boolean value indicating whether the pause state is active (true) or inactive (false).
+     * @return {void} This function does not return any value.
+     */
+    export function setIsPaused(value: boolean): void {
         SetPauseMenuActive(value);
     }
 
-    public static get IsLoading(): boolean {
+    /**
+     * Checks if the loading screen is currently active.
+     *
+     * @return {boolean} `true` if the loading screen is active, otherwise `false`.
+     */
+    export function getIsLoading(): boolean {
         return GetIsLoadingScreenActive();
     }
 
-    public static get CurrentInputMode(): InputMode {
+    /**
+     * Retrieves the current input mode based on the input status.
+     *
+     * @return {InputMode} The current input mode, either MouseAndKeyboard or GamePad.
+     */
+    export function getCurrentInputMode(): InputMode {
         return IsInputDisabled(2) ? InputMode.MouseAndKeyboard : InputMode.GamePad;
     }
 
-    public static get RadioStation(): RadioStation {
+    /**
+     * Retrieves the current radio station the player is listening to.
+     *
+     * @return {RadioStation} The current radio station, or `RadioStation.Off` if no match is found.
+     */
+    export function getRadioStation(): RadioStation {
         const actualStationName: string = GetPlayerRadioStationName();
         const keys: string[] = Object.keys(RadioStation).filter(
             (x: string): boolean => RadioStation[x] === actualStationName,
@@ -165,9 +329,15 @@ export class Game {
         return keys.length > 0 ? RadioStation[keys[0]] : RadioStation.Off;
     }
 
-    public static set RadioStation(radioStation: RadioStation) {
-        const stationName: string = RadioStation[radioStation];
-        SetRadioToStationName(stationName);
+    /**
+     * Sets the radio station to the specified station.
+     *
+     * @param {RadioStation} radioStation - The radio station to set.
+     *
+     * @return {void}
+     */
+    export function setRadioStation(radioStation: RadioStation): void {
+        SetRadioToStationName(radioStation);
     }
 
     /**
@@ -178,7 +348,7 @@ export class Game {
      *
      * @return {boolean} Returns true if the control is enabled in the given input mode, otherwise false.
      */
-    public static isControlEnabled(inputMode: InputMode, control: Controls): boolean {
+    export function isControlEnabled(inputMode: InputMode, control: Controls): boolean {
         return IsControlEnabled(inputMode, control.valueOf());
     }
 
@@ -190,7 +360,7 @@ export class Game {
      *
      * @return {boolean} - Returns true if the control is being pressed, otherwise false.
      */
-    public static isControlPressed(inputMode: InputMode, control: Controls): boolean {
+    export function isControlPressed(inputMode: InputMode, control: Controls): boolean {
         return IsControlPressed(inputMode, control.valueOf());
     }
 
@@ -202,7 +372,7 @@ export class Game {
      *
      * @return {boolean} Returns true if the control has just been pressed, otherwise false.
      */
-    public static isControlJustPressed(inputMode: InputMode, control: Controls): boolean {
+    export function isControlJustPressed(inputMode: InputMode, control: Controls): boolean {
         return IsControlJustPressed(inputMode, control.valueOf());
     }
 
@@ -214,7 +384,7 @@ export class Game {
      *
      * @return {boolean} Returns true if the control is both disabled and pressed; otherwise, false.
      */
-    public static isDisabledControlPressed(inputMode: InputMode, control: Controls): boolean {
+    export function isDisabledControlPressed(inputMode: InputMode, control: Controls): boolean {
         return IsDisabledControlPressed(inputMode, control.valueOf());
     }
 
@@ -226,7 +396,7 @@ export class Game {
      *
      * @return {boolean} - Returns true if the specified disabled control was just pressed, false otherwise.
      */
-    public static isDisabledControlJustPressed(inputMode: InputMode, control: Controls): boolean {
+    export function isDisabledControlJustPressed(inputMode: InputMode, control: Controls): boolean {
         return IsDisabledControlJustPressed(inputMode, control.valueOf());
     }
 
@@ -238,7 +408,7 @@ export class Game {
      *
      * @return {boolean} - Returns true if the control is released, otherwise false.
      */
-    public static isControlReleased(inputMode: InputMode, control: Controls): boolean {
+    export function isControlReleased(inputMode: InputMode, control: Controls): boolean {
         return IsControlReleased(inputMode, control.valueOf());
     }
 
@@ -250,7 +420,7 @@ export class Game {
      *
      * @return {boolean} - Returns true if the control has just been released, false otherwise.
      */
-    public static isControlJustReleased(inputMode: InputMode, control: Controls): boolean {
+    export function isControlJustReleased(inputMode: InputMode, control: Controls): boolean {
         return IsControlJustReleased(inputMode, control.valueOf());
     }
 
@@ -262,7 +432,7 @@ export class Game {
      *
      * @return {boolean} `true` if the disabled control has been released; `false` otherwise.
      */
-    public static isDisabledControlReleased(inputMode: InputMode, control: Controls): boolean {
+    export function isDisabledControlReleased(inputMode: InputMode, control: Controls): boolean {
         return IsDisabledControlReleased(inputMode, control.valueOf());
     }
 
@@ -274,7 +444,10 @@ export class Game {
      *
      * @return {boolean} - Returns true if the specified disabled control was just released; otherwise, false.
      */
-    public static isDisabledControlJustReleased(inputMode: InputMode, control: Controls): boolean {
+    export function isDisabledControlJustReleased(
+        inputMode: InputMode,
+        control: Controls,
+    ): boolean {
         return IsDisabledControlJustReleased(inputMode, control.valueOf());
     }
 
@@ -284,9 +457,9 @@ export class Game {
      * @param {InputMode} inputMode - The input mode for which the control should be enabled.
      * @param {Controls} control - The control to enable for the specified input mode.
      *
-     * @return {void} This method does not return a value.
+     * @return {void}
      */
-    public static enableControlThisFrame(inputMode: InputMode, control: Controls): void {
+    export function enableControlThisFrame(inputMode: InputMode, control: Controls): void {
         EnableControlAction(inputMode, control.valueOf(), true);
     }
 
@@ -298,7 +471,7 @@ export class Game {
      *
      * @return {void}
      */
-    public static disableControlThisFrame(inputMode: InputMode, control: Controls): void {
+    export function disableControlThisFrame(inputMode: InputMode, control: Controls): void {
         DisableControlAction(inputMode, control.valueOf(), true);
     }
 
@@ -309,7 +482,7 @@ export class Game {
      *
      * @returns {void}
      */
-    public static enableAllControlsThisFrame(inputMode: InputMode): void {
+    export function enableAllControlsThisFrame(inputMode: InputMode): void {
         EnableAllControlActions(inputMode);
     }
 
@@ -320,7 +493,7 @@ export class Game {
      *
      * @return {void}
      */
-    public static disableAllControlsThisFrame(inputMode: InputMode): void {
+    export function disableAllControlsThisFrame(inputMode: InputMode): void {
         DisableAllControlActions(inputMode);
     }
 }

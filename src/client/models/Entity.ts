@@ -883,7 +883,7 @@ export class Entity {
      * @return {void} No return value.
      */
     public delete(): void {
-        if (this.handle !== Game.PlayerPed.Handle) {
+        if (this.handle !== Game.getPlayerPed().Handle) {
             SetEntityAsMissionEntity(this.handle, false, true);
             DeleteEntity(this.handle);
         }
