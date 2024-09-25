@@ -4,7 +4,7 @@
     "author": "Riyane <Purpose-Dev>",
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
-    "packageManager": "pnpm@9.10.0",
+    "packageManager": "pnpm@9.11.0",
     "main": "./dist/index.js",
     "types": "./dist/index.d.ts",
     "exports": {
