@@ -34,15 +34,19 @@ jobs:
       - name: Compare versions
         id: version_check
         run: |
-          if [ "${{ env.CURRENT_VERSION }}" != "${{ env.LATEST_TAG }}" ]; then
+          if [ "${CURRENT_VERSION}" != "${LATEST_TAG#v}" ]; then
             echo "## Version changed"
             echo "should_release=true" >> $GITHUB_ENV
-            echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
+            echo "package_version=${CURRENT_VERSION}" >> $GITHUB_ENV
           else
             echo "## No version change"
             echo "should_release=false" >> $GITHUB_ENV
-            echo "package_version=${{ env.CURRENT_VERSION }}" >> $GITHUB_ENV
-          fi
+            echo "package_version=${CURRENT_VERSION}" >> $GITHUB_ENV
+
+      - name: Debug Output
+        run: |
+          echo "should_release=${{ needs.check-version.outputs.should_release }}"
+          echo "package_version=${{ needs.check-version.outputs.package_version }}"
 
   create-release:
     needs: check-version
