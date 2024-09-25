@@ -66,19 +66,21 @@ export class ParticleEffectAsset {
 
         const invertAxisFlags = invertAxis.flags;
         UseParticleFxAsset(this.assetName);
-        return !!StartParticleFxLoopedAtCoord(
-            effectName,
-            position.x,
-            position.y,
-            position.z,
-            rotation.x,
-            rotation.y,
-            rotation.z,
-            scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
-            false,
+        return Boolean(
+            StartParticleFxLoopedAtCoord(
+                effectName,
+                position.x,
+                position.y,
+                position.z,
+                rotation.x,
+                rotation.y,
+                rotation.z,
+                scale,
+                Boolean(invertAxisFlags & InvertAxisFlags.X),
+                Boolean(invertAxisFlags & InvertAxisFlags.Y),
+                Boolean(invertAxisFlags & InvertAxisFlags.Z),
+                false,
+            ),
         );
     }
 
@@ -95,18 +97,20 @@ export class ParticleEffectAsset {
 
         const invertAxisFlags = invertAxis.flags;
         UseParticleFxAsset(this.assetName);
-        return !!StartParticleFxNonLoopedAtCoord(
-            effectName,
-            position.x,
-            position.y,
-            position.z,
-            rotation.x,
-            rotation.y,
-            rotation.z,
-            scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+        return Boolean(
+            StartParticleFxNonLoopedAtCoord(
+                effectName,
+                position.x,
+                position.y,
+                position.z,
+                rotation.x,
+                rotation.y,
+                rotation.z,
+                scale,
+                Boolean(invertAxisFlags & InvertAxisFlags.X),
+                Boolean(invertAxisFlags & InvertAxisFlags.Y),
+                Boolean(invertAxisFlags & InvertAxisFlags.Z),
+            ),
         );
     }
 
@@ -132,9 +136,9 @@ export class ParticleEffectAsset {
             rotation.y,
             rotation.z,
             scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+            Boolean(invertAxisFlags & InvertAxisFlags.X),
+            Boolean(invertAxisFlags & InvertAxisFlags.Y),
+            Boolean(invertAxisFlags & InvertAxisFlags.Z),
         );
     }
 
@@ -152,19 +156,21 @@ export class ParticleEffectAsset {
 
         const invertAxisFlags = invertAxis.flags;
         UseParticleFxAsset(this.assetName);
-        return !!StartParticleFxLoopedOnEntity(
-            effectName,
-            entity.Handle,
-            offset.x,
-            offset.y,
-            offset.z,
-            rotation.x,
-            rotation.y,
-            rotation.z,
-            scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+        return Boolean(
+            StartParticleFxLoopedOnEntity(
+                effectName,
+                entity.Handle,
+                offset.x,
+                offset.y,
+                offset.z,
+                rotation.x,
+                rotation.y,
+                rotation.z,
+                scale,
+                Boolean(invertAxisFlags & InvertAxisFlags.X),
+                Boolean(invertAxisFlags & InvertAxisFlags.Y),
+                Boolean(invertAxisFlags & InvertAxisFlags.Z),
+            ),
         );
     }
 
@@ -192,9 +198,9 @@ export class ParticleEffectAsset {
             rotation.y,
             rotation.z,
             scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+            Boolean(invertAxisFlags & InvertAxisFlags.X),
+            Boolean(invertAxisFlags & InvertAxisFlags.Y),
+            Boolean(invertAxisFlags & InvertAxisFlags.Z),
         );
     }
 
@@ -212,19 +218,21 @@ export class ParticleEffectAsset {
 
         const invertAxisFlags = invertAxis.flags;
         UseParticleFxAsset(this.assetName);
-        return !!StartNetworkedParticleFxLoopedOnEntity(
-            effectName,
-            entity.Handle,
-            offset.x,
-            offset.y,
-            offset.z,
-            rotation.x,
-            rotation.y,
-            rotation.z,
-            scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+        return Boolean(
+            StartNetworkedParticleFxLoopedOnEntity(
+                effectName,
+                entity.Handle,
+                offset.x,
+                offset.y,
+                offset.z,
+                rotation.x,
+                rotation.y,
+                rotation.z,
+                scale,
+                Boolean(invertAxisFlags & InvertAxisFlags.X),
+                Boolean(invertAxisFlags & InvertAxisFlags.Y),
+                Boolean(invertAxisFlags & InvertAxisFlags.Z),
+            ),
         );
     }
 
@@ -252,9 +260,9 @@ export class ParticleEffectAsset {
             rotation.y,
             rotation.z,
             scale,
-            !!(invertAxisFlags & InvertAxisFlags.X),
-            !!(invertAxisFlags & InvertAxisFlags.Y),
-            !!(invertAxisFlags & InvertAxisFlags.Z),
+            Boolean(invertAxisFlags & InvertAxisFlags.X),
+            Boolean(invertAxisFlags & InvertAxisFlags.Y),
+            Boolean(invertAxisFlags & InvertAxisFlags.Z),
         );
     }
 }
