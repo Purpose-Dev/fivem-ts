@@ -39,10 +39,14 @@ jobs:
             echo "## Version changed"
             echo "should_release=true" >> $GITHUB_ENV
             echo "package_version=${CURRENT_VERSION}" >> $GITHUB_ENV
+            echo "::set-output name=should_release::true"
+            echo "::set-output name=package_version::${CURRENT_VERSION}"
           else
             echo "## No version change"
             echo "should_release=false" >> $GITHUB_ENV
             echo "package_version=${CURRENT_VERSION}" >> $GITHUB_ENV
+            echo "::set-output name=should_release::false"
+            echo "::set-output name=package_version::${CURRENT_VERSION}"
           fi
 
       - name: Debug Output
