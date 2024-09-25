@@ -43,6 +43,7 @@ jobs:
             echo "## No version change"
             echo "should_release=false" >> $GITHUB_ENV
             echo "package_version=${CURRENT_VERSION}" >> $GITHUB_ENV
+          fi
 
       - name: Debug Output
         run: |
