@@ -340,7 +340,7 @@ setTick((): void => {
     Hud.hideComponentThisFrame(HudComponent.AreaName);
     Hud.hideComponentThisFrame(HudComponent.StreetName);
 
-    let loadingPromptOffset: number = 0;
+    let loadingPromptOffset = 0;
     if (LoadingPrompt.getIsActive()) {
         loadingPromptOffset = 0.035 + 0.035 * 0.038 * 2;
     }

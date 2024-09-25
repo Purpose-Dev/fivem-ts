@@ -3,7 +3,7 @@ import { ScreenEffect } from '../enums';
 /**
  * The `Effects` module provides functions to manage screen effects, such as starting, stopping, and checking the status of various screen effects.
  */
-export module Effects {
+export namespace Effects {
     /**
      * Starts a specified screen effect.
      *

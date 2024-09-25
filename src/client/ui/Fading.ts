@@ -2,7 +2,7 @@
  * Module for managing screen fading effects.
  * This module allows you to fade the screen in and out with specified durations and check the current fading status.
  */
-export module Fading {
+export namespace Fading {
     /**
      * Determines if the screen is currently fully faded in.
      *

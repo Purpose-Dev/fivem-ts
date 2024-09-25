@@ -4,7 +4,7 @@ import { AudioFlag } from './enums';
 /**
  * The `Audio` module provides utility functions for managing and controlling audio in game environment.
  */
-export module Audio {
+export namespace Audio {
     /**
      * A cached music file currently being played or controlled.
      */

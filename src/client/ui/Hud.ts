@@ -6,7 +6,7 @@ import { Point } from '../utils';
  * This module allows you to control the visibility of HUD components, the cursor's position and sprite,
  * and the radar's zoom level and visibility.
  */
-export module Hud {
+export namespace Hud {
     /**
      * Checks if a specific HUD component is currently active (visible).
      *

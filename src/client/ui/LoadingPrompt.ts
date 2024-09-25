@@ -17,7 +17,7 @@ import { LoadingSpinnerType } from '../enums';
  * }, 10000);
  * ```
  */
-export module LoadingPrompt {
+export namespace LoadingPrompt {
     /**
      * Checks whether the loading prompt is currently being displayed.
      *

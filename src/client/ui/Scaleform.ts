@@ -141,11 +141,11 @@ export class Scaleform {
      * @returns A promise that resolves when the rendering is complete.
      */
     public render2D(): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             if (this.IsLoaded) {
                 DrawScaleformMovieFullscreen(this.handle, 255, 255, 255, 255, 0);
             } else {
-                await this.load();
+                this.load().then(() => {});
             }
             resolve();
         });
@@ -159,7 +159,7 @@ export class Scaleform {
      * @returns A promise that resolves when the rendering is complete.
      */
     public render2DScreenSpace(location: PointF, size: PointF): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             if (this.IsLoaded) {
                 const x: number = location.x;
                 const y: number = location.y;
@@ -179,7 +179,7 @@ export class Scaleform {
                     0,
                 );
             } else {
-                await this.load();
+                this.load().then(() => {});
             }
             resolve();
         });
@@ -194,7 +194,7 @@ export class Scaleform {
      * @returns A promise that resolves when the rendering is complete.
      */
     public render3D(position: Vector3, rotation: Vector3, scale: Vector3): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             if (this.IsLoaded) {
                 DrawScaleformMovie_3dNonAdditive(
                     this.handle,
@@ -213,7 +213,7 @@ export class Scaleform {
                     2,
                 );
             } else {
-                await this.load();
+                this.load().then(() => {});
             }
             resolve();
         });
@@ -228,7 +228,7 @@ export class Scaleform {
      * @returns A promise that resolves when the rendering is complete.
      */
     public render3DAdditive(position: Vector3, rotation: Vector3, scale: Vector3): Promise<void> {
-        return new Promise(async resolve => {
+        return new Promise(resolve => {
             if (this.IsLoaded) {
                 DrawScaleformMovie_3d(
                     this.handle,
@@ -247,7 +247,7 @@ export class Scaleform {
                     2,
                 );
             } else {
-                await this.load();
+                this.load().then(() => {});
             }
             resolve();
         });

@@ -1,6 +1,5 @@
 import { BucketLockdownMode } from '../enums';
 
-export module Buckets {}
 /**
  * Represents a population-aware routing bucket, also known as a 'dimension' or 'virtual world'.
  *

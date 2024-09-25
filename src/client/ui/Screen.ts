@@ -7,7 +7,7 @@ import { Audio } from '../Audio';
 /**
  * Module to manage Screen on Game Env
  */
-export module Screen {
+export namespace Screen {
     /**
      * Retrieves the screen resolution as a `Size` object.
      * @returns The screen resolution.
@@ -136,12 +136,12 @@ export module Screen {
      * @param {string} subtitle - The subtitle of the notification.
      * @param {string} iconSet - The icon set to use for the notification.
      * @param {string} icon - The icon to display in the notification.
-     * @param {number} [bgColor=HudColors.HudColourPauseBg] - The background color of the notification.
-     * @param {Color} [flashColor=Color.empty] - The flash color of the notification.
-     * @param {boolean} [blinking=false] - Whether the notification should blink.
-     * @param {NotificationType} [type=NotificationType.Default] - The type of the notification.
-     * @param {boolean} [showInBrief=true] - Whether the notification should be shown in the brief.
-     * @param {boolean} [sound=true] - Whether a sound should play when the notification is shown.
+     * @param [bgColor=HudColors.HudColourPauseBg] - The background color of the notification.
+     * @param [flashColor=Color.empty] - The flash color of the notification.
+     * @param [blinking=false] - Whether the notification should blink.
+     * @param [type=NotificationType.Default] - The type of the notification.
+     * @param [showInBrief=true] - Whether the notification should be shown in the brief.
+     * @param [sound=true] - Whether a sound should play when the notification is shown.
      * @returns {Notification} The created notification.
      */
     export function showAdvancedNotification(
@@ -150,12 +150,12 @@ export module Screen {
         subtitle: string,
         iconSet: string,
         icon: string,
-        bgColor: HudColors = HudColors.HudColourPauseBg,
-        flashColor: Color = Color.empty,
-        blinking: boolean = false,
-        type: NotificationType = NotificationType.Default,
-        showInBrief: boolean = true,
-        sound: boolean = true,
+        bgColor = HudColors.HudColourPauseBg,
+        flashColor = Color.empty,
+        blinking = false,
+        type = NotificationType.Default,
+        showInBrief = true,
+        sound = true,
     ): Notification {
         const strings: string[] = stringToArray(message);
 
@@ -175,7 +175,7 @@ export module Screen {
             Audio.playSoundFrontEnd('DELETE', 'HUD_DEATHMATCH_SOUNDSET');
         }
 
-        SetNotificationMessage(iconSet, icon, true, type.valueOf(), title, subtitle);
+        SetNotificationMessage(iconSet, icon, true, type, title, subtitle);
         return new Notification(DrawNotification(blinking, showInBrief));
     }
 }

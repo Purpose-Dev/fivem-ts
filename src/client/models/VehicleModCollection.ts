@@ -110,7 +110,7 @@ export class VehicleModCollection {
             return false;
         }
 
-        let on: boolean = true;
+        let on = true;
         Object.keys(VehicleNeonLight)
             .filter(key => !isNaN(Number(key)))
             .forEach(key => {

@@ -175,7 +175,7 @@ export class Text implements IDrawable {
      * @param str The string to add.
      */
     public static addLongString(str: string): void {
-        const strLength: number = 99;
+        const strLength = 99;
 
         for (let i = 0; i < str.length; i++) {
             const subStr: string = str.substring(i, i + Math.min(strLength - i));

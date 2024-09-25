@@ -262,7 +262,7 @@ export class DIContainer {
         if (!this.scopedInstances.has(scope)) {
             this.scopedInstances.set(scope, new Map());
         }
-        this.scopedInstances.get(scope)!.set(constructor, 'scoped');
+        this.scopedInstances.get(scope)?.set(constructor, 'scoped');
     }
 
     /**
@@ -276,7 +276,11 @@ export class DIContainer {
      * @returns An instance of the specified class within the given scope.
      */
     private getScopedInstance<T>(constructor: new (...args: unknown[]) => T, scope: string): T {
-        const scopeMap = this.scopedInstances.get(scope)!;
+        const scopeMap = this.scopedInstances.get(scope);
+
+        if (!scopeMap) {
+            throw new Error(`DIContainer: No scope found for scope: ${scope}`);
+        }
 
         if (scopeMap.get(constructor) === 'scoped') {
             const instance: T = this.createInstance(constructor);

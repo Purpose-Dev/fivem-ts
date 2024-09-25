@@ -9,6 +9,7 @@ import { DrivingStyle, HelmetType, RagdollType, SpeechModifier } from '../enums'
  */
 export class Ped extends Entity {
     private pedBones: PedBoneCollection;
+    private drivingStyle: DrivingStyle;
     private readonly speechModifierNames: string[] = [
         'SPEECH_PARAMS_STANDARD',
         'SPEECH_PARAMS_ALLOW_REPEAT',
@@ -63,6 +64,15 @@ export class Ped extends Entity {
         }
 
         return this.pedBones;
+    }
+
+    public get DrivingStyle() {
+        return this.drivingStyle;
+    }
+
+    public set DrivingStyle(style: DrivingStyle) {
+        SetDriveTaskDrivingStyle(this.handle, style);
+        this.drivingStyle = style;
     }
 
     public get SpeechModifiersName(): string[] {
@@ -370,10 +380,6 @@ export class Ped extends Entity {
         SetDriveTaskCruiseSpeed(this.handle, value);
     }
 
-    public set DrivingStyle(style: DrivingStyle) {
-        SetDriveTaskDrivingStyle(this.handle, Number(style));
-    }
-
     public isInAnyVehicle(): boolean {
         return IsPedInAnyVehicle(this.handle, false);
     }
@@ -605,7 +611,7 @@ export class Ped extends Entity {
     }
 
     public getConfigFlag(flagId: number): boolean {
-        return !!GetPedConfigFlag(this.Handle, flagId, true);
+        return GetPedConfigFlag(this.Handle, flagId, true);
     }
 
     public setConfigFlag(flagId: number, value: boolean): void {

@@ -20,7 +20,7 @@ export class PriorityQueue<T> implements IPriorityQueue<T> {
      */
     public enqueue(item: T, priority: number): void {
         const element: PriorityQueueElement<T> = { value: item, priority };
-        let added: boolean = false;
+        let added = false;
 
         for (let i = 0; i < this.elements.length; i++) {
             if (this.elements[i].priority > priority) {
