@@ -4,6 +4,8 @@ export { Checkpoint } from './Checkpoint';
 export { Game } from './Game';
 export { GameplayCamera } from './GameplayCamera';
 export { Model } from './Model';
+export { ParticleEffect } from './ParticleEffect';
+export { ParticleEffectAsset } from './ParticleEffectAsset';
 export { RelationshipGroup } from './RelationshipGroup';
 
 export * from './enums';
