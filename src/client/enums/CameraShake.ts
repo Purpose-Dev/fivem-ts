@@ -1,5 +1,7 @@
 /**
  * Enumeration for different types of camera shake effects.
+ *
+ * @enum {string}
  */
 export enum CameraShake {
     DeathFail = 'DEATH_FAIL_IN_EFFECT_SHAKE',
