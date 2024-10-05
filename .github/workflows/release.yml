@@ -59,7 +59,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: ${{ needs.check-version.outputs.should_release == 'true' }}
+    if: ${{ needs.check-version.outputs.should_release == true }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -117,7 +117,7 @@ jobs:
   build:
     needs: check-version
     runs-on: ubuntu-latest
-    if: ${{ needs.check-version.outputs.should_release == 'true' }}
+    if: ${{ needs.check-version.outputs.should_release == true }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -137,7 +137,7 @@ jobs:
 
   publish-npm:
     needs: check-version
-    if: ${{ needs.check-version.outputs.should_release == 'true' }}
+    if: ${{ needs.check-version.outputs.should_release == true }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
