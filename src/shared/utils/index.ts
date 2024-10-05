@@ -29,6 +29,8 @@ export {
     capitalizeWords,
     capitalizeFirstLetter,
 } from './FString';
+export { getRandomEnumEntry } from './getRandomEnumEntry';
+export { getRandomEnumValue } from './getRandomEnumValue';
 export { isDuplicityVersion } from './isDuplicityVersion';
 export { serializeToJSON } from './serializeToJSON';
 export { NumerableVector3, Vec3, Vector3 } from './Vector3';
