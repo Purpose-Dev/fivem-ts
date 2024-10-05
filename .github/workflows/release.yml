@@ -26,11 +26,16 @@ jobs:
         run: echo "CURRENT_VERSION=$(jq -r '.version' package.json)" >> $GITHUB_ENV
 
       - name: Fetch tags
-        run: git fetch --tags
+        run: |
+          git fetch --tags
+          git tag
 
       - name: Get latest tag
         id: get_latest_tag
-        run: echo "LATEST_TAG=$(git describe --tags --abbrev=0 || echo 'v0.0.0')" >> $GITHUB_ENV
+        run: |
+          LATEST_TAG=$(git describe --tags --abbrev=0 || echo 'v0.0.0')
+          echo "Latest tag found: $LATEST_TAG"
+          echo "LATEST_TAG=$LATEST_TAG" >> $GITHUB_ENV
 
       - name: Compare versions
         id: version_check
@@ -55,7 +60,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    if: ${{ needs.check-version.outputs.should_release == true }}
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -113,7 +118,7 @@ jobs:
   build:
     needs: check-version
     runs-on: ubuntu-latest
-    if: ${{ needs.check-version.outputs.should_release == true }}
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -133,7 +138,7 @@ jobs:
 
   publish-npm:
     needs: check-version
-    if: ${{ needs.check-version.outputs.should_release == true }}
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
