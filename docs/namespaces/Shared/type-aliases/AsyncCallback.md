@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Shared](../README.md) / AsyncCallback
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Shared](../README.md) / AsyncCallback
 
 # Type Alias: AsyncCallback()\<T\>
 

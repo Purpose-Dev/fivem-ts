@@ -1,8 +1,8 @@
-**fivem-ts - Documentation v0.6.0** • **Docs**
+**fivem-ts - Documentation v0.7.5** • **Docs**
 
 ***
 
-# fivem-ts - Documentation v0.6.0
+# fivem-ts - Documentation v0.7.5
 
 ## Namespaces
 

@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../README.md) / Client
+[fivem-ts - Documentation v0.7.5](../../README.md) / Client
 
 # Client
 
@@ -13,9 +13,11 @@
 - [Audio](namespaces/Audio/README.md)
 - [Effects](namespaces/Effects/README.md)
 - [Fading](namespaces/Fading/README.md)
+- [Game](namespaces/Game/README.md)
 - [Hud](namespaces/Hud/README.md)
 - [LoadingPrompt](namespaces/LoadingPrompt/README.md)
 - [Screen](namespaces/Screen/README.md)
+- [World](namespaces/World/README.md)
 
 ### Enumerations
 
@@ -80,16 +82,18 @@
 ### Classes
 
 - [Blip](classes/Blip.md)
+- [Camera](classes/Camera.md)
 - [Checkpoint](classes/Checkpoint.md)
 - [Color](classes/Color.md)
 - [Container](classes/Container.md)
 - [Entity](classes/Entity.md)
 - [EntityBone](classes/EntityBone.md)
 - [EntityBoneCollection](classes/EntityBoneCollection.md)
-- [Game](classes/Game.md)
 - [GameplayCamera](classes/GameplayCamera.md)
 - [Model](classes/Model.md)
 - [Notification](classes/Notification.md)
+- [ParticleEffect](classes/ParticleEffect.md)
+- [ParticleEffectAsset](classes/ParticleEffectAsset.md)
 - [Ped](classes/Ped.md)
 - [PedBone](classes/PedBone.md)
 - [PedBoneCollection](classes/PedBoneCollection.md)
@@ -100,6 +104,7 @@
 - [Quaternion](classes/Quaternion.md)
 - [Rectangle](classes/Rectangle.md)
 - [RelationshipGroup](classes/RelationshipGroup.md)
+- [Rope](classes/Rope.md)
 - [Scaleform](classes/Scaleform.md)
 - [Size](classes/Size.md)
 - [Sprite](classes/Sprite.md)

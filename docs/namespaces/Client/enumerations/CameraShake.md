@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / CameraShake
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Client](../README.md) / CameraShake
 
 # Enumeration: CameraShake
 
@@ -16,7 +16,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:5](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L5)
+[client/enums/CameraShake.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L7)
 
 ***
 
@@ -26,7 +26,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:6](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L6)
+[client/enums/CameraShake.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L8)
 
 ***
 
@@ -36,7 +36,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L7)
+[client/enums/CameraShake.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L9)
 
 ***
 
@@ -46,7 +46,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:8](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L8)
+[client/enums/CameraShake.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L10)
 
 ***
 
@@ -56,7 +56,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:9](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L9)
+[client/enums/CameraShake.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L11)
 
 ***
 
@@ -66,7 +66,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:10](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L10)
+[client/enums/CameraShake.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L12)
 
 ***
 
@@ -76,7 +76,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:11](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L11)
+[client/enums/CameraShake.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L13)
 
 ***
 
@@ -86,7 +86,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:13](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L13)
+[client/enums/CameraShake.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L15)
 
 ***
 
@@ -96,7 +96,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L14)
+[client/enums/CameraShake.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L16)
 
 ***
 
@@ -106,7 +106,7 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L12)
+[client/enums/CameraShake.ts:14](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L14)
 
 ***
 
@@ -116,4 +116,4 @@ Enumeration for different types of camera shake effects.
 
 #### Defined in
 
-[client/enums/CameraShake.ts:15](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L15)
+[client/enums/CameraShake.ts:17](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/enums/CameraShake.ts#L17)

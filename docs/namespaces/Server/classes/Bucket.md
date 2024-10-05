@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / Bucket
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Server](../README.md) / Bucket
 
 # Class: Bucket
 
@@ -44,7 +44,7 @@ The unique identifier for the bucket.
 
 #### Defined in
 
-[server/models/Bucket.ts:27](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L27)
+[server/models/Bucket.ts:26](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L26)
 
 ## Accessors
 
@@ -72,7 +72,7 @@ The current lockdown mode of the bucket entity.
 
 #### Defined in
 
-[server/models/Bucket.ts:81](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L81)
+[server/models/Bucket.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L80)
 
 ***
 
@@ -90,7 +90,7 @@ The unique identifier of the bucket.
 
 #### Defined in
 
-[server/models/Bucket.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L53)
+[server/models/Bucket.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L52)
 
 ***
 
@@ -108,7 +108,7 @@ The name of the bucket.
 
 #### Defined in
 
-[server/models/Bucket.ts:44](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L44)
+[server/models/Bucket.ts:43](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L43)
 
 ***
 
@@ -136,7 +136,7 @@ The population status of the bucket.
 
 #### Defined in
 
-[server/models/Bucket.ts:62](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L62)
+[server/models/Bucket.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L61)
 
 ***
 
@@ -154,7 +154,7 @@ An array of entity IDs.
 
 #### Defined in
 
-[server/models/Bucket.ts:100](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L100)
+[server/models/Bucket.ts:99](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L99)
 
 ***
 
@@ -172,7 +172,7 @@ An array of player IDs.
 
 #### Defined in
 
-[server/models/Bucket.ts:109](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L109)
+[server/models/Bucket.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L108)
 
 ## Methods
 
@@ -196,7 +196,7 @@ The ID of the entity to add.
 
 #### Defined in
 
-[server/models/Bucket.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L119)
+[server/models/Bucket.ts:118](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L118)
 
 ***
 
@@ -220,4 +220,4 @@ The ID of the player to add.
 
 #### Defined in
 
-[server/models/Bucket.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L133)
+[server/models/Bucket.ts:132](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/server/models/Bucket.ts#L132)

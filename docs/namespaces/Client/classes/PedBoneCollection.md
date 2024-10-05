@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / PedBoneCollection
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Client](../README.md) / PedBoneCollection
 
 # Class: PedBoneCollection
 
@@ -23,19 +23,19 @@ Extends the functionality of EntityBoneCollection specifically for Ped entities.
 
 #### Parameters
 
-• **owner**: [`Ped`](Ped.md)
+• **owner**: [`Entity`](Entity.md)
 
 #### Returns
 
 [`PedBoneCollection`](PedBoneCollection.md)
 
-#### Overrides
+#### Inherited from
 
 [`EntityBoneCollection`](EntityBoneCollection.md).[`constructor`](EntityBoneCollection.md#constructors)
 
 #### Defined in
 
-[client/models/PedBoneCollection.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/PedBoneCollection.ts#L12)
+[client/models/EntityBoneCollection.ts:7](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/EntityBoneCollection.ts#L7)
 
 ## Accessors
 
@@ -53,7 +53,7 @@ Extends the functionality of EntityBoneCollection specifically for Ped entities.
 
 #### Defined in
 
-[client/models/PedBoneCollection.ts:16](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/PedBoneCollection.ts#L16)
+[client/models/PedBoneCollection.ts:12](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/PedBoneCollection.ts#L12)
 
 ## Methods
 

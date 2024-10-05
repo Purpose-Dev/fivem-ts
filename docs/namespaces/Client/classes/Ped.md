@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / Ped
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Client](../README.md) / Ped
 
 # Class: Ped
 
@@ -32,7 +32,7 @@ Represents a pedestrian character (Ped) in the game world.
 
 #### Defined in
 
-[client/models/Ped.ts:52](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L52)
+[client/models/Ped.ts:53](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L53)
 
 ## Accessors
 
@@ -77,7 +77,7 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:60](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L60)
+[client/models/Ped.ts:61](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L61)
 
 ***
 
@@ -97,7 +97,7 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L554)
+[client/models/Ped.ts:560](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L560)
 
 ***
 
@@ -111,7 +111,7 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:88](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L88)
+[client/models/Ped.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L98)
 
 ***
 
@@ -125,11 +125,13 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:369](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L369)
+[client/models/Ped.ts:379](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L379)
 
 ***
 
 ### DrivingStyle
+
+> `get` **DrivingStyle**(): [`DrivingStyle`](../enumerations/DrivingStyle.md)
 
 > `set` **DrivingStyle**(`style`): `void`
 
@@ -137,9 +139,13 @@ Entity Bone Collection of Entity
 
 • **style**: [`DrivingStyle`](../enumerations/DrivingStyle.md)
 
+#### Returns
+
+[`DrivingStyle`](../enumerations/DrivingStyle.md)
+
 #### Defined in
 
-[client/models/Ped.ts:373](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L373)
+[client/models/Ped.ts:69](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L69)
 
 ***
 
@@ -153,7 +159,7 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:365](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L365)
+[client/models/Ped.ts:375](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L375)
 
 ***
 
@@ -167,7 +173,7 @@ Entity Bone Collection of Entity
 
 #### Defined in
 
-[client/models/Ped.ts:361](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L361)
+[client/models/Ped.ts:371](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L371)
 
 ***
 
@@ -295,7 +301,7 @@ The health of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:72](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L72)
+[client/models/Ped.ts:82](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L82)
 
 ***
 
@@ -331,7 +337,7 @@ The height of the entity above the ground.
 
 #### Defined in
 
-[client/models/Ped.ts:349](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L349)
+[client/models/Ped.ts:359](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L359)
 
 ***
 
@@ -367,7 +373,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:309](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L309)
+[client/models/Ped.ts:319](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L319)
 
 ***
 
@@ -381,7 +387,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:297](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L297)
+[client/models/Ped.ts:307](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L307)
 
 ***
 
@@ -395,7 +401,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:305](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L305)
+[client/models/Ped.ts:315](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L315)
 
 ***
 
@@ -409,7 +415,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:265](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L265)
+[client/models/Ped.ts:275](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L275)
 
 ***
 
@@ -423,7 +429,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:341](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L341)
+[client/models/Ped.ts:351](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L351)
 
 ***
 
@@ -437,7 +443,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:337](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L337)
+[client/models/Ped.ts:347](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L347)
 
 ***
 
@@ -451,7 +457,7 @@ Returns true if the entity is alive, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:173](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L173)
+[client/models/Ped.ts:183](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L183)
 
 ***
 
@@ -495,7 +501,7 @@ A boolean indicating whether collision should be enabled (true) or disabled (fal
 
 #### Defined in
 
-[client/models/Ped.ts:131](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L131)
+[client/models/Ped.ts:141](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L141)
 
 ***
 
@@ -531,7 +537,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:201](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L201)
+[client/models/Ped.ts:211](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L211)
 
 ***
 
@@ -545,7 +551,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:329](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L329)
+[client/models/Ped.ts:339](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L339)
 
 ***
 
@@ -565,7 +571,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:165](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L165)
+[client/models/Ped.ts:175](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L175)
 
 ***
 
@@ -579,7 +585,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:119](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L119)
+[client/models/Ped.ts:129](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L129)
 
 ***
 
@@ -593,7 +599,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:181](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L181)
+[client/models/Ped.ts:191](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L191)
 
 ***
 
@@ -607,7 +613,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:281](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L281)
+[client/models/Ped.ts:291](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L291)
 
 ***
 
@@ -621,7 +627,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:269](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L269)
+[client/models/Ped.ts:279](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L279)
 
 ***
 
@@ -635,7 +641,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:169](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L169)
+[client/models/Ped.ts:179](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L179)
 
 ***
 
@@ -649,7 +655,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:333](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L333)
+[client/models/Ped.ts:343](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L343)
 
 ***
 
@@ -663,7 +669,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:115](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L115)
+[client/models/Ped.ts:125](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L125)
 
 ***
 
@@ -677,7 +683,7 @@ Returns true if the entity is dead, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:143](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L143)
+[client/models/Ped.ts:153](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L153)
 
 ***
 
@@ -713,7 +719,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:253](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L253)
+[client/models/Ped.ts:263](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L263)
 
 ***
 
@@ -727,7 +733,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:285](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L285)
+[client/models/Ped.ts:295](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L295)
 
 ***
 
@@ -741,7 +747,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:357](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L357)
+[client/models/Ped.ts:367](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L367)
 
 ***
 
@@ -755,7 +761,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:249](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L249)
+[client/models/Ped.ts:259](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L259)
 
 ***
 
@@ -769,7 +775,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:443](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L443)
+[client/models/Ped.ts:449](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L449)
 
 ***
 
@@ -783,7 +789,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:241](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L241)
+[client/models/Ped.ts:251](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L251)
 
 ***
 
@@ -797,7 +803,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:277](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L277)
+[client/models/Ped.ts:287](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L287)
 
 ***
 
@@ -811,7 +817,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:289](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L289)
+[client/models/Ped.ts:299](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L299)
 
 ***
 
@@ -825,7 +831,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:205](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L205)
+[client/models/Ped.ts:215](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L215)
 
 ***
 
@@ -839,7 +845,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:245](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L245)
+[client/models/Ped.ts:255](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L255)
 
 ***
 
@@ -853,7 +859,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:257](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L257)
+[client/models/Ped.ts:267](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L267)
 
 ***
 
@@ -867,7 +873,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:293](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L293)
+[client/models/Ped.ts:303](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L303)
 
 ***
 
@@ -881,7 +887,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:229](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L229)
+[client/models/Ped.ts:239](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L239)
 
 ***
 
@@ -895,7 +901,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:233](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L233)
+[client/models/Ped.ts:243](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L243)
 
 ***
 
@@ -909,7 +915,7 @@ A boolean value indicating whether the entity is airborne.
 
 #### Defined in
 
-[client/models/Ped.ts:237](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L237)
+[client/models/Ped.ts:247](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L247)
 
 ***
 
@@ -967,7 +973,7 @@ True if the entity is in water, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:261](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L261)
+[client/models/Ped.ts:271](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L271)
 
 ***
 
@@ -981,7 +987,7 @@ True if the entity is in water, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:177](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L177)
+[client/models/Ped.ts:187](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L187)
 
 ***
 
@@ -995,7 +1001,7 @@ True if the entity is in water, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L103)
+[client/models/Ped.ts:113](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L113)
 
 ***
 
@@ -1032,7 +1038,7 @@ meaning it is blocked from view by other objects or entities.
 
 #### Defined in
 
-[client/models/Ped.ts:221](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L221)
+[client/models/Ped.ts:231](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L231)
 
 ***
 
@@ -1066,7 +1072,7 @@ Checks if the entity is currently on fire.
 
 #### Defined in
 
-[client/models/Ped.ts:225](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L225)
+[client/models/Ped.ts:235](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L235)
 
 ***
 
@@ -1124,7 +1130,7 @@ True if the entity is on the screen, false otherwise.
 
 #### Defined in
 
-[client/models/Ped.ts:313](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L313)
+[client/models/Ped.ts:323](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L323)
 
 ***
 
@@ -1138,7 +1144,7 @@ True if the entity is on the screen, false otherwise.
 
 #### Defined in
 
-[client/models/Ped.ts:345](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L345)
+[client/models/Ped.ts:355](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L355)
 
 ***
 
@@ -1180,7 +1186,7 @@ True if the entity is persistent; otherwise, false.
 
 #### Defined in
 
-[client/models/Ped.ts:317](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L317)
+[client/models/Ped.ts:327](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L327)
 
 ***
 
@@ -1194,7 +1200,7 @@ True if the entity is persistent; otherwise, false.
 
 #### Defined in
 
-[client/models/Ped.ts:127](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L127)
+[client/models/Ped.ts:137](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L137)
 
 ***
 
@@ -1230,7 +1236,7 @@ If true, the entity's position will be frozen. If false, the entity's position w
 
 #### Defined in
 
-[client/models/Ped.ts:123](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L123)
+[client/models/Ped.ts:133](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L133)
 
 ***
 
@@ -1244,7 +1250,7 @@ If true, the entity's position will be frozen. If false, the entity's position w
 
 #### Defined in
 
-[client/models/Ped.ts:157](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L157)
+[client/models/Ped.ts:167](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L167)
 
 ***
 
@@ -1258,7 +1264,7 @@ If true, the entity's position will be frozen. If false, the entity's position w
 
 #### Defined in
 
-[client/models/Ped.ts:139](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L139)
+[client/models/Ped.ts:149](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L149)
 
 ***
 
@@ -1294,7 +1300,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:325](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L325)
+[client/models/Ped.ts:335](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L335)
 
 ***
 
@@ -1308,7 +1314,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:193](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L193)
+[client/models/Ped.ts:203](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L203)
 
 ***
 
@@ -1322,7 +1328,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:301](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L301)
+[client/models/Ped.ts:311](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L311)
 
 ***
 
@@ -1336,7 +1342,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:321](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L321)
+[client/models/Ped.ts:331](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L331)
 
 ***
 
@@ -1350,7 +1356,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:197](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L197)
+[client/models/Ped.ts:207](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L207)
 
 ***
 
@@ -1364,7 +1370,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:185](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L185)
+[client/models/Ped.ts:195](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L195)
 
 ***
 
@@ -1378,7 +1384,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:209](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L209)
+[client/models/Ped.ts:219](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L219)
 
 ***
 
@@ -1392,7 +1398,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:213](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L213)
+[client/models/Ped.ts:223](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L223)
 
 ***
 
@@ -1406,7 +1412,7 @@ A boolean indicating whether the entity should record collisions.
 
 #### Defined in
 
-[client/models/Ped.ts:273](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L273)
+[client/models/Ped.ts:283](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L283)
 
 ***
 
@@ -1463,7 +1469,7 @@ This method checks the orientation
 
 #### Defined in
 
-[client/models/Ped.ts:217](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L217)
+[client/models/Ped.ts:227](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L227)
 
 ***
 
@@ -1509,7 +1515,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:189](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L189)
+[client/models/Ped.ts:199](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L199)
 
 ***
 
@@ -1523,7 +1529,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:135](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L135)
+[client/models/Ped.ts:145](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L145)
 
 ***
 
@@ -1537,7 +1543,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:405](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L405)
+[client/models/Ped.ts:411](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L411)
 
 ***
 
@@ -1551,7 +1557,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:409](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L409)
+[client/models/Ped.ts:415](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L415)
 
 ***
 
@@ -1565,7 +1571,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:417](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L417)
+[client/models/Ped.ts:423](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L423)
 
 ***
 
@@ -1579,7 +1585,7 @@ True if the entity is visible, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:93](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L93)
+[client/models/Ped.ts:103](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L103)
 
 ***
 
@@ -1625,7 +1631,7 @@ The LOD distance of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:111](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L111)
+[client/models/Ped.ts:121](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L121)
 
 ***
 
@@ -1655,7 +1661,7 @@ The maximum health of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:80](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L80)
+[client/models/Ped.ts:90](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L90)
 
 ***
 
@@ -1691,7 +1697,7 @@ The maximum speed to be set for the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:413](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L413)
+[client/models/Ped.ts:419](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L419)
 
 ***
 
@@ -1749,7 +1755,7 @@ The network ID of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:447](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L447)
+[client/models/Ped.ts:453](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L453)
 
 ***
 
@@ -1914,7 +1920,7 @@ The rotation velocity of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:68](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L68)
+[client/models/Ped.ts:78](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L78)
 
 ***
 
@@ -1928,7 +1934,7 @@ The rotation velocity of the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:107](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L107)
+[client/models/Ped.ts:117](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L117)
 
 ***
 
@@ -1964,7 +1970,7 @@ The submersion level of the entity, where a higher value indicates a greater deg
 
 #### Defined in
 
-[client/models/Ped.ts:98](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L98)
+[client/models/Ped.ts:108](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L108)
 
 ***
 
@@ -2010,7 +2016,7 @@ Sets the velocity for the entity.
 
 #### Defined in
 
-[client/models/Ped.ts:477](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L477)
+[client/models/Ped.ts:483](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L483)
 
 ***
 
@@ -2182,7 +2188,7 @@ The rotation offset relative to the bone orientation.
 
 #### Defined in
 
-[client/models/Ped.ts:591](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L591)
+[client/models/Ped.ts:597](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L597)
 
 ***
 
@@ -2196,7 +2202,7 @@ The rotation offset relative to the bone orientation.
 
 #### Defined in
 
-[client/models/Ped.ts:439](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L439)
+[client/models/Ped.ts:445](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L445)
 
 ***
 
@@ -2218,7 +2224,7 @@ This method does not return a value.
 
 #### Defined in
 
-[client/models/Ped.ts:493](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L493)
+[client/models/Ped.ts:499](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L499)
 
 ***
 
@@ -2236,7 +2242,7 @@ This method does not return a value.
 
 #### Defined in
 
-[client/models/Ped.ts:619](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L619)
+[client/models/Ped.ts:625](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L625)
 
 ***
 
@@ -2324,7 +2330,7 @@ True if the entity exists, otherwise false.
 
 #### Defined in
 
-[client/models/Ped.ts:607](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L607)
+[client/models/Ped.ts:613](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L613)
 
 ***
 
@@ -2367,7 +2373,7 @@ The position where the last weapon impact occurred.
 
 #### Defined in
 
-[client/models/Ped.ts:548](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L548)
+[client/models/Ped.ts:554](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L554)
 
 ***
 
@@ -2445,7 +2451,7 @@ The world coordinates to calculate the offset from.
 
 #### Defined in
 
-[client/models/Ped.ts:595](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L595)
+[client/models/Ped.ts:601](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L601)
 
 ***
 
@@ -2479,7 +2485,7 @@ Whether the weapon should be equipped immediately.
 
 #### Defined in
 
-[client/models/Ped.ts:509](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L509)
+[client/models/Ped.ts:515](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L515)
 
 ***
 
@@ -2532,7 +2538,7 @@ True if the entity has been damaged by any melee weapon; otherwise, false.
 
 #### Defined in
 
-[client/models/Ped.ts:489](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L489)
+[client/models/Ped.ts:495](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L495)
 
 ***
 
@@ -2554,7 +2560,7 @@ True if the entity has been damaged by any weapon; otherwise, false.
 
 #### Defined in
 
-[client/models/Ped.ts:485](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L485)
+[client/models/Ped.ts:491](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L491)
 
 ***
 
@@ -2582,7 +2588,7 @@ The weapon to check against.
 
 #### Defined in
 
-[client/models/Ped.ts:481](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L481)
+[client/models/Ped.ts:487](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L487)
 
 ***
 
@@ -2710,7 +2716,7 @@ True if the current entity is attached to the specified entity, false otherwise.
 
 #### Defined in
 
-[client/models/Ped.ts:397](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L397)
+[client/models/Ped.ts:403](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L403)
 
 ***
 
@@ -2761,7 +2767,7 @@ The angle of the area.
 
 #### Defined in
 
-[client/models/Ped.ts:377](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L377)
+[client/models/Ped.ts:383](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L383)
 
 ***
 
@@ -2811,7 +2817,7 @@ A Vector3 object representing the maximum bounds of the area.
 
 #### Defined in
 
-[client/models/Ped.ts:401](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L401)
+[client/models/Ped.ts:407](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L407)
 
 ***
 
@@ -2829,7 +2835,7 @@ A Vector3 object representing the maximum bounds of the area.
 
 #### Defined in
 
-[client/models/Ped.ts:353](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L353)
+[client/models/Ped.ts:363](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L363)
 
 ***
 
@@ -2879,7 +2885,7 @@ Returns true if the given position is within the specified range, otherwise fals
 
 #### Defined in
 
-[client/models/Ped.ts:381](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L381)
+[client/models/Ped.ts:387](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L387)
 
 ***
 
@@ -2925,7 +2931,7 @@ The 3D vector specifying the bounds to check within.
 
 #### Defined in
 
-[client/models/Ped.ts:385](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L385)
+[client/models/Ped.ts:391](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L391)
 
 ***
 
@@ -2943,7 +2949,7 @@ The 3D vector specifying the bounds to check within.
 
 #### Defined in
 
-[client/models/Ped.ts:389](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L389)
+[client/models/Ped.ts:395](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L395)
 
 ***
 
@@ -3013,7 +3019,7 @@ The model to check against.
 
 #### Defined in
 
-[client/models/Ped.ts:421](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L421)
+[client/models/Ped.ts:427](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L427)
 
 ***
 
@@ -3027,7 +3033,7 @@ The model to check against.
 
 #### Defined in
 
-[client/models/Ped.ts:451](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L451)
+[client/models/Ped.ts:457](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L457)
 
 ***
 
@@ -3065,7 +3071,7 @@ No return value.
 
 #### Defined in
 
-[client/models/Ped.ts:603](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L603)
+[client/models/Ped.ts:609](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L609)
 
 ***
 
@@ -3087,7 +3093,7 @@ No return value.
 
 #### Defined in
 
-[client/models/Ped.ts:455](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L455)
+[client/models/Ped.ts:461](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L461)
 
 ***
 
@@ -3107,7 +3113,7 @@ No return value.
 
 #### Defined in
 
-[client/models/Ped.ts:562](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L562)
+[client/models/Ped.ts:568](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L568)
 
 ***
 
@@ -3129,7 +3135,7 @@ No return value.
 
 #### Defined in
 
-[client/models/Ped.ts:567](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L567)
+[client/models/Ped.ts:573](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L573)
 
 ***
 
@@ -3169,7 +3175,7 @@ This method will strip the entity of all weapons it currently possesses.
 
 #### Defined in
 
-[client/models/Ped.ts:536](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L536)
+[client/models/Ped.ts:542](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L542)
 
 ***
 
@@ -3187,7 +3193,7 @@ This method will strip the entity of all weapons it currently possesses.
 
 #### Defined in
 
-[client/models/Ped.ts:599](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L599)
+[client/models/Ped.ts:605](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L605)
 
 ***
 
@@ -3209,7 +3215,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:525](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L525)
+[client/models/Ped.ts:531](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L531)
 
 ***
 
@@ -3227,7 +3233,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:615](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L615)
+[client/models/Ped.ts:621](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L621)
 
 ***
 
@@ -3259,7 +3265,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:436](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L436)
+[client/models/Ped.ts:442](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L442)
 
 ***
 
@@ -3273,7 +3279,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:425](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L425)
+[client/models/Ped.ts:431](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L431)
 
 ***
 
@@ -3293,7 +3299,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:611](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L611)
+[client/models/Ped.ts:617](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L617)
 
 ***
 
@@ -3313,7 +3319,7 @@ The hash of the weapon to be removed.
 
 #### Defined in
 
-[client/models/Ped.ts:393](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L393)
+[client/models/Ped.ts:399](https://github.com/Purpose-Dev/fivem-ts/blob/main/src/client/models/Ped.ts#L399)
 
 ***
 

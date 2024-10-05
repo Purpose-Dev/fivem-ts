@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Server](../README.md) / CustomVehicleColour
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Server](../README.md) / CustomVehicleColour
 
 # Type Alias: CustomVehicleColour
 

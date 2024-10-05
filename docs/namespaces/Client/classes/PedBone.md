@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Client](../README.md) / PedBone
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Client](../README.md) / PedBone
 
 # Class: PedBone
 

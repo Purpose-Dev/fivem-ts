@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../../README.md) / [Shared](../README.md) / ITree
+[fivem-ts - Documentation v0.7.5](../../../README.md) / [Shared](../README.md) / ITree
 
 # Interface: ITree\<T\>
 

@@ -1,8 +1,8 @@
-[**fivem-ts - Documentation v0.6.0**](../../README.md) • **Docs**
+[**fivem-ts - Documentation v0.7.5**](../../README.md) • **Docs**
 
 ***
 
-[fivem-ts - Documentation v0.6.0](../../README.md) / Shared
+[fivem-ts - Documentation v0.7.5](../../README.md) / Shared
 
 # Shared
 
@@ -113,6 +113,8 @@
 - [ErrorHandler](functions/ErrorHandler.md)
 - [Event](functions/Event.md)
 - [getConfig](functions/getConfig.md)
+- [getRandomEnumEntry](functions/getRandomEnumEntry.md)
+- [getRandomEnumValue](functions/getRandomEnumValue.md)
 - [getRandomInt](functions/getRandomInt.md)
 - [getRetryMetadata](functions/getRetryMetadata.md)
 - [isDuplicityVersion](functions/isDuplicityVersion.md)
