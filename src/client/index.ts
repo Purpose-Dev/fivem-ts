@@ -9,6 +9,7 @@ export { ParticleEffect } from './ParticleEffect';
 export { ParticleEffectAsset } from './ParticleEffectAsset';
 export { RelationshipGroup } from './RelationshipGroup';
 export { Rope } from './Rope';
+export { World } from './World';
 
 export * from './enums';
 export * from './events';
