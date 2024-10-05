@@ -81,12 +81,12 @@
         "prettier": "^3.3.3",
         "ts-jest": "^29.2.5",
         "typedoc": "^0.26.7",
-        "typedoc-plugin-markdown": "^4.2.8",
+        "typedoc-plugin-markdown": "^4.2.9",
         "typescript": "^5.5.4"
     },
     "dependencies": {
-        "@citizenfx/client": "2.0.10072-1",
-        "@citizenfx/server": "2.0.10072-1",
+        "@citizenfx/client": "2.0.10191-1",
+        "@citizenfx/server": "2.0.10191-1",
         "cross-fetch": "^4.0.0",
         "reflect-metadata": "^0.2.2"
     }
