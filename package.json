@@ -1,6 +1,6 @@
 {
     "name": "fivem-ts",
-    "version": "0.6.4",
+    "version": "0.7.5",
     "author": "Riyane <Purpose-Dev>",
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
@@ -74,13 +74,13 @@
         "@types/node": "^22.7.4",
         "@typescript-eslint/eslint-plugin": "8.8.0",
         "@typescript-eslint/parser": "8.8.0",
-        "eslint": "^9.11.1",
+        "eslint": "^9.12.0",
         "eslint-config-prettier": "^9.1.0",
         "jest": "^29.7.0",
         "jest-junit": "^16.0.0",
         "prettier": "^3.3.3",
         "ts-jest": "^29.2.5",
-        "typedoc": "^0.26.7",
+        "typedoc": "^0.26.8",
         "typedoc-plugin-markdown": "^4.2.9",
         "typescript": "^5.5.4"
     },
