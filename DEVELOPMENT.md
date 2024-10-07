@@ -6,21 +6,27 @@
 
 1. For this repo by using the "Fork" button on the upper-right
 2. Check out your fork
+
 ```
 git clone git@github.com:yournamehere/fivem-ts.git
 ```
+
 3. Install or Update all dependencies
+
 ```
 npm i
 ```
+
 4. Get coding! If you've changed or added new functionality, update any relevant documentation. Ensure your work is committed within a feature branch.
 5. Ensure the project has no linting errors and builds
+
 ```
 npm run lint
 npm run build
 ```
 
 ### Relevant Commands
+
 1. `npm i` - install and link all packages
 2. `npm run format` - autoformats with eslint --fix and prettier
 3. `npm run lint` - checks for linting issues
@@ -28,4 +34,5 @@ npm run build
 5. `npm run docs` - builds documentation
 
 ### Optional
+
 For updating dependencies you can use `npm update`

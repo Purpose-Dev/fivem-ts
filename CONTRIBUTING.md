@@ -9,6 +9,7 @@ If you want to add a new feature, note that we strive to support the FiveM OneSy
 To get setup for development, refer to [DEVELOPMENT.md](./DEVELOPMENT.md)
 
 ## Issues
+
 We use GitHub issues to track public bugs and requests. Please ensure your bug description is clear and has sufficient instructions to be able to reproduce the issue. The best way is to provide an example resource in JS that uses any of the fivem-ts features directly.
 
 ## Pull Requests
@@ -24,12 +25,12 @@ We don't have any strict commit message rules, but we encourage you to keep your
 ```
 docs: Scaleform + LoadingPrompt
 ```
+
 ```
 Added bone collections and Camera PointAt functions
 ```
 
 Both these commit messages are descriptive, short and to the point.
-
 
 ## License
 
