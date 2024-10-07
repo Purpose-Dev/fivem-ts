@@ -39,6 +39,18 @@
             "import": "./dist/index.js",
             "require": "./dist/index.js"
         },
+        "./enums": {
+            "types": "./dist/enums/index.d.ts",
+            "default": "./dist/enums/index.js",
+            "import": "./dist/enums/index.js",
+            "require": "./dist/enums/index.js"
+        },
+        "./hashes": {
+            "types": "./dist/hashes/index.d.ts",
+            "default": "./dist/hashes/index.js",
+            "import": "./dist/hashes/index.js",
+            "require": "./dist/hashes/index.js"
+        },
         "./utils": {
             "types": "./dist/utils/index.d.ts",
             "default": "./dist/utils/index.js",
