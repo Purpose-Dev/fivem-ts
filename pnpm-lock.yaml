@@ -37,6 +37,12 @@ importers:
         specifier: ^5.5.4
         version: 5.5.4
 
+  packages/client:
+    devDependencies:
+      '@citizenfx/client':
+        specifier: 2.0.10191-1
+        version: 2.0.10191-1
+
   packages/shared:
     devDependencies:
       '@citizenfx/client':
