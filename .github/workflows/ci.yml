@@ -2,11 +2,11 @@ name: CI
 
 on:
   push:
-    branches: ["turbo"]
+    branches: [ "turbo" ]
   pull_request:
-    types: [opened, synchronize]
+    types: [ opened, synchronize ]
   release:
-    types: [created]
+    types: [ created ]
 
 jobs:
   check-version:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        
+
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -32,6 +32,7 @@ jobs:
       - name: Get versions of packages
         id: version_check
         run: |
+          pnpm install # Ensure dependencies are installed
           pnpm turbo run version --filter=@fivem-ts/* --output json > versions.json
           VERSION_CHANGED=$(jq '.[].versionChanged' versions.json | grep "true" || echo "false")
           if [[ "${VERSION_CHANGED}" != "false" ]]; then
@@ -44,14 +45,14 @@ jobs:
     name: Build and Publish
     needs: check-version
     runs-on: ubuntu-latest
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     env:
       TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
       TURBO_TEAM: ${{ vars.TURBO_TEAM }}
       NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
-    if: ${{ needs.check-version.outputs.should_release == 'true' }}
     strategy:
       matrix:
-        package: [client, server, shared]
+        package: [ shared ]
     steps:
       - name: Checkout code
         uses: actions/checkout@v4

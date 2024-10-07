@@ -9,3 +9,4 @@ temp-docs
 package-lock.json
 .k8
 .turbo
+versions.json
