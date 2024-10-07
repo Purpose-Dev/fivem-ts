@@ -1,7 +1,7 @@
 {
     "name": "fivem-ts",
     "version": "0.7.5",
-    "author": "Riyane <Purpose-Dev>",
+    "author": "Purpose-Dev",
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
     "packageManager": "pnpm@9.11.0",

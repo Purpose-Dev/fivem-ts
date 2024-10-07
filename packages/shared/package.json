@@ -1,0 +1,40 @@
+{
+    "name": "@fivem-ts/shared",
+    "version": "0.1.0",
+    "author": "Purpose-Dev",
+    "description": "FiveM Typescript wrapper shared part",
+    "license": "MIT",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsc"
+    },
+    "keywords": [
+        "fivem",
+        "shared",
+        "typescript",
+        "javascript",
+        "wrapper",
+        "citizenfx",
+        "natives",
+        "library",
+        "fivem-ts",
+        "fivem-js"
+    ],
+    "devDependencies": {
+        "@citizenfx/client": "2.0.10191-1",
+        "@citizenfx/server": "2.0.10191-1",
+        "@types/jest": "^29.5.13",
+        "jest": "^29.7.0",
+        "jest-junit": "^16.0.0",
+        "ts-jest": "^29.2.5"
+    },
+    "exports": {
+        ".": {
+            "types": "./src/index.d.ts",
+            "default": "./dist/index.js",
+            "import": "./dist/index.js",
+            "require": "./dist/index.js"
+        }
+    }
+}
