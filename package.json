@@ -5,10 +5,6 @@
     "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
     "license": "MIT",
     "packageManager": "pnpm@9.11.0",
-    "main": "./dist/index.js",
-    "files": [
-        "dist/**/*"
-    ],
     "homepage": "https://github.com/Purpose-Dev/fivem-ts",
     "repository": {
         "type": "git",

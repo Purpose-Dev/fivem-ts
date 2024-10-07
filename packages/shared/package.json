@@ -6,6 +6,9 @@
     "license": "MIT",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
+    "files": [
+        "dist/**/*"
+    ],
     "scripts": {
         "build": "tsc"
     },
@@ -31,10 +34,16 @@
     },
     "exports": {
         ".": {
-            "types": "./src/index.d.ts",
+            "types": "./dist/index.d.ts",
             "default": "./dist/index.js",
             "import": "./dist/index.js",
             "require": "./dist/index.js"
+        },
+        "./utils": {
+            "types": "./dist/utils/index.d.ts",
+            "default": "./dist/utils/index.js",
+            "import": "./dist/utils/index.js",
+            "require": "./dist/utils/index.js"
         }
     }
 }
