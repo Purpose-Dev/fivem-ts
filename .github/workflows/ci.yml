@@ -1,0 +1,87 @@
+name: CI
+
+on:
+  push:
+    branches: ["turbo"]
+  pull_request:
+    types: [opened, synchronize]
+  release:
+    types: [created]
+
+jobs:
+  check-version:
+    runs-on: ubuntu-latest
+    outputs:
+      should_release: ${{ steps.version_check.outputs.should_release }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+
+      - name: Get versions of packages
+        id: version_check
+        run: |
+          pnpm turbo run version --filter=@fivem-ts/* --output json > versions.json
+          VERSION_CHANGED=$(jq '.[].versionChanged' versions.json | grep "true" || echo "false")
+          if [[ "${VERSION_CHANGED}" != "false" ]]; then
+            echo "::set-output name=should_release::true"
+          else
+            echo "::set-output name=should_release::false"
+          fi
+
+  build-and-publish:
+    name: Build and Publish
+    needs: check-version
+    runs-on: ubuntu-latest
+    env:
+      TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
+      TURBO_TEAM: ${{ vars.TURBO_TEAM }}
+      NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
+    if: ${{ needs.check-version.outputs.should_release == 'true' }}
+    strategy:
+      matrix:
+        package: [client, server, shared]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'pnpm'
+          registry-url: https://registry.npmjs.org/
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Lint
+        run: pnpm lint
+
+      - name: Build packages
+        run: pnpm turbo run build --filter=@fivem-ts/${{ matrix.package }}
+
+      - name: Publish packages to npm
+        run: |
+          cd packages/${{ matrix.package }}
+          npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
+
+      - name: Post-build message
+        run: echo "Package @fivem-ts/${{ matrix.package }} published successfully!"
