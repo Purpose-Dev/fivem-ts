@@ -4,3 +4,4 @@ export { VehicleSeat } from './VehicleSeat';
 export { VehicleWheelType } from './VehicleWheelType';
 export { VehicleWindowIndex } from './VehicleWindowIndex';
 export { VehicleWindowTint } from './VehicleWindowTint';
+export { VehicleWheelBones } from './VehicleWheelBones';
