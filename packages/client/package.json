@@ -1,39 +1,38 @@
 {
-    "name": "@fivem-ts/client",
-    "version": "0.1.0",
-    "author": "Purpose-Dev",
-    "description": "FiveM Typescript wrapper client part",
-    "license": "MIT",
-    "main": "dist/index.js",
-    "types": "dist/index.d.ts",
-    "files": [
-        "dist/**/*"
-    ],
-    "scripts": {
-        "build": "tsc",
-        "lint": "eslint"
-    },
-    "keywords": [
-        "fivem",
-        "client",
-        "typescript",
-        "javascript",
-        "wrapper",
-        "citizenfx",
-        "natives",
-        "library",
-        "fivem-ts",
-        "fivem-js"
-    ],
-    "devDependencies": {
-        "@citizenfx/client": "2.0.10191-1"
-    },
-    "exports": {
-        ".": {
-            "types": "./dist/index.d.ts",
-            "default": "./dist/index.js",
-            "import": "./dist/index.js",
-            "require": "./dist/index.js"
-        }
+  "name": "@fivem-ts/client",
+  "version": "0.1.0",
+  "author": "Purpose-Dev",
+  "description": "FiveM Typescript wrapper client part",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist/**/*"],
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint"
+  },
+  "keywords": [
+    "fivem",
+    "client",
+    "typescript",
+    "javascript",
+    "wrapper",
+    "citizenfx",
+    "natives",
+    "library",
+    "fivem-ts",
+    "fivem-js"
+  ],
+  "devDependencies": {
+    "@citizenfx/client": "2.0.10191-1",
+    "@fivem-ts/shared": "latest"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js",
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
     }
+  }
 }
