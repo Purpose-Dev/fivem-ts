@@ -8,3 +8,4 @@ export { mapRange } from './mapRange';
 export { normalize } from './normalize';
 export { toDegrees } from './toDegrees';
 export { toRadians } from './toRadians';
+export { toHash } from './toHash';
