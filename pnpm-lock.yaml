@@ -43,6 +43,12 @@ importers:
         specifier: 2.0.10272-1
         version: 2.0.10272-1
 
+  packages/server:
+    devDependencies:
+      '@citizenfx/server':
+        specifier: 2.0.10272-1
+        version: 2.0.10272-1
+
   packages/shared:
     devDependencies:
       '@citizenfx/client':
