@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/shared",
-    "version": "0.1.0",
+    "version": "0.7.5",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper shared part",
     "license": "MIT",
@@ -39,6 +39,12 @@
             "default": "./dist/index.js",
             "import": "./dist/index.js",
             "require": "./dist/index.js"
+        },
+        "./@types": {
+            "types": "./dist/@types/index.d.ts",
+            "default": "./dist/@types/index.js",
+            "import": "./dist/@types/index.js",
+            "require": "./dist/@types/index.js"
         },
         "./enums": {
             "types": "./dist/enums/index.d.ts",
