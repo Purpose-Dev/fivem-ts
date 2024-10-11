@@ -46,6 +46,12 @@
             "import": "./dist/@types/index.js",
             "require": "./dist/@types/index.js"
         },
+        "./decorators": {
+            "types": "./dist/decorators/index.d.ts",
+            "default": "./dist/decorators/index.js",
+            "import": "./dist/decorators/index.js",
+            "require": "./dist/decorators/index.js"
+        },
         "./enums": {
             "types": "./dist/enums/index.d.ts",
             "default": "./dist/enums/index.js",
