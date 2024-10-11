@@ -1,12 +1,11 @@
 name: CI
 
 on:
+  workflow_dispatch:
   push:
-    branches: [ "turbo" ]
-  pull_request:
-    types: [ opened, synchronize ]
-  release:
-    types: [ created ]
+    paths:
+      - 'package.json'
+    
 
 jobs:
   check-version:
@@ -82,7 +81,7 @@ jobs:
       - name: Publish packages to npm
         run: |
           cd packages/${{ matrix.package }}
-          npm publish --access public
+          pnpm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
 
