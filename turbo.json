@@ -8,7 +8,8 @@
             "outputs": ["dist/**"]
         },
         "lint": {
-            "dependsOn": ["^lint"]
+            "dependsOn": ["^lint"],
+            "inputs": ["$TURBO_DEFAULT$"]
         },
         "version": {
             "outputs": ["packages/*/package.json"],
