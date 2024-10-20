@@ -1,61 +1,81 @@
-name: CI
+name: Packages CI
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - 'package.json'
-    
+      - 'packages/client/package.json'
+      - 'packages/server/package.json'
+      - 'packages/shared/package.json'
 
 jobs:
   check-version:
     runs-on: ubuntu-latest
     outputs:
       should_release: ${{ steps.version_check.outputs.should_release }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9.11.0
-          run_install: false
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'pnpm'
-
-      - name: Get versions of packages
-        id: version_check
-        run: |
-          pnpm install # Ensure dependencies are installed
-          pnpm turbo run version --filter=@fivem-ts/* --output json > versions.json
-          VERSION_CHANGED=$(jq '.[].versionChanged' versions.json | grep "true" || echo "false")
-          if [[ "${VERSION_CHANGED}" != "false" ]]; then
-            echo "::set-output name=should_release::true"
-          else
-            echo "::set-output name=should_release::false"
-          fi
-
-  build-and-publish:
-    name: Build and Publish
-    needs: check-version
-    runs-on: ubuntu-latest
-    if: ${{ needs.check-version.outputs.should_release == 'true' }}
-    env:
-      TURBO_TOKEN: ${{ secrets.TURBO_TOKEN }}
-      TURBO_TEAM: ${{ vars.TURBO_TEAM }}
-      NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
+      package_version: ${{ steps.version_check.outputs.package_version }}
+      packages_to_release: ${{ steps.collect_packages.outputs.packages_to_release }}
     strategy:
       matrix:
-        package: [ shared ]
+        package: [ shared, client, server ]
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Get latest tag
+        id: get_latest_tag
+        run: |
+          LATEST_TAG=$(git tag --sort=-creatordate | head -n 1 || echo 'v0.0.0')
+          echo "Latest tag found: $LATEST_TAG"
+          echo "LATEST_TAG=$LATEST_TAG" >> $GITHUB_ENV
+
+      - name: Get version of packages
+        id: version_check
+        run: |
+          PACKAGE_PATH="./packages/${{ matrix.package }}/package.json"
+          CURRENT_VERSION=$(jq -r '.version' "$PACKAGE_PATH")
+          echo "Package: ${{ matrix.package }}"
+          echo "Current version: $CURRENT_VERSION"
+          echo "Latest tag: ${LATEST_TAG}"
+          
+          if [ "${CURRENT_VERSION}" != "${LATEST_TAG#v}" ]; then
+            echo "## Version changed for ${{ matrix.package }}"
+            echo "::set-output name=should_release::true"
+            echo "::set-output name=package_version::${CURRENT_VERSION}"
+          else
+            echo "## No version change for ${{ matrix.package }}"
+            echo "::set-output name=should_release::false"
+            echo "::set-output name=package_version::${CURRENT_VERSION}"
+          fi
+
+      - name: Collect changed packages
+        id: collect_packages
+        run: |
+          if [[ "${{ steps.version_check.outputs.should_release }}" == "true" ]]; then
+           echo "${{ matrix.package }}" >> changed_packages.txt
+          fi
+      
+      - name: Set packages to release as output
+        id: set_release_output
+        run: |
+          if [ -f changed_packages.txt ]; then
+          PACKAGES_TO_RELEASE=$(paste -sd "," changed_packages.txt)
+          echo "Packages to release: $PACKAGES_TO_RELEASE"
+          echo "::set-output name=packages_to_release::$PACKAGES_TO_RELEASE"
+          else
+          echo "No packages to release"
+          echo "::set-output name=packages_to_release::"
+  
+  release-and-publish:
+    needs: check-version
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    if: ${{ needs.check-version.outputs.packages_to_release != '' }}
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -68,22 +88,47 @@ jobs:
           node-version: 20
           cache: 'pnpm'
           registry-url: https://registry.npmjs.org/
+          
+      - name: Define release tag
+        id: define_release_tag
+        run: |
+            PACKAGE_VERSION="${{ needs.check-version.outputs.package_version }}"
+            RELEASE_TAG="v$PACKAGE_VERSION"
+            echo "RELEASE_TAG=$RELEASE_TAG" >> $GITHUB_ENV
+            echo "::set-output name=release_tag::$RELEASE_TAG"
 
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Lint
-        run: pnpm lint
-
-      - name: Build packages
-        run: pnpm turbo run build --filter=@fivem-ts/${{ matrix.package }}
-
+      - name: Create GitHub Release
+        id: create_release
+        run: |
+           gh release create ${{ steps.define_release_tag.outputs.release_tag }} \
+            --title "Release ${{ steps.define_release_tag.outputs.release_tag }}" \
+            --notes "Packages released: ${{ needs.check-version.outputs.packages_to_release }}"
+            echo "Release created for tag: ${{ steps.define_release_tag.outputs.release_tag }}"    
+        
+      - name: Turbo build and package release archives
+        run: |
+          for PACKAGE in $(echo ${{ needs.check-version.outputs.packages_to_release }} | tr "," "\n"); do
+            echo "Building and packaging package: $PACKAGE"
+          
+            pnpm turbo run build --filter=packages/$PACKAGE...
+              
+            PACKAGE_DIR="./packages/$PACKAGE"
+            TAR_FILE="${PACKAGE}-${{ needs.check-version.outputs.package_version }}.tar.gz"
+            ZIP_FILE="${PACKAGE}-${{ needs.check-version.outputs.package_version }}.zip"
+            
+            tar -czf $TAR_FILE -C $PACKAGE_DIR .
+            zip -r $ZIP_FILE $PACKAGE_DIR
+              
+            gh release upload ${{ steps.define_release_tag.outputs.release_tag }} $TAR_FILE $ZIP_FILE
+          done
+          
       - name: Publish packages to npm
         run: |
-          cd packages/${{ matrix.package }}
-          pnpm publish --access public
+          for PACKAGE in $(echo ${{ needs.check-version.outputs.packages_to_release }} | tr "," "\n"); do
+              echo "Publishing package: $PACKAGE"
+              cd ./packages/$PACKAGE
+              pnpm publish --access public
+              cd ../../
+          done
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
-
-      - name: Post-build message
-        run: echo "Package @fivem-ts/${{ matrix.package }} published successfully!"
+          NODE_AUTH_TOKEN: ${{ secrets.npm_token }
