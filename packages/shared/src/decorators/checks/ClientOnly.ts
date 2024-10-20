@@ -23,12 +23,12 @@ import 'reflect-metadata';
  * example.clientMethod(); // Executes only if running on the client side.
  * ```
  *
- * @param target The prototype of the class.
+ * @param _target
  * @param propertyKey The name of the method being decorated.
  * @param descriptor The property descriptor for the method.
  *
  */
-export function ClientOnly(target: unknown, propertyKey: string, descriptor: PropertyDescriptor) {
+export function ClientOnly(_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
     if (IsDuplicityVersion()) {
         console.warn(`Client-side function '${propertyKey}' attempted to run on server side`);
         descriptor.value = () => {};

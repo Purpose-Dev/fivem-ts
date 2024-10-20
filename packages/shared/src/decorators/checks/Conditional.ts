@@ -23,7 +23,7 @@
  *
  */
 export function Conditional(conditionFunc: (...args: unknown[]) => boolean) {
-    return function (_target: unknown, propertyKey: string, descriptor: PropertyDescriptor) {
+    return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
         const originalMethod = descriptor.value;
 
         descriptor.value = function (...args: unknown[]) {
