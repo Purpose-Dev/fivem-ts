@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/client",
-    "version": "0.1.0",
+    "version": "0.7.5",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper client part",
     "license": "MIT",

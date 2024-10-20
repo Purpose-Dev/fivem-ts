@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/server",
-    "version": "0.1.0",
+    "version": "0.7.5",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper server part",
     "license": "MIT",
@@ -27,6 +27,9 @@
     ],
     "devDependencies": {
         "@citizenfx/server": "2.0.10488-1"
+    },
+    "dependencies": {
+        "cross-fetch": "^4.0.0"
     },
     "exports": {
         ".": {
