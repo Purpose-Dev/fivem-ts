@@ -1,4 +1,4 @@
-import "reflect-metadata"
+import 'reflect-metadata';
 
 /**
  * A decorator that caches the result of a method for a specified duration.
@@ -36,7 +36,7 @@ import "reflect-metadata"
  * @returns A function that can be used as a method decorator.
  */
 export function Cache(duration: number) {
-    return function (_target: unknown, propertyKey: string, descriptor: PropertyDescriptor) {
+    return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
         const originalMethod = descriptor.value;
         const cacheKey = Symbol.for(propertyKey);
         const cacheExpiryKey = Symbol.for(`${propertyKey}_expiry`);
