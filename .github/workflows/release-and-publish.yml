@@ -52,19 +52,20 @@ jobs:
         id: collect_packages
         run: |
           if [[ "${{ steps.version_check.outputs.should_release }}" == "true" ]]; then
-           echo "${{ matrix.package }}" >> changed_packages.txt
+            echo "${{ matrix.package }}" >> changed_packages.txt
           fi
-      
+
       - name: Set packages to release as output
         id: set_release_output
         run: |
           if [ -f changed_packages.txt ]; then
-          PACKAGES_TO_RELEASE=$(paste -sd "," changed_packages.txt)
-          echo "Packages to release: $PACKAGES_TO_RELEASE"
-          echo "::set-output name=packages_to_release::$PACKAGES_TO_RELEASE"
+            PACKAGES_TO_RELEASE=$(paste -sd "," changed_packages.txt)
+            echo "Packages to release: $PACKAGES_TO_RELEASE"
+            echo "packages_to_release=$PACKAGES_TO_RELEASE" >> $GITHUB_ENV
           else
-          echo "No packages to release"
-          echo "::set-output name=packages_to_release::"
+            echo "No packages to release"
+            echo "packages_to_release=" >> $GITHUB_ENV
+          fi
   
   release-and-publish:
     needs: check-version
