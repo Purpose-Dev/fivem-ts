@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/shared",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper shared part",
     "license": "MIT",
@@ -25,6 +25,19 @@
         "fivem-ts",
         "fivem-js"
     ],
+    "homepage": "https://github.com/Purpose-Dev/fivem-ts/tree/turbo/packages/shared",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Purpose-Dev/fivem-ts/issues",
+        "email": "riyane.dev@gmail.com"
+    },
+    "funding": {
+        "url": "https://ko-fi.com/purpose",
+        "type": "ko_fi"
+    },
     "devDependencies": {
         "@citizenfx/client": "2.0.10673-1",
         "@citizenfx/server": "2.0.10673-1"
