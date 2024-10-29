@@ -26,8 +26,8 @@
         "fivem-js"
     ],
     "devDependencies": {
-        "@citizenfx/client": "2.0.10488-1",
-        "@citizenfx/server": "2.0.10488-1"
+        "@citizenfx/client": "2.0.10673-1",
+        "@citizenfx/server": "2.0.10673-1"
     },
     "exports": {
         ".": {
