@@ -25,11 +25,25 @@
         "fivem-ts",
         "fivem-js"
     ],
-    "devDependencies": {
-        "@citizenfx/server": "2.0.10673-1"
+    "homepage": "https://github.com/Purpose-Dev/fivem-ts/tree/turbo/packages/server",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Purpose-Dev/fivem-ts/issues",
+        "email": "riyane.dev@gmail.com"
+    },
+    "funding": {
+        "url": "https://ko-fi.com/purpose",
+        "type": "ko_fi"
     },
     "dependencies": {
+        "@fivem-ts/shared": "0.9.1",
         "cross-fetch": "^4.0.0"
+    },
+    "devDependencies": {
+        "@citizenfx/server": "2.0.10673-1"
     },
     "exports": {
         ".": {

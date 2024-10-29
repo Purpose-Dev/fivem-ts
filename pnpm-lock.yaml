@@ -38,6 +38,10 @@ importers:
         version: 5.6.3
 
   packages/client:
+    dependencies:
+      '@fivem-ts/shared':
+        specifier: 0.9.1
+        version: 0.9.1
     devDependencies:
       '@citizenfx/client':
         specifier: 2.0.10673-1
@@ -45,6 +49,9 @@ importers:
 
   packages/server:
     dependencies:
+      '@fivem-ts/shared':
+        specifier: 0.9.1
+        version: 0.9.1
       cross-fetch:
         specifier: ^4.0.0
         version: 4.0.0
@@ -103,6 +110,9 @@ packages:
   '@eslint/plugin-kit@0.2.2':
     resolution: {integrity: sha512-CXtq5nR4Su+2I47WPOlWud98Y5Lv8Kyxp2ukhgFx/eW6Blm18VXJO5WuQylPugRo8nbluoi6GvvxBLqHcvqUUw==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
+
+  '@fivem-ts/shared@0.9.1':
+    resolution: {integrity: sha512-nJxN0HhtU+dbt45IREWrfqtS3pFlEDJNhrFAXqs5dH75a8nuRjydt1hFpYprNRsGWfSekepSTUIE10l5lUPcmA==}
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -665,6 +675,8 @@ snapshots:
   '@eslint/plugin-kit@0.2.2':
     dependencies:
       levn: 0.4.1
+
+  '@fivem-ts/shared@0.9.1': {}
 
   '@humanfs/core@0.19.1': {}
 
