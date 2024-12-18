@@ -25,3 +25,6 @@ export { HudComponent } from './HudComponent';
 export { InputMode } from './InputMode';
 export { IntersectionsOptions } from './IntersectionsOptions';
 export { InvertAxisFlags } from './InvertAxisFlags';
+export { Language } from './Language';
+export { LicensePlateStyle } from './LicensePlateStyle';
+export { LicensePlateType } from './LicensePlateType';
