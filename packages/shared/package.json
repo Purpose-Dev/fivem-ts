@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/shared",
-    "version": "0.1.0",
+    "version": "0.9.5",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper shared part",
     "license": "ISC",
