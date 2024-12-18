@@ -1,12 +1,10 @@
 // Thanks to overextended for the base function
 /**
  * Waits for a callback function to return a defined value within a specified timeout.
- *
- * @template T
- *
  * This function repeatedly calls the provided callback until it returns a non-`undefined`
  * value or the specified timeout is reached. If the timeout is `false`, the function will
  * wait indefinitely until the callback returns a non-`undefined` value or the script is terminated.
+ *
  *
  * @example
  * ```ts
@@ -19,6 +17,8 @@
  *   .catch(error => console.error('Error:', error));
  * ```
  *
+ * @template T
+ *
  * @param {Promise<T> | T} cb - A callback function that returns a value of type `T` or a `Promise` of type `T`.
  *              The function will be called repeatedly until it returns a non-`undefined` value.
  * @param [errorMessage='Callback failed to resolve'] - An optional custom error message to use if the timeout is reached before
@@ -27,14 +27,13 @@
  *                   timeout, making the function wait indefinitely. If not provided or if `null`,
  *                   defaults to `1000` milliseconds. If provided, must be a non-negative number.
  *
- * @return {Promise<T>} A promise that resolves with the non-`undefined` value returned by the callback,
+ * @returns {Promise<T>} A promise that resolves with the non-`undefined` value returned by the callback,
  *          or rejects with an error if the timeout is reached before a value is returned.
  *
  * @throws {Error} Error if the timeout is reached before the callback returns a non-`undefined` value.
  *                The error message includes the provided or default error message and the elapsed
  *                time in milliseconds.
  */
-
 export async function waitFor<T>(
     cb: () => Promise<T> | T,
     errorMessage = 'Callback failed to resolve',
