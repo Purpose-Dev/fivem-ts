@@ -1,3 +1,4 @@
-src
+.turbo
 node_modules
+src
 tsconfig.json
