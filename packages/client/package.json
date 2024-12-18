@@ -25,6 +25,9 @@
     "devDependencies": {
         "@citizenfx/client": "2.0.12092-1"
     },
+    "dependencies": {
+        "@fivem-ts/shared": "latest"
+    },
     "exports": {
         ".": {
             "types": "./dist/index.d.ts",
