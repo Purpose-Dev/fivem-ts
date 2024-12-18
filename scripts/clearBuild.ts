@@ -1,29 +1,35 @@
-import { promises as fs } from 'fs';
+import { Dirent, promises as fs } from 'fs';
 import * as path from 'path';
 
-async function deleteDistDirectories(basePath: string, globPattern: string) {
+async function directoryExists(dirPath: string): Promise<boolean> {
     try {
-        const baseDir = path.resolve(basePath);
-        const directories = await fs.readdir(baseDir, { withFileTypes: true });
+        await fs.access(dirPath);
+        return true;
+    } catch {
+        return false;
+    }
+}
+
+async function deleteDistDirectories(basePath: string, globPattern: string): Promise<void> {
+    const baseDir: string = path.resolve(basePath);
+
+    try {
+        const directories: Dirent[] = await fs.readdir(baseDir, { withFileTypes: true });
 
         for (const dir of directories) {
             if (dir.isDirectory()) {
-                const packageDir = path.join(baseDir, dir.name);
-                const distDir = path.join(packageDir, globPattern);
+                const distDir: string = path.join(baseDir, dir.name, globPattern);
 
-                try {
-                    await fs.access(distDir);
-                    console.log(`Deleting: ${distDir}`);
+                if (await directoryExists(distDir)) {
+                    console.info(`Deleting: ${distDir}`);
                     await fs.rm(distDir, { recursive: true, force: true });
-                } catch {
-                    console.warn(`Directory not found: ${distDir}`);
                 }
             }
         }
 
-        console.log('Finished deleting dist directories.');
+        console.log('Finished processing all dist directories.');
     } catch (err) {
-        console.error('An error occurred:', err);
+        console.error(`An error occurred while processing directories: ${err}`);
     }
 }
 
