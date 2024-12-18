@@ -1,55 +1,57 @@
 {
-  "name": "fivem-ts",
-  "version": "0.7.5",
-  "author": "Purpose-Dev",
-  "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
-  "license": "MIT",
-  "packageManager": "pnpm@9.11.0",
-  "homepage": "https://github.com/Purpose-Dev/fivem-ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Purpose-Dev/fivem-ts/issues",
-    "email": "riyane.dev@gmail.com"
-  },
-  "funding": {
-    "url": "https://ko-fi.com/purpose",
-    "type": "ko_fi"
-  },
-  "scripts": {
-    "build": "turbo run build",
-    "lint": "turbo run lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "postversion": "git push && git push --tags",
-    "prepare": "turbo run build",
-    "prepublishOnly": "turbo run lint",
-    "preversion": "turbo run lint",
-    "version": "npm run format && git add -A src"
-  },
-  "keywords": [
-    "fivem",
-    "typescript",
-    "javascript",
-    "wrapper",
-    "citizenfx",
-    "natives",
-    "library",
-    "fivem-js",
-    "fivem-ts"
-  ],
-  "devDependencies": {
-    "@types/node": "^22.10.2",
-    "@typescript-eslint/eslint-plugin": "8.18.1",
-    "@typescript-eslint/parser": "8.18.1",
-    "eslint": "^9.17.0",
-    "eslint-config-prettier": "^9.1.0",
-    "prettier": "^3.4.2",
-    "turbo": "^2.3.3",
-    "typescript": "^5.7.2"
-  },
-  "dependencies": {
-    "reflect-metadata": "^0.2.2"
-  }
+    "name": "fivem-ts",
+    "version": "0.7.5",
+    "author": "Purpose-Dev",
+    "description": "Javascript/Typescript wrapper (Forked from fivem-js) for the FiveM natives",
+    "license": "MIT",
+    "packageManager": "pnpm@9.11.0",
+    "homepage": "https://github.com/Purpose-Dev/fivem-ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Purpose-Dev/fivem-ts/issues",
+        "email": "riyane.dev@gmail.com"
+    },
+    "funding": {
+        "url": "https://ko-fi.com/purpose",
+        "type": "ko_fi"
+    },
+    "scripts": {
+        "build:dev": "turbo run build",
+        "build:prod": "tsx scripts/clearBuild.ts && turbo run build",
+        "lint": "turbo run lint",
+        "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+        "postversion": "git push && git push --tags",
+        "prepare": "turbo run build:prod",
+        "prepublishOnly": "turbo run lint",
+        "preversion": "turbo run lint",
+        "version": "pnpm run format && git add -A src"
+    },
+    "keywords": [
+        "fivem",
+        "typescript",
+        "javascript",
+        "wrapper",
+        "citizenfx",
+        "natives",
+        "library",
+        "fivem-js",
+        "fivem-ts"
+    ],
+    "devDependencies": {
+        "@types/node": "^22.10.2",
+        "@typescript-eslint/eslint-plugin": "8.18.1",
+        "@typescript-eslint/parser": "8.18.1",
+        "eslint": "^9.17.0",
+        "eslint-config-prettier": "^9.1.0",
+        "prettier": "^3.4.2",
+        "rimraf": "^6.0.1",
+        "turbo": "^2.3.3",
+        "typescript": "^5.7.2"
+    },
+    "dependencies": {
+        "reflect-metadata": "^0.2.2"
+    }
 }
