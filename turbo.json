@@ -1,21 +1,25 @@
 {
-    "$schema": "https://turbo.build/schema.json",
-    "ui": "tui",
-    "tasks": {
-        "build": {
-            "dependsOn": ["^lint", "^build"],
-            "inputs": ["$TURBO_DEFAULT$"],
-            "outputs": ["dist/**"]
-        },
-        "lint": {
-            "dependsOn": ["^lint"],
-            "inputs": ["$TURBO_DEFAULT$"]
-        },
-        "version": {
-            "outputs": ["packages/*/package.json"],
-            "dependsOn": [
-                "build"
-            ]
-        }
-    }
+  "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
+  "tasks": {
+      "build": {
+          "dependsOn": ["shared:build", "client:build", "server:build"],
+          "inputs": ["$TURBO_DEFAULT$", ".env*"],
+          "outputs": ["dist/**"]
+      },
+      "shared:build": {
+          "outputs": ["dist/shared/**"]
+      },
+      "client:build": {
+          "dependsOn": ["shared:build"],
+          "outputs": ["dist/client/**"]
+      },
+      "server:build": {
+          "dependsOn": ["shared:build"],
+          "outputs": ["dist/server/**"]
+      },
+      "lint": {
+          "dependsOn": ["^lint"]
+      }
+  }
 }

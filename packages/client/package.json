@@ -1,17 +1,14 @@
 {
     "name": "@fivem-ts/client",
-    "version": "0.7.5",
+    "version": "0.1.0",
     "author": "Purpose-Dev",
-    "description": "FiveM Typescript wrapper client part",
-    "license": "MIT",
+    "description": "FiveM Typescript wrapper client Part",
+    "license": "ISC",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "files": [
-        "dist/**/*"
-    ],
+    "files": ["dist/**/*"],
     "scripts": {
-        "build": "tsc",
-        "lint": "eslint"
+        "build": "tsc"
     },
     "keywords": [
         "fivem",
@@ -25,24 +22,8 @@
         "fivem-ts",
         "fivem-js"
     ],
-    "homepage": "https://github.com/Purpose-Dev/fivem-ts/tree/turbo/packages/client",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Purpose-Dev/fivem-ts.git"
-    },
-    "bugs": {
-        "url": "https://github.com/Purpose-Dev/fivem-ts/issues",
-        "email": "riyane.dev@gmail.com"
-    },
-    "funding": {
-        "url": "https://ko-fi.com/purpose",
-        "type": "ko_fi"
-    },
-    "dependencies": {
-        "@fivem-ts/shared": "0.9.1"
-    },
     "devDependencies": {
-        "@citizenfx/client": "2.0.10673-1"
+        "@citizenfx/client": "2.0.12092-1"
     },
     "exports": {
         ".": {
@@ -53,3 +34,4 @@
         }
     }
 }
+
