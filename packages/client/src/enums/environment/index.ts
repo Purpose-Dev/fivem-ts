@@ -4,3 +4,5 @@ export { ExplosionType } from './ExplosionType';
 export { IntersectionsOptions } from './IntersectionsOptions';
 export { MaterialEnum } from './MaterialEnum';
 export { Relationship } from './Relationship';
+export { RopeType } from './RopeType';
+export { SpeechModifier } from './SpeechModifier';
