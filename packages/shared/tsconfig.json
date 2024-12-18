@@ -7,7 +7,7 @@
         "lib": [
             "ES2020"
         ],
-        "types": ["@citizenfx/server", "@types/node"],
+        "types": ["@citizenfx/client", "@citizenfx/server", "@types/node"],
         "outDir": "./dist",
         "declaration": true,
         "declarationMap": false,
