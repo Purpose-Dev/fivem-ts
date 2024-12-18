@@ -1,0 +1,15 @@
+/**
+ * Enum representing various types of notifications.
+ *
+ * @enum{number}
+ */
+export enum NotificationType {
+    Default = 0,
+    Bubble = 1,
+    Mail = 2,
+    FriendRequest = 3,
+    Default2 = 4,
+    Reply = 7,
+    ReputationPoints = 8,
+    Money = 9,
+}
