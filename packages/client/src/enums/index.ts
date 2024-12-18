@@ -20,3 +20,8 @@ export { Font } from './Font';
 export { ForceType } from './ForceType';
 export { Gender } from './Gender';
 export { HandlingKeys } from './HandlingKeys';
+export { HudColors } from './HudColors';
+export { HudComponent } from './HudComponent';
+export { InputMode } from './InputMode';
+export { IntersectionsOptions } from './IntersectionsOptions';
+export { InvertAxisFlags } from './InvertAxisFlags';
