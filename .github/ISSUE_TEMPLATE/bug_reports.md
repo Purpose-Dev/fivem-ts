@@ -29,13 +29,13 @@ If relevant, include screenshots to illustrate the issue.
 
 ## FiveM Client Details
 
--   **Canary**: [e.g. yes, no]
--   **Version**: [e.g. 2880]
+- **Canary**: [e.g. yes, no]
+- **Version**: [e.g. 2880]
 
 ## FiveM Server Details
 
--   **OneSync**: [e.g. on, off, population]
--   **Artifact**: [e.g. 2929]
+- **OneSync**: [e.g. on, off, population]
+- **Artifact**: [e.g. 2929]
 
 ## Additional Information
 
