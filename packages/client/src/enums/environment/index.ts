@@ -6,3 +6,4 @@ export { MaterialEnum } from './MaterialEnum';
 export { Relationship } from './Relationship';
 export { RopeType } from './RopeType';
 export { SpeechModifier } from './SpeechModifier';
+export { ZoneID } from './ZoneID';
