@@ -22,6 +22,6 @@
  * @returns {string} A unique string key constructed from the inputs and a random suffix.
  */
 export function generateUniqueKey(eventName: string, playerId?: number): string {
-    const randomSuffix: number = Math.floor(Math.random() * 100000 + 1);
-    return playerId ? `${eventName}:${randomSuffix}:${playerId}` : `${eventName}:${randomSuffix}`;
+    const randomSuffix: number = (Math.random() * 100000 + 1) | 0;
+    return playerId !== undefined ? eventName + ":" + randomSuffix + ":" + playerId : eventName + ":" + randomSuffix;
 }

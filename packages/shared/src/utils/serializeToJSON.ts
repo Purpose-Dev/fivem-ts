@@ -36,5 +36,13 @@
  * @returns {string} A JSON string representing the serialized data.
  */
 export function serializeToJSON(data: unknown): string {
-    return JSON.stringify(data);
+    if (data === undefined || typeof data === "function") {
+        return "";
+    }
+
+    try {
+        return JSON.stringify(data) || "";
+    } catch {
+        return "";
+    }
 }
