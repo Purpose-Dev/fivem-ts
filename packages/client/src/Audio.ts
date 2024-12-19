@@ -1,4 +1,4 @@
-import { Vector3 } from '@fivem-ts/shared';
+import { Nullable, Vector3 } from '@fivem-ts/shared';
 import { AudioFlag } from './enums';
 
 /**
@@ -8,7 +8,7 @@ export namespace Audio {
     /**
      * A cached music file currently being played or controlled.
      */
-    export let cachedMusicFile: string | null;
+    export let cachedMusicFile: Nullable<string> = null;
 
     /**
      * Plays a sound at a specific 3D position.
