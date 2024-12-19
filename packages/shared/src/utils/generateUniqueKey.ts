@@ -23,5 +23,7 @@
  */
 export function generateUniqueKey(eventName: string, playerId?: number): string {
     const randomSuffix: number = (Math.random() * 100000 + 1) | 0;
-    return playerId !== undefined ? eventName + ":" + randomSuffix + ":" + playerId : eventName + ":" + randomSuffix;
+    return playerId !== undefined
+        ? eventName + ':' + randomSuffix + ':' + playerId
+        : eventName + ':' + randomSuffix;
 }

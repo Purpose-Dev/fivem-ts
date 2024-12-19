@@ -53,7 +53,7 @@ importers:
     dependencies:
       '@fivem-ts/shared':
         specifier: latest
-        version: 0.9.9
+        version: 1.0.0
     devDependencies:
       '@citizenfx/client':
         specifier: 2.0.12092-1
@@ -63,7 +63,7 @@ importers:
     dependencies:
       '@fivem-ts/shared':
         specifier: latest
-        version: 0.9.9
+        version: 1.0.0
       cross-fetch:
         specifier: ^4.0.0
         version: 4.0.0
@@ -288,8 +288,8 @@ packages:
     resolution: {integrity: sha512-zSkKow6H5Kdm0ZUQUB2kV5JIXqoG0+uH5YADhaEHswm664N9Db8dXSi0nMJpacpMf+MyyglF1vnZohpEg5yUtg==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fivem-ts/shared@0.9.9':
-    resolution: {integrity: sha512-seJiW5K6cZFfvD1YKVm4yw4+Pj05Urel1qK3eLtnHgbUN4P5lWTeAxOVz8jJTmquuWReUnkH7QaK320d3iUv2A==}
+  '@fivem-ts/shared@1.0.0':
+    resolution: {integrity: sha512-n0ZVybkv0QxJuaEmHOd2oIvbkjUn5UXnsdnpd/i+dKo7DvBziOUPxFZd5jP3pl63MRT2TwtJlVJd57txmd4nBg==}
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -635,8 +635,8 @@ packages:
     resolution: {integrity: sha512-Gmy6FhYlCY7uOElZUSbxo2UCDH8owEk996gkbrpsgGtrJLM3J7jGxl9Ic7Qwwj4ivOE5AWZWRMecDdF7hqGjFA==}
     engines: {node: '>=10'}
 
-  caniuse-lite@1.0.30001689:
-    resolution: {integrity: sha512-CmeR2VBycfa+5/jOfnp/NpWPGd06nf1XYiefUvhXFfZE4GkRc9jv+eGPS4nT558WS/8lYCzV8SlANCIPvbWP1g==}
+  caniuse-lite@1.0.30001690:
+    resolution: {integrity: sha512-5ExiE3qQN6oF8Clf8ifIDcMRCRE/dMGcETG/XGMD8/XiXm6HXQgQTh1yZYLXXpSOsEUlJm1Xr7kGULZTuGtP/w==}
 
   chalk@4.1.2:
     resolution: {integrity: sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==}
@@ -1945,7 +1945,7 @@ snapshots:
     dependencies:
       levn: 0.4.1
 
-  '@fivem-ts/shared@0.9.9': {}
+  '@fivem-ts/shared@1.0.0': {}
 
   '@humanfs/core@0.19.1': {}
 
@@ -2427,7 +2427,7 @@ snapshots:
 
   browserslist@4.24.3:
     dependencies:
-      caniuse-lite: 1.0.30001689
+      caniuse-lite: 1.0.30001690
       electron-to-chromium: 1.5.74
       node-releases: 2.0.19
       update-browserslist-db: 1.1.1(browserslist@4.24.3)
@@ -2448,7 +2448,7 @@ snapshots:
 
   camelcase@6.3.0: {}
 
-  caniuse-lite@1.0.30001689: {}
+  caniuse-lite@1.0.30001690: {}
 
   chalk@4.1.2:
     dependencies:

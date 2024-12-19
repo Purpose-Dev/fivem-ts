@@ -33,7 +33,6 @@ export abstract class GameplayCamera {
             ),
         );
 
-
         return new Vector3(normalized.x, normalized.y, normalized.z);
     }
 

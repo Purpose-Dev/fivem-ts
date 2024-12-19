@@ -31,8 +31,7 @@ describe('serializeToJSON', () => {
     });
 
     it('should return an empty string for a function', () => {
-        const func = () => {
-        };
+        const func = () => {};
         const result = serializeToJSON(func);
         expect(result).toBe('');
     });
