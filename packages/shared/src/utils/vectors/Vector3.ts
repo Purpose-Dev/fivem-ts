@@ -95,4 +95,42 @@ export class Vector3 extends Vector {
         this.y = vector.y;
         this.z = vector.z;
     }
+
+    /**
+     * Calculates the dot product of two vectors.
+     *
+     * @param v1 {Vector3} - The first vector.
+     * @param v2 {Vector3} - The second vector.
+     *
+     * @returns {Vector3} The dot product of the two vectors.
+     */
+    public static dotProduct(v1: Vector3, v2: Vector3): number {
+        return v1.x * v2.x + v1.y * v2.y + v1.z * v2.z;
+    }
+
+    /**
+     * Calculates the cross product of two vectors.
+     *
+     * @param v1 {Vector3} - The first vector.
+     * @param v2 {Vector3} - The second vector.
+     *
+     * @returns {Vector3} A new Vector3 representing the cross product of the two vectors.
+     */
+    public static crossProduct(v1: Vector3, v2: Vector3): Vector3 {
+        const x: number = v1.y * v2.z - v1.z * v2.y;
+        const y: number = v1.z * v2.x - v1.z * v2.z;
+        const z: number = v1.x * v2.y - v1.z * v2.x;
+        return new Vector3(x, y, z);
+    }
+
+    /**
+     * Normalizes a vector, scaling it to have a length of 1.
+     *
+     * @param v {Vector3} - The vector to normalize.
+     *
+     * @returns {Vector3} A new Vector3 representing the normalized vector.
+     */
+    public static normalize(v: Vector3): Vector3 {
+        return v.divide(v.Length);
+    }
 }
