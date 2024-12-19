@@ -1,5 +1,5 @@
 import { Nullable, Vector3 } from '@fivem-ts/shared';
-import { AudioFlag } from './enums';
+import { AudioFlag } from '.';
 
 /**
  * The `Audio` module provides utility functions for managing and controlling audio in game environment.
