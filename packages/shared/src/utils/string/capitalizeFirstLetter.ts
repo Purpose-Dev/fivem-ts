@@ -9,7 +9,7 @@
  *
  * @param {string} input - The string to capitalize the first letter of.
  *
- * @return {string} The string with its first letter capitalized.
+ * @returns {string} The string with its first letter capitalized.
  */
 export function capitalizeFirstLetter(input: string): string {
     if (input.length === 0) {

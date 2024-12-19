@@ -11,7 +11,7 @@
  * @param {number} targetLength - The target length of the resulting string.
  * @param [padChar=' '] - The character to pad the string with. Defaults to a space character.
  *
- * @return The padded string.
+ * @returns The padded string.
  */
 export function padString(input: string, targetLength: number, padChar = ' '): string {
     if (input.length >= targetLength) {

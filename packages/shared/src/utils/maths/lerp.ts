@@ -11,7 +11,7 @@
  * @param {number} end - The end value.
  * @param {number} amount - The interpolation factor between 0 and 1.
  *
- * @return {number} The interpolated value.
+ * @returns {number} The interpolated value.
  */
 export function lerp(start: number, end: number, amount: number): number {
     return (1 - amount) * start + amount * end;

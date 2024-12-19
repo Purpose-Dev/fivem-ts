@@ -12,7 +12,7 @@
  * @param {number} outMin - The minimum value of the output range.
  * @param {number} outMax - The maximum value of the output range.
  *
- * @return {number} The mapped value.
+ * @returns {number} The mapped value.
  */
 export function mapRange(
     value: number,

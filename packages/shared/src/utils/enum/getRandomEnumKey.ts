@@ -5,7 +5,7 @@
  *
  * @param {T} enumType - The enum type from which to select a random key
  *
- * @return {keyof T} A randomly selected key from the provided enum type.
+ * @returns {keyof T} A randomly selected key from the provided enum type.
  */
 export function getRandomEnumKey<T extends object>(enumType: T): keyof T {
     const keys = Object.keys(enumType).filter(key => isNaN(Number(key))) as Array<keyof T>;

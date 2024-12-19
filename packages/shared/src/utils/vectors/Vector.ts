@@ -10,7 +10,7 @@ export abstract class Vector {
     /**
      * Retrieves the value of the private member variable _x.
      *
-     * @return {number} The value of _x.
+     * @returns {number} The value of _x.
      */
     public get x(): number {
         return this._x;
@@ -28,7 +28,7 @@ export abstract class Vector {
     /**
      * Gets the y-coordinate value.
      *
-     * @return {number} The current value of the y-coordinate.
+     * @returns {number} The current value of the y-coordinate.
      */
     public get y(): number {
         return this._y;
@@ -46,7 +46,7 @@ export abstract class Vector {
     /**
      * Gets the length of the current object.
      *
-     * @return {number} The length of the object.
+     * @returns {number} The length of the object.
      */
     public abstract get Length(): number;
 
@@ -54,14 +54,14 @@ export abstract class Vector {
      * The normalize method returns a normalized version of the current vector.
      * A normalized vector has a magnitude of 1 and points in the same direction as the original vector.
      *
-     * @return {Vector} The normalized vector.
+     * @returns {Vector} The normalized vector.
      */
     public abstract get normalize(): Vector;
 
     /**
      * Creates and returns a deep copy of the current Vector instance.
      *
-     * @return {Vector} A new Vector instance that is a copy of the original.
+     * @returns {Vector} A new Vector instance that is a copy of the original.
      */
     public abstract clone(): Vector;
 
@@ -70,7 +70,7 @@ export abstract class Vector {
      *
      * @param {Vector} vector - The other vector to which the squared distance is calculated.
      *
-     * @return {number} The squared distance between this vector and the specified vector.
+     * @returns {number} The squared distance between this vector and the specified vector.
      */
     public abstract distanceSquared(vector: Vector): number;
 
@@ -79,7 +79,7 @@ export abstract class Vector {
      *
      * @param {Vector} vector - The vector to which the distance is to be calculated.
      *
-     * @return {number} - The distance between the current vector and the provided vector*/
+     * @returns {number} - The distance between the current vector and the provided vector*/
     public abstract distance(vector: Vector): number;
 
     /**
@@ -87,7 +87,7 @@ export abstract class Vector {
      *
      * @param {Vector} vector - The vector to cross with the current vector.
      *
-     * @return {Vector} The resulting vector from the cross product operation.
+     * @returns {Vector} The resulting vector from the cross product operation.
      */
     public abstract crossProduct(vector: Vector): Vector | number;
 
@@ -96,7 +96,7 @@ export abstract class Vector {
      *
      * @param {Vector} vector - The vector to perform the dot product with.
      *
-     * @return {number} The result of the dot product.
+     * @returns {number} The result of the dot product.
      */
     public abstract dotProduct(vector: Vector): number;
 
@@ -105,7 +105,7 @@ export abstract class Vector {
      *
      * @param {Vector | number} vector - The vector or number to add.
      *
-     * @return {Vector} The resulting vector after the addition.
+     * @returns {Vector} The resulting vector after the addition.
      */
     public abstract add(vector: Vector | number): Vector;
 
@@ -114,7 +114,7 @@ export abstract class Vector {
      *
      * @param {Vector | number} vector - The vector or number to subtract from the current vector.
      *
-     * @return {Vector} - The resulting vector after subtraction.
+     * @returns {Vector} - The resulting vector after subtraction.
      */
     public abstract subtract(vector: Vector | number): Vector;
 
@@ -123,7 +123,7 @@ export abstract class Vector {
      *
      * @param {Vector | number} vector - The vector or scalar value to multiply with the current vector.
      *
-     * @return {Vector} The result of the multiplication.
+     * @returns {Vector} The result of the multiplication.
      */
     public abstract multiply(vector: Vector | number): Vector;
 
@@ -132,7 +132,7 @@ export abstract class Vector {
      *
      * @param {Vector | number} vector - The vector or scalar to divide by.
      *
-     * @return {Vector} The result of the division as a new vector.
+     * @returns {Vector} The result of the division as a new vector.
      */
     public abstract divide(vector: Vector | number): Vector;
 
@@ -141,7 +141,7 @@ export abstract class Vector {
      *
      * @param {Vector} vector - The vector to replace the current vector with.
      *
-     * @return {void}
+     * @returns {void}
      */
     public abstract replace(vector: Vector): void;
 }

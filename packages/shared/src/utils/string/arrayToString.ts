@@ -10,7 +10,7 @@
  * @param {string} inputArray - The array of strings to join.
  * @param [separator=''] - The separator to use between each string. Defaults to an empty string.
  *
- * @return {string} The concatenated string.
+ * @returns {string} The concatenated string.
  */
 export function arrayToString(inputArray: string[], separator = ''): string {
     return inputArray.join(separator);

@@ -9,7 +9,7 @@
  * @param {number} min - The minimum value (inclusive).
  * @param {number} max - The maximum value (inclusive).
  *
- * @return {number} A random integer between min and max.
+ * @returns {number} A random integer between min and max.
  */
 export function getRandomInt(min: number, max: number): number {
     min = Math.ceil(min);

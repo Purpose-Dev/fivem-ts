@@ -9,7 +9,7 @@
  *
  * @param {string} input - The input string where each word's first letter will be capitalized.
  *
- * @return {string} The string with each word's first letter capitalized.
+ * @returns {string} The string with each word's first letter capitalized.
  */
 export function capitalizeWords(input: string): string {
     return input

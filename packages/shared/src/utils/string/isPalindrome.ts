@@ -9,7 +9,7 @@
  *
  * @param {string} input - The input string to be checked.
  *
- * @return {boolean} `true` if the input string is a palindrome, `false` otherwise.
+ * @returns {boolean} `true` if the input string is a palindrome, `false` otherwise.
  */
 export function isPalindrome(input: string): boolean {
     const normalized = input.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();

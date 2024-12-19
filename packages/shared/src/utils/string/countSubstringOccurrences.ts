@@ -10,7 +10,7 @@
  * @param {string} input - The string to search within.
  * @param {string} substring - The substring to count occurrences of.
  *
- * @return {number} The number of times the substring occurs in the input string.
+ * @returns {number} The number of times the substring occurs in the input string.
  */
 export function countSubstringOccurrences(input: string, substring: string): number {
     if (substring.length === 0) {

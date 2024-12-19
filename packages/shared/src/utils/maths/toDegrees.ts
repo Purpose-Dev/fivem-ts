@@ -9,7 +9,7 @@
  *
  * @param {number} radians - The angle in radians.
  *
- * @return {number} The angle in degrees.
+ * @returns {number} The angle in degrees.
  */
 export function toDegrees(radians: number): number {
     return radians * (180 / Math.PI);

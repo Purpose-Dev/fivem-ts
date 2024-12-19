@@ -10,7 +10,7 @@
  * @param {number} min - The minimum value of the range.
  * @param {number} max - The maximum value of the range.
  *
- * @return {number} The normalized value.
+ * @returns {number} The normalized value.
  */
 export function normalize(value: number, min: number, max: number): number {
     return (value - min) / (max - min);

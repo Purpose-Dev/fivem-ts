@@ -11,7 +11,7 @@
  * @param {number} x2 - The x-coordinate of the second point.
  * @param {number} y2 - The y-coordinate of the second point.
  *
- * @return {number} The distance between the two points.
+ * @returns {number} The distance between the two points.
  */
 export function distance2D(x1: number, y1: number, x2: number, y2: number): number {
     return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);

@@ -8,7 +8,7 @@ import { getRandomInt } from '../maths';
  * @param {object} enumType - The enumerated type object from which to select a random value.
  * @param {'string'|'number'} valueType - Specifies the type of the values to consider ('string' or 'number').
  *
- * @return {T[keyof T]} A random value from the enumerated type that matches the specified value type.
+ * @returns {T[keyof T]} A random value from the enumerated type that matches the specified value type.
  */
 export function getRandomEnumValue<T extends object>(
     enumType: T,

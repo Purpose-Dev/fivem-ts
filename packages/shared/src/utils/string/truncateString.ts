@@ -11,7 +11,7 @@
  * @param {number} maxLength - The maximum length of the resulting string.
  * @param [useEllipsis=false] - Whether to append an ellipsis (`...`) if the string is truncated. Defaults to `false`.
  *
- * @return {string} The truncated string.
+ * @returns {string} The truncated string.
  */
 export function truncateString(input: string, maxLength: number, useEllipsis = false): string {
     if (input.length <= maxLength) {

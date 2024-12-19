@@ -13,7 +13,7 @@
  * @param {number} y2 - The y-coordinate of the second point.
  * @param {number} z2 - The z-coordinate of the second point.
  *
- * @return {number} The distance between the two points.
+ * @returns {number} The distance between the two points.
  */
 export function distance3D(
     x1: number,

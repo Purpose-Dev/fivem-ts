@@ -9,7 +9,7 @@
  *
  * @param {string} input - The string to be reversed.
  *
- * @return {string} The reversed string.
+ * @returns {string} The reversed string.
  */
 export function reverseString(input: string): string {
     return input.split('').reverse().join('');

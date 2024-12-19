@@ -11,7 +11,7 @@
  * @param {number} min - The minimum value of the range.
  * @param {number} max - The maximum value of the range.
  *
- * @return {boolean} `true` if the value is within the range, `false` otherwise.
+ * @returns {boolean} `true` if the value is within the range, `false` otherwise.
  */
 export function isInRange(value: number, min: number, max: number): boolean {
     return value >= min && value <= max;
