@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/server",
-    "version": "0.9.5",
+    "version": "0.9.8",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper server Part",
     "license": "ISC",
@@ -35,6 +35,36 @@
             "default": "./dist/index.js",
             "import": "./dist/index.js",
             "require": "./dist/index.js"
+        },
+        "./enums": {
+            "types": "./dist/enums/index.d.ts",
+            "default": "./dist/enums/index.js",
+            "import": "./dist/enums/index.js",
+            "require": "./dist/enums/index.js"
+        },
+        "./events": {
+            "types": "./dist/events/index.d.ts",
+            "default": "./dist/events/index.js",
+            "import": "./dist/events/index.js",
+            "require": "./dist/events/index.js"
+        },
+        "./models": {
+            "types": "./dist/models/index.d.ts",
+            "default": "./dist/models/index.js",
+            "import": "./dist/models/index.js",
+            "require": "./dist/models/index.js"
+        },
+        "./utils": {
+            "types": "./dist/utils/index.d.ts",
+            "default": "./dist/utils/index.js",
+            "import": "./dist/utils/index.js",
+            "require": "./dist/utils/index.js"
+        },
+        "./web": {
+            "types": "./dist/web/index.d.ts",
+            "default": "./dist/web/index.js",
+            "import": "./dist/web/index.js",
+            "require": "./dist/web/index.js"
         }
     }
 }
