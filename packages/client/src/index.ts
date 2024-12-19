@@ -5,3 +5,4 @@ export * from './hashes';
 export * from './utils';
 
 export { Audio } from './Audio';
+export { Blip } from './Blip';
