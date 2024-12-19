@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/client",
-    "version": "0.1.0",
+    "version": "0.5.0",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper client Part",
     "license": "ISC",
@@ -34,7 +34,36 @@
             "default": "./dist/index.js",
             "import": "./dist/index.js",
             "require": "./dist/index.js"
+        },
+        "./@types": {
+            "types": "./dist/@types/index.d.ts",
+            "default": "./dist/@types/index.js",
+            "import": "./dist/@types/index.js",
+            "require": "./dist/@types/index.js"
+        },
+        "./enums": {
+            "types": "./dist/enums/index.d.ts",
+            "default": "./dist/enums/index.js",
+            "import": "./dist/enums/index.js",
+            "require": "./dist/enums/index.js"
+        },
+        "./events": {
+            "types": "./dist/events/index.d.ts",
+            "default": "./dist/events/index.js",
+            "import": "./dist/events/index.js",
+            "require": "./dist/events/index.js"
+        },
+        "./hashes": {
+            "types": "./dist/hashes/index.d.ts",
+            "default": "./dist/hashes/index.js",
+            "import": "./dist/hashes/index.js",
+            "require": "./dist/hashes/index.js"
+        },
+        "./utils": {
+            "types": "./dist/utils/index.d.ts",
+            "default": "./dist/utils/index.js",
+            "import": "./dist/utils/index.js",
+            "require": "./dist/utils/index.js"
         }
     }
 }
-
