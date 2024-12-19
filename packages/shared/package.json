@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/shared",
-    "version": "0.9.5",
+    "version": "0.9.8",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper shared part",
     "license": "ISC",
@@ -35,6 +35,18 @@
             "default": "./dist/index.js",
             "import": "./dist/index.js",
             "require": "./dist/index.js"
+        },
+        "./@types": {
+            "types": "./dist/@types/index.d.ts",
+            "default": "./dist/@types/index.js",
+            "import": "./dist/@types/index.js",
+            "require": "./dist/@types/index.js"
+        },
+        "./decorators": {
+            "types": "./dist/decorators/index.d.ts",
+            "default": "./dist/decorators/index.js",
+            "import": "./dist/decorators/index.js",
+            "require": "./dist/decorators/index.js"
         },
         "./enums": {
             "types": "./dist/enums/index.d.ts",
