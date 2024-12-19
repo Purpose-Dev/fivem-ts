@@ -21,12 +21,12 @@
     "scripts": {
         "build:dev": "turbo run build",
         "build:prod": "tsx scripts/clearBuild.ts && turbo run build",
-        "lint": "turbo run lint",
+        "lint": "pnpm run lint",
         "format": "prettier --write \"**/*.{ts,tsx,md}\"",
         "postversion": "git push && git push --tags",
-        "prepare": "turbo run build:prod",
-        "prepublishOnly": "turbo run lint",
-        "preversion": "turbo run lint",
+        "prepare": "pnpm run build:prod",
+        "prepublishOnly": "pnpm run lint",
+        "preversion": "pnpm run lint",
         "version": "pnpm run format && git add -A src"
     },
     "keywords": [

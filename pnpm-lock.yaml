@@ -44,7 +44,7 @@ importers:
     dependencies:
       '@fivem-ts/shared':
         specifier: latest
-        version: 0.9.5
+        version: 0.9.8
     devDependencies:
       '@citizenfx/client':
         specifier: 2.0.12092-1
@@ -54,7 +54,7 @@ importers:
     dependencies:
       '@fivem-ts/shared':
         specifier: latest
-        version: 0.9.5
+        version: 0.9.8
       cross-fetch:
         specifier: ^4.0.0
         version: 4.0.0
@@ -291,8 +291,8 @@ packages:
     resolution: {integrity: sha512-zSkKow6H5Kdm0ZUQUB2kV5JIXqoG0+uH5YADhaEHswm664N9Db8dXSi0nMJpacpMf+MyyglF1vnZohpEg5yUtg==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
-  '@fivem-ts/shared@0.9.5':
-    resolution: {integrity: sha512-n66EGpGZnE8UKx83P2ffvUmQWtM+nl+gnfnIX91nuKixHOamaG1bpH/qqnvo86hBqP4oKyW/mevMyBulBLElow==}
+  '@fivem-ts/shared@0.9.8':
+    resolution: {integrity: sha512-yMiOi3rzz9Dldaq1zwfRpE27aIFNOliKD/THMk4DNRUyzi8or8XWcshVxjO4JttnXEypiLmvD1Zads/U4eHhYA==}
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -1964,7 +1964,7 @@ snapshots:
     dependencies:
       levn: 0.4.1
 
-  '@fivem-ts/shared@0.9.5': {}
+  '@fivem-ts/shared@0.9.8': {}
 
   '@humanfs/core@0.19.1': {}
 
