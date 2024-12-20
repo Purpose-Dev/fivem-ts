@@ -7,8 +7,7 @@ import { Vehicle, VehicleWindow } from '..';
 export class VehicleWindowCollection {
     private readonly _vehicleWindows: Map<VehicleWindowIndex, VehicleWindow> = new Map();
 
-    constructor(private readonly owner: Vehicle) {
-    }
+    constructor(private readonly owner: Vehicle) {}
 
     public get Owner(): Vehicle {
         return this.owner;

@@ -407,7 +407,7 @@ export class Ped extends Entity {
         return new Ped(GetMeleeTargetForPed(this.handle));
     }
 
-    public get Killer(): Entity {
+    public get Killer(): Nullable<Entity> {
         return Entity.fromHandle(GetPedSourceOfDeath(this.handle));
     }
 
