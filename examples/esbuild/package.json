@@ -15,8 +15,8 @@
     },
     "keywords": [],
     "dependencies": {
-        "@fivem-ts/client": "^0.9.5",
-        "@fivem-ts/server": "^0.9.8"
+        "@fivem-ts/client": "latest",
+        "@fivem-ts/server": "latest"
     },
     "devDependencies": {
         "@citizenfx/client": "2.0.12180-1",
