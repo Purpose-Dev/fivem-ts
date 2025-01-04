@@ -1,0 +1,43 @@
+{
+    "compilerOptions": {
+        /* Base Options */
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "verbatimModuleSyntax": false,
+        "allowJs": true,
+        "resolveJsonModule": true,
+        "moduleDetection": "force",
+        "allowSyntheticDefaultImports": true,
+
+        /* Decorators */
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+
+        /* Strict */
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "strictBindCallApply": true,
+        "strictPropertyInitialization": true,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "pretty": true,
+        "forceConsistentCasingInFileNames": true,
+
+        /* Additional Checks */
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "allowUnreachableCode": false,
+
+        /* Monorepo Options */
+        "composite": true,
+        "declarationMap": false,
+        "inlineSourceMap": false,
+        "sourceMap": false
+    },
+    "exclude": ["node_modules", "dist", ".idea", ".dev-data", ".data"]
+}
