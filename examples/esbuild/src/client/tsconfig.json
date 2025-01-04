@@ -1,0 +1,17 @@
+{
+    "extends": ["../../tsconfig.json"],
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "ESNext",
+        "lib": ["ES2017"],
+        "moduleResolution": "Node",
+        "types": [
+            "@fivem-ts/client",
+            "@citizenfx/client"
+        ],
+        "baseUrl": "./"
+    },
+    "include": [
+        "./**/*.ts"
+    ]
+}
