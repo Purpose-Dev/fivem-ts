@@ -145,7 +145,7 @@ Easily integrate the shared package into your project.
 
 ## Usage
 
-Explore [example projects](https://github.com/Purpose-Dev/fivem-ts/tree/main/examples) to get started.
+Explore [example projects](./examples/README.md) to get started.
 
 ---
 
