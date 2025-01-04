@@ -23,7 +23,7 @@
         "fivem-js"
     ],
     "devDependencies": {
-        "@citizenfx/client": "2.0.12092-1"
+        "@citizenfx/client": "2.0.12180-1"
     },
     "dependencies": {
         "@fivem-ts/shared": "latest"

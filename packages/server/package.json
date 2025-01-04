@@ -24,10 +24,10 @@
     ],
     "dependencies": {
         "@fivem-ts/shared": "latest",
-        "cross-fetch": "^4.0.0"
+        "cross-fetch": "^4.1.0"
     },
     "devDependencies": {
-        "@citizenfx/server": "2.0.12092-1"
+        "@citizenfx/server": "2.0.12180-1"
     },
     "exports": {
         ".": {
