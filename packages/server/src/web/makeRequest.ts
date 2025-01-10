@@ -72,16 +72,11 @@ export async function makeRequest<T>(
 
     if (data) options.body = JSON.stringify(data);
 
-    try {
-        const response: Response = await fetch(url, options);
+    const response: Response = await fetch(url, options);
 
-        if (!response.ok) {
-            throw new Error(`Http error! Status: ${response.status}`);
-        }
-
-        return await response.json();
-    } catch (error) {
-        console.error(`Request error:`, error);
-        throw error;
+    if (!response.ok) {
+        throw new Error(`Http error! Status: ${response.status}`);
     }
+
+    return await response.json();
 }
