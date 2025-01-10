@@ -27,7 +27,7 @@
         "cross-fetch": "^4.1.0"
     },
     "devDependencies": {
-        "@citizenfx/server": "2.0.12180-1"
+        "@citizenfx/server": "2.0.12255-1"
     },
     "exports": {
         ".": {

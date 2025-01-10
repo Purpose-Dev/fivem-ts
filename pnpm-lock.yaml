@@ -53,8 +53,8 @@ importers:
         version: 1.0.0
     devDependencies:
       '@citizenfx/client':
-        specifier: 2.0.12180-1
-        version: 2.0.12180-1
+        specifier: 2.0.12255-1
+        version: 2.0.12255-1
 
   packages/server:
     dependencies:
@@ -66,8 +66,8 @@ importers:
         version: 4.1.0
     devDependencies:
       '@citizenfx/server':
-        specifier: 2.0.12180-1
-        version: 2.0.12180-1
+        specifier: 2.0.12255-1
+        version: 2.0.12255-1
 
   packages/shared:
     devDependencies:
@@ -248,8 +248,14 @@ packages:
   '@citizenfx/client@2.0.12180-1':
     resolution: {integrity: sha512-WeN6R+Gp/VAY14HWNvcF3MsMS5nU9L3UxH0OnHDWJrEOR/rmBQqUkjj45a30gjyBmBXgO6LA+YIrhc6K/uBSrg==}
 
+  '@citizenfx/client@2.0.12255-1':
+    resolution: {integrity: sha512-G/zRdsaC7/qONA+UQxIU9cVtYB/D9YDFwbANaxmcNnfM/H5Lf69FxDuVUTMKQERpgv3APa1dYVhH/GILEUjykg==}
+
   '@citizenfx/server@2.0.12180-1':
     resolution: {integrity: sha512-D8MS5fPWCizZ3c9C6aLpydxOUGUkBqpMJp1c4sSJT/jeJ5jrHFMK/qSH4h4eye8ZrBVARG9Jgl90UN2mdAvp/A==}
+
+  '@citizenfx/server@2.0.12255-1':
+    resolution: {integrity: sha512-OYXd+7XjRZMOMWhLnE6O4ASK2558vsA7xOf9SymrouCKmTzcJeOHiX/jSqlsG7APitnADQLMRNWqguJN7ocIOA==}
 
   '@eslint-community/eslint-utils@4.4.1':
     resolution: {integrity: sha512-s3O3waFUrMV8P/XaF/+ZTp1X9XBZW1a4B97ZnjQF2KYWaFD2A8KyFBsrsfSjEmjn3RGWAIuvlneuZm3CUK3jbA==}
@@ -1833,7 +1839,11 @@ snapshots:
 
   '@citizenfx/client@2.0.12180-1': {}
 
+  '@citizenfx/client@2.0.12255-1': {}
+
   '@citizenfx/server@2.0.12180-1': {}
+
+  '@citizenfx/server@2.0.12255-1': {}
 
   '@eslint-community/eslint-utils@4.4.1(eslint@9.17.0)':
     dependencies:

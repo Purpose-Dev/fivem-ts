@@ -1,6 +1,6 @@
 {
     "name": "@fivem-ts/client",
-    "version": "0.9.5",
+    "version": "0.9.6",
     "author": "Purpose-Dev",
     "description": "FiveM Typescript wrapper client Part",
     "license": "ISC",
@@ -23,7 +23,7 @@
         "fivem-js"
     ],
     "devDependencies": {
-        "@citizenfx/client": "2.0.12180-1"
+        "@citizenfx/client": "2.0.12255-1"
     },
     "dependencies": {
         "@fivem-ts/shared": "latest"
