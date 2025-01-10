@@ -1,5 +1,6 @@
 import { exec } from "child_process";
 import { promisify } from "util";
+import { exit } from 'node:process';
 
 const execPromise = promisify(exec);
 const projects = ["client", "server"];
@@ -17,7 +18,7 @@ async function build() {
             console.log(`[${project}] Build completed successfully.`);
         } catch (error) {
             console.error(`[${project}] Build failed: ${error.message}`);
-            process.exit(1);
+            exit(1);
         }
     }
 
