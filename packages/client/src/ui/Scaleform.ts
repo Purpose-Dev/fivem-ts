@@ -23,7 +23,7 @@ import { PointF } from '..';
 export class Scaleform {
     protected handle: number;
     protected name: string;
-    protected loaded: boolean = false;
+    protected loaded = false;
 
     /**
      * Creates a new Scaleform instance.

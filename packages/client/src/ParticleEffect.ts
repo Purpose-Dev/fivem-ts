@@ -16,8 +16,8 @@ export abstract class ParticleEffect {
     protected offset: Vector3 = new Vector3(0, 0, 0);
     protected rotation: Vector3 = new Vector3(0, 0, 0);
     protected color: Color = Color.empty;
-    protected scale: number = 1.0;
-    protected range: number = 0.0;
+    protected scale = 1.0;
+    protected range = 0.0;
     protected invertAxis: InvertAxis = {
         flags: InvertAxisFlags.None,
     };

@@ -5,7 +5,7 @@ import { Ped } from '.';
  * Represents a player entity.
  */
 export class Player {
-    protected pvp: boolean = false;
+    protected pvp = false;
     protected ped: Nullable<Ped> = null;
 
     constructor(private readonly owner: number) {

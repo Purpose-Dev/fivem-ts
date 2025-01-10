@@ -121,11 +121,11 @@ export class Quaternion {
      * Checks if this quaternion is equal to another quaternion within a certain tolerance.
      *
      * @param other {Quaternion} - The quaternion to compare with.
-     * @param tolerance {number} - The tolerance within which the two quaternions are considered equal. Default is 1e-6.
+     * @param tolerance - The tolerance within which the two quaternions are considered equal. Default is 1e-6.
      *
      * @returns {boolean} True if the quaternions are equal within the given tolerance, false otherwise.
      */
-    public equals(other: Quaternion, tolerance: number = 1e-6): boolean {
+    public equals(other: Quaternion, tolerance = 1e-6): boolean {
         return (
             Math.abs(this.x - other.x) < tolerance &&
             Math.abs(this.y - other.y) < tolerance &&
@@ -278,7 +278,7 @@ export class Quaternion {
         const sinHalfTheta: number = Math.sqrt(1.0 - cosHalfTheta * cosHalfTheta);
 
         if (Math.abs(sinHalfTheta) < 0.001) {
-            const factor: number = 0.5;
+            const factor = 0.5;
             return new Quaternion(
                 this.X * factor + q1.X * factor,
                 this.Y * factor + q1.Y * factor,

@@ -8,7 +8,7 @@ export namespace Audio {
     /**
      * A cached music file currently being played or controlled.
      */
-    export let cachedMusicFile: Nullable<string> = null;
+    let cachedMusicFile: Nullable<string> = null;
 
     /**
      * Plays a sound at a specific 3D position.
