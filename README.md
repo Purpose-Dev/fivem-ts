@@ -1,25 +1,14 @@
-<h1 style="text-align: center;">fivem-ts</h1>
+# fivem-ts
 
-<p style="text-align: center; font-style: italic;">
-  <i>🔥 A JavaScript/TypeScript wrapper for the FiveM natives 🎮</i>
-</p>
+_🔥 A JavaScript/TypeScript wrapper for the FiveM natives 🎮_
 
 ---
 
-<p style="text-align: center;">
-  <a href="https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat" alt="License: MIT">
-  </a>
-  <a href="https://app.deepsource.com/gh/Purpose-Dev/fivem-ts/" target="_blank">
-    <img alt="DeepSource" title="DeepSource" src="https://app.deepsource.com/gh/Purpose-Dev/fivem-ts.svg/?label=code+coverage&show_trend=true&token=2hNgZBbR-38Suxh234Im3_ck"/>
-  </a>
-  <a href="https://github.com/Purpose-Dev/fivem-ts/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Purpose-Dev/fivem-ts.svg?style=flat" alt="Last commit">
-  </a>
-  <a href="https://discord.gg/Rah7Bt4TeJ">
-    <img src="https://img.shields.io/discord/1273215892238372895?label=Discord" alt="Discord">
-  </a>
-</p>
+[![Last Commit](https://img.shields.io/github/last-commit/Purpose-Dev/fivem-ts.svg?style=flat)](https://github.com/Purpose-Dev/fivem-ts/commits/main)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/Purpose-Dev/fivem-ts/blob/main/LICENSE)
+[![DeepSource](https://app.deepsource.com/gh/Purpose-Dev/fivem-ts.svg/?label=code+coverage&show_trend=true&token=2hNgZBbR-38Suxh234Im3_ck)](https://app.deepsource.com/gh/Purpose-Dev/fivem-ts/)
+[![DeepSource RI](https://app.deepsource.com/gh/Purpose-Dev/fivem-ts.svg/?label=resolved+issues&show_trend=true&token=2hNgZBbR-38Suxh234Im3_ck)](https://app.deepsource.com/gh/Purpose-Dev/fivem-ts/)
+[![Discord](https://img.shields.io/discord/1273215892238372895?label=Discord)](https://discord.gg/Rah7Bt4TeJ)
 
 ---
 
