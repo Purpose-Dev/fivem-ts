@@ -15,7 +15,7 @@ import fetch from 'cross-fetch';
  * ```
  */
 export interface RequestHeaders {
-    [key: string]: string;
+	[key: string]: string;
 }
 
 /**
@@ -34,7 +34,7 @@ export interface RequestHeaders {
  * ```
  */
 export interface RequestData {
-    [key: string]: unknown;
+	[key: string]: unknown;
 }
 
 /**
@@ -57,26 +57,26 @@ export interface RequestData {
 export type RequestMethods = 'GET' | 'POST' | 'PUT' | 'DELETE';
 
 export async function makeRequest<T>(
-    url: string,
-    method: RequestMethods,
-    data?: RequestData,
-    headers?: RequestHeaders,
+	url: string,
+	method: RequestMethods,
+	data?: RequestData,
+	headers?: RequestHeaders,
 ): Promise<T> {
-    const options: RequestInit = {
-        method,
-        headers: {
-            'Content-Type': 'application/json',
-            ...headers,
-        },
-    };
+	const options: RequestInit = {
+		method,
+		headers: {
+			'Content-Type': 'application/json',
+			...headers,
+		},
+	};
 
-    if (data) options.body = JSON.stringify(data);
+	if (data) options.body = JSON.stringify(data);
 
-    const response: Response = await fetch(url, options);
+	const response: Response = await fetch(url, options);
 
-    if (!response.ok) {
-        throw new Error(`Http error! Status: ${response.status}`);
-    }
+	if (!response.ok) {
+		throw new Error(`Http error! Status: ${response.status}`);
+	}
 
-    return await response.json();
+	return await response.json();
 }

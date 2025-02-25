@@ -25,14 +25,14 @@ import 'reflect-metadata';
  * @returns A decorator function that modifies the behavior of the method to run periodically.
  */
 export function Thread(delay: number) {
-    return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        const originalMethod = descriptor.value;
+	return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		const originalMethod = descriptor.value;
 
-        setInterval(async () => {
-            originalMethod.call(target);
-        }, delay);
+		setInterval(async () => {
+			originalMethod.call(target);
+		}, delay);
 
-        Reflect.defineMetadata('threadOnly', delay, target, propertyKey);
-        console.log(`Registered thread function: ${propertyKey} with delay ${delay}ms`);
-    };
+		Reflect.defineMetadata('threadOnly', delay, target, propertyKey);
+		console.log(`Registered thread function: ${propertyKey} with delay ${delay}ms`);
+	};
 }

@@ -21,20 +21,20 @@
  * @enum{number}
  */
 export enum BlipScale {
-    /** Represents the smallest blip scale. */
-    Mini = 0.3,
-    /** Represents a small blip scale. */
-    Small = 0.6,
-    /** Represents a medium-small blip scale. */
-    MediumSmall = 0.8,
-    /** Represents a medium blip scale. */
-    Medium = 1.0,
-    /** Represents a medium-large blip scale. */
-    MediumLarge = 1.2,
-    /** Represents a large blip scale. */
-    Large = 1.5,
-    /** Represents an extra-large blip scale. */
-    XL = 1.7,
-    /** Represents the largest blip scale. */
-    XXL = 2.0,
+	/** Represents the smallest blip scale. */
+	Mini = 0.3,
+	/** Represents a small blip scale. */
+	Small = 0.6,
+	/** Represents a medium-small blip scale. */
+	MediumSmall = 0.8,
+	/** Represents a medium blip scale. */
+	Medium = 1.0,
+	/** Represents a medium-large blip scale. */
+	MediumLarge = 1.2,
+	/** Represents a large blip scale. */
+	Large = 1.5,
+	/** Represents an extra-large blip scale. */
+	XL = 1.7,
+	/** Represents the largest blip scale. */
+	XXL = 2.0,
 }

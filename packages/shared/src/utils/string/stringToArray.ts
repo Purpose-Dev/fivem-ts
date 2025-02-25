@@ -12,5 +12,5 @@
  * @returns {string[]} An array of substrings, each up to 99 characters long.
  */
 export function stringToArray(input: string): string[] {
-    return input.trim() === '' ? [] : input.trim().split(/\s+/);
+	return input.trim() === '' ? [] : input.trim().split(/\s+/);
 }

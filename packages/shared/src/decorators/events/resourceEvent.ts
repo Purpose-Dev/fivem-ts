@@ -29,23 +29,23 @@ import 'reflect-metadata';
  * @returns A method decorator that subscribes the decorated method to the specified resource event.
  */
 export function ResourceEvent(resourceEvent: 'start' | 'stop') {
-    return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        Reflect.defineMetadata('resourceEvent', resourceEvent, target, propertyKey);
+	return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		Reflect.defineMetadata('resourceEvent', resourceEvent, target, propertyKey);
 
-        if (resourceEvent === 'start') {
-            on('onResourceStart', (resourceName: string) => {
-                if (GetCurrentResourceName() === resourceName) {
-                    descriptor.value();
-                }
-            });
-            console.log(`Registered on script start: ${propertyKey}`);
-        } else if (resourceEvent === 'stop') {
-            on('onResourceStop', (resourceName: string) => {
-                if (GetCurrentResourceName() === resourceName) {
-                    descriptor.value();
-                }
-            });
-            console.log(`Registered on script stop: ${propertyKey}`);
-        }
-    };
+		if (resourceEvent === 'start') {
+			on('onResourceStart', (resourceName: string) => {
+				if (GetCurrentResourceName() === resourceName) {
+					descriptor.value();
+				}
+			});
+			console.log(`Registered on script start: ${propertyKey}`);
+		} else if (resourceEvent === 'stop') {
+			on('onResourceStop', (resourceName: string) => {
+				if (GetCurrentResourceName() === resourceName) {
+					descriptor.value();
+				}
+			});
+			console.log(`Registered on script stop: ${propertyKey}`);
+		}
+	};
 }

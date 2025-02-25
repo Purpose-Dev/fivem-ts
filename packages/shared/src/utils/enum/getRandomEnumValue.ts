@@ -11,12 +11,12 @@ import { getRandomInt } from '../maths';
  * @returns {T[keyof T]} A random value from the enumerated type that matches the specified value type.
  */
 export function getRandomEnumValue<T extends object>(
-    enumType: T,
-    valueType: 'string' | 'number',
+	enumType: T,
+	valueType: 'string' | 'number',
 ): T[keyof T] {
-    const values = Object.values(enumType).filter(value => typeof value === valueType) as Array<
-        T[keyof T]
-    >;
-    const randomIndex: number = getRandomInt(0, values.length);
-    return values[randomIndex];
+	const values = Object.values(enumType).filter(value => typeof value === valueType) as Array<
+		T[keyof T]
+	>;
+	const randomIndex: number = getRandomInt(0, values.length);
+	return values[randomIndex];
 }

@@ -35,35 +35,35 @@
  *                time in milliseconds.
  */
 export async function waitFor<T>(
-    cb: () => Promise<T> | T,
-    errorMessage = 'Callback failed to resolve',
-    timeout: number | boolean = 1000,
+	cb: () => Promise<T> | T,
+	errorMessage = 'Callback failed to resolve',
+	timeout: number | boolean = 1000,
 ): Promise<T> {
-    const actualTimeout: number | false = timeout === false ? false : Number(timeout) || 1000;
+	const actualTimeout: number | false = timeout === false ? false : Number(timeout) || 1000;
 
-    let value: Awaited<T> = await cb();
-    if (value !== undefined) return value;
+	let value: Awaited<T> = await cb();
+	if (value !== undefined) return value;
 
-    if (actualTimeout === false) {
-        throw new Error('Timeout is disabled but not value returned');
-    }
+	if (actualTimeout === false) {
+		throw new Error('Timeout is disabled but not value returned');
+	}
 
-    const start: number = GetGameTimer();
-    let id: number;
+	const start: number = GetGameTimer();
+	let id: number;
 
-    return new Promise<T>((resolve, reject: (reason?: unknown) => void): void => {
-        id = setTick(async () => {
-            const elapsed: number = GetGameTimer() - start;
+	return new Promise<T>((resolve, reject: (reason?: unknown) => void): void => {
+		id = setTick(async () => {
+			const elapsed: number = GetGameTimer() - start;
 
-            if (elapsed > actualTimeout) {
-                reject(new Error(`${errorMessage} (waited ${elapsed}ms)`));
-                return;
-            }
+			if (elapsed > actualTimeout) {
+				reject(new Error(`${errorMessage} (waited ${elapsed}ms)`));
+				return;
+			}
 
-            value = await cb();
-            if (value !== undefined) {
-                resolve(value);
-            }
-        });
-    }).finally((): void => clearTick(id));
+			value = await cb();
+			if (value !== undefined) {
+				resolve(value);
+			}
+		});
+	}).finally((): void => clearTick(id));
 }

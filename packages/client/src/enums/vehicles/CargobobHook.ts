@@ -4,6 +4,6 @@
  * @enum {number}
  */
 export enum CargobobHook {
-    Hook,
-    Magnet,
+	Hook,
+	Magnet,
 }

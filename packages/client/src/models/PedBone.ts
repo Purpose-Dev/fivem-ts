@@ -10,7 +10,7 @@ import { Bone } from '../enums';
  * @see {EntityBone}
  */
 export class PedBone extends EntityBone {
-    constructor(owner: Ped, boneId: Bone) {
-        super(owner, GetPedBoneIndex(owner.Handle, boneId));
-    }
+	constructor(owner: Ped, boneId: Bone) {
+		super(owner, GetPedBoneIndex(owner.Handle, boneId));
+	}
 }

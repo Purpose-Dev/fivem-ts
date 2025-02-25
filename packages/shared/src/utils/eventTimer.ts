@@ -27,15 +27,15 @@ const eventTimers: Record<string, number> = {};
  * @returns {boolean} Returns true if the event can be triggered, otherwise false.
  */
 export function eventTimer(eventName: string, delay: number): boolean {
-    if (delay && delay > 0) {
-        const currentTime: number = GetGameTimer();
+	if (delay && delay > 0) {
+		const currentTime: number = GetGameTimer();
 
-        if ((eventTimers[eventName] || 0) > currentTime) {
-            return false;
-        }
+		if ((eventTimers[eventName] || 0) > currentTime) {
+			return false;
+		}
 
-        eventTimers[eventName] = currentTime + delay;
-    }
+		eventTimers[eventName] = currentTime + delay;
+	}
 
-    return true;
+	return true;
 }

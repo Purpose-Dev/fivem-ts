@@ -27,15 +27,15 @@
  * @enum{number}
  */
 export enum BlipDisplay {
-    DoesntShowUp = 0,
-    DoesntShowUp2 = 1,
-    OnBoth = 2,
-    OnMainMap = 3,
-    OnMainMap2 = 4,
-    OnMinimapOnly = 5,
-    OnBoth2 = 6,
-    DoesntShowUp3 = 7,
-    OnBothNotSelectable = 8,
-    OnMinimapOnly2 = 9,
-    OnBothNotSelectable2 = 10,
+	DoesntShowUp = 0,
+	DoesntShowUp2 = 1,
+	OnBoth = 2,
+	OnMainMap = 3,
+	OnMainMap2 = 4,
+	OnMinimapOnly = 5,
+	OnBoth2 = 6,
+	DoesntShowUp3 = 7,
+	OnBothNotSelectable = 8,
+	OnMinimapOnly2 = 9,
+	OnBothNotSelectable2 = 10,
 }

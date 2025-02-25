@@ -13,7 +13,7 @@
  * @enum {string}
  */
 export enum BucketLockdownMode {
-    Strict = 'strict',
-    Relaxed = 'relaxed',
-    Inactive = 'inactive',
+	Strict = 'strict',
+	Relaxed = 'relaxed',
+	Inactive = 'inactive',
 }

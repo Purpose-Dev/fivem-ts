@@ -10,10 +10,10 @@ import { getRandomInt } from '../maths';
  * @returns {[keyof T, T[keyof T]]} - An array containing the random key-value pair from the enum.
  */
 export function getRandomEnumEntry<T extends object>(enumType: T): [keyof T, T[keyof T]] {
-    const values = Object.entries(enumType).filter(([key]): boolean => isNaN(Number(key))) as [
-        keyof T,
-        T[keyof T],
-    ][];
-    const randomIndex: number = getRandomInt(0, values.length);
-    return values[randomIndex];
+	const values = Object.entries(enumType).filter(([key]): boolean => isNaN(Number(key))) as [
+		keyof T,
+		T[keyof T],
+	][];
+	const randomIndex: number = getRandomInt(0, values.length);
+	return values[randomIndex];
 }

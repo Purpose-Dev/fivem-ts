@@ -1,5 +1,5 @@
 import { InvertAxisFlags } from '../enums';
 
 export interface InvertAxis {
-    flags: InvertAxisFlags;
+	flags: InvertAxisFlags;
 }

@@ -36,36 +36,36 @@
  * @enum{number}
  */
 export enum WeatherTypeHash {
-    /** Represents an unknown weather state. */
-    Unknown = -1,
-    /** Represents blizzard conditions. */
-    Blizzard = 669657108,
-    /** Represents clear weather. */
-    Clear = 916995460,
-    /** Represents clearing weather. */
-    Clearing = 1840358669,
-    /** Represents cloudy weather. */
-    Clouds = 821931868,
-    /** Represents extra sunny weather. */
-    Extrasunny = -1750463879,
-    /** Represents foggy weather. */
-    Foggy = -1368164796,
-    /** Represents Halloween-themed weather. */
-    Halloween = -921030142,
-    /** Represents neutral weather conditions. */
-    Neutral = -1530260698,
-    /** Represents overcast weather. */
-    Overcast = -1148613331,
-    /** Represents rainy weather. */
-    Rain = 1420204096,
-    /** Represents smoggy weather. */
-    Smog = 282916021,
-    /** Represents snowy weather. */
-    Snow = -273223690,
-    /** Represents light snow. */
-    Snowlight = 603685163,
-    /** Represents stormy weather with thunder. */
-    Thunder = -1233681761,
-    /** Represents Christmas-themed weather. */
-    Xmas = -1429616491,
+	/** Represents an unknown weather state. */
+	Unknown = -1,
+	/** Represents blizzard conditions. */
+	Blizzard = 669657108,
+	/** Represents clear weather. */
+	Clear = 916995460,
+	/** Represents clearing weather. */
+	Clearing = 1840358669,
+	/** Represents cloudy weather. */
+	Clouds = 821931868,
+	/** Represents extra sunny weather. */
+	Extrasunny = -1750463879,
+	/** Represents foggy weather. */
+	Foggy = -1368164796,
+	/** Represents Halloween-themed weather. */
+	Halloween = -921030142,
+	/** Represents neutral weather conditions. */
+	Neutral = -1530260698,
+	/** Represents overcast weather. */
+	Overcast = -1148613331,
+	/** Represents rainy weather. */
+	Rain = 1420204096,
+	/** Represents smoggy weather. */
+	Smog = 282916021,
+	/** Represents snowy weather. */
+	Snow = -273223690,
+	/** Represents light snow. */
+	Snowlight = 603685163,
+	/** Represents stormy weather with thunder. */
+	Thunder = -1233681761,
+	/** Represents Christmas-themed weather. */
+	Xmas = -1429616491,
 }

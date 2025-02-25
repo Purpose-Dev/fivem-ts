@@ -14,5 +14,5 @@
  * @returns {boolean} `true` if the value is within the range, `false` otherwise.
  */
 export function isInRange(value: number, min: number, max: number): boolean {
-    return value >= min && value <= max;
+	return value >= min && value <= max;
 }

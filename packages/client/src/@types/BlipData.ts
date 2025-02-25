@@ -19,17 +19,17 @@ import { Blip, BlipColors, BlipDisplay, BlipScale } from '../';
  * @property {number} width - The width of the blip.
  */
 export type BlipData = {
-    blip: Blip;
-    id: number;
-    type: 'AREA' | 'COORDS' | 'RADIUS';
-    color: BlipColors;
-    coords: Vector3;
-    display: BlipDisplay;
-    height: number;
-    name: string;
-    radius: number;
-    scale: BlipScale;
-    shortRange: boolean;
-    sprite: BlipSprites;
-    width: number;
+	blip: Blip;
+	id: number;
+	type: 'AREA' | 'COORDS' | 'RADIUS';
+	color: BlipColors;
+	coords: Vector3;
+	display: BlipDisplay;
+	height: number;
+	name: string;
+	radius: number;
+	scale: BlipScale;
+	shortRange: boolean;
+	sprite: BlipSprites;
+	width: number;
 };

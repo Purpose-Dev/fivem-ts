@@ -10,8 +10,8 @@
  * @enum{number}
  */
 export enum LicensePlateType {
-    FrontAndBackPlates,
-    FrontPlate,
-    BackPlate,
-    None,
+	FrontAndBackPlates,
+	FrontPlate,
+	BackPlate,
+	None,
 }

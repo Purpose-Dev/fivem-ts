@@ -12,7 +12,7 @@
  * @returns {boolean} `true` if the input string is a palindrome, `false` otherwise.
  */
 export function isPalindrome(input: string): boolean {
-    const normalized = input.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
-    const reversed = normalized.split('').reverse().join('');
-    return normalized === reversed;
+	const normalized = input.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
+	const reversed = normalized.split('').reverse().join('');
+	return normalized === reversed;
 }

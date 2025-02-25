@@ -9,12 +9,12 @@ import { Bone } from '../enums';
  * @see {EntityBoneCollection}
  */
 export class PedBoneCollection extends EntityBoneCollection {
-    /**
-     * Retrieves the core `PedBone` of the associated entity.
-     *
-     * @returns {PedBone} The core `PedBone` representing the root or main bone of the entity.
-     */
-    public override get Core(): PedBone {
-        return new PedBone(this.owner as Ped, Bone.Unknown);
-    }
+	/**
+	 * Retrieves the core `PedBone` of the associated entity.
+	 *
+	 * @returns {PedBone} The core `PedBone` representing the root or main bone of the entity.
+	 */
+	public override get Core(): PedBone {
+		return new PedBone(this.owner as Ped, Bone.Unknown);
+	}
 }

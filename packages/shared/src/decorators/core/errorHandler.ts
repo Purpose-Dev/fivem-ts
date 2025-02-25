@@ -29,17 +29,17 @@
  * @returns A function that can be used as a method decorator.
  */
 export function ErrorHandler(handleError: (error: unknown) => void) {
-    return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        const originalMethod = descriptor.value;
+	return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		const originalMethod = descriptor.value;
 
-        descriptor.value = function (...args: unknown[]) {
-            try {
-                return originalMethod.apply(this, args);
-            } catch (error) {
-                handleError(error);
-            }
-        };
+		descriptor.value = function (...args: unknown[]) {
+			try {
+				return originalMethod.apply(this, args);
+			} catch (error) {
+				handleError(error);
+			}
+		};
 
-        console.log(`Registered error handler for function: ${propertyKey}`);
-    };
+		console.log(`Registered error handler for function: ${propertyKey}`);
+	};
 }

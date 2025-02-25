@@ -11,9 +11,9 @@
  * @enum{number}
  */
 export enum ParachuteLandingType {
-    None = -1,
-    Landing,
-    Stumbling,
-    Rolling,
-    Ragdoll,
+	None = -1,
+	Landing,
+	Stumbling,
+	Rolling,
+	Ragdoll,
 }

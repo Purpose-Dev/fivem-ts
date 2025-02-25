@@ -22,11 +22,11 @@
  * @param descriptor The property descriptor for the method.
  */
 export function Tick(_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-    const originalMethod = descriptor.value;
+	const originalMethod = descriptor.value;
 
-    setTick(() => {
-        originalMethod();
-    });
+	setTick(() => {
+		originalMethod();
+	});
 
-    console.log(`Registered tick for function: ${propertyKey}`);
+	console.log(`Registered tick for function: ${propertyKey}`);
 }

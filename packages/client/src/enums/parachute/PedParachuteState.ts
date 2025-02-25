@@ -4,9 +4,9 @@
  * @enum{number}
  */
 export enum PedParachuteState {
-    Normal = -1,
-    Wearing,
-    Opening,
-    Open,
-    LandingOrFallingToDoom,
+	Normal = -1,
+	Wearing,
+	Opening,
+	Open,
+	LandingOrFallingToDoom,
 }

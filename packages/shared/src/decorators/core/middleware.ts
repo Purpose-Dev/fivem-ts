@@ -36,24 +36,24 @@
  *
  */
 export function Middleware(preFn: Function, postFn: Function) {
-    return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        const originalMethod = descriptor.value;
+	return function (_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		const originalMethod = descriptor.value;
 
-        descriptor.value = function (...args: unknown[]) {
-            if (preFn) preFn(...args);
-            const result = originalMethod.apply(this, args);
+		descriptor.value = function (...args: unknown[]) {
+			if (preFn) preFn(...args);
+			const result = originalMethod.apply(this, args);
 
-            if (postFn) {
-                if (typeof result === 'undefined') {
-                    postFn('Result is undefined because return type is a void');
-                } else {
-                    postFn(...args);
-                }
-            }
+			if (postFn) {
+				if (typeof result === 'undefined') {
+					postFn('Result is undefined because return type is a void');
+				} else {
+					postFn(...args);
+				}
+			}
 
-            return result;
-        };
+			return result;
+		};
 
-        console.log(`Registered middleware for function: ${propertyKey}`);
-    };
+		console.log(`Registered middleware for function: ${propertyKey}`);
+	};
 }

@@ -13,5 +13,5 @@
  * @returns {string} The concatenated string.
  */
 export function arrayToString(inputArray: string[], separator = ''): string {
-    return inputArray.join(separator);
+	return inputArray.join(separator);
 }

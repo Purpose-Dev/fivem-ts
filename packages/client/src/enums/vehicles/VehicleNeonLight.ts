@@ -10,8 +10,8 @@
  * @enum{number}
  */
 export enum VehicleNeonLight {
-    Left,
-    Right,
-    Front,
-    Back,
+	Left,
+	Right,
+	Front,
+	Back,
 }

@@ -33,36 +33,36 @@
  * @enum{string}
  */
 export enum WeatherEnum {
-    /** Represents an unknown weather state. */
-    Unknown = -1,
-    /** Represents blizzard conditions. */
-    Blizzard = 'BLIZZARD',
-    /** Represents clear weather. */
-    Clear = 'CLEAR',
-    /** Represents clearing weather. */
-    Clearing = 'CLEARING',
-    /** Represents cloudy weather. */
-    Clouds = 'CLOUDS',
-    /** Represents extra sunny weather. */
-    Extrasunny = 'EXTRASUNNY',
-    /** Represents foggy weather. */
-    Foggy = 'FOGGY',
-    /** Represents Halloween-themed weather. */
-    Halloween = 'HALLOWEEN',
-    /** Represents neutral weather conditions. */
-    Neutral = 'NEUTRAL',
-    /** Represents overcast weather. */
-    Overcast = 'OVERCAST',
-    /** Represents rainy weather. */
-    Rain = 'RAIN',
-    /** Represents smoggy weather. */
-    Smog = 'SMOG',
-    /** Represents snowy weather. */
-    Snow = 'SNOW',
-    /** Represents light snow. */
-    Snowlight = 'SNOWLIGHT',
-    /** Represents stormy weather with thunder. */
-    Thunder = 'THUNDER',
-    /** Represents Christmas-themed weather. */
-    Xmas = 'XMAS',
+	/** Represents an unknown weather state. */
+	Unknown = -1,
+	/** Represents blizzard conditions. */
+	Blizzard = 'BLIZZARD',
+	/** Represents clear weather. */
+	Clear = 'CLEAR',
+	/** Represents clearing weather. */
+	Clearing = 'CLEARING',
+	/** Represents cloudy weather. */
+	Clouds = 'CLOUDS',
+	/** Represents extra sunny weather. */
+	Extrasunny = 'EXTRASUNNY',
+	/** Represents foggy weather. */
+	Foggy = 'FOGGY',
+	/** Represents Halloween-themed weather. */
+	Halloween = 'HALLOWEEN',
+	/** Represents neutral weather conditions. */
+	Neutral = 'NEUTRAL',
+	/** Represents overcast weather. */
+	Overcast = 'OVERCAST',
+	/** Represents rainy weather. */
+	Rain = 'RAIN',
+	/** Represents smoggy weather. */
+	Smog = 'SMOG',
+	/** Represents snowy weather. */
+	Snow = 'SNOW',
+	/** Represents light snow. */
+	Snowlight = 'SNOWLIGHT',
+	/** Represents stormy weather with thunder. */
+	Thunder = 'THUNDER',
+	/** Represents Christmas-themed weather. */
+	Xmas = 'XMAS',
 }

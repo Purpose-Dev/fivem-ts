@@ -23,5 +23,5 @@
  * @returns {T & U} - A new object containing all properties from both input objects, with type safety applied to ensure the merged object conforms to the union of the input types.
  */
 export function merge<T extends object, U extends object>(fObj: T, sObj: U): T & U {
-    return Object.assign({}, fObj, sObj);
+	return Object.assign({}, fObj, sObj);
 }

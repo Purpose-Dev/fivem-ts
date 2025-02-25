@@ -4,6 +4,6 @@
  * @enum {number}
  */
 export enum CheckboxStyle {
-    Tick,
-    Cross,
+	Tick,
+	Cross,
 }

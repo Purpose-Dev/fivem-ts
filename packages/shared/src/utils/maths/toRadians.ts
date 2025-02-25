@@ -12,5 +12,5 @@
  * @returns {number} The angle in radians.
  */
 export function toRadians(degrees: number): number {
-    return degrees * (Math.PI / 180);
+	return degrees * (Math.PI / 180);
 }

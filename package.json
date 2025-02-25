@@ -21,7 +21,7 @@
     "scripts": {
         "build:dev": "turbo run build",
         "build:prod": "tsx scripts/clearBuild.ts && turbo run build",
-        "lint": "pnpm run lint",
+        "lint": "eslint --config eslint.config.js",
         "format": "prettier --write \"**/*.{ts,tsx,md}\"",
         "postversion": "git push && git push --tags",
         "prepare": "pnpm run build:prod",

@@ -10,8 +10,8 @@
  * @enum{number}
  */
 export enum VehicleRoofState {
-    Closed,
-    Closing,
-    Opened,
-    Opening,
+	Closed,
+	Closing,
+	Opened,
+	Opening,
 }

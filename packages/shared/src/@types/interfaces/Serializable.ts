@@ -1,4 +1,4 @@
 export interface Serializable {
-    serialize(): string;
-    deserialize(input: string): this;
+	serialize(): string;
+	deserialize(input: string): this;
 }

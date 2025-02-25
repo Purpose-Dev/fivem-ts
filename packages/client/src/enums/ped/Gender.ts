@@ -7,6 +7,6 @@
  * @enum{number}
  */
 export enum Gender {
-    Male,
-    Female,
+	Male,
+	Female,
 }

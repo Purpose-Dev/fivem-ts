@@ -9,7 +9,7 @@
  * @enum{string}
  */
 export enum PedType {
-    CivMale = 'CIVMALE',
-    CivFemale = 'CIVFEMALE',
-    Animal = 'ANIMAL',
+	CivMale = 'CIVMALE',
+	CivFemale = 'CIVFEMALE',
+	Animal = 'ANIMAL',
 }

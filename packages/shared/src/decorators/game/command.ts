@@ -29,10 +29,10 @@ import 'reflect-metadata';
  * @see [RegisterCommand](https://docs.fivem.net/natives/?_0x5FA79B0F)
  */
 export function Command(commandName: string) {
-    return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        Reflect.defineMetadata('command', { name: commandName }, target, propertyKey);
+	return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		Reflect.defineMetadata('command', { name: commandName }, target, propertyKey);
 
-        RegisterCommand(commandName, descriptor.value, false);
-        console.log(`Registered command: ${commandName}`);
-    };
+		RegisterCommand(commandName, descriptor.value, false);
+		console.log(`Registered command: ${commandName}`);
+	};
 }

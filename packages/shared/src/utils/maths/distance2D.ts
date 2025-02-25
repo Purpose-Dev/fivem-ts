@@ -14,5 +14,5 @@
  * @returns {number} The distance between the two points.
  */
 export function distance2D(x1: number, y1: number, x2: number, y2: number): number {
-    return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
+	return Math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2);
 }

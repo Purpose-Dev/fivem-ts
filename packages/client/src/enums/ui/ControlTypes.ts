@@ -10,6 +10,6 @@
  * @enum{number}
  */
 export enum ControlTypes {
-    PlayerControl = 0,
-    FrontendControl = 2,
+	PlayerControl = 0,
+	FrontendControl = 2,
 }

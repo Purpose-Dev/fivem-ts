@@ -30,24 +30,24 @@
  * @returns A function that can be used as a method decorator.
  */
 export function MeasureTime(_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-    const originalMethod = descriptor.value;
+	const originalMethod = descriptor.value;
 
-    descriptor.value = function (...args: unknown[]) {
-        const start: number = performance.now();
-        const result = originalMethod.apply(this, args);
-        const end: number = performance.now();
-        const durationMs: number = end - start;
+	descriptor.value = function (...args: unknown[]) {
+		const start: number = performance.now();
+		const result = originalMethod.apply(this, args);
+		const end: number = performance.now();
+		const durationMs: number = end - start;
 
-        const { duration, unit } =
-            durationMs >= 1000
-                ? { duration: durationMs / 1000, unit: 's' }
-                : durationMs >= 1
-                  ? { duration: durationMs, unit: 'ms' }
-                  : { duration: durationMs * 1000, unit: 'μs' };
+		const { duration, unit } =
+			durationMs >= 1000
+				? { duration: durationMs / 1000, unit: 's' }
+				: durationMs >= 1
+					? { duration: durationMs, unit: 'ms' }
+					: { duration: durationMs * 1000, unit: 'μs' };
 
-        console.debug(`[${propertyKey}] Execution time: ${duration.toFixed(3)} ${unit}`);
-        return result;
-    };
+		console.debug(`[${propertyKey}] Execution time: ${duration.toFixed(3)} ${unit}`);
+		return result;
+	};
 
-    console.log(`Registered measure time for function: ${propertyKey}`);
+	console.log(`Registered measure time for function: ${propertyKey}`);
 }

@@ -22,18 +22,18 @@ import 'reflect-metadata';
  * @returns A method decorator that subscribes the decorated method to the specified network event.
  */
 export function OnNet(eventName: string) {
-    return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        Reflect.defineMetadata('onNetEvent', eventName, target, propertyKey);
+	return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		Reflect.defineMetadata('onNetEvent', eventName, target, propertyKey);
 
-        const originalMethod = descriptor.value;
+		const originalMethod = descriptor.value;
 
-        if (typeof originalMethod === 'function') {
-            onNet(eventName, (...args: unknown[]) =>
-                (originalMethod as Function).apply(target, args),
-            );
-            console.log(`Subscribed to event: ${eventName} for function: ${String(propertyKey)}`);
-        } else {
-            console.warn(`Method ${String(propertyKey)} is not a function.`);
-        }
-    };
+		if (typeof originalMethod === 'function') {
+			onNet(eventName, (...args: unknown[]) =>
+				(originalMethod as Function).apply(target, args),
+			);
+			console.log(`Subscribed to event: ${eventName} for function: ${String(propertyKey)}`);
+		} else {
+			console.warn(`Method ${String(propertyKey)} is not a function.`);
+		}
+	};
 }

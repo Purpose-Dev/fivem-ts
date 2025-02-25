@@ -22,15 +22,15 @@ import 'reflect-metadata';
  * @returns A method decorator that subscribes the decorated method to the specified event.
  */
 export function On(eventName: string) {
-    return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-        Reflect.defineMetadata('onEvent', eventName, target, propertyKey);
-        const originalMethod = descriptor.value;
+	return function (target: object, propertyKey: string, descriptor: PropertyDescriptor) {
+		Reflect.defineMetadata('onEvent', eventName, target, propertyKey);
+		const originalMethod = descriptor.value;
 
-        if (typeof originalMethod === 'function') {
-            on(eventName, (...args: unknown[]) => (originalMethod as Function).apply(target, args));
-            console.log(`Subscribed to event: ${eventName} for function: ${String(propertyKey)}`);
-        } else {
-            console.warn(`Method ${String(propertyKey)} is not a method`);
-        }
-    };
+		if (typeof originalMethod === 'function') {
+			on(eventName, (...args: unknown[]) => (originalMethod as Function).apply(target, args));
+			console.log(`Subscribed to event: ${eventName} for function: ${String(propertyKey)}`);
+		} else {
+			console.warn(`Method ${String(propertyKey)} is not a method`);
+		}
+	};
 }

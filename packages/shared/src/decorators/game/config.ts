@@ -32,16 +32,16 @@ import 'reflect-metadata';
  * - This decorator is useful for organizing and applying settings consistently across different parts of the application.
  */
 export function Config(settings: object) {
-    // eslint-disable-next-line
-    return function (target: any, propertyKey?: string, _descriptor?: PropertyDescriptor) {
-        if (propertyKey) {
-            Reflect.defineMetadata(propertyKey, settings, target);
-        } else {
-            Reflect.defineMetadata('config', settings, target);
-        }
+	// eslint-disable-next-line
+	return function (target: any, propertyKey?: string, _descriptor?: PropertyDescriptor) {
+		if (propertyKey) {
+			Reflect.defineMetadata(propertyKey, settings, target);
+		} else {
+			Reflect.defineMetadata('config', settings, target);
+		}
 
-        console.log(`Configured settings for ${propertyKey || target.name}`);
-    };
+		console.log(`Configured settings for ${propertyKey || target.name}`);
+	};
 }
 
 /**
@@ -74,9 +74,9 @@ export function Config(settings: object) {
  * @returns {object | undefined} - The configuration settings associated with the target or method, or `undefined` if no settings are found.
  */
 export function getConfig(target: object, propertyKey?: string): object | undefined {
-    if (propertyKey) {
-        return Reflect.getMetadata(propertyKey, target);
-    } else {
-        return Reflect.getMetadata('config', target);
-    }
+	if (propertyKey) {
+		return Reflect.getMetadata(propertyKey, target);
+	} else {
+		return Reflect.getMetadata('config', target);
+	}
 }

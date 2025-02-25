@@ -14,9 +14,9 @@
  * @returns {string} The truncated string.
  */
 export function truncateString(input: string, maxLength: number, useEllipsis = false): string {
-    if (input.length <= maxLength) {
-        return input;
-    }
-    const truncated = input.substring(0, maxLength);
-    return useEllipsis ? `${truncated.trimEnd()}...` : truncated;
+	if (input.length <= maxLength) {
+		return input;
+	}
+	const truncated = input.substring(0, maxLength);
+	return useEllipsis ? `${truncated.trimEnd()}...` : truncated;
 }

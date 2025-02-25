@@ -14,9 +14,9 @@
  * @returns The padded string.
  */
 export function padString(input: string, targetLength: number, padChar = ' '): string {
-    if (input.length >= targetLength) {
-        return input;
-    }
-    const padding = padChar.repeat(targetLength - input.length);
-    return input + padding;
+	if (input.length >= targetLength) {
+		return input;
+	}
+	const padding = padChar.repeat(targetLength - input.length);
+	return input + padding;
 }

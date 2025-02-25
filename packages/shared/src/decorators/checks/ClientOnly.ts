@@ -29,11 +29,11 @@ import 'reflect-metadata';
  *
  */
 export function ClientOnly(_target: object, propertyKey: string, descriptor: PropertyDescriptor) {
-    if (IsDuplicityVersion()) {
-        console.warn(`Client-side function '${propertyKey}' attempted to run on server side`);
-        descriptor.value = () => {};
-    }
+	if (IsDuplicityVersion()) {
+		console.warn(`Client-side function '${propertyKey}' attempted to run on server side`);
+		descriptor.value = () => {};
+	}
 
-    Reflect.defineMetadata('clientOnly', true, descriptor);
-    console.log(`Registered client-side function: '${propertyKey}'`);
+	Reflect.defineMetadata('clientOnly', true, descriptor);
+	console.log(`Registered client-side function: '${propertyKey}'`);
 }
